@@ -1,0 +1,107 @@
+//dir=getDirectory("mouse");
+//print(dir)
+setBatchMode(true);
+print("\\Clear");
+
+
+background_threshold=150;	           	
+dir = getArgument;
+
+if (dir=="") 
+	exit ("No argument!");
+
+print("Working dir: "+dir+"\n");
+
+//if(!File.exists(dir+"BIN")) 
+      //File.mkdir(dir+"BIN");
+//if(!File.exists(dir+"FILTERED")) 
+      //File.mkdir(dir+"FILTERED");
+      
+      
+v = newArray("CD3", "CD4", "CD8","CD57");
+
+for (i=0; i<v.length; i++) {
+	
+	input_dir = dir + v[i] + "_tiles/"+ v[i] + "/";
+	print(input_dir);
+	print("_______________________________________\n\n");
+	if(File.exists(input_dir)){
+		output_dir = dir + v[i] + "_tiles/"+ "BIN/";
+		if(!File.exists(output_dir)) 
+	      	File.mkdir(output_dir);
+  
+    
+    files=getFileList(input_dir);
+		print("Nb of processing images: "+files.length+"\n");
+    count=0;
+		for(f=0;f<files.length;f++)
+    {
+         if(!File.isDirectory(input_dir+files[f])) {
+    				name=files[f];
+    				
+    				if(endsWith(name,'.tif') | endsWith(name,'.tiff')){
+    					//print("Get the right channel : "+name);
+    					count=count+1;
+    					short_name = substring(name,0,indexOf(name,'.tif'));					          print("_______________________________________\n");
+    					//print(name);
+    					open(input_dir+name);
+    					h=getHeight();
+    					w=getWidth();
+    					//print(' t: '+title+"   h:   "+h+"w:   "+w);
+    					
+    					getStatistics(area, mean, min, max, std);
+    					print(getTitle+":   max:   "+max+"  min: "+min+"  mean: "+mean+"  area: "+area+"  std:"+std);
+    					if(max > background_threshold){
+    						print("******* Stain area detected");
+    						selectWindow(name);	
+    						run("Median...", "radius=2");
+    						run("Mean...", "radius=2");
+    						setAutoThreshold("Otsu dark");
+    						setOption("BlackBackground", true);
+    						run("Convert to Mask");
+    						run("Fill Holes");
+    						run("Open");
+    						saveAs("Tiff",output_dir + short_name + "_MASK.tif");
+    						run("Close All"); 
+    						
+    					} else{
+    						print("******* background image, have not found any marker area, skip generating mask");
+    						//newImage(short_name+"_MASK", "8-bit black", w, h, 1);
+    						//saveAs("Tiff",output_dir+short_name+"_MASK.tif");	
+    						//run("Close All"); 
+    					}
+    					list = getList("window.titles");
+    					if(list.length>0){
+    					  for (i=0; i<list.length; i++){
+    				    	winame = list[i];
+    						  print(winame);
+    				      selectWindow(winame);
+    				     	run("Close");
+    				    } 
+    					}
+    				    
+    					
+               }
+               
+        }
+    }
+    print("_________________________\n");
+    print("Nb of processed images:  "+count);
+    print("Completed");
+  
+    
+    
+
+	}	
+
+}
+
+
+
+//if(!File.exists(dir+"log")) File.mkdir(dir+"log");
+//selectWindow("Log");
+//saveAs("Text", dir+ "segment_log.txt");
+setBatchMode(false);
+
+
+

@@ -1,0 +1,81 @@
+//dir=getDirectory("mouse");
+//print(dir)
+
+print("\\Clear");
+
+setBatchMode(true);	
+
+
+dir = getArgument;
+if (dir=="") 
+	exit ("No argument!");
+//dir = "/Users/miu/Downloads/FirstCase/input_10_08_20/CD3_10000/testHE/"
+
+print(dir);
+
+//v = newArray("CD3", "CD4", "CD8","CD57");
+v = newArray("CD8");
+for (i=0; i<v.length; i++) {
+	print(v[i]);
+	input_dir = dir + v[i] + "_tiles/";
+	if(File.exists(input_dir)){
+		output_nuc_dir = input_dir + "NUC/";
+		output_marker_dir = input_dir + v[i] + "/";
+		output_c2_marker_dir = input_dir + "C2/";
+		if(!File.exists(output_nuc_dir)) 
+	      	       File.mkdir(output_nuc_dir);
+
+	        if(!File.exists(output_marker_dir)) 
+	      	       File.mkdir(output_marker_dir);
+
+	        if(!File.exists(output_c2_marker_dir)) 
+	      	       File.mkdir(output_c2_marker_dir);
+
+		files=getFileList(input_dir);
+
+
+		for(f=0;f<files.length;f++)
+		{
+		     if(!File.isDirectory(input_dir+files[f])) {
+					print(files[f]);
+					name=files[f];
+					if(endsWith(toLowerCase(name),'.tif') | endsWith(toLowerCase(name),'.tiff')){
+						//print("Colour Deconvolution");
+						//print(name);
+						open(input_dir+name);
+						
+						//selectWindow(name);
+						run("Colour Deconvolution", "vectors=[H&E DAB]");
+						selectWindow(name+"-(Colour_1)");
+						run("Grays");
+						run("Invert");
+						saveAs("Tiff", output_nuc_dir + name + "_NUC.tif");
+
+						selectWindow(name+"-(Colour_3)");
+						run("Grays");
+						run("Invert");
+						saveAs("Tiff", output_marker_dir + name + "_" + v[i] + ".tif");
+						
+						selectWindow(name+"-(Colour_2)");
+						run("Grays");
+						run("Invert");
+						saveAs("Tiff", output_c2_marker_dir + name + "_C2"  + ".tif");
+						
+						run("Close All");
+						
+					}		
+
+			 }		
+		}			
+
+	} 
+	
+}
+
+
+print("Completed");
+
+//if(!File.exists(dir+"log")) File.mkdir(dir+"log");
+//selectWindow("Log");
+//saveAs("Text", dir+ "log/segment_process_log.txt");
+setBatchMode(false);
