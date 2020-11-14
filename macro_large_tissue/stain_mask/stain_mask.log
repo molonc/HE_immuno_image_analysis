@@ -1,0 +1,3587 @@
+\Clear
+Working dir: /home/htran/storage/images_dataset/large_tissue/1_10/
+
+/home/htran/storage/images_dataset/large_tissue/1_10/CD8_tiles/CD8/
+_______________________________________
+
+
+Nb of processing images: 432
+
+_______________________________________
+
+1_10_CD8.svs__1_0_0.tif_CD8.tif:   max:   6  min: 0  mean: 0.7298  area: 9000000  std:1.9612
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_0_11960.tif_CD8.tif:   max:   6  min: 0  mean: 0.88  area: 9000000  std:2.1226
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_0_14950.tif_CD8.tif:   max:   255  min: 0  mean: 10.5212  area: 9000000  std:48.719
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_0_17940.tif_CD8.tif:   max:   255  min: 0  mean: 22.546  area: 9000000  std:71.2372
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_0_20930.tif_CD8.tif:   max:   255  min: 0  mean: 22.4176  area: 9000000  std:71.0913
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_0_23920.tif_CD8.tif:   max:   255  min: 0  mean: 18.2723  area: 9000000  std:59.6935
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_0_26910.tif_CD8.tif:   max:   123  min: 0  mean: 2.7177  area: 9000000  std:10.2041
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_0_2990.tif_CD8.tif:   max:   6  min: 0  mean: 0.88  area: 9000000  std:2.1226
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_0_29900.tif_CD8.tif:   max:   6  min: 0  mean: 0.88  area: 9000000  std:2.1226
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_0_32890.tif_CD8.tif:   max:   6  min: 0  mean: 0.88  area: 9000000  std:2.1226
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_0_35880.tif_CD8.tif:   max:   6  min: 0  mean: 0.88  area: 9000000  std:2.1226
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_0_38870.tif_CD8.tif:   max:   6  min: 0  mean: 0.88  area: 9000000  std:2.1226
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_0_41860.tif_CD8.tif:   max:   6  min: 0  mean: 0.88  area: 9000000  std:2.1226
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_0_44850.tif_CD8.tif:   max:   6  min: 0  mean: 0.4636  area: 4089000  std:1.602
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_0_5980.tif_CD8.tif:   max:   6  min: 0  mean: 0.88  area: 9000000  std:2.1226
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_0_8970.tif_CD8.tif:   max:   6  min: 0  mean: 0.88  area: 9000000  std:2.1226
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_11960_0.tif_CD8.tif:   max:   6  min: 0  mean: 4.976  area: 9000000  std:2.2573
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_11960_11960.tif_CD8.tif:   max:   255  min: 0  mean: 146.2433  area: 9000000  std:110.2198
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_11960_14950.tif_CD8.tif:   max:   255  min: 0  mean: 56.9908  area: 9000000  std:72.5601
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_11960_17940.tif_CD8.tif:   max:   255  min: 0  mean: 30.7521  area: 9000000  std:52.7287
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_11960_20930.tif_CD8.tif:   max:   255  min: 0  mean: 44.8839  area: 9000000  std:65.3374
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_11960_23920.tif_CD8.tif:   max:   255  min: 0  mean: 75.5288  area: 9000000  std:85.6229
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_11960_26910.tif_CD8.tif:   max:   255  min: 0  mean: 243.2464  area: 9000000  std:25.766
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_11960_2990.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_11960_29900.tif_CD8.tif:   max:   255  min: 0  mean: 151.5279  area: 9000000  std:93.4928
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_11960_32890.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_11960_35880.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_11960_38870.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_11960_41860.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_11960_44850.tif_CD8.tif:   max:   6  min: 0  mean: 3.1607  area: 4089000  std:2.9957
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_11960_5980.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_11960_8970.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_14950_0.tif_CD8.tif:   max:   6  min: 0  mean: 4.976  area: 9000000  std:2.2573
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_14950_11960.tif_CD8.tif:   max:   255  min: 0  mean: 116.9291  area: 9000000  std:111.9486
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_14950_14950.tif_CD8.tif:   max:   255  min: 0  mean: 41.9099  area: 9000000  std:61.2402
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_14950_17940.tif_CD8.tif:   max:   255  min: 0  mean: 33.3331  area: 9000000  std:54.5282
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_14950_20930.tif_CD8.tif:   max:   255  min: 0  mean: 33.8092  area: 9000000  std:53.5483
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_14950_23920.tif_CD8.tif:   max:   255  min: 0  mean: 45.1153  area: 9000000  std:61.8749
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_14950_26910.tif_CD8.tif:   max:   255  min: 0  mean: 225.9596  area: 9000000  std:66.578
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_14950_2990.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_14950_29900.tif_CD8.tif:   max:   255  min: 0  mean: 93.4199  area: 9000000  std:111.0787
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_14950_32890.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_14950_35880.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_14950_38870.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_14950_41860.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_14950_44850.tif_CD8.tif:   max:   6  min: 0  mean: 3.1607  area: 4089000  std:2.9957
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_14950_5980.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_14950_8970.tif_CD8.tif:   max:   255  min: 0  mean: 10.4166  area: 9000000  std:30.7304
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_17940_0.tif_CD8.tif:   max:   6  min: 0  mean: 4.976  area: 9000000  std:2.2573
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_17940_11960.tif_CD8.tif:   max:   255  min: 0  mean: 122.2429  area: 9000000  std:109.1969
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_17940_14950.tif_CD8.tif:   max:   255  min: 0  mean: 34.2472  area: 9000000  std:55.2867
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_17940_17940.tif_CD8.tif:   max:   255  min: 0  mean: 40.5751  area: 9000000  std:62.8487
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_17940_20930.tif_CD8.tif:   max:   255  min: 0  mean: 40.1328  area: 9000000  std:60.3079
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_17940_23920.tif_CD8.tif:   max:   255  min: 0  mean: 50.0491  area: 9000000  std:65.9421
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_17940_26910.tif_CD8.tif:   max:   255  min: 0  mean: 225.5961  area: 9000000  std:65.5706
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_17940_2990.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_17940_29900.tif_CD8.tif:   max:   255  min: 0  mean: 75.3831  area: 9000000  std:109.2486
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_17940_32890.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_17940_35880.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_17940_38870.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_17940_41860.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_17940_44850.tif_CD8.tif:   max:   6  min: 0  mean: 3.1607  area: 4089000  std:2.9957
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_17940_5980.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_17940_8970.tif_CD8.tif:   max:   255  min: 0  mean: 61.0239  area: 9000000  std:100.9873
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_20930_0.tif_CD8.tif:   max:   6  min: 0  mean: 4.976  area: 9000000  std:2.2573
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_20930_11960.tif_CD8.tif:   max:   255  min: 0  mean: 62.4383  area: 9000000  std:78.454
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_20930_14950.tif_CD8.tif:   max:   255  min: 0  mean: 34.5388  area: 9000000  std:57.8674
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_20930_17940.tif_CD8.tif:   max:   255  min: 0  mean: 41.2077  area: 9000000  std:63.0516
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_20930_20930.tif_CD8.tif:   max:   255  min: 0  mean: 37.9313  area: 9000000  std:57.2281
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_20930_23920.tif_CD8.tif:   max:   255  min: 0  mean: 115.1849  area: 9000000  std:104.1687
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_20930_26910.tif_CD8.tif:   max:   255  min: 0  mean: 242.8787  area: 9000000  std:24.1345
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_20930_2990.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_20930_29900.tif_CD8.tif:   max:   255  min: 3  mean: 75.8908  area: 9000000  std:110.3232
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_20930_32890.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_20930_35880.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_20930_38870.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_20930_41860.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_20930_44850.tif_CD8.tif:   max:   6  min: 0  mean: 3.1607  area: 4089000  std:2.9957
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_20930_5980.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_20930_8970.tif_CD8.tif:   max:   255  min: 0  mean: 157.94  area: 9000000  std:117.334
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_23920_0.tif_CD8.tif:   max:   6  min: 0  mean: 4.976  area: 9000000  std:2.2573
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_23920_11960.tif_CD8.tif:   max:   255  min: 0  mean: 31.0408  area: 9000000  std:55.424
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_23920_14950.tif_CD8.tif:   max:   255  min: 0  mean: 37.1242  area: 9000000  std:60.1093
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_23920_17940.tif_CD8.tif:   max:   255  min: 0  mean: 33.4852  area: 9000000  std:55.4423
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_23920_20930.tif_CD8.tif:   max:   255  min: 0  mean: 43.1532  area: 9000000  std:61.5055
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_23920_23920.tif_CD8.tif:   max:   255  min: 0  mean: 173.6969  area: 9000000  std:99.2072
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_23920_26910.tif_CD8.tif:   max:   255  min: 0  mean: 240.2467  area: 9000000  std:25.3758
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_23920_2990.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_23920_29900.tif_CD8.tif:   max:   255  min: 0  mean: 75.3849  area: 9000000  std:110.0361
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_23920_32890.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_23920_35880.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_23920_38870.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_23920_41860.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_23920_44850.tif_CD8.tif:   max:   6  min: 0  mean: 3.1607  area: 4089000  std:2.9957
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_23920_5980.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_23920_8970.tif_CD8.tif:   max:   255  min: 0  mean: 149.4136  area: 9000000  std:111.9058
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_26910_0.tif_CD8.tif:   max:   6  min: 0  mean: 4.976  area: 9000000  std:2.2573
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_26910_11960.tif_CD8.tif:   max:   255  min: 0  mean: 24.8174  area: 9000000  std:48.1679
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_26910_14950.tif_CD8.tif:   max:   255  min: 0  mean: 30.2474  area: 9000000  std:53.0417
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_26910_17940.tif_CD8.tif:   max:   255  min: 0  mean: 26.4039  area: 9000000  std:44.8139
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_26910_20930.tif_CD8.tif:   max:   255  min: 0  mean: 38.2883  area: 9000000  std:58.7876
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_26910_23920.tif_CD8.tif:   max:   255  min: 0  mean: 195.9815  area: 9000000  std:87.5374
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_26910_26910.tif_CD8.tif:   max:   255  min: 0  mean: 224.7463  area: 9000000  std:43.5445
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_26910_2990.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_26910_29900.tif_CD8.tif:   max:   254  min: 0  mean: 45.56  area: 9000000  std:70.4123
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_26910_32890.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_26910_35880.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_26910_38870.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_26910_41860.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_26910_44850.tif_CD8.tif:   max:   6  min: 0  mean: 3.1607  area: 4089000  std:2.9957
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_26910_5980.tif_CD8.tif:   max:   255  min: 3  mean: 62.1533  area: 9000000  std:102.9202
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_26910_8970.tif_CD8.tif:   max:   255  min: 0  mean: 82.9452  area: 9000000  std:103.7293
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_29900_0.tif_CD8.tif:   max:   6  min: 0  mean: 5.1958  area: 9000000  std:2.0441
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_29900_11960.tif_CD8.tif:   max:   255  min: 0  mean: 21.4004  area: 9000000  std:43.1958
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_29900_14950.tif_CD8.tif:   max:   255  min: 0  mean: 23.9253  area: 9000000  std:45.573
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_29900_17940.tif_CD8.tif:   max:   255  min: 0  mean: 24.6466  area: 9000000  std:41.9587
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_29900_20930.tif_CD8.tif:   max:   255  min: 0  mean: 78.8174  area: 9000000  std:89.7311
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_29900_23920.tif_CD8.tif:   max:   255  min: 0  mean: 247.7888  area: 9000000  std:15.5732
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_29900_26910.tif_CD8.tif:   max:   255  min: 0  mean: 175.4323  area: 9000000  std:105.1052
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_29900_2990.tif_CD8.tif:   max:   254  min: 0  mean: 6.4243  area: 9000000  std:9.8033
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_29900_29900.tif_CD8.tif:   max:   183  min: 0  mean: 8.3082  area: 9000000  std:12.5568
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_29900_32890.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_29900_35880.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_29900_38870.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_29900_41860.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_29900_44850.tif_CD8.tif:   max:   6  min: 0  mean: 3.0615  area: 4089000  std:2.9994
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_29900_5980.tif_CD8.tif:   max:   255  min: 0  mean: 101.586  area: 9000000  std:115.1459
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_29900_8970.tif_CD8.tif:   max:   255  min: 0  mean: 27.0038  area: 9000000  std:54.3529
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_2990_0.tif_CD8.tif:   max:   6  min: 0  mean: 4.976  area: 9000000  std:2.2573
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_2990_11960.tif_CD8.tif:   max:   254  min: 3  mean: 8.7566  area: 9000000  std:25.2333
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_2990_14950.tif_CD8.tif:   max:   255  min: 1  mean: 160.0872  area: 9000000  std:118.555
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_2990_17940.tif_CD8.tif:   max:   255  min: 0  mean: 157.8486  area: 9000000  std:104.8568
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_2990_20930.tif_CD8.tif:   max:   255  min: 0  mean: 203.3109  area: 9000000  std:87.4098
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_2990_23920.tif_CD8.tif:   max:   255  min: 0  mean: 243.2861  area: 9000000  std:23.6662
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_2990_26910.tif_CD8.tif:   max:   255  min: 0  mean: 125.0058  area: 9000000  std:101.9485
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_2990_2990.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_2990_29900.tif_CD8.tif:   max:   140  min: 0  mean: 9.1523  area: 9000000  std:11.5667
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_2990_32890.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_2990_35880.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_2990_38870.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_2990_41860.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_2990_44850.tif_CD8.tif:   max:   6  min: 0  mean: 3.1607  area: 4089000  std:2.9957
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_2990_5980.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_2990_8970.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_32890_0.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_32890_11960.tif_CD8.tif:   max:   255  min: 0  mean: 28.5708  area: 9000000  std:53.4667
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_32890_14950.tif_CD8.tif:   max:   255  min: 0  mean: 23.9985  area: 9000000  std:45.8231
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_32890_17940.tif_CD8.tif:   max:   255  min: 0  mean: 26.5018  area: 9000000  std:45.899
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_32890_20930.tif_CD8.tif:   max:   255  min: 0  mean: 175.8029  area: 9000000  std:102.4076
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_32890_23920.tif_CD8.tif:   max:   255  min: 0  mean: 240.1539  area: 9000000  std:27.2471
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_32890_26910.tif_CD8.tif:   max:   255  min: 0  mean: 110.3227  area: 9000000  std:101.396
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_32890_2990.tif_CD8.tif:   max:   255  min: 0  mean: 9.8969  area: 9000000  std:29.2435
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_32890_29900.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_32890_32890.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_32890_35880.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_32890_38870.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_32890_41860.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_32890_44850.tif_CD8.tif:   max:   6  min: 0  mean: 0.9068  area: 4089000  std:2.1491
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_32890_5980.tif_CD8.tif:   max:   255  min: 0  mean: 165.8835  area: 9000000  std:107.8432
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_32890_8970.tif_CD8.tif:   max:   255  min: 0  mean: 33.3628  area: 9000000  std:58.1872
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_35880_0.tif_CD8.tif:   max:   255  min: 0  mean: 8.4357  area: 9000000  std:23.7576
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_35880_11960.tif_CD8.tif:   max:   255  min: 0  mean: 31.2354  area: 9000000  std:54.0321
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_35880_14950.tif_CD8.tif:   max:   255  min: 0  mean: 24.5312  area: 9000000  std:42.0871
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_35880_17940.tif_CD8.tif:   max:   255  min: 0  mean: 39.1203  area: 9000000  std:61.9132
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_35880_20930.tif_CD8.tif:   max:   255  min: 0  mean: 227.1405  area: 9000000  std:61.9237
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_35880_23920.tif_CD8.tif:   max:   255  min: 0  mean: 195.2876  area: 9000000  std:46.2581
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_35880_26910.tif_CD8.tif:   max:   211  min: 0  mean: 28.171  area: 9000000  std:48.9782
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_35880_2990.tif_CD8.tif:   max:   255  min: 0  mean: 120.3796  area: 9000000  std:121.7681
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_35880_29900.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_35880_32890.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_35880_35880.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_35880_38870.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_35880_41860.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_35880_44850.tif_CD8.tif:   max:   6  min: 0  mean: 0.9068  area: 4089000  std:2.1491
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_35880_5980.tif_CD8.tif:   max:   255  min: 0  mean: 160.1582  area: 9000000  std:107.5335
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_35880_8970.tif_CD8.tif:   max:   255  min: 0  mean: 36.1296  area: 9000000  std:60.3336
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_38870_0.tif_CD8.tif:   max:   255  min: 0  mean: 56.8548  area: 9000000  std:99.1501
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_38870_11960.tif_CD8.tif:   max:   255  min: 0  mean: 35.3817  area: 9000000  std:59.9296
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_38870_14950.tif_CD8.tif:   max:   255  min: 0  mean: 25.5101  area: 9000000  std:45.2343
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_38870_17940.tif_CD8.tif:   max:   255  min: 0  mean: 155.7771  area: 9000000  std:106.3554
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_38870_20930.tif_CD8.tif:   max:   255  min: 0  mean: 241.4261  area: 9000000  std:48.7214
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_38870_23920.tif_CD8.tif:   max:   255  min: 0  mean: 71.0516  area: 9000000  std:98.8522
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_38870_26910.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_38870_2990.tif_CD8.tif:   max:   255  min: 0  mean: 203.3865  area: 9000000  std:85.1123
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_38870_29900.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_38870_32890.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_38870_35880.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_38870_38870.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_38870_41860.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_38870_44850.tif_CD8.tif:   max:   6  min: 0  mean: 0.9068  area: 4089000  std:2.1491
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_38870_5980.tif_CD8.tif:   max:   255  min: 0  mean: 138.2226  area: 9000000  std:105.6416
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_38870_8970.tif_CD8.tif:   max:   255  min: 0  mean: 48.0786  area: 9000000  std:68.2015
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_41860_0.tif_CD8.tif:   max:   255  min: 0  mean: 58.5987  area: 9000000  std:100.3902
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_41860_11960.tif_CD8.tif:   max:   255  min: 0  mean: 29.5137  area: 9000000  std:51.8509
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_41860_14950.tif_CD8.tif:   max:   255  min: 0  mean: 126.5185  area: 9000000  std:110.682
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_41860_17940.tif_CD8.tif:   max:   255  min: 0  mean: 242.2929  area: 9000000  std:24.09
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_41860_20930.tif_CD8.tif:   max:   255  min: 0  mean: 119.4353  area: 9000000  std:117.1425
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_41860_23920.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_41860_26910.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_41860_2990.tif_CD8.tif:   max:   255  min: 0  mean: 231.5118  area: 9000000  std:58.3805
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_41860_29900.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_41860_32890.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_41860_35880.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_41860_38870.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_41860_41860.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_41860_44850.tif_CD8.tif:   max:   6  min: 0  mean: 0.9068  area: 4089000  std:2.1491
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_41860_5980.tif_CD8.tif:   max:   255  min: 0  mean: 187.5023  area: 9000000  std:93.9604
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_41860_8970.tif_CD8.tif:   max:   255  min: 0  mean: 73.6086  area: 9000000  std:85.9203
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_44850_0.tif_CD8.tif:   max:   255  min: 0  mean: 184.651  area: 9000000  std:100.9829
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_44850_11960.tif_CD8.tif:   max:   255  min: 0  mean: 151.9884  area: 9000000  std:108.0001
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_44850_14950.tif_CD8.tif:   max:   255  min: 0  mean: 245.8329  area: 9000000  std:23.7624
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_44850_17940.tif_CD8.tif:   max:   255  min: 0  mean: 112.8368  area: 9000000  std:96.582
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_44850_20930.tif_CD8.tif:   max:   190  min: 2  mean: 7.5663  area: 9000000  std:14.7314
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_44850_23920.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_44850_26910.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_44850_2990.tif_CD8.tif:   max:   255  min: 0  mean: 176.4755  area: 9000000  std:91.5759
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_44850_29900.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_44850_32890.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_44850_35880.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_44850_38870.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_44850_41860.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_44850_44850.tif_CD8.tif:   max:   6  min: 0  mean: 0.9068  area: 4089000  std:2.1491
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_44850_5980.tif_CD8.tif:   max:   255  min: 0  mean: 210.2514  area: 9000000  std:76.4485
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_44850_8970.tif_CD8.tif:   max:   255  min: 0  mean: 233.1384  area: 9000000  std:54.8803
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_47840_0.tif_CD8.tif:   max:   255  min: 0  mean: 216.4949  area: 9000000  std:84.1982
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_47840_11960.tif_CD8.tif:   max:   255  min: 0  mean: 241.8584  area: 9000000  std:45.2631
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_47840_14950.tif_CD8.tif:   max:   255  min: 0  mean: 127.9939  area: 9000000  std:121.2333
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_47840_17940.tif_CD8.tif:   max:   254  min: 0  mean: 18.4995  area: 9000000  std:47.0984
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_47840_20930.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_47840_23920.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_47840_26910.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_47840_2990.tif_CD8.tif:   max:   255  min: 0  mean: 214.3318  area: 9000000  std:72.8937
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_47840_29900.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_47840_32890.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_47840_35880.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_47840_38870.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_47840_41860.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_47840_44850.tif_CD8.tif:   max:   6  min: 0  mean: 2.175  area: 4089000  std:2.8843
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_47840_5980.tif_CD8.tif:   max:   255  min: 0  mean: 102.2185  area: 9000000  std:89.7917
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_47840_8970.tif_CD8.tif:   max:   255  min: 0  mean: 138.5941  area: 9000000  std:102.4949
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_50830_0.tif_CD8.tif:   max:   255  min: 0  mean: 147.7172  area: 9000000  std:99.4095
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_50830_11960.tif_CD8.tif:   max:   255  min: 0  mean: 235.3489  area: 9000000  std:56.2421
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_50830_14950.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_50830_17940.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_50830_20930.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_50830_23920.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_50830_26910.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_50830_2990.tif_CD8.tif:   max:   255  min: 0  mean: 219.2415  area: 9000000  std:67.6195
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_50830_29900.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_50830_32890.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_50830_35880.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_50830_38870.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_50830_41860.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_50830_44850.tif_CD8.tif:   max:   6  min: 0  mean: 3.1607  area: 4089000  std:2.9957
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_50830_5980.tif_CD8.tif:   max:   255  min: 0  mean: 228.0548  area: 9000000  std:59.3831
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_50830_8970.tif_CD8.tif:   max:   255  min: 0  mean: 241.5702  area: 9000000  std:41.4852
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_53820_0.tif_CD8.tif:   max:   255  min: 0  mean: 192.3885  area: 9000000  std:95.0753
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_53820_11960.tif_CD8.tif:   max:   255  min: 0  mean: 179.7723  area: 9000000  std:97.6772
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_53820_14950.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_53820_17940.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_53820_20930.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_53820_23920.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_53820_26910.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_53820_2990.tif_CD8.tif:   max:   255  min: 0  mean: 242.3197  area: 9000000  std:35.991
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_53820_29900.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_53820_32890.tif_CD8.tif:   max:   255  min: 1  mean: 40.2206  area: 9000000  std:80.3837
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_53820_35880.tif_CD8.tif:   max:   255  min: 0  mean: 59.6802  area: 9000000  std:81.8036
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_53820_38870.tif_CD8.tif:   max:   255  min: 0  mean: 83.7866  area: 9000000  std:113.9161
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_53820_41860.tif_CD8.tif:   max:   255  min: 0  mean: 42.6467  area: 9000000  std:87.23
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_53820_44850.tif_CD8.tif:   max:   6  min: 0  mean: 3.1607  area: 4089000  std:2.9957
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_53820_5980.tif_CD8.tif:   max:   255  min: 0  mean: 111.6166  area: 9000000  std:93.7283
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_53820_8970.tif_CD8.tif:   max:   255  min: 0  mean: 238.3568  area: 9000000  std:49.3879
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_56810_0.tif_CD8.tif:   max:   255  min: 0  mean: 88.4124  area: 9000000  std:115.586
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_56810_11960.tif_CD8.tif:   max:   255  min: 0  mean: 14.9647  area: 9000000  std:31.1754
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_56810_14950.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_56810_17940.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_56810_20930.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_56810_23920.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_56810_26910.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_56810_2990.tif_CD8.tif:   max:   255  min: 0  mean: 101.2986  area: 9000000  std:118.8415
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_56810_29900.tif_CD8.tif:   max:   255  min: 0  mean: 100.7391  area: 9000000  std:113.6251
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_56810_32890.tif_CD8.tif:   max:   255  min: 3  mean: 202.3815  area: 9000000  std:98.1524
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_56810_35880.tif_CD8.tif:   max:   255  min: 71  mean: 247.6042  area: 9000000  std:17.4231
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_56810_38870.tif_CD8.tif:   max:   255  min: 0  mean: 236.965  area: 9000000  std:52.2777
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_56810_41860.tif_CD8.tif:   max:   255  min: 0  mean: 193.1177  area: 9000000  std:103.0894
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_56810_44850.tif_CD8.tif:   max:   255  min: 0  mean: 36.9531  area: 4089000  std:85.6571
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_56810_5980.tif_CD8.tif:   max:   255  min: 0  mean: 87.3673  area: 9000000  std:110.3263
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_56810_8970.tif_CD8.tif:   max:   255  min: 0  mean: 99.5912  area: 9000000  std:117.6973
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_59800_0.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_59800_11960.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_59800_14950.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_59800_17940.tif_CD8.tif:   max:   53  min: 3  mean: 6.9214  area: 9000000  std:4.2345
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_59800_20930.tif_CD8.tif:   max:   255  min: 0  mean: 21.4596  area: 9000000  std:43.3694
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_59800_23920.tif_CD8.tif:   max:   255  min: 0  mean: 119.9344  area: 9000000  std:109.8952
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_59800_26910.tif_CD8.tif:   max:   255  min: 0  mean: 74.5443  area: 9000000  std:109.676
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_59800_2990.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_59800_29900.tif_CD8.tif:   max:   255  min: 0  mean: 241.6316  area: 9000000  std:46.5137
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_59800_32890.tif_CD8.tif:   max:   255  min: 0  mean: 216.0946  area: 9000000  std:73.7878
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_59800_35880.tif_CD8.tif:   max:   255  min: 0  mean: 250.1969  area: 9000000  std:13.3853
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_59800_38870.tif_CD8.tif:   max:   255  min: 0  mean: 245.8167  area: 9000000  std:28.3687
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_59800_41860.tif_CD8.tif:   max:   255  min: 0  mean: 247.5232  area: 9000000  std:26.993
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_59800_44850.tif_CD8.tif:   max:   255  min: 0  mean: 58.6489  area: 4089000  std:104.3105
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_59800_5980.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_59800_8970.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_5980_0.tif_CD8.tif:   max:   6  min: 0  mean: 4.976  area: 9000000  std:2.2573
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_5980_11960.tif_CD8.tif:   max:   255  min: 0  mean: 14.9106  area: 9000000  std:44.8908
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_5980_14950.tif_CD8.tif:   max:   255  min: 0  mean: 222.2576  area: 9000000  std:70.3055
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_5980_17940.tif_CD8.tif:   max:   255  min: 0  mean: 41.0304  area: 9000000  std:58.412
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_5980_20930.tif_CD8.tif:   max:   255  min: 0  mean: 56.7288  area: 9000000  std:71.1882
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_5980_23920.tif_CD8.tif:   max:   255  min: 0  mean: 232.6473  area: 9000000  std:54.2427
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_5980_26910.tif_CD8.tif:   max:   255  min: 0  mean: 245.7766  area: 9000000  std:20.4888
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_5980_2990.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_5980_29900.tif_CD8.tif:   max:   254  min: 0  mean: 76.1928  area: 9000000  std:71.2116
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_5980_32890.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_5980_35880.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_5980_38870.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_5980_41860.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_5980_44850.tif_CD8.tif:   max:   6  min: 0  mean: 3.1607  area: 4089000  std:2.9957
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_5980_5980.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_5980_8970.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_62790_0.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_62790_11960.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_62790_14950.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_62790_17940.tif_CD8.tif:   max:   255  min: 0  mean: 80.5784  area: 9000000  std:96.8828
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_62790_20930.tif_CD8.tif:   max:   255  min: 0  mean: 214.5602  area: 9000000  std:63.1665
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_62790_23920.tif_CD8.tif:   max:   255  min: 0  mean: 246.6917  area: 9000000  std:27.8426
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_62790_26910.tif_CD8.tif:   max:   255  min: 2  mean: 176.236  area: 9000000  std:112.6784
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_62790_2990.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_62790_29900.tif_CD8.tif:   max:   255  min: 0  mean: 214.3505  area: 9000000  std:75.7029
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_62790_32890.tif_CD8.tif:   max:   255  min: 0  mean: 86.0429  area: 9000000  std:89.5922
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_62790_35880.tif_CD8.tif:   max:   255  min: 0  mean: 139.1804  area: 9000000  std:105.5467
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_62790_38870.tif_CD8.tif:   max:   255  min: 0  mean: 90.575  area: 9000000  std:91.9582
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_62790_41860.tif_CD8.tif:   max:   255  min: 0  mean: 203.0823  area: 9000000  std:88.429
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_62790_44850.tif_CD8.tif:   max:   255  min: 0  mean: 54.7731  area: 4089000  std:101.6598
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_62790_5980.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_62790_8970.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_65780_0.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_65780_11960.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_65780_14950.tif_CD8.tif:   max:   255  min: 0  mean: 16.675  area: 9000000  std:49.5088
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_65780_17940.tif_CD8.tif:   max:   255  min: 0  mean: 214.4734  area: 9000000  std:87.2193
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_65780_20930.tif_CD8.tif:   max:   255  min: 0  mean: 176.8076  area: 9000000  std:99.8638
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_65780_23920.tif_CD8.tif:   max:   255  min: 0  mean: 183.2366  area: 9000000  std:95.4206
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_65780_26910.tif_CD8.tif:   max:   255  min: 0  mean: 200.4898  area: 9000000  std:84.1461
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_65780_2990.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_65780_29900.tif_CD8.tif:   max:   255  min: 0  mean: 236.7001  area: 9000000  std:49.389
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_65780_32890.tif_CD8.tif:   max:   255  min: 0  mean: 108.0428  area: 9000000  std:96.1766
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_65780_35880.tif_CD8.tif:   max:   255  min: 0  mean: 150.0217  area: 9000000  std:101.7653
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_65780_38870.tif_CD8.tif:   max:   255  min: 0  mean: 203.6067  area: 9000000  std:68.5727
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_65780_41860.tif_CD8.tif:   max:   255  min: 0  mean: 220.1482  area: 9000000  std:71.892
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_65780_44850.tif_CD8.tif:   max:   255  min: 0  mean: 65.1142  area: 4089000  std:98.7931
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_65780_5980.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_65780_8970.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_68770_0.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_68770_11960.tif_CD8.tif:   max:   255  min: 0  mean: 10.1502  area: 9000000  std:31.1318
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_68770_14950.tif_CD8.tif:   max:   255  min: 0  mean: 170.3305  area: 9000000  std:115.4108
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_68770_17940.tif_CD8.tif:   max:   255  min: 0  mean: 131.7008  area: 9000000  std:103.8535
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_68770_20930.tif_CD8.tif:   max:   255  min: 0  mean: 53.896  area: 9000000  std:73.0964
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_68770_23920.tif_CD8.tif:   max:   255  min: 0  mean: 128.6448  area: 9000000  std:101.6753
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_68770_26910.tif_CD8.tif:   max:   255  min: 0  mean: 74.9386  area: 9000000  std:83.7469
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_68770_2990.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_68770_29900.tif_CD8.tif:   max:   255  min: 0  mean: 225.3606  area: 9000000  std:62.8632
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_68770_32890.tif_CD8.tif:   max:   255  min: 0  mean: 199.367  area: 9000000  std:83.9156
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_68770_35880.tif_CD8.tif:   max:   255  min: 0  mean: 184.6355  area: 9000000  std:85.2199
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_68770_38870.tif_CD8.tif:   max:   255  min: 0  mean: 43.3704  area: 9000000  std:80.0781
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_68770_41860.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_68770_44850.tif_CD8.tif:   max:   6  min: 0  mean: 3.1607  area: 4089000  std:2.9957
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_68770_5980.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_68770_8970.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_71760_0.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_71760_11960.tif_CD8.tif:   max:   255  min: 0  mean: 15.435  area: 9000000  std:46.4373
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_71760_14950.tif_CD8.tif:   max:   255  min: 0  mean: 198.7012  area: 9000000  std:90.5125
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_71760_17940.tif_CD8.tif:   max:   255  min: 0  mean: 57.711  area: 9000000  std:72.3483
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_71760_20930.tif_CD8.tif:   max:   255  min: 0  mean: 68.9781  area: 9000000  std:81.411
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_71760_23920.tif_CD8.tif:   max:   255  min: 0  mean: 238.1294  area: 9000000  std:44.0641
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_71760_26910.tif_CD8.tif:   max:   255  min: 0  mean: 140.2528  area: 9000000  std:94.8541
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_71760_2990.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_71760_29900.tif_CD8.tif:   max:   255  min: 0  mean: 226.4315  area: 9000000  std:58.8624
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_71760_32890.tif_CD8.tif:   max:   255  min: 4  mean: 160.2671  area: 9000000  std:117.2996
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_71760_35880.tif_CD8.tif:   max:   255  min: 0  mean: 54.147  area: 9000000  std:96.3408
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_71760_38870.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_71760_41860.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_71760_44850.tif_CD8.tif:   max:   6  min: 0  mean: 3.1607  area: 4089000  std:2.9957
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_71760_5980.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_71760_8970.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_74750_0.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_74750_11960.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_74750_14950.tif_CD8.tif:   max:   255  min: 0  mean: 56.3376  area: 9000000  std:92.9007
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_74750_17940.tif_CD8.tif:   max:   255  min: 0  mean: 131.2514  area: 9000000  std:105.3838
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_74750_20930.tif_CD8.tif:   max:   255  min: 0  mean: 102.4423  area: 9000000  std:97.1613
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_74750_23920.tif_CD8.tif:   max:   255  min: 0  mean: 229.4015  area: 9000000  std:55.6695
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_74750_26910.tif_CD8.tif:   max:   255  min: 0  mean: 217.1921  area: 9000000  std:47.7147
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_74750_2990.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_74750_29900.tif_CD8.tif:   max:   255  min: 0  mean: 130.9119  area: 9000000  std:98.4575
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_74750_32890.tif_CD8.tif:   max:   255  min: 0  mean: 30.6348  area: 9000000  std:57.4132
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_74750_35880.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_74750_38870.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_74750_41860.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_74750_44850.tif_CD8.tif:   max:   6  min: 0  mean: 3.1607  area: 4089000  std:2.9957
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_74750_5980.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_74750_8970.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_77740_0.tif_CD8.tif:   max:   6  min: 0  mean: 5.4  area: 5400000  std:1.8
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_77740_11960.tif_CD8.tif:   max:   6  min: 0  mean: 5.4  area: 5400000  std:1.8
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_77740_14950.tif_CD8.tif:   max:   6  min: 0  mean: 5.4  area: 5400000  std:1.8
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_77740_17940.tif_CD8.tif:   max:   255  min: 0  mean: 146.4646  area: 5400000  std:122.0103
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_77740_20930.tif_CD8.tif:   max:   255  min: 0  mean: 173.2962  area: 5400000  std:114.2562
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_77740_23920.tif_CD8.tif:   max:   255  min: 0  mean: 162.2489  area: 5400000  std:112.8278
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_77740_26910.tif_CD8.tif:   max:   255  min: 0  mean: 72.1353  area: 5400000  std:76.8462
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_77740_2990.tif_CD8.tif:   max:   6  min: 0  mean: 5.4  area: 5400000  std:1.8
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_77740_29900.tif_CD8.tif:   max:   78  min: 0  mean: 17.0269  area: 5400000  std:10.5944
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_77740_32890.tif_CD8.tif:   max:   6  min: 0  mean: 5.4  area: 5400000  std:1.8
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_77740_35880.tif_CD8.tif:   max:   6  min: 0  mean: 5.4  area: 5400000  std:1.8
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_77740_38870.tif_CD8.tif:   max:   6  min: 0  mean: 5.4  area: 5400000  std:1.8
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_77740_41860.tif_CD8.tif:   max:   6  min: 0  mean: 5.4  area: 5400000  std:1.8
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_77740_44850.tif_CD8.tif:   max:   6  min: 0  mean: 2.8446  area: 2453400  std:2.996
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_77740_5980.tif_CD8.tif:   max:   6  min: 0  mean: 5.4  area: 5400000  std:1.8
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_77740_8970.tif_CD8.tif:   max:   6  min: 0  mean: 5.4  area: 5400000  std:1.8
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_8970_0.tif_CD8.tif:   max:   6  min: 0  mean: 4.976  area: 9000000  std:2.2573
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_8970_11960.tif_CD8.tif:   max:   255  min: 0  mean: 146.7627  area: 9000000  std:120.9405
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_8970_14950.tif_CD8.tif:   max:   255  min: 0  mean: 130.5336  area: 9000000  std:105.1856
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_8970_17940.tif_CD8.tif:   max:   255  min: 0  mean: 32.2333  area: 9000000  std:50.5988
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_8970_20930.tif_CD8.tif:   max:   255  min: 0  mean: 39.851  area: 9000000  std:60.8199
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_8970_23920.tif_CD8.tif:   max:   255  min: 0  mean: 103.5684  area: 9000000  std:100.2142
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_8970_26910.tif_CD8.tif:   max:   255  min: 0  mean: 235.178  area: 9000000  std:31.6927
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_8970_2990.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_8970_29900.tif_CD8.tif:   max:   255  min: 0  mean: 116.8614  area: 9000000  std:71.6605
+******* Stain area detected
+_______________________________________
+
+1_10_CD8.svs__1_8970_32890.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_8970_35880.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_8970_38870.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_8970_41860.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_8970_44850.tif_CD8.tif:   max:   6  min: 0  mean: 3.1607  area: 4089000  std:2.9957
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_8970_5980.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD8.svs__1_8970_8970.tif_CD8.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_________________________
+
+Nb of processed images:  432
+Completed
+/home/htran/storage/images_dataset/large_tissue/1_10/CD57_tiles/CD57/
+_______________________________________
+
+
+Nb of processing images: 459
+
+_______________________________________
+
+1_10_CD57.svs__1_0_0.tif_CD57.tif:   max:   6  min: 0  mean: 0.7298  area: 9000000  std:1.9612
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_0_11960.tif_CD57.tif:   max:   6  min: 0  mean: 0.88  area: 9000000  std:2.1226
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_0_14950.tif_CD57.tif:   max:   6  min: 0  mean: 0.88  area: 9000000  std:2.1226
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_0_17940.tif_CD57.tif:   max:   6  min: 0  mean: 0.88  area: 9000000  std:2.1226
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_0_20930.tif_CD57.tif:   max:   255  min: 0  mean: 6.5109  area: 9000000  std:37.5575
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_0_23920.tif_CD57.tif:   max:   255  min: 0  mean: 9.5405  area: 9000000  std:46.3645
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_0_26910.tif_CD57.tif:   max:   255  min: 0  mean: 9.296  area: 9000000  std:45.7022
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_0_2990.tif_CD57.tif:   max:   6  min: 0  mean: 0.88  area: 9000000  std:2.1226
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_0_29900.tif_CD57.tif:   max:   255  min: 0  mean: 3.5765  area: 9000000  std:26.1702
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_0_32890.tif_CD57.tif:   max:   6  min: 0  mean: 0.88  area: 9000000  std:2.1226
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_0_35880.tif_CD57.tif:   max:   6  min: 0  mean: 0.88  area: 9000000  std:2.1226
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_0_38870.tif_CD57.tif:   max:   6  min: 0  mean: 0.88  area: 9000000  std:2.1226
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_0_41860.tif_CD57.tif:   max:   6  min: 0  mean: 0.88  area: 9000000  std:2.1226
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_0_44850.tif_CD57.tif:   max:   6  min: 0  mean: 0.88  area: 9000000  std:2.1226
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_0_47840.tif_CD57.tif:   max:   6  min: 0  mean: 0.5594  area: 6192000  std:1.7445
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_0_5980.tif_CD57.tif:   max:   6  min: 0  mean: 0.88  area: 9000000  std:2.1226
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_0_8970.tif_CD57.tif:   max:   6  min: 0  mean: 0.88  area: 9000000  std:2.1226
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_11960_0.tif_CD57.tif:   max:   6  min: 0  mean: 4.976  area: 9000000  std:2.2573
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_11960_11960.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_11960_14950.tif_CD57.tif:   max:   255  min: 0  mean: 56.093  area: 9000000  std:98.5556
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_11960_17940.tif_CD57.tif:   max:   255  min: 0  mean: 88.2743  area: 9000000  std:107.7959
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_11960_20930.tif_CD57.tif:   max:   245  min: 0  mean: 6.4852  area: 9000000  std:13.9019
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_11960_23920.tif_CD57.tif:   max:   255  min: 0  mean: 4.0598  area: 9000000  std:11.6194
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_11960_26910.tif_CD57.tif:   max:   231  min: 0  mean: 3.776  area: 9000000  std:11.6843
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_11960_2990.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_11960_29900.tif_CD57.tif:   max:   255  min: 0  mean: 205.6216  area: 9000000  std:91.4688
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_11960_32890.tif_CD57.tif:   max:   255  min: 0  mean: 236.3756  area: 9000000  std:33.522
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_11960_35880.tif_CD57.tif:   max:   255  min: 0  mean: 23.0088  area: 9000000  std:52.1006
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_11960_38870.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_11960_41860.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_11960_44850.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_11960_47840.tif_CD57.tif:   max:   6  min: 0  mean: 3.814  area: 6192000  std:2.8875
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_11960_5980.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_11960_8970.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_14950_0.tif_CD57.tif:   max:   6  min: 0  mean: 4.976  area: 9000000  std:2.2573
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_14950_11960.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_14950_14950.tif_CD57.tif:   max:   255  min: 0  mean: 97.8228  area: 9000000  std:117.3365
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_14950_17940.tif_CD57.tif:   max:   255  min: 0  mean: 17.5699  area: 9000000  std:48.6415
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_14950_20930.tif_CD57.tif:   max:   248  min: 0  mean: 4.8285  area: 9000000  std:12.2051
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_14950_23920.tif_CD57.tif:   max:   254  min: 0  mean: 4.106  area: 9000000  std:11.1753
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_14950_26910.tif_CD57.tif:   max:   254  min: 0  mean: 4.4367  area: 9000000  std:11.8112
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_14950_2990.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_14950_29900.tif_CD57.tif:   max:   255  min: 0  mean: 165.774  area: 9000000  std:113.0633
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_14950_32890.tif_CD57.tif:   max:   255  min: 0  mean: 221.2512  area: 9000000  std:46.5134
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_14950_35880.tif_CD57.tif:   max:   154  min: 0  mean: 16.7573  area: 9000000  std:30.8978
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_14950_38870.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_14950_41860.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_14950_44850.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_14950_47840.tif_CD57.tif:   max:   6  min: 0  mean: 3.814  area: 6192000  std:2.8875
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_14950_5980.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_14950_8970.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_17940_0.tif_CD57.tif:   max:   6  min: 0  mean: 4.976  area: 9000000  std:2.2573
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_17940_11960.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_17940_14950.tif_CD57.tif:   max:   255  min: 0  mean: 34.1635  area: 9000000  std:72.5652
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_17940_17940.tif_CD57.tif:   max:   253  min: 0  mean: 5.6943  area: 9000000  std:12.5483
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_17940_20930.tif_CD57.tif:   max:   255  min: 0  mean: 3.5087  area: 9000000  std:10.1299
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_17940_23920.tif_CD57.tif:   max:   246  min: 0  mean: 3.1382  area: 9000000  std:10.5101
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_17940_26910.tif_CD57.tif:   max:   239  min: 0  mean: 3.6337  area: 9000000  std:10.4266
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_17940_2990.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_17940_29900.tif_CD57.tif:   max:   255  min: 0  mean: 186.2229  area: 9000000  std:103.3644
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_17940_32890.tif_CD57.tif:   max:   254  min: 0  mean: 217.5425  area: 9000000  std:45.1508
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_17940_35880.tif_CD57.tif:   max:   206  min: 0  mean: 19.1621  area: 9000000  std:38.7901
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_17940_38870.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_17940_41860.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_17940_44850.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_17940_47840.tif_CD57.tif:   max:   6  min: 0  mean: 3.814  area: 6192000  std:2.8875
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_17940_5980.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_17940_8970.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_20930_0.tif_CD57.tif:   max:   6  min: 0  mean: 4.976  area: 9000000  std:2.2573
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_20930_11960.tif_CD57.tif:   max:   255  min: 0  mean: 17.461  area: 9000000  std:50.3467
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_20930_14950.tif_CD57.tif:   max:   255  min: 0  mean: 72.6376  area: 9000000  std:102.7386
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_20930_17940.tif_CD57.tif:   max:   195  min: 0  mean: 2.9503  area: 9000000  std:9.1272
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_20930_20930.tif_CD57.tif:   max:   255  min: 0  mean: 2.6946  area: 9000000  std:9.1995
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_20930_23920.tif_CD57.tif:   max:   255  min: 0  mean: 4.4214  area: 9000000  std:13.8071
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_20930_26910.tif_CD57.tif:   max:   249  min: 0  mean: 5.643  area: 9000000  std:15.3349
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_20930_2990.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_20930_29900.tif_CD57.tif:   max:   255  min: 0  mean: 206.2071  area: 9000000  std:88.8281
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_20930_32890.tif_CD57.tif:   max:   255  min: 0  mean: 204.8917  area: 9000000  std:46.3538
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_20930_35880.tif_CD57.tif:   max:   157  min: 0  mean: 22.1374  area: 9000000  std:22.3971
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_20930_38870.tif_CD57.tif:   max:   47  min: 3  mean: 6.3139  area: 9000000  std:2.3583
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_20930_41860.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_20930_44850.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_20930_47840.tif_CD57.tif:   max:   6  min: 0  mean: 3.814  area: 6192000  std:2.8875
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_20930_5980.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_20930_8970.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_23920_0.tif_CD57.tif:   max:   6  min: 0  mean: 4.976  area: 9000000  std:2.2573
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_23920_11960.tif_CD57.tif:   max:   255  min: 0  mean: 166.491  area: 9000000  std:113.2921
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_23920_14950.tif_CD57.tif:   max:   255  min: 0  mean: 15.2834  area: 9000000  std:49.8346
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_23920_17940.tif_CD57.tif:   max:   255  min: 0  mean: 2.3008  area: 9000000  std:8.6974
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_23920_20930.tif_CD57.tif:   max:   252  min: 0  mean: 3.7316  area: 9000000  std:10.2488
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_23920_23920.tif_CD57.tif:   max:   255  min: 0  mean: 2.5035  area: 9000000  std:8.9287
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_23920_26910.tif_CD57.tif:   max:   255  min: 0  mean: 30.9675  area: 9000000  std:67.5901
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_23920_2990.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_23920_29900.tif_CD57.tif:   max:   255  min: 0  mean: 243.6988  area: 9000000  std:38.8464
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_23920_32890.tif_CD57.tif:   max:   255  min: 0  mean: 177.7168  area: 9000000  std:91.4633
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_23920_35880.tif_CD57.tif:   max:   135  min: 0  mean: 23.7839  area: 9000000  std:12.588
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_23920_38870.tif_CD57.tif:   max:   51  min: 0  mean: 9.1352  area: 9000000  std:6.9367
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_23920_41860.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_23920_44850.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_23920_47840.tif_CD57.tif:   max:   6  min: 0  mean: 3.814  area: 6192000  std:2.8875
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_23920_5980.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_23920_8970.tif_CD57.tif:   max:   255  min: 0  mean: 25.1642  area: 9000000  std:64.7013
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_26910_0.tif_CD57.tif:   max:   6  min: 0  mean: 4.976  area: 9000000  std:2.2573
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_26910_11960.tif_CD57.tif:   max:   255  min: 0  mean: 158.508  area: 9000000  std:113.9686
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_26910_14950.tif_CD57.tif:   max:   255  min: 0  mean: 2.5515  area: 9000000  std:9.2325
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_26910_17940.tif_CD57.tif:   max:   255  min: 0  mean: 2.2142  area: 9000000  std:9.4281
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_26910_20930.tif_CD57.tif:   max:   244  min: 0  mean: 4.6486  area: 9000000  std:11.5526
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_26910_23920.tif_CD57.tif:   max:   255  min: 0  mean: 3.5588  area: 9000000  std:10.7872
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_26910_26910.tif_CD57.tif:   max:   255  min: 0  mean: 130.7597  area: 9000000  std:116.9649
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_26910_2990.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_26910_29900.tif_CD57.tif:   max:   255  min: 0  mean: 237.8624  area: 9000000  std:36.7657
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_26910_32890.tif_CD57.tif:   max:   255  min: 0  mean: 99.1677  area: 9000000  std:100.7574
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_26910_35880.tif_CD57.tif:   max:   52  min: 0  mean: 9.5412  area: 9000000  std:7.4068
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_26910_38870.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_26910_41860.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_26910_44850.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_26910_47840.tif_CD57.tif:   max:   6  min: 0  mean: 3.814  area: 6192000  std:2.8875
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_26910_5980.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_26910_8970.tif_CD57.tif:   max:   255  min: 0  mean: 57.4173  area: 9000000  std:99.463
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_29900_0.tif_CD57.tif:   max:   6  min: 0  mean: 4.976  area: 9000000  std:2.2573
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_29900_11960.tif_CD57.tif:   max:   255  min: 0  mean: 56.0939  area: 9000000  std:93.0531
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_29900_14950.tif_CD57.tif:   max:   251  min: 0  mean: 3.0329  area: 9000000  std:9.5559
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_29900_17940.tif_CD57.tif:   max:   251  min: 0  mean: 3.3046  area: 9000000  std:10.3475
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_29900_20930.tif_CD57.tif:   max:   255  min: 0  mean: 4.6075  area: 9000000  std:11.7948
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_29900_23920.tif_CD57.tif:   max:   255  min: 0  mean: 35.5633  area: 9000000  std:77.6971
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_29900_26910.tif_CD57.tif:   max:   255  min: 0  mean: 231.8739  area: 9000000  std:62.4622
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_29900_2990.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_29900_29900.tif_CD57.tif:   max:   255  min: 6  mean: 183.6005  area: 9000000  std:69.6671
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_29900_32890.tif_CD57.tif:   max:   222  min: 0  mean: 35.8212  area: 9000000  std:46.9874
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_29900_35880.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_29900_38870.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_29900_41860.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_29900_44850.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_29900_47840.tif_CD57.tif:   max:   6  min: 0  mean: 3.0519  area: 6192000  std:2.9996
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_29900_5980.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_29900_8970.tif_CD57.tif:   max:   255  min: 0  mean: 58.0887  area: 9000000  std:99.8738
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_2990_0.tif_CD57.tif:   max:   6  min: 0  mean: 4.976  area: 9000000  std:2.2573
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_2990_11960.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_2990_14950.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_2990_17940.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_2990_20930.tif_CD57.tif:   max:   255  min: 0  mean: 78.0022  area: 9000000  std:106.7198
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_2990_23920.tif_CD57.tif:   max:   255  min: 0  mean: 139.3697  area: 9000000  std:112.8079
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_2990_26910.tif_CD57.tif:   max:   255  min: 0  mean: 250.1835  area: 9000000  std:19.155
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_2990_2990.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_2990_29900.tif_CD57.tif:   max:   255  min: 0  mean: 124.1788  area: 9000000  std:120.3527
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_2990_32890.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_2990_35880.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_2990_38870.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_2990_41860.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_2990_44850.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_2990_47840.tif_CD57.tif:   max:   6  min: 0  mean: 3.814  area: 6192000  std:2.8875
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_2990_5980.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_2990_8970.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_32890_0.tif_CD57.tif:   max:   6  min: 0  mean: 4.976  area: 9000000  std:2.2573
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_32890_11960.tif_CD57.tif:   max:   255  min: 0  mean: 5.4073  area: 9000000  std:17.5932
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_32890_14950.tif_CD57.tif:   max:   250  min: 0  mean: 2.1291  area: 9000000  std:7.7978
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_32890_17940.tif_CD57.tif:   max:   254  min: 0  mean: 2.2227  area: 9000000  std:8.736
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_32890_20930.tif_CD57.tif:   max:   229  min: 0  mean: 3.3576  area: 9000000  std:10.1906
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_32890_23920.tif_CD57.tif:   max:   255  min: 0  mean: 115.6862  area: 9000000  std:119.3554
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_32890_26910.tif_CD57.tif:   max:   255  min: 80  mean: 243.5507  area: 9000000  std:28.7478
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_32890_2990.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_32890_29900.tif_CD57.tif:   max:   255  min: 6  mean: 121.6921  area: 9000000  std:52.3366
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_32890_32890.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_32890_35880.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_32890_38870.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_32890_41860.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_32890_44850.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_32890_47840.tif_CD57.tif:   max:   6  min: 0  mean: 3.2811  area: 6192000  std:2.9868
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_32890_5980.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_32890_8970.tif_CD57.tif:   max:   255  min: 0  mean: 111.9911  area: 9000000  std:113.5864
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_35880_0.tif_CD57.tif:   max:   6  min: 0  mean: 4.976  area: 9000000  std:2.2573
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_35880_11960.tif_CD57.tif:   max:   244  min: 0  mean: 2.269  area: 9000000  std:8.4512
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_35880_14950.tif_CD57.tif:   max:   255  min: 0  mean: 3.0315  area: 9000000  std:10.2112
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_35880_17940.tif_CD57.tif:   max:   237  min: 0  mean: 4.6024  area: 9000000  std:11.8337
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_35880_20930.tif_CD57.tif:   max:   255  min: 0  mean: 9.9345  area: 9000000  std:29.8122
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_35880_23920.tif_CD57.tif:   max:   255  min: 0  mean: 189.6508  area: 9000000  std:102.7165
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_35880_26910.tif_CD57.tif:   max:   255  min: 0  mean: 225.3084  area: 9000000  std:59.4982
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_35880_2990.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_35880_29900.tif_CD57.tif:   max:   255  min: 0  mean: 59.0775  area: 9000000  std:83.3063
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_35880_32890.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_35880_35880.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_35880_38870.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_35880_41860.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_35880_44850.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_35880_47840.tif_CD57.tif:   max:   6  min: 0  mean: 2.3256  area: 6192000  std:2.9232
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_35880_5980.tif_CD57.tif:   max:   255  min: 0  mean: 23.3059  area: 9000000  std:58.7366
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_35880_8970.tif_CD57.tif:   max:   255  min: 0  mean: 33.7276  area: 9000000  std:68.0035
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_38870_0.tif_CD57.tif:   max:   6  min: 0  mean: 4.976  area: 9000000  std:2.2573
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_38870_11960.tif_CD57.tif:   max:   225  min: 0  mean: 4.7969  area: 9000000  std:12.3286
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_38870_14950.tif_CD57.tif:   max:   239  min: 0  mean: 3.205  area: 9000000  std:9.5451
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_38870_17940.tif_CD57.tif:   max:   227  min: 0  mean: 5.0869  area: 9000000  std:16.4613
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_38870_20930.tif_CD57.tif:   max:   255  min: 0  mean: 154.5953  area: 9000000  std:113.4027
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_38870_23920.tif_CD57.tif:   max:   255  min: 17  mean: 245.5639  area: 9000000  std:21.0888
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_38870_26910.tif_CD57.tif:   max:   255  min: 0  mean: 126.29  area: 9000000  std:91.0996
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_38870_2990.tif_CD57.tif:   max:   24  min: 0  mean: 6.0043  area: 9000000  std:0.2097
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_38870_29900.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_38870_32890.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_38870_35880.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_38870_38870.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_38870_41860.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_38870_44850.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_38870_47840.tif_CD57.tif:   max:   6  min: 0  mean: 2.3256  area: 6192000  std:2.9232
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_38870_5980.tif_CD57.tif:   max:   255  min: 0  mean: 122.5191  area: 9000000  std:112.3598
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_38870_8970.tif_CD57.tif:   max:   255  min: 0  mean: 6.8347  area: 9000000  std:23.1806
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_41860_0.tif_CD57.tif:   max:   6  min: 0  mean: 4.976  area: 9000000  std:2.2573
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_41860_11960.tif_CD57.tif:   max:   255  min: 0  mean: 2.4107  area: 9000000  std:9.9107
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_41860_14950.tif_CD57.tif:   max:   189  min: 0  mean: 3.7061  area: 9000000  std:10.664
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_41860_17940.tif_CD57.tif:   max:   255  min: 0  mean: 90.3345  area: 9000000  std:110.9117
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_41860_20930.tif_CD57.tif:   max:   255  min: 0  mean: 240.1278  area: 9000000  std:31.887
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_41860_23920.tif_CD57.tif:   max:   255  min: 2  mean: 161.0413  area: 9000000  std:56.4281
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_41860_26910.tif_CD57.tif:   max:   231  min: 0  mean: 30.3099  area: 9000000  std:52.1823
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_41860_2990.tif_CD57.tif:   max:   255  min: 0  mean: 116.2444  area: 9000000  std:121.511
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_41860_29900.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_41860_32890.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_41860_35880.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_41860_38870.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_41860_41860.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_41860_44850.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_41860_47840.tif_CD57.tif:   max:   6  min: 0  mean: 2.3256  area: 6192000  std:2.9232
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_41860_5980.tif_CD57.tif:   max:   255  min: 0  mean: 92.0099  area: 9000000  std:109.3818
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_41860_8970.tif_CD57.tif:   max:   255  min: 0  mean: 3.3242  area: 9000000  std:10.7526
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_44850_0.tif_CD57.tif:   max:   255  min: 0  mean: 19.8956  area: 9000000  std:58.5377
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_44850_11960.tif_CD57.tif:   max:   235  min: 0  mean: 2.7595  area: 9000000  std:9.1945
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_44850_14950.tif_CD57.tif:   max:   255  min: 0  mean: 43.4708  area: 9000000  std:86.1694
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_44850_17940.tif_CD57.tif:   max:   255  min: 0  mean: 234.4458  area: 9000000  std:59.5708
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_44850_20930.tif_CD57.tif:   max:   255  min: 0  mean: 211.0652  area: 9000000  std:70.1961
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_44850_23920.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_44850_26910.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_44850_2990.tif_CD57.tif:   max:   255  min: 0  mean: 183.3064  area: 9000000  std:108.7002
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_44850_29900.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_44850_32890.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_44850_35880.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_44850_38870.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_44850_41860.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_44850_44850.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_44850_47840.tif_CD57.tif:   max:   6  min: 0  mean: 2.3256  area: 6192000  std:2.9232
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_44850_5980.tif_CD57.tif:   max:   255  min: 0  mean: 95.5478  area: 9000000  std:110.7917
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_44850_8970.tif_CD57.tif:   max:   255  min: 0  mean: 10.6631  area: 9000000  std:35.5438
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_47840_0.tif_CD57.tif:   max:   255  min: 0  mean: 143.9587  area: 9000000  std:122.6208
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_47840_11960.tif_CD57.tif:   max:   255  min: 0  mean: 100.412  area: 9000000  std:114.8301
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_47840_14950.tif_CD57.tif:   max:   255  min: 0  mean: 157.0568  area: 9000000  std:114.9431
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_47840_17940.tif_CD57.tif:   max:   255  min: 51  mean: 224.5899  area: 9000000  std:46.1596
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_47840_20930.tif_CD57.tif:   max:   255  min: 0  mean: 80.5694  area: 9000000  std:76.8738
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_47840_23920.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_47840_26910.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_47840_2990.tif_CD57.tif:   max:   255  min: 0  mean: 219.5477  area: 9000000  std:72.7216
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_47840_29900.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_47840_32890.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_47840_35880.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_47840_38870.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_47840_41860.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_47840_44850.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_47840_47840.tif_CD57.tif:   max:   6  min: 0  mean: 2.401  area: 6192000  std:2.9396
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_47840_5980.tif_CD57.tif:   max:   255  min: 0  mean: 236.012  area: 9000000  std:54.1524
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_47840_8970.tif_CD57.tif:   max:   255  min: 0  mean: 225.2436  area: 9000000  std:69.4063
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_50830_0.tif_CD57.tif:   max:   255  min: 0  mean: 170.6152  area: 9000000  std:109.1014
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_50830_11960.tif_CD57.tif:   max:   255  min: 0  mean: 229.657  area: 9000000  std:66.1368
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_50830_14950.tif_CD57.tif:   max:   255  min: 7  mean: 251.7362  area: 9000000  std:3.964
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_50830_17940.tif_CD57.tif:   max:   255  min: 0  mean: 153.0492  area: 9000000  std:86.0046
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_50830_20930.tif_CD57.tif:   max:   146  min: 3  mean: 9.3886  area: 9000000  std:17.1621
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_50830_23920.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_50830_26910.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_50830_2990.tif_CD57.tif:   max:   255  min: 0  mean: 194.0396  area: 9000000  std:96.4357
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_50830_29900.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_50830_32890.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_50830_35880.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_50830_38870.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_50830_41860.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_50830_44850.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_50830_47840.tif_CD57.tif:   max:   6  min: 0  mean: 3.814  area: 6192000  std:2.8875
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_50830_5980.tif_CD57.tif:   max:   255  min: 0  mean: 161.6266  area: 9000000  std:106.3968
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_50830_8970.tif_CD57.tif:   max:   255  min: 0  mean: 140.9867  area: 9000000  std:112.9453
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_53820_0.tif_CD57.tif:   max:   255  min: 0  mean: 130.1551  area: 9000000  std:117.1801
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_53820_11960.tif_CD57.tif:   max:   255  min: 0  mean: 202.38  area: 9000000  std:93.3265
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_53820_14950.tif_CD57.tif:   max:   255  min: 0  mean: 225.4719  area: 9000000  std:50.7568
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_53820_17940.tif_CD57.tif:   max:   194  min: 0  mean: 37.2846  area: 9000000  std:45.6053
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_53820_20930.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_53820_23920.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_53820_26910.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_53820_2990.tif_CD57.tif:   max:   255  min: 0  mean: 29.4762  area: 9000000  std:62.3149
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_53820_29900.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_53820_32890.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_53820_35880.tif_CD57.tif:   max:   255  min: 0  mean: 23.6036  area: 9000000  std:50.8572
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_53820_38870.tif_CD57.tif:   max:   255  min: 0  mean: 99.8426  area: 9000000  std:118.5631
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_53820_41860.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_53820_44850.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_53820_47840.tif_CD57.tif:   max:   6  min: 0  mean: 3.814  area: 6192000  std:2.8875
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_53820_5980.tif_CD57.tif:   max:   255  min: 0  mean: 233.3119  area: 9000000  std:56.8659
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_53820_8970.tif_CD57.tif:   max:   255  min: 0  mean: 160.4437  area: 9000000  std:113.2283
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_56810_0.tif_CD57.tif:   max:   255  min: 0  mean: 207.7853  area: 9000000  std:95.2409
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_56810_11960.tif_CD57.tif:   max:   255  min: 0  mean: 232.8566  area: 9000000  std:49.2554
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_56810_14950.tif_CD57.tif:   max:   255  min: 0  mean: 80.8544  area: 9000000  std:92.7887
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_56810_17940.tif_CD57.tif:   max:   118  min: 0  mean: 7.1685  area: 9000000  std:4.7281
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_56810_20930.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_56810_23920.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_56810_26910.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_56810_2990.tif_CD57.tif:   max:   255  min: 0  mean: 189.2864  area: 9000000  std:96.5027
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_56810_29900.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_56810_32890.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_56810_35880.tif_CD57.tif:   max:   255  min: 0  mean: 155.0541  area: 9000000  std:108.4327
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_56810_38870.tif_CD57.tif:   max:   255  min: 4  mean: 244.5311  area: 9000000  std:41.0362
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_56810_41860.tif_CD57.tif:   max:   255  min: 3  mean: 90.3421  area: 9000000  std:116.1387
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_56810_44850.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_56810_47840.tif_CD57.tif:   max:   6  min: 0  mean: 3.814  area: 6192000  std:2.8875
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_56810_5980.tif_CD57.tif:   max:   255  min: 0  mean: 245.8652  area: 9000000  std:29.4776
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_56810_8970.tif_CD57.tif:   max:   255  min: 0  mean: 241.8743  area: 9000000  std:41.7128
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_59800_0.tif_CD57.tif:   max:   255  min: 0  mean: 8.6515  area: 9000000  std:28.765
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_59800_11960.tif_CD57.tif:   max:   255  min: 0  mean: 61.7587  area: 9000000  std:77.0994
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_59800_14950.tif_CD57.tif:   max:   48  min: 0  mean: 6.2187  area: 9000000  std:1.9673
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_59800_17940.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_59800_20930.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_59800_23920.tif_CD57.tif:   max:   255  min: 0  mean: 16.2999  area: 9000000  std:37.0804
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_59800_26910.tif_CD57.tif:   max:   255  min: 3  mean: 68.2134  area: 9000000  std:105.6182
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_59800_2990.tif_CD57.tif:   max:   255  min: 0  mean: 10.1438  area: 9000000  std:30.0934
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_59800_29900.tif_CD57.tif:   max:   255  min: 0  mean: 180.2084  area: 9000000  std:111.0068
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_59800_32890.tif_CD57.tif:   max:   255  min: 0  mean: 232.0069  area: 9000000  std:63.4237
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_59800_35880.tif_CD57.tif:   max:   255  min: 0  mean: 223.854  area: 9000000  std:73.0812
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_59800_38870.tif_CD57.tif:   max:   255  min: 0  mean: 239.9417  area: 9000000  std:43.6316
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_59800_41860.tif_CD57.tif:   max:   255  min: 0  mean: 202.3385  area: 9000000  std:87.0874
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_59800_44850.tif_CD57.tif:   max:   255  min: 0  mean: 188.6226  area: 9000000  std:106.5089
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_59800_47840.tif_CD57.tif:   max:   254  min: 0  mean: 32.1774  area: 6192000  std:79.0769
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_59800_5980.tif_CD57.tif:   max:   254  min: 0  mean: 80.8623  area: 9000000  std:112.4158
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_59800_8970.tif_CD57.tif:   max:   255  min: 0  mean: 192.7996  area: 9000000  std:86.7305
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_5980_0.tif_CD57.tif:   max:   6  min: 0  mean: 4.976  area: 9000000  std:2.2573
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_5980_11960.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_5980_14950.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_5980_17940.tif_CD57.tif:   max:   255  min: 0  mean: 37.2161  area: 9000000  std:80.2158
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_5980_20930.tif_CD57.tif:   max:   255  min: 0  mean: 20.7029  area: 9000000  std:45.1371
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_5980_23920.tif_CD57.tif:   max:   255  min: 0  mean: 9.6795  area: 9000000  std:18.5986
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_5980_26910.tif_CD57.tif:   max:   255  min: 0  mean: 134.9908  area: 9000000  std:114.2703
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_5980_2990.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_5980_29900.tif_CD57.tif:   max:   255  min: 1  mean: 243.232  area: 9000000  std:43.7047
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_5980_32890.tif_CD57.tif:   max:   255  min: 0  mean: 49.2596  area: 9000000  std:81.8944
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_5980_35880.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_5980_38870.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_5980_41860.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_5980_44850.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_5980_47840.tif_CD57.tif:   max:   6  min: 0  mean: 3.814  area: 6192000  std:2.8875
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_5980_5980.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_5980_8970.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_62790_0.tif_CD57.tif:   max:   6  min: 0  mean: 5.7617  area: 9000000  std:1.1716
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_62790_11960.tif_CD57.tif:   max:   72  min: 0  mean: 9.129  area: 9000000  std:7.154
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_62790_14950.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_62790_17940.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_62790_20930.tif_CD57.tif:   max:   137  min: 0  mean: 6.1488  area: 9000000  std:3.3803
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_62790_23920.tif_CD57.tif:   max:   255  min: 0  mean: 173.6787  area: 9000000  std:106.468
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_62790_26910.tif_CD57.tif:   max:   255  min: 23  mean: 251.525  area: 9000000  std:2.2031
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_62790_2990.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_62790_29900.tif_CD57.tif:   max:   255  min: 229  mean: 251.8612  area: 9000000  std:1.2766
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_62790_32890.tif_CD57.tif:   max:   255  min: 0  mean: 238.1711  area: 9000000  std:53.0694
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_62790_35880.tif_CD57.tif:   max:   255  min: 0  mean: 62.2582  area: 9000000  std:93.2788
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_62790_38870.tif_CD57.tif:   max:   255  min: 0  mean: 133.6049  area: 9000000  std:116.5542
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_62790_41860.tif_CD57.tif:   max:   255  min: 0  mean: 23.8088  area: 9000000  std:51.4501
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_62790_44850.tif_CD57.tif:   max:   255  min: 0  mean: 211.9275  area: 9000000  std:84.7974
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_62790_47840.tif_CD57.tif:   max:   255  min: 0  mean: 123.3901  area: 6192000  std:124.9872
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_62790_5980.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_62790_8970.tif_CD57.tif:   max:   92  min: 0  mean: 13.8618  area: 9000000  std:11.162
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_65780_0.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_65780_11960.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_65780_14950.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_65780_17940.tif_CD57.tif:   max:   255  min: 0  mean: 46.7426  area: 9000000  std:80.898
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_65780_20930.tif_CD57.tif:   max:   255  min: 0  mean: 191.3682  area: 9000000  std:95.0906
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_65780_23920.tif_CD57.tif:   max:   255  min: 0  mean: 175.947  area: 9000000  std:106.7474
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_65780_26910.tif_CD57.tif:   max:   255  min: 0  mean: 43.8077  area: 9000000  std:79.3787
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_65780_2990.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_65780_29900.tif_CD57.tif:   max:   255  min: 0  mean: 96.5381  area: 9000000  std:106.7576
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_65780_32890.tif_CD57.tif:   max:   255  min: 0  mean: 211.0174  area: 9000000  std:84.1698
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_65780_35880.tif_CD57.tif:   max:   255  min: 0  mean: 168.6976  area: 9000000  std:109.4732
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_65780_38870.tif_CD57.tif:   max:   255  min: 0  mean: 63.7957  area: 9000000  std:94.6494
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_65780_41860.tif_CD57.tif:   max:   255  min: 0  mean: 233.0514  area: 9000000  std:59.7629
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_65780_44850.tif_CD57.tif:   max:   255  min: 13  mean: 234.5374  area: 9000000  std:45.1454
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_65780_47840.tif_CD57.tif:   max:   255  min: 0  mean: 108.9874  area: 6192000  std:111.3309
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_65780_5980.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_65780_8970.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_68770_0.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_68770_11960.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_68770_14950.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_68770_17940.tif_CD57.tif:   max:   255  min: 0  mean: 180.1612  area: 9000000  std:103.5071
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_68770_20930.tif_CD57.tif:   max:   255  min: 0  mean: 98.6934  area: 9000000  std:109.5083
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_68770_23920.tif_CD57.tif:   max:   255  min: 0  mean: 8.457  area: 9000000  std:22.4036
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_68770_26910.tif_CD57.tif:   max:   255  min: 0  mean: 9.423  area: 9000000  std:28.501
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_68770_2990.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_68770_29900.tif_CD57.tif:   max:   255  min: 0  mean: 9.1423  area: 9000000  std:24.0191
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_68770_32890.tif_CD57.tif:   max:   255  min: 0  mean: 63.5755  area: 9000000  std:90.3105
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_68770_35880.tif_CD57.tif:   max:   255  min: 0  mean: 241.2249  area: 9000000  std:42.7937
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_68770_38870.tif_CD57.tif:   max:   255  min: 0  mean: 199.9631  area: 9000000  std:87.8261
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_68770_41860.tif_CD57.tif:   max:   255  min: 0  mean: 208.4569  area: 9000000  std:78.391
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_68770_44850.tif_CD57.tif:   max:   255  min: 0  mean: 61.2067  area: 9000000  std:74.8488
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_68770_47840.tif_CD57.tif:   max:   54  min: 0  mean: 11.4757  area: 6192000  std:10.684
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_68770_5980.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_68770_8970.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_71760_0.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_71760_11960.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_71760_14950.tif_CD57.tif:   max:   255  min: 0  mean: 77.8702  area: 9000000  std:111.0816
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_71760_17940.tif_CD57.tif:   max:   255  min: 0  mean: 218.2247  area: 9000000  std:80.4781
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_71760_20930.tif_CD57.tif:   max:   255  min: 0  mean: 16.7064  area: 9000000  std:43.5861
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_71760_23920.tif_CD57.tif:   max:   255  min: 0  mean: 4.6848  area: 9000000  std:13.9114
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_71760_26910.tif_CD57.tif:   max:   255  min: 0  mean: 5.4035  area: 9000000  std:18.4678
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_71760_2990.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_71760_29900.tif_CD57.tif:   max:   255  min: 0  mean: 26.9587  area: 9000000  std:60.6062
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_71760_32890.tif_CD57.tif:   max:   255  min: 0  mean: 175.2914  area: 9000000  std:107.7423
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_71760_35880.tif_CD57.tif:   max:   255  min: 0  mean: 225.1988  area: 9000000  std:63.8873
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_71760_38870.tif_CD57.tif:   max:   255  min: 0  mean: 162.7479  area: 9000000  std:98.4775
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_71760_41860.tif_CD57.tif:   max:   255  min: 0  mean: 39.5061  area: 9000000  std:44.9855
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_71760_44850.tif_CD57.tif:   max:   53  min: 0  mean: 12.5958  area: 9000000  std:9.0413
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_71760_47840.tif_CD57.tif:   max:   6  min: 0  mean: 5.3023  area: 6192000  std:1.9234
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_71760_5980.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_71760_8970.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_74750_0.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_74750_11960.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_74750_14950.tif_CD57.tif:   max:   255  min: 0  mean: 81.5771  area: 9000000  std:113.1269
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_74750_17940.tif_CD57.tif:   max:   255  min: 0  mean: 229.4147  area: 9000000  std:63.5374
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_74750_20930.tif_CD57.tif:   max:   255  min: 0  mean: 80.8147  area: 9000000  std:103.7947
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_74750_23920.tif_CD57.tif:   max:   255  min: 0  mean: 43.1942  area: 9000000  std:83.7599
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_74750_26910.tif_CD57.tif:   max:   255  min: 0  mean: 135.8417  area: 9000000  std:116.0796
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_74750_2990.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_74750_29900.tif_CD57.tif:   max:   255  min: 0  mean: 237.2776  area: 9000000  std:49.946
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_74750_32890.tif_CD57.tif:   max:   255  min: 0  mean: 172.1785  area: 9000000  std:94.7504
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_74750_35880.tif_CD57.tif:   max:   255  min: 0  mean: 62.0315  area: 9000000  std:83.2768
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_74750_38870.tif_CD57.tif:   max:   60  min: 0  mean: 10.5633  area: 9000000  std:8.2967
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_74750_41860.tif_CD57.tif:   max:   50  min: 0  mean: 6.3168  area: 9000000  std:2.2883
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_74750_44850.tif_CD57.tif:   max:   49  min: 3  mean: 6.0566  area: 9000000  std:0.9779
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_74750_47840.tif_CD57.tif:   max:   6  min: 0  mean: 4.7943  area: 6192000  std:2.4043
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_74750_5980.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_74750_8970.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_77740_0.tif_CD57.tif:   max:   6  min: 0  mean: 5.406  area: 5394000  std:1.792
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_77740_11960.tif_CD57.tif:   max:   6  min: 0  mean: 5.406  area: 5394000  std:1.792
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_77740_14950.tif_CD57.tif:   max:   6  min: 0  mean: 5.406  area: 5394000  std:1.792
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_77740_17940.tif_CD57.tif:   max:   255  min: 0  mean: 162.8744  area: 5394000  std:118.4979
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_77740_20930.tif_CD57.tif:   max:   255  min: 0  mean: 199.8054  area: 5394000  std:101.0257
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_77740_23920.tif_CD57.tif:   max:   255  min: 0  mean: 200.2366  area: 5394000  std:100.9418
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_77740_26910.tif_CD57.tif:   max:   255  min: 0  mean: 196.3556  area: 5394000  std:100.5862
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_77740_2990.tif_CD57.tif:   max:   6  min: 0  mean: 5.406  area: 5394000  std:1.792
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_77740_29900.tif_CD57.tif:   max:   255  min: 0  mean: 132.0662  area: 5394000  std:104.8555
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_77740_32890.tif_CD57.tif:   max:   214  min: 0  mean: 15.4777  area: 5394000  std:17.8652
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_77740_35880.tif_CD57.tif:   max:   6  min: 0  mean: 5.406  area: 5394000  std:1.792
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_77740_38870.tif_CD57.tif:   max:   6  min: 0  mean: 5.406  area: 5394000  std:1.792
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_77740_41860.tif_CD57.tif:   max:   6  min: 0  mean: 5.406  area: 5394000  std:1.792
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_77740_44850.tif_CD57.tif:   max:   6  min: 0  mean: 5.406  area: 5394000  std:1.792
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_77740_47840.tif_CD57.tif:   max:   6  min: 0  mean: 4.7774  area: 3711072  std:2.4168
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_77740_5980.tif_CD57.tif:   max:   6  min: 0  mean: 5.406  area: 5394000  std:1.792
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_77740_8970.tif_CD57.tif:   max:   6  min: 0  mean: 5.406  area: 5394000  std:1.792
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_8970_0.tif_CD57.tif:   max:   6  min: 0  mean: 4.976  area: 9000000  std:2.2573
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_8970_11960.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_8970_14950.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_8970_17940.tif_CD57.tif:   max:   255  min: 0  mean: 55.6625  area: 9000000  std:94.1127
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_8970_20930.tif_CD57.tif:   max:   255  min: 0  mean: 22.049  area: 9000000  std:49.9452
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_8970_23920.tif_CD57.tif:   max:   255  min: 0  mean: 4.315  area: 9000000  std:13.9632
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_8970_26910.tif_CD57.tif:   max:   255  min: 0  mean: 17.1289  area: 9000000  std:48.6932
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_8970_2990.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_8970_29900.tif_CD57.tif:   max:   255  min: 0  mean: 240.2255  area: 9000000  std:48.8344
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_8970_32890.tif_CD57.tif:   max:   255  min: 4  mean: 227.0073  area: 9000000  std:65.8844
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_8970_35880.tif_CD57.tif:   max:   255  min: 0  mean: 25.5976  area: 9000000  std:63.6115
+******* Stain area detected
+_______________________________________
+
+1_10_CD57.svs__1_8970_38870.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_8970_41860.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_8970_44850.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_8970_47840.tif_CD57.tif:   max:   6  min: 0  mean: 3.814  area: 6192000  std:2.8875
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_8970_5980.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_______________________________________
+
+1_10_CD57.svs__1_8970_8970.tif_CD57.tif:   max:   6  min: 6  mean: 6  area: 9000000  std:0
+******* background image, have not found any marker area, skip generating mask
+_________________________
+
+Nb of processed images:  459
+Completed

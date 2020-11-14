@@ -1,0 +1,65 @@
+
+setBatchMode(true);
+print("\\Clear");
+
+
+           	
+dir = getArgument;
+if (dir=="") 
+	exit ("No argument!");
+
+print("Working dir: "+dir+"\n");
+
+if(!File.exists(dir+"SEG_WAT")) 
+      File.mkdir(dir+"SEG_WAT");
+//if(!File.exists(dir+"FILTERED")) 
+      //File.mkdir(dir+"FILTERED");
+files=getFileList(dir);
+
+print("Nb of processing images: "+files.length+"\n");
+count=0;
+for(f=0;f<files.length;f++)
+{
+     if(!File.isDirectory(dir+files[f])) {
+				name=files[f];
+				
+				if(endsWith(name,'.tif') | endsWith(name,'.tiff')){
+					//print("Get the right channel : "+name);
+					count=count+1;
+					short_name = substring(name,0,indexOf(name,'.tif'));					print("_______________________________________\n");
+					//print(name);
+					
+
+					
+					open(dir+name);
+					h=getHeight();
+					w=getWidth();
+					//print(' t: '+title+"   h:   "+h+"w:   "+w);
+					
+					getStatistics(area, mean, min, max, std);
+					print(getTitle+":   max:   "+max+"  min: "+min+"  mean: "+mean+"  area: "+area+"  std:"+std);
+					if(max==0){
+						print("******* background image, skip this step");
+						run("Close All"); 
+					} else{
+						run("CELL PHENOTYPE", "nuclei="+name);
+						run("Close All"); 
+					}
+					
+					
+           }
+           
+    }
+
+}
+print("_________________________\n");
+print("Nb of processed images:  "+count);
+print("Completed");
+
+//if(!File.exists(dir+"log")) File.mkdir(dir+"log");
+//selectWindow("Log");
+//saveAs("Text", dir+ "segment_log.txt");
+setBatchMode(false);
+
+
+

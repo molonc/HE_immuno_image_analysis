@@ -1,0 +1,138 @@
+//dir=getDirectory("mouse");
+//print(dir)
+setBatchMode(true);
+print("\\Clear");
+
+minSize=22;
+maxSize=29;
+background_threshold=90;	           	
+dir = getArgument;
+if (dir=="") 
+	exit ("No argument!");
+
+print("Working dir: "+dir+"\n");
+
+if(!File.exists(dir+"SEG")) 
+      File.mkdir(dir+"SEG");
+if(!File.exists(dir+"FILTERED")) 
+      File.mkdir(dir+"FILTERED");
+files=getFileList(dir);
+
+print("Nb of processing images: "+files.length+"\n");
+
+for(f=0;f<files.length;f++)
+{
+     if(!File.isDirectory(dir+files[f])) {
+				name=files[f];
+				
+				if(endsWith(name,'.tif') | endsWith(name,'.tiff')){
+					//print("Get the right channel : "+name);
+
+					short_name = substring(name,0,indexOf(name,'.tif'));					print("_______________________________________\n");
+					print(name);
+					//open(dir+name);
+					//run("Stack to Images");
+					//selectWindow("Blue");
+					//setOption("ScaleConversions", true);
+					//run("8-bit");
+					//run("Grays");
+					//saveAs("Tiff",dir+name);
+					//run("Close");
+
+					//print("Loading image: "+name);
+					open(dir+name);
+					h=getHeight();
+					w=getWidth();
+					//print(' t: '+title+"   h:   "+h+"w:   "+w);
+					
+					getStatistics(area, mean, min, max, std);
+					print(getTitle+":   max:   "+max+"  min: "+min+"  mean: "+mean+"  area: "+area+"  std:"+std);
+					if(max<background_threshold){
+						print("******* background image");
+						newImage(short_name+"_SEG", "16-bit black", w, h, 1);
+						saveAs("Tiff",dir+"SEG/"+short_name+"_SEG.tif");	
+						run("Close All"); 
+					} else{
+						removeSmallObjects(dir, name);
+						open(dir+"FILTERED/MASK_"+name);
+						//open(dir+name);
+			      selectWindow("MASK_"+name);
+			      //selectWindow(name);
+						//Need to test, before or after mean filtering
+						//run("Subtract Background...", "rolling=30");
+						// mean filter homogeneous area inside objects
+
+						run("Median...", "radius=2");
+						//run("Mean...", "radius=2");
+					    //print("Band pass filtering...");
+						run("32-bit");
+			           	run("Bandpass Filter...", "filter_large="+maxSize+" filter_small="+minSize+" suppress=None tolerance=5");
+			           	
+						run("Enhance Contrast...", "saturated=0");
+						run("16-bit");
+						
+						saveAs("Tiff",dir+"FILTERED/"+"BP_"+name);
+						open(dir+"FILTERED/"+"BP_"+name);
+						selectWindow("BP_"+name);
+						rename("BP_dapi");
+						// mean filter homogeneous area inside objects
+						//run("Mean...", "radius=2");
+						//print("Segmenting...");
+						//start = getTime();
+						// usually seeds_threshold=30000
+						run("3D Spot Segmentation", "seeds_threshold=35000 local_background=0 radius_0=2 radius_1=4 radius_2=6 weigth=0.50 radius_max=20 sd_value=1.90 local_threshold=[Gaussian fit] seg_spot=Block watershed volume_min=800 volume_max=1000000 seeds=Automatic spots=BP_dapi radius_for_seeds=2 output=[Label Image]"); 
+						//print("Time of execution is: "+(getTime()-start)/1000); 
+						selectWindow("seg");
+						run("3-3-2 RGB");
+					 	saveAs("Tiff",dir+"SEG/"+short_name+"_SEG.tif");	
+						run("Close All"); 
+
+					}
+					
+           }
+           
+    }
+
+}
+
+print("Completed");
+
+//if(!File.exists(dir+"log")) File.mkdir(dir+"log");
+//selectWindow("Log");
+//saveAs("Text", dir+ "segment_log.txt");
+setBatchMode(false);
+
+
+
+
+
+
+function removeSmallObjects(dir, image_fn) {
+	open(dir+image_fn);
+	setAutoThreshold("Intermodes dark");
+setOption("BlackBackground", true);
+run("Create Mask"); // make binary
+originalMask = getImageID();
+run("Analyze Particles...", "size=700-Infinity add"); // select objects within based on certain size
+roiManager("Fill"); // fill in those ROIs...
+
+// do another round of thresholding and mask creation based on those 'tiny' objects you want to exclude
+setAutoThreshold("Default dark");
+run("Create Mask");
+subsetMask = getImageID();
+imageCalculator("Subtract create", originalMask, subsetMask); // simply subtract the 'tiny' objects from the original mask
+
+setAutoThreshold("Default dark");
+setThreshold(1, 255);
+setOption("BlackBackground", true);
+run("Convert to Mask");
+//run("Open");
+rename("mask_raw");
+imageCalculator("AND create", image_fn,"mask_raw");
+selectWindow("Result of "+image_fn);
+saveAs("Tiff",dir+"FILTERED/MASK_"+image_fn);
+run("Close All"); 
+
+}
+
+
