@@ -10,15 +10,15 @@ dir = getArgument;
 if (dir=="") 
 	exit ("No argument!");
 
-macro_dir = File.getParent(dir);
+//macro_dir = File.getParent(dir);
 print(dir);
-
+macro_dir = "/home/htran/storage/images_dataset/large_tissue";
 macro_fn = macro_dir+"/macro/slidej/SlideJdemo0.ijm";
 print(macro_fn);
 if(!File.exists(macro_fn))
   exit ("Check macro file first!");
 
-v = newArray("CD8","CD57");
+v = newArray("CD8");
 for (i=0; i<v.length; i++) {
 	print(v[i]);
 	input_dir = dir + v[i];

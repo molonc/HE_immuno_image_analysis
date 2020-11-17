@@ -9,10 +9,9 @@ setBatchMode(true);
 dir = getArgument;
 if (dir=="") 
 	exit ("No argument!");
-//dir = "/Users/miu/Downloads/FirstCase/input_10_08_20/CD3_10000/testHE/"
 
 print(dir);
-background_threshold=100;	 
+background_threshold=120;	 
 
 v = newArray("CD8","CD57");
 for (i=0; i<v.length; i++) {

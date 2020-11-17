@@ -3,9 +3,10 @@
 setBatchMode(true);
 print("\\Clear");
 
-minSize=26;
-maxSize=40;
-background_threshold=100;	           	
+minSize=27;
+maxSize=41;
+background_threshold=120;	
+spot_seeds_threshold=37500;
 dir = getArgument;
 if (dir=="") 
 	exit ("No argument!");
@@ -18,7 +19,7 @@ if(!File.exists(dir+"SEG"))
       //File.mkdir(dir+"FILTERED");
       
 
-input_dir = dir+"NUC/";
+input_dir = dir+"filtered_NUC/";
 files=getFileList(input_dir);
 print("Nb of processing images: "+files.length+"\n");
 count=0;
@@ -41,23 +42,26 @@ for(f=0;f<files.length;f++)
 					//run("Grays");
 					//saveAs("Tiff",dir+name);
 					//run("Close");
-
-					//print("Loading image: "+name);
-					open(input_dir+name);
-					h=getHeight();
-					w=getWidth();
-					//print(' t: '+title+"   h:   "+h+"w:   "+w);
-					
-					getStatistics(area, mean, min, max, std);
-					print(getTitle+":   max:   "+max+"  min: "+min+"  mean: "+mean+"  area: "+area+"  std:"+std);
-					
-			      selectWindow(name);
-					
+          
+          seg_output=dir+"SEG/"+short_name+"_SEG.tif";
+          if(File.exists(seg_output)) {
+            print("---------------------------");
+            print("SEG output is exist, skip this image: "+name);
+            print(" ");
+          } else{
+            print("Loading image: "+name);
+            print("---------------------------");
+            start = getTime();
+            print(start/1000);
+  					open(input_dir+name);
+  					h=getHeight();
+  					w=getWidth();
+				  	print('Image: '+name+"   h:   "+h+"  w:   "+w);
+				  	
+            selectWindow(name);
 						run("Median...", "radius=2");
 						run("32-bit");
 			      run("Bandpass Filter...", "filter_large="+maxSize+" filter_small="+minSize+" suppress=None tolerance=5");
-			           
-			      
 						run("Enhance Contrast...", "saturated=0");
 						run("16-bit");
 						
@@ -65,23 +69,38 @@ for(f=0;f<files.length;f++)
 						//open(input_dir+"FILTERED/"+"BP_"+name);
 						//selectWindow("BP_"+name);
 						rename("BP_dapi");
+						//mean=spot_seeds_threshold; //just in case program has problem
+						getStatistics(area, mean, min, max, std);
+						print(getTitle+"  mean: "+mean);
 						
-					
-						//print("Segmenting...");
-						//start = getTime();
+						if(spot_seeds_threshold<mean){
+							spot_seeds_threshold=mean+500;
+							print("_________________________________________");
+							print("ATTENTION: DEBUG Spot seeds threshold value is:  "+spot_seeds_threshold);
+							print(name);
+						}
+						
+						print("Segmenting...");
+						
 						// usually seeds_threshold=30000
-						run("3D Spot Segmentation", "seeds_threshold=36000 local_background=0 radius_0=2 radius_1=4 radius_2=6 weigth=0.50 radius_max=20 sd_value=1.90 local_threshold=[Gaussian fit] seg_spot=Block watershed volume_min=800 volume_max=10000 seeds=Automatic spots=BP_dapi radius_for_seeds=2 output=[Label Image]"); 
-						//print("Time of execution is: "+(getTime()-start)/1000); 
+						run("3D Spot Segmentation", "seeds_threshold="+spot_seeds_threshold+" local_background=0 radius_0=2 radius_1=4 radius_2=6 weigth=0.50 radius_max=20 sd_value=1.90 local_threshold=[Gaussian fit] seg_spot=Block watershed volume_min=800 volume_max=100000 seeds=Automatic spots=BP_dapi radius_for_seeds=2 output=[Label Image]"); 
+						
 						selectWindow("seg");
 						run("3-3-2 RGB");
-					 	saveAs("Tiff",dir+"SEG/"+short_name+"_SEG.tif");	
-						run("Close All");
-						list = getList("window.titles");
-				    for (i=0; i<list.length; i++){
-				    	winame = list[i];
-				      selectWindow(winame);
-				     	run("Close");
-				    } 
+					 	saveAs("Tiff",seg_output);
+					 	run("Close All");
+					 	print("Time of execution is: "+(getTime()-start)/1000); 
+		 	      print(" ");
+				 	
+          }
+					
+						
+					list = getList("window.titles");
+			    for (i=0; i<list.length; i++){
+			    	winame = list[i];
+			      selectWindow(winame);
+			     	run("Close");
+			    } 
 
 					
 					
@@ -103,9 +122,6 @@ setBatchMode(false);
 
 
 
-	//maxTime = 700;
-				  	//flag=false;
-            //while(!flag){ 
-                  //remaining = maxTime-(getTime()-start)/1000;
+
 
 

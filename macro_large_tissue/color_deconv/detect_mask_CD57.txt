@@ -11,8 +11,8 @@ if (dir=="")
 	exit ("No argument!");
 
 print(dir);
-background_threshold=100;	 
-
+background_threshold=120;	 
+maximum_expand_radius=200;
 	   
 v = newArray("CD57");
 for (i=0; i<v.length; i++) {
@@ -60,7 +60,7 @@ for (i=0; i<v.length; i++) {
             run("Convert to Mask");
             run("Fill Holes");
             run("Invert");
-            run("Maximum...", "radius=160");
+            run("Maximum...", "radius="+maximum_expand_radius);
             run("Invert");
             selectWindow(deconv_name+" (red)");
             saveAs("Tiff", mask_dir+short_name+"_MASK.tif");

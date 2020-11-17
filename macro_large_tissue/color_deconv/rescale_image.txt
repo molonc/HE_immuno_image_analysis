@@ -12,14 +12,14 @@ if (dir=="")
 
 print(dir);
 //,
-v = newArray("CD57","CD8");
+v = newArray("CD8");
 for (i=0; i<v.length; i++) {
 	print(v[i]);
 	//input_dir = dir + v[i] + "_tiles/deconv/";
-	input_dir = dir + v[i] + "_tiles/SEG/";
+	input_dir = dir + v[i] + "_tiles/filtered_NUC/";
 	if(File.exists(input_dir)){
-		//output_dir = dir + v[i] + "_tiles/rescaled/";
-		output_dir = dir + v[i] + "_tiles/rescaled_SEG/";
+		output_dir = dir + v[i] + "_tiles/rescaled_NUC_CD8/";
+		//output_dir = dir + v[i] + "_tiles/rescaled_raw/";
 		if(!File.exists(output_dir)) 
 	      	       File.mkdir(output_dir);
 
