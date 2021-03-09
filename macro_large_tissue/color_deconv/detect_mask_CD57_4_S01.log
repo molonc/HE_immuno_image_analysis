@@ -1,0 +1,1767 @@
+Detect mask and cut off green area
+\Clear
+/Users/hoatran/Documents/images_HE/images/4_S01/
+CD57
+Completed
+Completed
+Detect mask and cut off green area
+\Clear
+/Users/hoatran/Documents/images_HE/images/4_S01/
+CD57
+Completed
+Completed
+Detect mask and cut off green area
+\Clear
+/Users/hoatran/Documents/images_HE/images/4_S01/
+CD57
+4_S01_CD57.svs__1_11960_2990_NUC.tif
+  
+  
+Start time:    
+Time:    14:26:19
+4_S01_CD57.svs__1_11960_2990.tif
+Before mask processing: 
+4_S01_CD57.svs__1_11960_2990_NUC.tif:   max:   255  mean: 116.484
+After mask processing: 
+4_S01_CD57.svs__1_11960_2990_NUC.tif:   max:   255  mean: 55.5176
+Time:    14:26:22
+4_S01_CD57.svs__1_11960_44850_NUC.tif
+  
+  
+Start time:    
+Time:    14:26:22
+4_S01_CD57.svs__1_11960_44850.tif
+Before mask processing: 
+4_S01_CD57.svs__1_11960_44850_NUC.tif:   max:   255  mean: 101.4374
+After mask processing: 
+4_S01_CD57.svs__1_11960_44850_NUC.tif:   max:   255  mean: 62.9246
+Time:    14:26:28
+4_S01_CD57.svs__1_11960_47840_NUC.tif
+  
+  
+Start time:    
+Time:    14:26:28
+4_S01_CD57.svs__1_11960_47840.tif
+Before mask processing: 
+4_S01_CD57.svs__1_11960_47840_NUC.tif:   max:   255  mean: 175.2748
+After mask processing: 
+4_S01_CD57.svs__1_11960_47840_NUC.tif:   max:   255  mean: 57.1032
+Time:    14:26:35
+4_S01_CD57.svs__1_11960_50830_NUC.tif
+  
+  
+Start time:    
+Time:    14:26:35
+4_S01_CD57.svs__1_11960_50830.tif
+Before mask processing: 
+4_S01_CD57.svs__1_11960_50830_NUC.tif:   max:   255  mean: 211.5673
+After mask processing: 
+4_S01_CD57.svs__1_11960_50830_NUC.tif:   max:   255  mean: 81.5835
+Time:    14:26:43
+4_S01_CD57.svs__1_11960_53820_NUC.tif
+  
+  
+Start time:    
+Time:    14:26:43
+4_S01_CD57.svs__1_11960_53820.tif
+Before mask processing: 
+4_S01_CD57.svs__1_11960_53820_NUC.tif:   max:   255  mean: 214.076
+After mask processing: 
+4_S01_CD57.svs__1_11960_53820_NUC.tif:   max:   255  mean: 18.5309
+Time:    14:26:49
+4_S01_CD57.svs__1_14950_2990_NUC.tif
+  
+  
+Start time:    
+Time:    14:26:49
+4_S01_CD57.svs__1_14950_2990.tif
+Before mask processing: 
+4_S01_CD57.svs__1_14950_2990_NUC.tif:   max:   255  mean: 79.5481
+After mask processing: 
+4_S01_CD57.svs__1_14950_2990_NUC.tif:   max:   255  mean: 75.399
+Time:    14:26:51
+4_S01_CD57.svs__1_14950_47840_NUC.tif
+  
+  
+Start time:    
+Time:    14:26:51
+4_S01_CD57.svs__1_14950_47840.tif
+Before mask processing: 
+4_S01_CD57.svs__1_14950_47840_NUC.tif:   max:   255  mean: 85.7979
+After mask processing: 
+4_S01_CD57.svs__1_14950_47840_NUC.tif:   max:   255  mean: 85.7979
+Time:    14:26:52
+4_S01_CD57.svs__1_14950_50830_NUC.tif
+  
+  
+Start time:    
+Time:    14:26:52
+4_S01_CD57.svs__1_14950_50830.tif
+Before mask processing: 
+4_S01_CD57.svs__1_14950_50830_NUC.tif:   max:   255  mean: 76.1898
+After mask processing: 
+4_S01_CD57.svs__1_14950_50830_NUC.tif:   max:   255  mean: 75.0561
+Time:    14:26:55
+4_S01_CD57.svs__1_14950_56810_NUC.tif
+  
+  
+Start time:    
+Time:    14:26:55
+4_S01_CD57.svs__1_14950_56810.tif
+Before mask processing: 
+4_S01_CD57.svs__1_14950_56810_NUC.tif:   max:   255  mean: 125.8292
+After mask processing: 
+4_S01_CD57.svs__1_14950_56810_NUC.tif:   max:   255  mean: 62.1262
+Time:    14:27:01
+4_S01_CD57.svs__1_17940_2990_NUC.tif
+  
+  
+Start time:    
+Time:    14:27:01
+4_S01_CD57.svs__1_17940_2990.tif
+Before mask processing: 
+4_S01_CD57.svs__1_17940_2990_NUC.tif:   max:   255  mean: 111.6844
+After mask processing: 
+4_S01_CD57.svs__1_17940_2990_NUC.tif:   max:   255  mean: 71.2306
+Time:    14:27:03
+4_S01_CD57.svs__1_17940_59800_NUC.tif
+  
+  
+Start time:    
+Time:    14:27:03
+4_S01_CD57.svs__1_17940_59800.tif
+Before mask processing: 
+4_S01_CD57.svs__1_17940_59800_NUC.tif:   max:   255  mean: 136.7262
+After mask processing: 
+4_S01_CD57.svs__1_17940_59800_NUC.tif:   max:   255  mean: 53.8817
+Time:    14:27:07
+4_S01_CD57.svs__1_17940_62790_NUC.tif
+  
+  
+Start time:    
+Time:    14:27:07
+4_S01_CD57.svs__1_17940_62790.tif
+Before mask processing: 
+4_S01_CD57.svs__1_17940_62790_NUC.tif:   max:   255  mean: 210.5295
+After mask processing: 
+4_S01_CD57.svs__1_17940_62790_NUC.tif:   max:   255  mean: 21.9211
+Time:    14:27:15
+4_S01_CD57.svs__1_20930_2990_NUC.tif
+  
+  
+Start time:    
+Time:    14:27:15
+4_S01_CD57.svs__1_20930_2990.tif
+Before mask processing: 
+4_S01_CD57.svs__1_20930_2990_NUC.tif:   max:   255  mean: 102.4549
+After mask processing: 
+4_S01_CD57.svs__1_20930_2990_NUC.tif:   max:   255  mean: 61.9111
+Time:    14:27:17
+4_S01_CD57.svs__1_20930_65780_NUC.tif
+  
+  
+Start time:    
+Time:    14:27:17
+4_S01_CD57.svs__1_20930_65780.tif
+Before mask processing: 
+4_S01_CD57.svs__1_20930_65780_NUC.tif:   max:   255  mean: 107.856
+After mask processing: 
+4_S01_CD57.svs__1_20930_65780_NUC.tif:   max:   255  mean: 53.0908
+Time:    14:27:23
+4_S01_CD57.svs__1_20930_68770_NUC.tif
+  
+  
+Start time:    
+Time:    14:27:23
+4_S01_CD57.svs__1_20930_68770.tif
+Before mask processing: 
+4_S01_CD57.svs__1_20930_68770_NUC.tif:   max:   255  mean: 89.2567
+After mask processing: 
+4_S01_CD57.svs__1_20930_68770_NUC.tif:   max:   255  mean: 77.7422
+Time:    14:27:27
+4_S01_CD57.svs__1_20930_71760_NUC.tif
+  
+  
+Start time:    
+Time:    14:27:27
+4_S01_CD57.svs__1_20930_71760.tif
+Before mask processing: 
+4_S01_CD57.svs__1_20930_71760_NUC.tif:   max:   255  mean: 86.8718
+After mask processing: 
+4_S01_CD57.svs__1_20930_71760_NUC.tif:   max:   255  mean: 63.8715
+Time:    14:27:32
+4_S01_CD57.svs__1_20930_74750_NUC.tif
+  
+  
+Start time:    
+Time:    14:27:32
+4_S01_CD57.svs__1_20930_74750.tif
+Before mask processing: 
+4_S01_CD57.svs__1_20930_74750_NUC.tif:   max:   255  mean: 143.9313
+After mask processing: 
+4_S01_CD57.svs__1_20930_74750_NUC.tif:   max:   255  mean: 51.5443
+Time:    14:27:39
+4_S01_CD57.svs__1_20930_77740_NUC.tif
+  
+  
+Start time:    
+Time:    14:27:39
+4_S01_CD57.svs__1_20930_77740.tif
+Before mask processing: 
+4_S01_CD57.svs__1_20930_77740_NUC.tif:   max:   255  mean: 203.8646
+After mask processing: 
+4_S01_CD57.svs__1_20930_77740_NUC.tif:   max:   255  mean: 42.5285
+Time:    14:27:47
+4_S01_CD57.svs__1_23920_20930_NUC.tif
+  
+  
+Start time:    
+Time:    14:27:47
+4_S01_CD57.svs__1_23920_20930.tif
+Before mask processing: 
+4_S01_CD57.svs__1_23920_20930_NUC.tif:   max:   255  mean: 158.1824
+After mask processing: 
+4_S01_CD57.svs__1_23920_20930_NUC.tif:   max:   255  mean: 37.7045
+Time:    14:27:49
+4_S01_CD57.svs__1_23920_23920_NUC.tif
+  
+  
+Start time:    
+Time:    14:27:49
+4_S01_CD57.svs__1_23920_23920.tif
+Before mask processing: 
+4_S01_CD57.svs__1_23920_23920_NUC.tif:   max:   255  mean: 191.4593
+After mask processing: 
+4_S01_CD57.svs__1_23920_23920_NUC.tif:   max:   255  mean: 31.0965
+Time:    14:27:50
+4_S01_CD57.svs__1_23920_26910_NUC.tif
+  
+  
+Start time:    
+Time:    14:27:50
+4_S01_CD57.svs__1_23920_26910.tif
+Before mask processing: 
+4_S01_CD57.svs__1_23920_26910_NUC.tif:   max:   255  mean: 76.0744
+After mask processing: 
+4_S01_CD57.svs__1_23920_26910_NUC.tif:   max:   255  mean: 76.0744
+Time:    14:27:52
+4_S01_CD57.svs__1_23920_2990_NUC.tif
+  
+  
+Start time:    
+Time:    14:27:52
+4_S01_CD57.svs__1_23920_2990.tif
+Before mask processing: 
+4_S01_CD57.svs__1_23920_2990_NUC.tif:   max:   255  mean: 108.0168
+After mask processing: 
+4_S01_CD57.svs__1_23920_2990_NUC.tif:   max:   255  mean: 63.6369
+Time:    14:27:54
+4_S01_CD57.svs__1_23920_80730_NUC.tif
+  
+  
+Start time:    
+Time:    14:27:54
+4_S01_CD57.svs__1_23920_80730.tif
+Before mask processing: 
+4_S01_CD57.svs__1_23920_80730_NUC.tif:   max:   255  mean: 100.2524
+After mask processing: 
+4_S01_CD57.svs__1_23920_80730_NUC.tif:   max:   255  mean: 64.0602
+Time:    14:28:01
+4_S01_CD57.svs__1_23920_83720_NUC.tif
+  
+  
+Start time:    
+Time:    14:28:01
+4_S01_CD57.svs__1_23920_83720.tif
+Before mask processing: 
+4_S01_CD57.svs__1_23920_83720_NUC.tif:   max:   255  mean: 162.4763
+After mask processing: 
+4_S01_CD57.svs__1_23920_83720_NUC.tif:   max:   255  mean: 61.9653
+Time:    14:28:09
+4_S01_CD57.svs__1_23920_86710_NUC.tif
+  
+  
+Start time:    
+Time:    14:28:09
+4_S01_CD57.svs__1_23920_86710.tif
+Before mask processing: 
+4_S01_CD57.svs__1_23920_86710_NUC.tif:   max:   255  mean: 204.5085
+After mask processing: 
+4_S01_CD57.svs__1_23920_86710_NUC.tif:   max:   255  mean: 42.4799
+Time:    14:28:16
+4_S01_CD57.svs__1_23920_89700_NUC.tif
+  
+  
+Start time:    
+Time:    14:28:16
+4_S01_CD57.svs__1_23920_89700.tif
+Before mask processing: 
+4_S01_CD57.svs__1_23920_89700_NUC.tif:   max:   255  mean: 179.8331
+After mask processing: 
+4_S01_CD57.svs__1_23920_89700_NUC.tif:   max:   255  mean: 36.2081
+Time:    14:28:23
+4_S01_CD57.svs__1_23920_92690_NUC.tif
+  
+  
+Start time:    
+Time:    14:28:23
+4_S01_CD57.svs__1_23920_92690.tif
+Before mask processing: 
+4_S01_CD57.svs__1_23920_92690_NUC.tif:   max:   255  mean: 222.9477
+After mask processing: 
+4_S01_CD57.svs__1_23920_92690_NUC.tif:   max:   255  mean: 13.5856
+Time:    14:28:29
+4_S01_CD57.svs__1_26910_101660_NUC.tif
+  
+  
+Start time:    
+Time:    14:28:29
+4_S01_CD57.svs__1_26910_101660.tif
+Before mask processing: 
+4_S01_CD57.svs__1_26910_101660_NUC.tif:   max:   255  mean: 180.8047
+After mask processing: 
+4_S01_CD57.svs__1_26910_101660_NUC.tif:   max:   255  mean: 28.9683
+Time:    14:28:36
+4_S01_CD57.svs__1_26910_104650_NUC.tif
+  
+  
+Start time:    
+Time:    14:28:36
+4_S01_CD57.svs__1_26910_104650.tif
+Before mask processing: 
+4_S01_CD57.svs__1_26910_104650_NUC.tif:   max:   255  mean: 207.9167
+After mask processing: 
+4_S01_CD57.svs__1_26910_104650_NUC.tif:   max:   255  mean: 29.9754
+Time:    14:28:42
+4_S01_CD57.svs__1_26910_20930_NUC.tif
+  
+  
+Start time:    
+Time:    14:28:42
+4_S01_CD57.svs__1_26910_20930.tif
+Before mask processing: 
+4_S01_CD57.svs__1_26910_20930_NUC.tif:   max:   255  mean: 199.8309
+After mask processing: 
+4_S01_CD57.svs__1_26910_20930_NUC.tif:   max:   255  mean: 23.034
+Time:    14:28:47
+4_S01_CD57.svs__1_26910_23920_NUC.tif
+  
+  
+Start time:    
+Time:    14:28:47
+4_S01_CD57.svs__1_26910_23920.tif
+Before mask processing: 
+4_S01_CD57.svs__1_26910_23920_NUC.tif:   max:   255  mean: 247.2471
+After mask processing: 
+4_S01_CD57.svs__1_26910_23920_NUC.tif:   max:   255  mean: 3.3999
+Time:    14:28:49
+4_S01_CD57.svs__1_26910_26910_NUC.tif
+  
+  
+Start time:    
+Time:    14:28:49
+4_S01_CD57.svs__1_26910_26910.tif
+Before mask processing: 
+4_S01_CD57.svs__1_26910_26910_NUC.tif:   max:   255  mean: 75.985
+After mask processing: 
+4_S01_CD57.svs__1_26910_26910_NUC.tif:   max:   255  mean: 69.0615
+Time:    14:28:51
+4_S01_CD57.svs__1_26910_2990_NUC.tif
+  
+  
+Start time:    
+Time:    14:28:51
+4_S01_CD57.svs__1_26910_2990.tif
+Before mask processing: 
+4_S01_CD57.svs__1_26910_2990_NUC.tif:   max:   255  mean: 125.3498
+After mask processing: 
+4_S01_CD57.svs__1_26910_2990_NUC.tif:   max:   255  mean: 54.2276
+Time:    14:28:53
+4_S01_CD57.svs__1_26910_41860_NUC.tif
+  
+  
+Start time:    
+Time:    14:28:53
+4_S01_CD57.svs__1_26910_41860.tif
+Before mask processing: 
+4_S01_CD57.svs__1_26910_41860_NUC.tif:   max:   255  mean: 86.5994
+After mask processing: 
+4_S01_CD57.svs__1_26910_41860_NUC.tif:   max:   255  mean: 81.6709
+Time:    14:28:55
+4_S01_CD57.svs__1_26910_89700_NUC.tif
+  
+  
+Start time:    
+Time:    14:28:55
+4_S01_CD57.svs__1_26910_89700.tif
+Before mask processing: 
+4_S01_CD57.svs__1_26910_89700_NUC.tif:   max:   255  mean: 85.004
+After mask processing: 
+4_S01_CD57.svs__1_26910_89700_NUC.tif:   max:   255  mean: 61.6993
+Time:    14:28:56
+4_S01_CD57.svs__1_26910_92690_NUC.tif
+  
+  
+Start time:    
+Time:    14:28:56
+4_S01_CD57.svs__1_26910_92690.tif
+Before mask processing: 
+4_S01_CD57.svs__1_26910_92690_NUC.tif:   max:   255  mean: 75.0255
+After mask processing: 
+4_S01_CD57.svs__1_26910_92690_NUC.tif:   max:   255  mean: 71.924
+Time:    14:28:58
+4_S01_CD57.svs__1_26910_95680_NUC.tif
+  
+  
+Start time:    
+Time:    14:28:58
+4_S01_CD57.svs__1_26910_95680.tif
+Before mask processing: 
+4_S01_CD57.svs__1_26910_95680_NUC.tif:   max:   255  mean: 121.2076
+After mask processing: 
+4_S01_CD57.svs__1_26910_95680_NUC.tif:   max:   255  mean: 55.9505
+Time:    14:29:03
+4_S01_CD57.svs__1_26910_98670_NUC.tif
+  
+  
+Start time:    
+Time:    14:29:03
+4_S01_CD57.svs__1_26910_98670.tif
+Before mask processing: 
+4_S01_CD57.svs__1_26910_98670_NUC.tif:   max:   255  mean: 163.3445
+After mask processing: 
+4_S01_CD57.svs__1_26910_98670_NUC.tif:   max:   255  mean: 38.9703
+Time:    14:29:10
+4_S01_CD57.svs__1_29900_104650_NUC.tif
+  
+  
+Start time:    
+Time:    14:29:10
+4_S01_CD57.svs__1_29900_104650.tif
+Before mask processing: 
+4_S01_CD57.svs__1_29900_104650_NUC.tif:   max:   255  mean: 87.5572
+After mask processing: 
+4_S01_CD57.svs__1_29900_104650_NUC.tif:   max:   255  mean: 73.8837
+Time:    14:29:12
+4_S01_CD57.svs__1_29900_107640_NUC.tif
+  
+  
+Start time:    
+Time:    14:29:12
+4_S01_CD57.svs__1_29900_107640.tif
+Before mask processing: 
+4_S01_CD57.svs__1_29900_107640_NUC.tif:   max:   255  mean: 184.0151
+After mask processing: 
+4_S01_CD57.svs__1_29900_107640_NUC.tif:   max:   255  mean: 32.5466
+Time:    14:29:18
+4_S01_CD57.svs__1_29900_110630_NUC.tif
+  
+  
+Start time:    
+Time:    14:29:18
+4_S01_CD57.svs__1_29900_110630.tif
+Before mask processing: 
+4_S01_CD57.svs__1_29900_110630_NUC.tif:   max:   255  mean: 170.93
+After mask processing: 
+4_S01_CD57.svs__1_29900_110630_NUC.tif:   max:   255  mean: 40.4757
+Time:    14:29:25
+4_S01_CD57.svs__1_29900_20930_NUC.tif
+  
+  
+Start time:    
+Time:    14:29:25
+4_S01_CD57.svs__1_29900_20930.tif
+Before mask processing: 
+4_S01_CD57.svs__1_29900_20930_NUC.tif:   max:   255  mean: 71.8526
+After mask processing: 
+4_S01_CD57.svs__1_29900_20930_NUC.tif:   max:   255  mean: 70.1647
+Time:    14:29:27
+4_S01_CD57.svs__1_29900_23920_NUC.tif
+  
+  
+Start time:    
+Time:    14:29:27
+4_S01_CD57.svs__1_29900_23920.tif
+Before mask processing: 
+4_S01_CD57.svs__1_29900_23920_NUC.tif:   max:   255  mean: 80.283
+After mask processing: 
+4_S01_CD57.svs__1_29900_23920_NUC.tif:   max:   255  mean: 62.8298
+Time:    14:29:32
+4_S01_CD57.svs__1_29900_2990_NUC.tif
+  
+  
+Start time:    
+Time:    14:29:32
+4_S01_CD57.svs__1_29900_2990.tif
+Before mask processing: 
+4_S01_CD57.svs__1_29900_2990_NUC.tif:   max:   255  mean: 116.9789
+After mask processing: 
+4_S01_CD57.svs__1_29900_2990_NUC.tif:   max:   255  mean: 50.6793
+Time:    14:29:35
+4_S01_CD57.svs__1_29900_38870_NUC.tif
+  
+  
+Start time:    
+Time:    14:29:35
+4_S01_CD57.svs__1_29900_38870.tif
+Before mask processing: 
+4_S01_CD57.svs__1_29900_38870_NUC.tif:   max:   255  mean: 107.7509
+After mask processing: 
+4_S01_CD57.svs__1_29900_38870_NUC.tif:   max:   255  mean: 58.9651
+Time:    14:29:36
+4_S01_CD57.svs__1_29900_41860_NUC.tif
+  
+  
+Start time:    
+Time:    14:29:36
+4_S01_CD57.svs__1_29900_41860.tif
+Before mask processing: 
+4_S01_CD57.svs__1_29900_41860_NUC.tif:   max:   255  mean: 246.8167
+After mask processing: 
+4_S01_CD57.svs__1_29900_41860_NUC.tif:   max:   220  mean: 11.7491
+Time:    14:29:38
+4_S01_CD57.svs__1_29900_44850_NUC.tif
+  
+  
+Start time:    
+Time:    14:29:38
+4_S01_CD57.svs__1_29900_44850.tif
+Before mask processing: 
+4_S01_CD57.svs__1_29900_44850_NUC.tif:   max:   255  mean: 119.8502
+After mask processing: 
+4_S01_CD57.svs__1_29900_44850_NUC.tif:   max:   255  mean: 68.0711
+Time:    14:29:40
+4_S01_CD57.svs__1_29900_89700_NUC.tif
+  
+  
+Start time:    
+Time:    14:29:40
+4_S01_CD57.svs__1_29900_89700.tif
+Before mask processing: 
+4_S01_CD57.svs__1_29900_89700_NUC.tif:   max:   255  mean: 235.9676
+After mask processing: 
+4_S01_CD57.svs__1_29900_89700_NUC.tif:   max:   255  mean: 10.5777
+Time:    14:29:42
+4_S01_CD57.svs__1_29900_92690_NUC.tif
+  
+  
+Start time:    
+Time:    14:29:42
+4_S01_CD57.svs__1_29900_92690.tif
+Before mask processing: 
+4_S01_CD57.svs__1_29900_92690_NUC.tif:   max:   255  mean: 216.8623
+After mask processing: 
+4_S01_CD57.svs__1_29900_92690_NUC.tif:   max:   255  mean: 45.8807
+Time:    14:29:44
+4_S01_CD57.svs__1_32890_113620_NUC.tif
+  
+  
+Start time:    
+Time:    14:29:44
+4_S01_CD57.svs__1_32890_113620.tif
+Before mask processing: 
+4_S01_CD57.svs__1_32890_113620_NUC.tif:   max:   255  mean: 91.8667
+After mask processing: 
+4_S01_CD57.svs__1_32890_113620_NUC.tif:   max:   255  mean: 55.6917
+Time:    14:29:49
+4_S01_CD57.svs__1_32890_116610_NUC.tif
+  
+  
+Start time:    
+Time:    14:29:49
+4_S01_CD57.svs__1_32890_116610.tif
+Before mask processing: 
+4_S01_CD57.svs__1_32890_116610_NUC.tif:   max:   255  mean: 180.308
+After mask processing: 
+4_S01_CD57.svs__1_32890_116610_NUC.tif:   max:   255  mean: 37.7387
+Time:    14:29:56
+4_S01_CD57.svs__1_32890_119600_NUC.tif
+  
+  
+Start time:    
+Time:    14:29:56
+4_S01_CD57.svs__1_32890_119600.tif
+Before mask processing: 
+4_S01_CD57.svs__1_32890_119600_NUC.tif:   max:   255  mean: 233.7952
+After mask processing: 
+4_S01_CD57.svs__1_32890_119600_NUC.tif:   max:   204  mean: 6.0694
+Time:    14:29:57
+4_S01_CD57.svs__1_32890_23920_NUC.tif
+  
+  
+Start time:    
+Time:    14:29:57
+4_S01_CD57.svs__1_32890_23920.tif
+Before mask processing: 
+4_S01_CD57.svs__1_32890_23920_NUC.tif:   max:   255  mean: 117.3687
+After mask processing: 
+4_S01_CD57.svs__1_32890_23920_NUC.tif:   max:   255  mean: 54.024
+Time:    14:29:59
+4_S01_CD57.svs__1_32890_26910_NUC.tif
+  
+  
+Start time:    
+Time:    14:29:59
+4_S01_CD57.svs__1_32890_26910.tif
+Before mask processing: 
+4_S01_CD57.svs__1_32890_26910_NUC.tif:   max:   255  mean: 168.4793
+After mask processing: 
+4_S01_CD57.svs__1_32890_26910_NUC.tif:   max:   255  mean: 45.8421
+Time:    14:30:01
+4_S01_CD57.svs__1_32890_29900_NUC.tif
+  
+  
+Start time:    
+Time:    14:30:01
+4_S01_CD57.svs__1_32890_29900.tif
+Before mask processing: 
+4_S01_CD57.svs__1_32890_29900_NUC.tif:   max:   255  mean: 76.2074
+After mask processing: 
+4_S01_CD57.svs__1_32890_29900_NUC.tif:   max:   255  mean: 62.9292
+Time:    14:30:03
+4_S01_CD57.svs__1_32890_2990_NUC.tif
+  
+  
+Start time:    
+Time:    14:30:03
+4_S01_CD57.svs__1_32890_2990.tif
+Before mask processing: 
+4_S01_CD57.svs__1_32890_2990_NUC.tif:   max:   255  mean: 141.8647
+After mask processing: 
+4_S01_CD57.svs__1_32890_2990_NUC.tif:   max:   255  mean: 48.2212
+Time:    14:30:05
+4_S01_CD57.svs__1_32890_38870_NUC.tif
+  
+  
+Start time:    
+Time:    14:30:05
+4_S01_CD57.svs__1_32890_38870.tif
+Before mask processing: 
+4_S01_CD57.svs__1_32890_38870_NUC.tif:   max:   255  mean: 90.4341
+After mask processing: 
+4_S01_CD57.svs__1_32890_38870_NUC.tif:   max:   255  mean: 57.3332
+Time:    14:30:09
+4_S01_CD57.svs__1_32890_41860_NUC.tif
+  
+  
+Start time:    
+Time:    14:30:09
+4_S01_CD57.svs__1_32890_41860.tif
+Before mask processing: 
+4_S01_CD57.svs__1_32890_41860_NUC.tif:   max:   255  mean: 133.9717
+After mask processing: 
+4_S01_CD57.svs__1_32890_41860_NUC.tif:   max:   255  mean: 66.0698
+Time:    14:30:16
+4_S01_CD57.svs__1_32890_86710_NUC.tif
+  
+  
+Start time:    
+Time:    14:30:16
+4_S01_CD57.svs__1_32890_86710.tif
+Before mask processing: 
+4_S01_CD57.svs__1_32890_86710_NUC.tif:   max:   255  mean: 71.428
+After mask processing: 
+4_S01_CD57.svs__1_32890_86710_NUC.tif:   max:   255  mean: 65.5703
+Time:    14:30:18
+4_S01_CD57.svs__1_32890_89700_NUC.tif
+  
+  
+Start time:    
+Time:    14:30:18
+4_S01_CD57.svs__1_32890_89700.tif
+Before mask processing: 
+4_S01_CD57.svs__1_32890_89700_NUC.tif:   max:   255  mean: 183.9282
+After mask processing: 
+4_S01_CD57.svs__1_32890_89700_NUC.tif:   max:   255  mean: 44.6804
+Time:    14:30:24
+4_S01_CD57.svs__1_32890_92690_NUC.tif
+  
+  
+Start time:    
+Time:    14:30:24
+4_S01_CD57.svs__1_32890_92690.tif
+Before mask processing: 
+4_S01_CD57.svs__1_32890_92690_NUC.tif:   max:   255  mean: 136.4563
+After mask processing: 
+4_S01_CD57.svs__1_32890_92690_NUC.tif:   max:   255  mean: 63.1745
+Time:    14:30:29
+4_S01_CD57.svs__1_35880_116610_NUC.tif
+  
+  
+Start time:    
+Time:    14:30:29
+4_S01_CD57.svs__1_35880_116610.tif
+Before mask processing: 
+4_S01_CD57.svs__1_35880_116610_NUC.tif:   max:   255  mean: 70.1615
+After mask processing: 
+4_S01_CD57.svs__1_35880_116610_NUC.tif:   max:   255  mean: 64.9379
+Time:    14:30:30
+4_S01_CD57.svs__1_35880_23920_NUC.tif
+  
+  
+Start time:    
+Time:    14:30:30
+4_S01_CD57.svs__1_35880_23920.tif
+Before mask processing: 
+4_S01_CD57.svs__1_35880_23920_NUC.tif:   max:   255  mean: 182.2535
+After mask processing: 
+4_S01_CD57.svs__1_35880_23920_NUC.tif:   max:   255  mean: 31.8465
+Time:    14:30:34
+4_S01_CD57.svs__1_35880_26910_NUC.tif
+  
+  
+Start time:    
+Time:    14:30:34
+4_S01_CD57.svs__1_35880_26910.tif
+Before mask processing: 
+4_S01_CD57.svs__1_35880_26910_NUC.tif:   max:   255  mean: 216.2772
+After mask processing: 
+4_S01_CD57.svs__1_35880_26910_NUC.tif:   max:   255  mean: 33.0396
+Time:    14:30:39
+4_S01_CD57.svs__1_35880_29900_NUC.tif
+  
+  
+Start time:    
+Time:    14:30:39
+4_S01_CD57.svs__1_35880_29900.tif
+Before mask processing: 
+4_S01_CD57.svs__1_35880_29900_NUC.tif:   max:   255  mean: 73.3134
+After mask processing: 
+4_S01_CD57.svs__1_35880_29900_NUC.tif:   max:   255  mean: 59.41
+Time:    14:30:42
+4_S01_CD57.svs__1_35880_2990_NUC.tif
+  
+  
+Start time:    
+Time:    14:30:42
+4_S01_CD57.svs__1_35880_2990.tif
+Before mask processing: 
+4_S01_CD57.svs__1_35880_2990_NUC.tif:   max:   255  mean: 205.8145
+After mask processing: 
+4_S01_CD57.svs__1_35880_2990_NUC.tif:   max:   255  mean: 28.1499
+Time:    14:30:45
+4_S01_CD57.svs__1_35880_59800_NUC.tif
+  
+  
+Start time:    
+Time:    14:30:45
+4_S01_CD57.svs__1_35880_59800.tif
+Before mask processing: 
+4_S01_CD57.svs__1_35880_59800_NUC.tif:   max:   255  mean: 98.7829
+After mask processing: 
+4_S01_CD57.svs__1_35880_59800_NUC.tif:   max:   255  mean: 62.0993
+Time:    14:30:47
+4_S01_CD57.svs__1_35880_62790_NUC.tif
+  
+  
+Start time:    
+Time:    14:30:47
+4_S01_CD57.svs__1_35880_62790.tif
+Before mask processing: 
+4_S01_CD57.svs__1_35880_62790_NUC.tif:   max:   255  mean: 101.604
+After mask processing: 
+4_S01_CD57.svs__1_35880_62790_NUC.tif:   max:   255  mean: 72.878
+Time:    14:30:48
+4_S01_CD57.svs__1_35880_74750_NUC.tif
+  
+  
+Start time:    
+Time:    14:30:48
+4_S01_CD57.svs__1_35880_74750.tif
+Before mask processing: 
+4_S01_CD57.svs__1_35880_74750_NUC.tif:   max:   255  mean: 87.3179
+After mask processing: 
+4_S01_CD57.svs__1_35880_74750_NUC.tif:   max:   255  mean: 66.4232
+Time:    14:30:50
+4_S01_CD57.svs__1_35880_77740_NUC.tif
+  
+  
+Start time:    
+Time:    14:30:50
+4_S01_CD57.svs__1_35880_77740.tif
+Before mask processing: 
+4_S01_CD57.svs__1_35880_77740_NUC.tif:   max:   255  mean: 209.2306
+After mask processing: 
+4_S01_CD57.svs__1_35880_77740_NUC.tif:   max:   255  mean: 20.4362
+Time:    14:30:51
+4_S01_CD57.svs__1_35880_80730_NUC.tif
+  
+  
+Start time:    
+Time:    14:30:51
+4_S01_CD57.svs__1_35880_80730.tif
+Before mask processing: 
+4_S01_CD57.svs__1_35880_80730_NUC.tif:   max:   255  mean: 120.9995
+After mask processing: 
+4_S01_CD57.svs__1_35880_80730_NUC.tif:   max:   255  mean: 82.4897
+Time:    14:30:53
+4_S01_CD57.svs__1_35880_86710_NUC.tif
+  
+  
+Start time:    
+Time:    14:30:53
+4_S01_CD57.svs__1_35880_86710.tif
+Before mask processing: 
+4_S01_CD57.svs__1_35880_86710_NUC.tif:   max:   255  mean: 191.2746
+After mask processing: 
+4_S01_CD57.svs__1_35880_86710_NUC.tif:   max:   255  mean: 35.8024
+Time:    14:30:56
+4_S01_CD57.svs__1_35880_92690_NUC.tif
+  
+  
+Start time:    
+Time:    14:30:56
+4_S01_CD57.svs__1_35880_92690.tif
+Before mask processing: 
+4_S01_CD57.svs__1_35880_92690_NUC.tif:   max:   255  mean: 119.0233
+After mask processing: 
+4_S01_CD57.svs__1_35880_92690_NUC.tif:   max:   255  mean: 69.3906
+Time:    14:30:58
+4_S01_CD57.svs__1_38870_110630_NUC.tif
+  
+  
+Start time:    
+Time:    14:30:58
+4_S01_CD57.svs__1_38870_110630.tif
+Before mask processing: 
+4_S01_CD57.svs__1_38870_110630_NUC.tif:   max:   255  mean: 71.3659
+After mask processing: 
+4_S01_CD57.svs__1_38870_110630_NUC.tif:   max:   255  mean: 69.6982
+Time:    14:31:00
+4_S01_CD57.svs__1_38870_113620_NUC.tif
+  
+  
+Start time:    
+Time:    14:31:00
+4_S01_CD57.svs__1_38870_113620.tif
+Before mask processing: 
+4_S01_CD57.svs__1_38870_113620_NUC.tif:   max:   255  mean: 186.3572
+After mask processing: 
+4_S01_CD57.svs__1_38870_113620_NUC.tif:   max:   255  mean: 34.8641
+Time:    14:31:01
+4_S01_CD57.svs__1_38870_116610_NUC.tif
+  
+  
+Start time:    
+Time:    14:31:01
+4_S01_CD57.svs__1_38870_116610.tif
+Before mask processing: 
+4_S01_CD57.svs__1_38870_116610_NUC.tif:   max:   255  mean: 208.0106
+After mask processing: 
+4_S01_CD57.svs__1_38870_116610_NUC.tif:   max:   255  mean: 26.5585
+Time:    14:31:03
+4_S01_CD57.svs__1_38870_23920_NUC.tif
+  
+  
+Start time:    
+Time:    14:31:03
+4_S01_CD57.svs__1_38870_23920.tif
+Before mask processing: 
+4_S01_CD57.svs__1_38870_23920_NUC.tif:   max:   255  mean: 60.4823
+After mask processing: 
+4_S01_CD57.svs__1_38870_23920_NUC.tif:   max:   255  mean: 59.4846
+Time:    14:31:05
+4_S01_CD57.svs__1_38870_26910_NUC.tif
+  
+  
+Start time:    
+Time:    14:31:05
+4_S01_CD57.svs__1_38870_26910.tif
+Before mask processing: 
+4_S01_CD57.svs__1_38870_26910_NUC.tif:   max:   255  mean: 58.8606
+After mask processing: 
+4_S01_CD57.svs__1_38870_26910_NUC.tif:   max:   255  mean: 57.4657
+Time:    14:31:07
+4_S01_CD57.svs__1_38870_2990_NUC.tif
+  
+  
+Start time:    
+Time:    14:31:07
+4_S01_CD57.svs__1_38870_2990.tif
+Before mask processing: 
+4_S01_CD57.svs__1_38870_2990_NUC.tif:   max:   255  mean: 211.0114
+After mask processing: 
+4_S01_CD57.svs__1_38870_2990_NUC.tif:   max:   255  mean: 29.3994
+Time:    14:31:10
+4_S01_CD57.svs__1_38870_59800_NUC.tif
+  
+  
+Start time:    
+Time:    14:31:10
+4_S01_CD57.svs__1_38870_59800.tif
+Before mask processing: 
+4_S01_CD57.svs__1_38870_59800_NUC.tif:   max:   255  mean: 222.7794
+After mask processing: 
+4_S01_CD57.svs__1_38870_59800_NUC.tif:   max:   255  mean: 22.79
+Time:    14:31:12
+4_S01_CD57.svs__1_38870_62790_NUC.tif
+  
+  
+Start time:    
+Time:    14:31:12
+4_S01_CD57.svs__1_38870_62790.tif
+Before mask processing: 
+4_S01_CD57.svs__1_38870_62790_NUC.tif:   max:   255  mean: 193.3039
+After mask processing: 
+4_S01_CD57.svs__1_38870_62790_NUC.tif:   max:   255  mean: 52.7298
+Time:    14:31:14
+4_S01_CD57.svs__1_38870_74750_NUC.tif
+  
+  
+Start time:    
+Time:    14:31:14
+4_S01_CD57.svs__1_38870_74750.tif
+Before mask processing: 
+4_S01_CD57.svs__1_38870_74750_NUC.tif:   max:   255  mean: 72.3163
+After mask processing: 
+4_S01_CD57.svs__1_38870_74750_NUC.tif:   max:   255  mean: 58.6515
+Time:    14:31:17
+4_S01_CD57.svs__1_38870_77740_NUC.tif
+  
+  
+Start time:    
+Time:    14:31:17
+4_S01_CD57.svs__1_38870_77740.tif
+Before mask processing: 
+4_S01_CD57.svs__1_38870_77740_NUC.tif:   max:   255  mean: 199.473
+After mask processing: 
+4_S01_CD57.svs__1_38870_77740_NUC.tif:   max:   255  mean: 29.9479
+Time:    14:31:23
+4_S01_CD57.svs__1_38870_80730_NUC.tif
+  
+  
+Start time:    
+Time:    14:31:23
+4_S01_CD57.svs__1_38870_80730.tif
+Before mask processing: 
+4_S01_CD57.svs__1_38870_80730_NUC.tif:   max:   255  mean: 155.7446
+After mask processing: 
+4_S01_CD57.svs__1_38870_80730_NUC.tif:   max:   255  mean: 68.2542
+Time:    14:31:29
+4_S01_CD57.svs__1_38870_86710_NUC.tif
+  
+  
+Start time:    
+Time:    14:31:29
+4_S01_CD57.svs__1_38870_86710.tif
+Before mask processing: 
+4_S01_CD57.svs__1_38870_86710_NUC.tif:   max:   255  mean: 102.7753
+After mask processing: 
+4_S01_CD57.svs__1_38870_86710_NUC.tif:   max:   255  mean: 71.5163
+Time:    14:31:32
+4_S01_CD57.svs__1_38870_89700_NUC.tif
+  
+  
+Start time:    
+Time:    14:31:32
+4_S01_CD57.svs__1_38870_89700.tif
+Before mask processing: 
+4_S01_CD57.svs__1_38870_89700_NUC.tif:   max:   255  mean: 182.5569
+After mask processing: 
+4_S01_CD57.svs__1_38870_89700_NUC.tif:   max:   255  mean: 45.2471
+Time:    14:31:39
+4_S01_CD57.svs__1_38870_92690_NUC.tif
+  
+  
+Start time:    
+Time:    14:31:39
+4_S01_CD57.svs__1_38870_92690.tif
+Before mask processing: 
+4_S01_CD57.svs__1_38870_92690_NUC.tif:   max:   255  mean: 78.2833
+After mask processing: 
+4_S01_CD57.svs__1_38870_92690_NUC.tif:   max:   255  mean: 78.2833
+Time:    14:31:40
+4_S01_CD57.svs__1_41860_110630_NUC.tif
+  
+  
+Start time:    
+Time:    14:31:40
+4_S01_CD57.svs__1_41860_110630.tif
+Before mask processing: 
+4_S01_CD57.svs__1_41860_110630_NUC.tif:   max:   255  mean: 165.8381
+After mask processing: 
+4_S01_CD57.svs__1_41860_110630_NUC.tif:   max:   255  mean: 45.7303
+Time:    14:31:43
+4_S01_CD57.svs__1_41860_2990_NUC.tif
+  
+  
+Start time:    
+Time:    14:31:43
+4_S01_CD57.svs__1_41860_2990.tif
+Before mask processing: 
+4_S01_CD57.svs__1_41860_2990_NUC.tif:   max:   255  mean: 204.5018
+After mask processing: 
+4_S01_CD57.svs__1_41860_2990_NUC.tif:   max:   255  mean: 26.7986
+Time:    14:31:45
+4_S01_CD57.svs__1_41860_59800_NUC.tif
+  
+  
+Start time:    
+Time:    14:31:45
+4_S01_CD57.svs__1_41860_59800.tif
+Before mask processing: 
+4_S01_CD57.svs__1_41860_59800_NUC.tif:   max:   255  mean: 138.1611
+After mask processing: 
+4_S01_CD57.svs__1_41860_59800_NUC.tif:   max:   255  mean: 56.7852
+Time:    14:31:51
+4_S01_CD57.svs__1_41860_62790_NUC.tif
+  
+  
+Start time:    
+Time:    14:31:51
+4_S01_CD57.svs__1_41860_62790.tif
+Before mask processing: 
+4_S01_CD57.svs__1_41860_62790_NUC.tif:   max:   255  mean: 105.2295
+After mask processing: 
+4_S01_CD57.svs__1_41860_62790_NUC.tif:   max:   255  mean: 66.6258
+Time:    14:31:54
+4_S01_CD57.svs__1_41860_86710_NUC.tif
+  
+  
+Start time:    
+Time:    14:31:54
+4_S01_CD57.svs__1_41860_86710.tif
+Before mask processing: 
+4_S01_CD57.svs__1_41860_86710_NUC.tif:   max:   255  mean: 85.8544
+After mask processing: 
+4_S01_CD57.svs__1_41860_86710_NUC.tif:   max:   255  mean: 78.708
+Time:    14:31:55
+4_S01_CD57.svs__1_44850_107640_NUC.tif
+  
+  
+Start time:    
+Time:    14:31:55
+4_S01_CD57.svs__1_44850_107640.tif
+Before mask processing: 
+4_S01_CD57.svs__1_44850_107640_NUC.tif:   max:   255  mean: 115.813
+After mask processing: 
+4_S01_CD57.svs__1_44850_107640_NUC.tif:   max:   255  mean: 109.321
+Time:    14:31:57
+4_S01_CD57.svs__1_44850_110630_NUC.tif
+  
+  
+Start time:    
+Time:    14:31:57
+4_S01_CD57.svs__1_44850_110630.tif
+Before mask processing: 
+4_S01_CD57.svs__1_44850_110630_NUC.tif:   max:   255  mean: 217.4227
+After mask processing: 
+4_S01_CD57.svs__1_44850_110630_NUC.tif:   max:   255  mean: 57.2832
+Time:    14:32:07
+4_S01_CD57.svs__1_44850_2990_NUC.tif
+  
+  
+Start time:    
+Time:    14:32:07
+4_S01_CD57.svs__1_44850_2990.tif
+Before mask processing: 
+4_S01_CD57.svs__1_44850_2990_NUC.tif:   max:   255  mean: 190.948
+After mask processing: 
+4_S01_CD57.svs__1_44850_2990_NUC.tif:   max:   255  mean: 44.1631
+Time:    14:32:11
+4_S01_CD57.svs__1_44850_41860_NUC.tif
+  
+  
+Start time:    
+Time:    14:32:11
+4_S01_CD57.svs__1_44850_41860.tif
+Before mask processing: 
+4_S01_CD57.svs__1_44850_41860_NUC.tif:   max:   255  mean: 67.0738
+After mask processing: 
+4_S01_CD57.svs__1_44850_41860_NUC.tif:   max:   255  mean: 67.0738
+Time:    14:32:13
+4_S01_CD57.svs__1_44850_65780_NUC.tif
+  
+  
+Start time:    
+Time:    14:32:13
+4_S01_CD57.svs__1_44850_65780.tif
+Before mask processing: 
+4_S01_CD57.svs__1_44850_65780_NUC.tif:   max:   255  mean: 74.0634
+After mask processing: 
+4_S01_CD57.svs__1_44850_65780_NUC.tif:   max:   255  mean: 69.2712
+Time:    14:32:15
+4_S01_CD57.svs__1_44850_83720_NUC.tif
+  
+  
+Start time:    
+Time:    14:32:15
+4_S01_CD57.svs__1_44850_83720.tif
+Before mask processing: 
+4_S01_CD57.svs__1_44850_83720_NUC.tif:   max:   255  mean: 127.0852
+After mask processing: 
+4_S01_CD57.svs__1_44850_83720_NUC.tif:   max:   255  mean: 94.8071
+Time:    14:32:16
+4_S01_CD57.svs__1_44850_86710_NUC.tif
+  
+  
+Start time:    
+Time:    14:32:16
+4_S01_CD57.svs__1_44850_86710.tif
+Before mask processing: 
+4_S01_CD57.svs__1_44850_86710_NUC.tif:   max:   255  mean: 240.3305
+After mask processing: 
+4_S01_CD57.svs__1_44850_86710_NUC.tif:   max:   255  mean: 9.3512
+Time:    14:32:18
+4_S01_CD57.svs__1_44850_89700_NUC.tif
+  
+  
+Start time:    
+Time:    14:32:18
+4_S01_CD57.svs__1_44850_89700.tif
+Before mask processing: 
+4_S01_CD57.svs__1_44850_89700_NUC.tif:   max:   255  mean: 235.6495
+After mask processing: 
+4_S01_CD57.svs__1_44850_89700_NUC.tif:   max:   255  mean: 23.0734
+Time:    14:32:19
+4_S01_CD57.svs__1_44850_92690_NUC.tif
+  
+  
+Start time:    
+Time:    14:32:19
+4_S01_CD57.svs__1_44850_92690.tif
+Before mask processing: 
+4_S01_CD57.svs__1_44850_92690_NUC.tif:   max:   255  mean: 119.0688
+After mask processing: 
+4_S01_CD57.svs__1_44850_92690_NUC.tif:   max:   255  mean: 82.7368
+Time:    14:32:21
+4_S01_CD57.svs__1_47840_104650_NUC.tif
+  
+  
+Start time:    
+Time:    14:32:21
+4_S01_CD57.svs__1_47840_104650.tif
+Before mask processing: 
+4_S01_CD57.svs__1_47840_104650_NUC.tif:   max:   255  mean: 167.2968
+After mask processing: 
+4_S01_CD57.svs__1_47840_104650_NUC.tif:   max:   255  mean: 54.1948
+Time:    14:32:22
+4_S01_CD57.svs__1_47840_2990_NUC.tif
+  
+  
+Start time:    
+Time:    14:32:22
+4_S01_CD57.svs__1_47840_2990.tif
+Before mask processing: 
+4_S01_CD57.svs__1_47840_2990_NUC.tif:   max:   255  mean: 233.5361
+After mask processing: 
+4_S01_CD57.svs__1_47840_2990_NUC.tif:   max:   255  mean: 22.9108
+Time:    14:32:26
+4_S01_CD57.svs__1_47840_32890_NUC.tif
+  
+  
+Start time:    
+Time:    14:32:26
+4_S01_CD57.svs__1_47840_32890.tif
+Before mask processing: 
+4_S01_CD57.svs__1_47840_32890_NUC.tif:   max:   255  mean: 80.9146
+After mask processing: 
+4_S01_CD57.svs__1_47840_32890_NUC.tif:   max:   255  mean: 63.8077
+Time:    14:32:28
+4_S01_CD57.svs__1_47840_35880_NUC.tif
+  
+  
+Start time:    
+Time:    14:32:28
+4_S01_CD57.svs__1_47840_35880.tif
+Before mask processing: 
+4_S01_CD57.svs__1_47840_35880_NUC.tif:   max:   255  mean: 99.3017
+After mask processing: 
+4_S01_CD57.svs__1_47840_35880_NUC.tif:   max:   255  mean: 61.1405
+Time:    14:32:30
+4_S01_CD57.svs__1_47840_38870_NUC.tif
+  
+  
+Start time:    
+Time:    14:32:30
+4_S01_CD57.svs__1_47840_38870.tif
+Before mask processing: 
+4_S01_CD57.svs__1_47840_38870_NUC.tif:   max:   255  mean: 86.2092
+After mask processing: 
+4_S01_CD57.svs__1_47840_38870_NUC.tif:   max:   255  mean: 69.8474
+Time:    14:32:31
+4_S01_CD57.svs__1_47840_47840_NUC.tif
+  
+  
+Start time:    
+Time:    14:32:31
+4_S01_CD57.svs__1_47840_47840.tif
+Before mask processing: 
+4_S01_CD57.svs__1_47840_47840_NUC.tif:   max:   255  mean: 209.4192
+After mask processing: 
+4_S01_CD57.svs__1_47840_47840_NUC.tif:   max:   255  mean: 34.492
+Time:    14:32:33
+4_S01_CD57.svs__1_47840_50830_NUC.tif
+  
+  
+Start time:    
+Time:    14:32:33
+4_S01_CD57.svs__1_47840_50830.tif
+Before mask processing: 
+4_S01_CD57.svs__1_47840_50830_NUC.tif:   max:   255  mean: 156.9532
+After mask processing: 
+4_S01_CD57.svs__1_47840_50830_NUC.tif:   max:   255  mean: 53.8041
+Time:    14:32:34
+4_S01_CD57.svs__1_47840_53820_NUC.tif
+  
+  
+Start time:    
+Time:    14:32:34
+4_S01_CD57.svs__1_47840_53820.tif
+Before mask processing: 
+4_S01_CD57.svs__1_47840_53820_NUC.tif:   max:   255  mean: 169.5286
+After mask processing: 
+4_S01_CD57.svs__1_47840_53820_NUC.tif:   max:   255  mean: 45.9527
+Time:    14:32:36
+4_S01_CD57.svs__1_47840_56810_NUC.tif
+  
+  
+Start time:    
+Time:    14:32:36
+4_S01_CD57.svs__1_47840_56810.tif
+Before mask processing: 
+4_S01_CD57.svs__1_47840_56810_NUC.tif:   max:   255  mean: 186.9964
+After mask processing: 
+4_S01_CD57.svs__1_47840_56810_NUC.tif:   max:   255  mean: 48.7481
+Time:    14:32:38
+4_S01_CD57.svs__1_47840_59800_NUC.tif
+  
+  
+Start time:    
+Time:    14:32:38
+4_S01_CD57.svs__1_47840_59800.tif
+Before mask processing: 
+4_S01_CD57.svs__1_47840_59800_NUC.tif:   max:   255  mean: 139.1572
+After mask processing: 
+4_S01_CD57.svs__1_47840_59800_NUC.tif:   max:   255  mean: 54.3258
+Time:    14:32:39
+4_S01_CD57.svs__1_47840_5980_NUC.tif
+  
+  
+Start time:    
+Time:    14:32:39
+4_S01_CD57.svs__1_47840_5980.tif
+Before mask processing: 
+4_S01_CD57.svs__1_47840_5980_NUC.tif:   max:   255  mean: 76.9233
+After mask processing: 
+4_S01_CD57.svs__1_47840_5980_NUC.tif:   max:   255  mean: 48.8919
+Time:    14:32:41
+4_S01_CD57.svs__1_47840_62790_NUC.tif
+  
+  
+Start time:    
+Time:    14:32:41
+4_S01_CD57.svs__1_47840_62790.tif
+Before mask processing: 
+4_S01_CD57.svs__1_47840_62790_NUC.tif:   max:   255  mean: 214.1912
+After mask processing: 
+4_S01_CD57.svs__1_47840_62790_NUC.tif:   max:   255  mean: 27.8833
+Time:    14:32:42
+4_S01_CD57.svs__1_47840_65780_NUC.tif
+  
+  
+Start time:    
+Time:    14:32:42
+4_S01_CD57.svs__1_47840_65780.tif
+Before mask processing: 
+4_S01_CD57.svs__1_47840_65780_NUC.tif:   max:   255  mean: 210.9472
+After mask processing: 
+4_S01_CD57.svs__1_47840_65780_NUC.tif:   max:   255  mean: 24.769
+Time:    14:32:45
+4_S01_CD57.svs__1_47840_80730_NUC.tif
+  
+  
+Start time:    
+Time:    14:32:45
+4_S01_CD57.svs__1_47840_80730.tif
+Before mask processing: 
+4_S01_CD57.svs__1_47840_80730_NUC.tif:   max:   255  mean: 147.4996
+After mask processing: 
+4_S01_CD57.svs__1_47840_80730_NUC.tif:   max:   255  mean: 89.3906
+Time:    14:32:49
+4_S01_CD57.svs__1_50830_101660_NUC.tif
+  
+  
+Start time:    
+Time:    14:32:49
+4_S01_CD57.svs__1_50830_101660.tif
+Before mask processing: 
+4_S01_CD57.svs__1_50830_101660_NUC.tif:   max:   255  mean: 170.8759
+After mask processing: 
+4_S01_CD57.svs__1_50830_101660_NUC.tif:   max:   255  mean: 69.9609
+Time:    14:32:51
+4_S01_CD57.svs__1_50830_23920_NUC.tif
+  
+  
+Start time:    
+Time:    14:32:51
+4_S01_CD57.svs__1_50830_23920.tif
+Before mask processing: 
+4_S01_CD57.svs__1_50830_23920_NUC.tif:   max:   255  mean: 103.5844
+After mask processing: 
+4_S01_CD57.svs__1_50830_23920_NUC.tif:   max:   255  mean: 50.6505
+Time:    14:32:52
+4_S01_CD57.svs__1_50830_26910_NUC.tif
+  
+  
+Start time:    
+Time:    14:32:52
+4_S01_CD57.svs__1_50830_26910.tif
+Before mask processing: 
+4_S01_CD57.svs__1_50830_26910_NUC.tif:   max:   255  mean: 222.2642
+After mask processing: 
+4_S01_CD57.svs__1_50830_26910_NUC.tif:   max:   255  mean: 21.7906
+Time:    14:32:54
+4_S01_CD57.svs__1_50830_32890_NUC.tif
+  
+  
+Start time:    
+Time:    14:32:54
+4_S01_CD57.svs__1_50830_32890.tif
+Before mask processing: 
+4_S01_CD57.svs__1_50830_32890_NUC.tif:   max:   255  mean: 151.3749
+After mask processing: 
+4_S01_CD57.svs__1_50830_32890_NUC.tif:   max:   255  mean: 16.2525
+Time:    14:33:02
+4_S01_CD57.svs__1_50830_35880_NUC.tif
+  
+  
+Start time:    
+Time:    14:33:02
+4_S01_CD57.svs__1_50830_35880.tif
+Before mask processing: 
+4_S01_CD57.svs__1_50830_35880_NUC.tif:   max:   255  mean: 164.4356
+After mask processing: 
+4_S01_CD57.svs__1_50830_35880_NUC.tif:   max:   255  mean: 5.0286
+Time:    14:33:09
+4_S01_CD57.svs__1_50830_38870_NUC.tif
+  
+  
+Start time:    
+Time:    14:33:09
+4_S01_CD57.svs__1_50830_38870.tif
+Before mask processing: 
+4_S01_CD57.svs__1_50830_38870_NUC.tif:   max:   255  mean: 140.2345
+After mask processing: 
+4_S01_CD57.svs__1_50830_38870_NUC.tif:   max:   255  mean: 52.4075
+Time:    14:33:16
+4_S01_CD57.svs__1_50830_41860_NUC.tif
+  
+  
+Start time:    
+Time:    14:33:16
+4_S01_CD57.svs__1_50830_41860.tif
+Before mask processing: 
+4_S01_CD57.svs__1_50830_41860_NUC.tif:   max:   255  mean: 206.0005
+After mask processing: 
+4_S01_CD57.svs__1_50830_41860_NUC.tif:   max:   255  mean: 55.3867
+Time:    14:33:24
+4_S01_CD57.svs__1_50830_44850_NUC.tif
+  
+  
+Start time:    
+Time:    14:33:24
+4_S01_CD57.svs__1_50830_44850.tif
+Before mask processing: 
+4_S01_CD57.svs__1_50830_44850_NUC.tif:   max:   255  mean: 164.5918
+After mask processing: 
+4_S01_CD57.svs__1_50830_44850_NUC.tif:   max:   255  mean: 63.6311
+Time:    14:33:31
+4_S01_CD57.svs__1_50830_5980_NUC.tif
+  
+  
+Start time:    
+Time:    14:33:31
+4_S01_CD57.svs__1_50830_5980.tif
+Before mask processing: 
+4_S01_CD57.svs__1_50830_5980_NUC.tif:   max:   255  mean: 161.2542
+After mask processing: 
+4_S01_CD57.svs__1_50830_5980_NUC.tif:   max:   255  mean: 37.8146
+Time:    14:33:33
+4_S01_CD57.svs__1_50830_68770_NUC.tif
+  
+  
+Start time:    
+Time:    14:33:33
+4_S01_CD57.svs__1_50830_68770.tif
+Before mask processing: 
+4_S01_CD57.svs__1_50830_68770_NUC.tif:   max:   255  mean: 99.247
+After mask processing: 
+4_S01_CD57.svs__1_50830_68770_NUC.tif:   max:   255  mean: 74.4705
+Time:    14:33:35
+4_S01_CD57.svs__1_50830_77740_NUC.tif
+  
+  
+Start time:    
+Time:    14:33:35
+4_S01_CD57.svs__1_50830_77740.tif
+Before mask processing: 
+4_S01_CD57.svs__1_50830_77740_NUC.tif:   max:   255  mean: 109.5423
+After mask processing: 
+4_S01_CD57.svs__1_50830_77740_NUC.tif:   max:   255  mean: 60.9245
+Time:    14:33:37
+4_S01_CD57.svs__1_50830_95680_NUC.tif
+  
+  
+Start time:    
+Time:    14:33:37
+4_S01_CD57.svs__1_50830_95680.tif
+Before mask processing: 
+4_S01_CD57.svs__1_50830_95680_NUC.tif:   max:   255  mean: 96.11
+After mask processing: 
+4_S01_CD57.svs__1_50830_95680_NUC.tif:   max:   255  mean: 96.11
+Time:    14:33:38
+4_S01_CD57.svs__1_50830_98670_NUC.tif
+  
+  
+Start time:    
+Time:    14:33:38
+4_S01_CD57.svs__1_50830_98670.tif
+Before mask processing: 
+4_S01_CD57.svs__1_50830_98670_NUC.tif:   max:   255  mean: 104.2633
+After mask processing: 
+4_S01_CD57.svs__1_50830_98670_NUC.tif:   max:   255  mean: 85.9807
+Time:    14:33:40
+4_S01_CD57.svs__1_53820_11960_NUC.tif
+  
+  
+Start time:    
+Time:    14:33:40
+4_S01_CD57.svs__1_53820_11960.tif
+Before mask processing: 
+4_S01_CD57.svs__1_53820_11960_NUC.tif:   max:   255  mean: 114.6797
+After mask processing: 
+4_S01_CD57.svs__1_53820_11960_NUC.tif:   max:   255  mean: 57.6549
+Time:    14:33:41
+4_S01_CD57.svs__1_53820_14950_NUC.tif
+  
+  
+Start time:    
+Time:    14:33:41
+4_S01_CD57.svs__1_53820_14950.tif
+Before mask processing: 
+4_S01_CD57.svs__1_53820_14950_NUC.tif:   max:   255  mean: 96.0473
+After mask processing: 
+4_S01_CD57.svs__1_53820_14950_NUC.tif:   max:   255  mean: 55.1977
+Time:    14:33:43
+4_S01_CD57.svs__1_53820_17940_NUC.tif
+  
+  
+Start time:    
+Time:    14:33:43
+4_S01_CD57.svs__1_53820_17940.tif
+Before mask processing: 
+4_S01_CD57.svs__1_53820_17940_NUC.tif:   max:   255  mean: 68.835
+After mask processing: 
+4_S01_CD57.svs__1_53820_17940_NUC.tif:   max:   255  mean: 55.6893
+Time:    14:33:44
+4_S01_CD57.svs__1_53820_20930_NUC.tif
+  
+  
+Start time:    
+Time:    14:33:44
+4_S01_CD57.svs__1_53820_20930.tif
+Before mask processing: 
+4_S01_CD57.svs__1_53820_20930_NUC.tif:   max:   255  mean: 184.5497
+After mask processing: 
+4_S01_CD57.svs__1_53820_20930_NUC.tif:   max:   255  mean: 26.7933
+Time:    14:33:46
+4_S01_CD57.svs__1_53820_5980_NUC.tif
+  
+  
+Start time:    
+Time:    14:33:46
+4_S01_CD57.svs__1_53820_5980.tif
+Before mask processing: 
+4_S01_CD57.svs__1_53820_5980_NUC.tif:   max:   255  mean: 241.9908
+After mask processing: 
+4_S01_CD57.svs__1_53820_5980_NUC.tif:   max:   255  mean: 14.5008
+Time:    14:33:48
+4_S01_CD57.svs__1_53820_71760_NUC.tif
+  
+  
+Start time:    
+Time:    14:33:48
+4_S01_CD57.svs__1_53820_71760.tif
+Before mask processing: 
+4_S01_CD57.svs__1_53820_71760_NUC.tif:   max:   255  mean: 198.7818
+After mask processing: 
+4_S01_CD57.svs__1_53820_71760_NUC.tif:   max:   255  mean: 36.8077
+Time:    14:33:50
+4_S01_CD57.svs__1_53820_74750_NUC.tif
+  
+  
+Start time:    
+Time:    14:33:50
+4_S01_CD57.svs__1_53820_74750.tif
+Before mask processing: 
+4_S01_CD57.svs__1_53820_74750_NUC.tif:   max:   255  mean: 167.4948
+After mask processing: 
+4_S01_CD57.svs__1_53820_74750_NUC.tif:   max:   255  mean: 47.8677
+Time:    14:33:51
+4_S01_CD57.svs__1_53820_77740_NUC.tif
+  
+  
+Start time:    
+Time:    14:33:51
+4_S01_CD57.svs__1_53820_77740.tif
+Before mask processing: 
+4_S01_CD57.svs__1_53820_77740_NUC.tif:   max:   255  mean: 186.1141
+After mask processing: 
+4_S01_CD57.svs__1_53820_77740_NUC.tif:   max:   255  mean: 89.0262
+Time:    14:33:56
+4_S01_CD57.svs__1_53820_8970_NUC.tif
+  
+  
+Start time:    
+Time:    14:33:56
+4_S01_CD57.svs__1_53820_8970.tif
+Before mask processing: 
+4_S01_CD57.svs__1_53820_8970_NUC.tif:   max:   255  mean: 104.342
+After mask processing: 
+4_S01_CD57.svs__1_53820_8970_NUC.tif:   max:   255  mean: 66.7606
+Time:    14:33:58
+4_S01_CD57.svs__1_53820_95680_NUC.tif
+  
+  
+Start time:    
+Time:    14:33:58
+4_S01_CD57.svs__1_53820_95680.tif
+Before mask processing: 
+4_S01_CD57.svs__1_53820_95680_NUC.tif:   max:   255  mean: 199.7773
+After mask processing: 
+4_S01_CD57.svs__1_53820_95680_NUC.tif:   max:   255  mean: 49.036
+Time:    14:33:59
+4_S01_CD57.svs__1_53820_98670_NUC.tif
+  
+  
+Start time:    
+Time:    14:33:59
+4_S01_CD57.svs__1_53820_98670.tif
+Before mask processing: 
+4_S01_CD57.svs__1_53820_98670_NUC.tif:   max:   255  mean: 217.647
+After mask processing: 
+4_S01_CD57.svs__1_53820_98670_NUC.tif:   max:   255  mean: 55.5102
+Time:    14:34:03
+4_S01_CD57.svs__1_56810_14950_NUC.tif
+  
+  
+Start time:    
+Time:    14:34:03
+4_S01_CD57.svs__1_56810_14950.tif
+Before mask processing: 
+4_S01_CD57.svs__1_56810_14950_NUC.tif:   max:   255  mean: 215.9778
+After mask processing: 
+4_S01_CD57.svs__1_56810_14950_NUC.tif:   max:   255  mean: 19.1328
+Time:    14:34:05
+4_S01_CD57.svs__1_56810_17940_NUC.tif
+  
+  
+Start time:    
+Time:    14:34:05
+4_S01_CD57.svs__1_56810_17940.tif
+Before mask processing: 
+4_S01_CD57.svs__1_56810_17940_NUC.tif:   max:   255  mean: 211.7886
+After mask processing: 
+4_S01_CD57.svs__1_56810_17940_NUC.tif:   max:   255  mean: 20.9975
+Time:    14:34:07
+4_S01_CD57.svs__1_5980_11960_NUC.tif
+  
+  
+Start time:    
+Time:    14:34:07
+4_S01_CD57.svs__1_5980_11960.tif
+Before mask processing: 
+4_S01_CD57.svs__1_5980_11960_NUC.tif:   max:   255  mean: 148.6593
+After mask processing: 
+4_S01_CD57.svs__1_5980_11960_NUC.tif:   max:   255  mean: 48.3961
+Time:    14:34:13
+4_S01_CD57.svs__1_5980_14950_NUC.tif
+  
+  
+Start time:    
+Time:    14:34:13
+4_S01_CD57.svs__1_5980_14950.tif
+Before mask processing: 
+4_S01_CD57.svs__1_5980_14950_NUC.tif:   max:   255  mean: 129.0428
+After mask processing: 
+4_S01_CD57.svs__1_5980_14950_NUC.tif:   max:   255  mean: 49.6239
+Time:    14:34:21
+4_S01_CD57.svs__1_5980_17940_NUC.tif
+  
+  
+Start time:    
+Time:    14:34:21
+4_S01_CD57.svs__1_5980_17940.tif
+Before mask processing: 
+4_S01_CD57.svs__1_5980_17940_NUC.tif:   max:   255  mean: 115.8329
+After mask processing: 
+4_S01_CD57.svs__1_5980_17940_NUC.tif:   max:   255  mean: 57.6856
+Time:    14:34:28
+4_S01_CD57.svs__1_5980_20930_NUC.tif
+  
+  
+Start time:    
+Time:    14:34:28
+4_S01_CD57.svs__1_5980_20930.tif
+Before mask processing: 
+4_S01_CD57.svs__1_5980_20930_NUC.tif:   max:   255  mean: 124.6117
+After mask processing: 
+4_S01_CD57.svs__1_5980_20930_NUC.tif:   max:   255  mean: 59.071
+Time:    14:34:36
+4_S01_CD57.svs__1_5980_23920_NUC.tif
+  
+  
+Start time:    
+Time:    14:34:36
+4_S01_CD57.svs__1_5980_23920.tif
+Before mask processing: 
+4_S01_CD57.svs__1_5980_23920_NUC.tif:   max:   255  mean: 179.0263
+After mask processing: 
+4_S01_CD57.svs__1_5980_23920_NUC.tif:   max:   255  mean: 35.6064
+Time:    14:34:44
+4_S01_CD57.svs__1_5980_26910_NUC.tif
+  
+  
+Start time:    
+Time:    14:34:44
+4_S01_CD57.svs__1_5980_26910.tif
+Before mask processing: 
+4_S01_CD57.svs__1_5980_26910_NUC.tif:   max:   255  mean: 219.9554
+After mask processing: 
+4_S01_CD57.svs__1_5980_26910_NUC.tif:   max:   255  mean: 19.1648
+Time:    14:34:50
+4_S01_CD57.svs__1_5980_29900_NUC.tif
+  
+  
+Start time:    
+Time:    14:34:50
+4_S01_CD57.svs__1_5980_29900.tif
+Before mask processing: 
+4_S01_CD57.svs__1_5980_29900_NUC.tif:   max:   255  mean: 183.9029
+After mask processing: 
+4_S01_CD57.svs__1_5980_29900_NUC.tif:   max:   255  mean: 34.7844
+Time:    14:34:57
+4_S01_CD57.svs__1_5980_2990_NUC.tif
+  
+  
+Start time:    
+Time:    14:34:57
+4_S01_CD57.svs__1_5980_2990.tif
+Before mask processing: 
+4_S01_CD57.svs__1_5980_2990_NUC.tif:   max:   255  mean: 135.8763
+After mask processing: 
+4_S01_CD57.svs__1_5980_2990_NUC.tif:   max:   255  mean: 102.2554
+Time:    14:35:03
+4_S01_CD57.svs__1_5980_32890_NUC.tif
+  
+  
+Start time:    
+Time:    14:35:03
+4_S01_CD57.svs__1_5980_32890.tif
+Before mask processing: 
+4_S01_CD57.svs__1_5980_32890_NUC.tif:   max:   255  mean: 243.9125
+After mask processing: 
+4_S01_CD57.svs__1_5980_32890_NUC.tif:   max:   255  mean: 9.4668
+Time:    14:35:06
+4_S01_CD57.svs__1_5980_35880_NUC.tif
+  
+  
+Start time:    
+Time:    14:35:06
+4_S01_CD57.svs__1_5980_35880.tif
+Before mask processing: 
+4_S01_CD57.svs__1_5980_35880_NUC.tif:   max:   255  mean: 229.096
+After mask processing: 
+4_S01_CD57.svs__1_5980_35880_NUC.tif:   max:   255  mean: 15.3937
+Time:    14:35:14
+4_S01_CD57.svs__1_5980_5980_NUC.tif
+  
+  
+Start time:    
+Time:    14:35:14
+4_S01_CD57.svs__1_5980_5980.tif
+Before mask processing: 
+4_S01_CD57.svs__1_5980_5980_NUC.tif:   max:   255  mean: 150.2033
+After mask processing: 
+4_S01_CD57.svs__1_5980_5980_NUC.tif:   max:   255  mean: 88.0487
+Time:    14:35:20
+4_S01_CD57.svs__1_5980_8970_NUC.tif
+  
+  
+Start time:    
+Time:    14:35:20
+4_S01_CD57.svs__1_5980_8970.tif
+Before mask processing: 
+4_S01_CD57.svs__1_5980_8970_NUC.tif:   max:   255  mean: 157.8558
+After mask processing: 
+4_S01_CD57.svs__1_5980_8970_NUC.tif:   max:   255  mean: 48.7525
+Time:    14:35:27
+4_S01_CD57.svs__1_8970_26910_NUC.tif
+  
+  
+Start time:    
+Time:    14:35:27
+4_S01_CD57.svs__1_8970_26910.tif
+Before mask processing: 
+4_S01_CD57.svs__1_8970_26910_NUC.tif:   max:   255  mean: 70.1345
+After mask processing: 
+4_S01_CD57.svs__1_8970_26910_NUC.tif:   max:   255  mean: 70.1345
+Time:    14:35:29
+4_S01_CD57.svs__1_8970_29900_NUC.tif
+  
+  
+Start time:    
+Time:    14:35:29
+4_S01_CD57.svs__1_8970_29900.tif
+Before mask processing: 
+4_S01_CD57.svs__1_8970_29900_NUC.tif:   max:   255  mean: 77.1999
+After mask processing: 
+4_S01_CD57.svs__1_8970_29900_NUC.tif:   max:   255  mean: 68.4396
+Time:    14:35:31
+4_S01_CD57.svs__1_8970_2990_NUC.tif
+  
+  
+Start time:    
+Time:    14:35:31
+4_S01_CD57.svs__1_8970_2990.tif
+Before mask processing: 
+4_S01_CD57.svs__1_8970_2990_NUC.tif:   max:   255  mean: 115.1425
+After mask processing: 
+4_S01_CD57.svs__1_8970_2990_NUC.tif:   max:   255  mean: 80.2067
+Time:    14:35:33
+4_S01_CD57.svs__1_8970_32890_NUC.tif
+  
+  
+Start time:    
+Time:    14:35:33
+4_S01_CD57.svs__1_8970_32890.tif
+Before mask processing: 
+4_S01_CD57.svs__1_8970_32890_NUC.tif:   max:   255  mean: 100.1644
+After mask processing: 
+4_S01_CD57.svs__1_8970_32890_NUC.tif:   max:   255  mean: 63.1582
+Time:    14:35:38
+4_S01_CD57.svs__1_8970_38870_NUC.tif
+  
+  
+Start time:    
+Time:    14:35:38
+4_S01_CD57.svs__1_8970_38870.tif
+Before mask processing: 
+4_S01_CD57.svs__1_8970_38870_NUC.tif:   max:   255  mean: 91.1551
+After mask processing: 
+4_S01_CD57.svs__1_8970_38870_NUC.tif:   max:   255  mean: 64.8135
+Time:    14:35:41
+4_S01_CD57.svs__1_8970_41860_NUC.tif
+  
+  
+Start time:    
+Time:    14:35:41
+4_S01_CD57.svs__1_8970_41860.tif
+Before mask processing: 
+4_S01_CD57.svs__1_8970_41860_NUC.tif:   max:   255  mean: 155.5577
+After mask processing: 
+4_S01_CD57.svs__1_8970_41860_NUC.tif:   max:   255  mean: 41.4195
+Time:    14:35:48
+Completed
+Completed

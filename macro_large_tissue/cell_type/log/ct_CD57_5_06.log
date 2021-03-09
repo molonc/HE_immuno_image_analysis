@@ -1,0 +1,3800 @@
+/Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/NUC_SEG/
+Detect cell types
+Working dir: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/NUC_SEG/
+
+Main dir: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/
+
+/Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CD57/
+/Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/NUC_SEG/
+_______________________________________
+
+Nb of processing images: 70
+
+_______________________________________
+
+0
+5_06_CD57.svs__1_11960_29900
+5_06_CD57.svs__1_11960_29900_SEG.tif
+Time:    19:51:16
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_11960_29900_SEG
+marker img: 5_06_CD57.svs__1_11960_29900_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_11960_29900
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 576375
+\Update:Voxels to process : 551664
+\Update:Voxels to process : 517519
+\Update:Voxels to process : 485631
+\Update:Voxels to process : 469223
+\Update:Voxels to process : 458103
+\Update:Voxels to process : 439940
+\Update:Voxels to process : 427932
+\Update:Voxels to process : 411309
+\Update:Voxels to process : 396679
+\Update:Voxels to process : 375232
+\Update:Voxels to process : 360795
+\Update:Voxels to process : 336137
+\Update:Voxels to process : 317097
+\Update:Voxels to process : 300015
+\Update:Voxels to process : 278298
+\Update:Voxels to process : 258459
+\Update:Voxels to process : 236186
+\Update:Voxels to process : 205186
+\Update:Voxels to process : 180075
+\Update:Voxels to process : 152838
+\Update:Voxels to process : 123806
+\Update:Voxels to process : 87797
+\Update:Voxels to process : 50353
+\Update:Voxels to process : 7937
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2481
+Nb of each cells type: 0   Unlabelled: 2481
+====================================================================
+
+Time of execution is: 32.005
+Time:    19:51:48
+ 
+_______________________________________
+
+1
+5_06_CD57.svs__1_11960_32890
+5_06_CD57.svs__1_11960_32890_SEG.tif
+Time:    19:51:48
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_11960_32890_SEG
+marker img: 5_06_CD57.svs__1_11960_32890_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_11960_32890
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 584831
+\Update:Voxels to process : 572534
+\Update:Voxels to process : 532556
+\Update:Voxels to process : 496585
+\Update:Voxels to process : 471746
+\Update:Voxels to process : 449916
+\Update:Voxels to process : 440274
+\Update:Voxels to process : 408596
+\Update:Voxels to process : 385731
+\Update:Voxels to process : 354862
+\Update:Voxels to process : 333508
+\Update:Voxels to process : 301579
+\Update:Voxels to process : 279772
+\Update:Voxels to process : 255717
+\Update:Voxels to process : 227118
+\Update:Voxels to process : 205473
+\Update:Voxels to process : 180093
+\Update:Voxels to process : 165163
+\Update:Voxels to process : 135742
+\Update:Voxels to process : 108004
+\Update:Voxels to process : 79488
+\Update:Voxels to process : 48383
+\Update:Voxels to process : 2090
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2559
+Nb of each cells type: 1   Unlabelled: 2558
+====================================================================
+
+Time of execution is: 29.54
+Time:    19:52:17
+ 
+_______________________________________
+
+2
+5_06_CD57.svs__1_11960_35880
+5_06_CD57.svs__1_11960_35880_SEG.tif
+Time:    19:52:17
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_11960_35880_SEG
+marker img: 5_06_CD57.svs__1_11960_35880_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_11960_35880
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 521686
+\Update:Voxels to process : 500184
+\Update:Voxels to process : 463883
+\Update:Voxels to process : 438041
+\Update:Voxels to process : 420219
+\Update:Voxels to process : 394620
+\Update:Voxels to process : 379217
+\Update:Voxels to process : 353018
+\Update:Voxels to process : 338367
+\Update:Voxels to process : 311783
+\Update:Voxels to process : 293026
+\Update:Voxels to process : 265195
+\Update:Voxels to process : 255406
+\Update:Voxels to process : 232902
+\Update:Voxels to process : 203556
+\Update:Voxels to process : 180762
+\Update:Voxels to process : 155738
+\Update:Voxels to process : 131054
+\Update:Voxels to process : 104481
+\Update:Voxels to process : 79136
+\Update:Voxels to process : 49362
+\Update:Voxels to process : 15015
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2219
+Nb of each cells type: 0   Unlabelled: 2219
+====================================================================
+
+Time of execution is: 29.243
+Time:    19:52:46
+ 
+_______________________________________
+
+3
+5_06_CD57.svs__1_14950_14950
+5_06_CD57.svs__1_14950_14950_SEG.tif
+Time:    19:52:46
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_14950_14950_SEG
+marker img: 5_06_CD57.svs__1_14950_14950_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_14950_14950
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 607293
+\Update:Voxels to process : 577221
+\Update:Voxels to process : 537199
+\Update:Voxels to process : 496382
+\Update:Voxels to process : 469938
+\Update:Voxels to process : 439913
+\Update:Voxels to process : 410517
+\Update:Voxels to process : 387755
+\Update:Voxels to process : 354998
+\Update:Voxels to process : 335229
+\Update:Voxels to process : 304064
+\Update:Voxels to process : 278206
+\Update:Voxels to process : 248251
+\Update:Voxels to process : 219405
+\Update:Voxels to process : 190698
+\Update:Voxels to process : 164187
+\Update:Voxels to process : 136923
+\Update:Voxels to process : 108266
+\Update:Voxels to process : 76297
+\Update:Voxels to process : 45829
+\Update:Voxels to process : 11264
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2719
+Nb of each cells type: 0   Unlabelled: 2719
+====================================================================
+
+Time of execution is: 30.366
+Time:    19:53:17
+ 
+_______________________________________
+
+4
+5_06_CD57.svs__1_14950_17940
+5_06_CD57.svs__1_14950_17940_SEG.tif
+Time:    19:53:17
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_14950_17940_SEG
+marker img: 5_06_CD57.svs__1_14950_17940_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_14950_17940
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0000038146972656
+
+\Update:Voxels to process : 598258
+\Update:Voxels to process : 559746
+\Update:Voxels to process : 519863
+\Update:Voxels to process : 489955
+\Update:Voxels to process : 468176
+\Update:Voxels to process : 440215
+\Update:Voxels to process : 413247
+\Update:Voxels to process : 390647
+\Update:Voxels to process : 358318
+\Update:Voxels to process : 337682
+\Update:Voxels to process : 323880
+\Update:Voxels to process : 293265
+\Update:Voxels to process : 259880
+\Update:Voxels to process : 233499
+\Update:Voxels to process : 204342
+\Update:Voxels to process : 172903
+\Update:Voxels to process : 139353
+\Update:Voxels to process : 102894
+\Update:Voxels to process : 64750
+\Update:Voxels to process : 22911
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2640
+Nb of each cells type: 0   Unlabelled: 2640
+====================================================================
+
+Time of execution is: 32.436
+Time:    19:53:49
+ 
+_______________________________________
+
+5
+5_06_CD57.svs__1_14950_20930
+5_06_CD57.svs__1_14950_20930_SEG.tif
+Time:    19:53:49
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_14950_20930_SEG
+marker img: 5_06_CD57.svs__1_14950_20930_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_14950_20930
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 583723
+\Update:Voxels to process : 546973
+\Update:Voxels to process : 510959
+\Update:Voxels to process : 481816
+\Update:Voxels to process : 473271
+\Update:Voxels to process : 449185
+\Update:Voxels to process : 420740
+\Update:Voxels to process : 400864
+\Update:Voxels to process : 372908
+\Update:Voxels to process : 352580
+\Update:Voxels to process : 324845
+\Update:Voxels to process : 299649
+\Update:Voxels to process : 272069
+\Update:Voxels to process : 249463
+\Update:Voxels to process : 224670
+\Update:Voxels to process : 193846
+\Update:Voxels to process : 183854
+\Update:Voxels to process : 152966
+\Update:Voxels to process : 120238
+\Update:Voxels to process : 87615
+\Update:Voxels to process : 51282
+\Update:Voxels to process : 17463
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2546
+Nb of each cells type: 0   Unlabelled: 2546
+====================================================================
+
+Time of execution is: 31.09
+Time:    19:54:20
+ 
+_______________________________________
+
+6
+5_06_CD57.svs__1_14950_23920
+5_06_CD57.svs__1_14950_23920_SEG.tif
+Time:    19:54:20
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_14950_23920_SEG
+marker img: 5_06_CD57.svs__1_14950_23920_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_14950_23920
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 561537
+\Update:Voxels to process : 528619
+\Update:Voxels to process : 500507
+\Update:Voxels to process : 469602
+\Update:Voxels to process : 448991
+\Update:Voxels to process : 420304
+\Update:Voxels to process : 401323
+\Update:Voxels to process : 376028
+\Update:Voxels to process : 356005
+\Update:Voxels to process : 331126
+\Update:Voxels to process : 305398
+\Update:Voxels to process : 279554
+\Update:Voxels to process : 256391
+\Update:Voxels to process : 232414
+\Update:Voxels to process : 203073
+\Update:Voxels to process : 194595
+\Update:Voxels to process : 165410
+\Update:Voxels to process : 142389
+\Update:Voxels to process : 117086
+\Update:Voxels to process : 86227
+\Update:Voxels to process : 51436
+\Update:Voxels to process : 10461
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2432
+Nb of each cells type: 1   Unlabelled: 2431
+====================================================================
+
+Time of execution is: 29.913
+Time:    19:54:50
+ 
+_______________________________________
+
+7
+5_06_CD57.svs__1_14950_26910
+5_06_CD57.svs__1_14950_26910_SEG.tif
+Time:    19:54:50
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_14950_26910_SEG
+marker img: 5_06_CD57.svs__1_14950_26910_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_14950_26910
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 563717
+\Update:Voxels to process : 523824
+\Update:Voxels to process : 483103
+\Update:Voxels to process : 455828
+\Update:Voxels to process : 437537
+\Update:Voxels to process : 418827
+\Update:Voxels to process : 400028
+\Update:Voxels to process : 392505
+\Update:Voxels to process : 374999
+\Update:Voxels to process : 347673
+\Update:Voxels to process : 327019
+\Update:Voxels to process : 297382
+\Update:Voxels to process : 276373
+\Update:Voxels to process : 252990
+\Update:Voxels to process : 229633
+\Update:Voxels to process : 203716
+\Update:Voxels to process : 176553
+\Update:Voxels to process : 149330
+\Update:Voxels to process : 121335
+\Update:Voxels to process : 93422
+\Update:Voxels to process : 60131
+\Update:Voxels to process : 21390
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2444
+Nb of each cells type: 1   Unlabelled: 2443
+====================================================================
+
+Time of execution is: 30.403
+Time:    19:55:21
+ 
+_______________________________________
+
+8
+5_06_CD57.svs__1_14950_29900
+5_06_CD57.svs__1_14950_29900_SEG.tif
+Time:    19:55:21
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_14950_29900_SEG
+marker img: 5_06_CD57.svs__1_14950_29900_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_14950_29900
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 588853
+\Update:Voxels to process : 545986
+\Update:Voxels to process : 503455
+\Update:Voxels to process : 475687
+\Update:Voxels to process : 453995
+\Update:Voxels to process : 435956
+\Update:Voxels to process : 411253
+\Update:Voxels to process : 397410
+\Update:Voxels to process : 368778
+\Update:Voxels to process : 347794
+\Update:Voxels to process : 317193
+\Update:Voxels to process : 293269
+\Update:Voxels to process : 259226
+\Update:Voxels to process : 235191
+\Update:Voxels to process : 213173
+\Update:Voxels to process : 181009
+\Update:Voxels to process : 148847
+\Update:Voxels to process : 113771
+\Update:Voxels to process : 78348
+\Update:Voxels to process : 38551
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2596
+Nb of each cells type: 0   Unlabelled: 2596
+====================================================================
+
+Time of execution is: 29.545
+Time:    19:55:50
+ 
+_______________________________________
+
+9
+5_06_CD57.svs__1_14950_32890
+5_06_CD57.svs__1_14950_32890_SEG.tif
+Time:    19:55:50
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_14950_32890_SEG
+marker img: 5_06_CD57.svs__1_14950_32890_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_14950_32890
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 548351
+\Update:Voxels to process : 510630
+\Update:Voxels to process : 477055
+\Update:Voxels to process : 452101
+\Update:Voxels to process : 434700
+\Update:Voxels to process : 408015
+\Update:Voxels to process : 388579
+\Update:Voxels to process : 364659
+\Update:Voxels to process : 348704
+\Update:Voxels to process : 327221
+\Update:Voxels to process : 296439
+\Update:Voxels to process : 273750
+\Update:Voxels to process : 250267
+\Update:Voxels to process : 222148
+\Update:Voxels to process : 193713
+\Update:Voxels to process : 166882
+\Update:Voxels to process : 139741
+\Update:Voxels to process : 113542
+\Update:Voxels to process : 81736
+\Update:Voxels to process : 49583
+\Update:Voxels to process : 10721
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2336
+Nb of each cells type: 0   Unlabelled: 2336
+====================================================================
+
+Time of execution is: 19.855
+Time:    19:56:10
+ 
+_______________________________________
+
+10
+5_06_CD57.svs__1_14950_35880
+5_06_CD57.svs__1_14950_35880_SEG.tif
+Time:    19:56:10
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_14950_35880_SEG
+marker img: 5_06_CD57.svs__1_14950_35880_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_14950_35880
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 550210
+\Update:Voxels to process : 512280
+\Update:Voxels to process : 476724
+\Update:Voxels to process : 463744
+\Update:Voxels to process : 441150
+\Update:Voxels to process : 414505
+\Update:Voxels to process : 388952
+\Update:Voxels to process : 367341
+\Update:Voxels to process : 340748
+\Update:Voxels to process : 318542
+\Update:Voxels to process : 289863
+\Update:Voxels to process : 266732
+\Update:Voxels to process : 243237
+\Update:Voxels to process : 217996
+\Update:Voxels to process : 185816
+\Update:Voxels to process : 158638
+\Update:Voxels to process : 131752
+\Update:Voxels to process : 101344
+\Update:Voxels to process : 69402
+\Update:Voxels to process : 54331
+\Update:Voxels to process : 14685
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2320
+Nb of each cells type: 1   Unlabelled: 2319
+====================================================================
+
+Time of execution is: 19.356
+Time:    19:56:30
+ 
+_______________________________________
+
+11
+5_06_CD57.svs__1_17940_11960
+5_06_CD57.svs__1_17940_11960_SEG.tif
+Time:    19:56:30
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_17940_11960_SEG
+marker img: 5_06_CD57.svs__1_17940_11960_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_17940_11960
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 581641
+\Update:Voxels to process : 539948
+\Update:Voxels to process : 503403
+\Update:Voxels to process : 480870
+\Update:Voxels to process : 455252
+\Update:Voxels to process : 423349
+\Update:Voxels to process : 399036
+\Update:Voxels to process : 374902
+\Update:Voxels to process : 347291
+\Update:Voxels to process : 316911
+\Update:Voxels to process : 290459
+\Update:Voxels to process : 266061
+\Update:Voxels to process : 246064
+\Update:Voxels to process : 219826
+\Update:Voxels to process : 200087
+\Update:Voxels to process : 176989
+\Update:Voxels to process : 153009
+\Update:Voxels to process : 131244
+\Update:Voxels to process : 107188
+\Update:Voxels to process : 84553
+\Update:Voxels to process : 57059
+\Update:Voxels to process : 30256
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2569
+Nb of each cells type: 1   Unlabelled: 2568
+====================================================================
+
+Time of execution is: 18.531
+Time:    19:56:48
+ 
+_______________________________________
+
+12
+5_06_CD57.svs__1_17940_14950
+5_06_CD57.svs__1_17940_14950_SEG.tif
+Time:    19:56:48
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_17940_14950_SEG
+marker img: 5_06_CD57.svs__1_17940_14950_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_17940_14950
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 578305
+\Update:Voxels to process : 538718
+\Update:Voxels to process : 495746
+\Update:Voxels to process : 467060
+\Update:Voxels to process : 443881
+\Update:Voxels to process : 418549
+\Update:Voxels to process : 407121
+\Update:Voxels to process : 383317
+\Update:Voxels to process : 347724
+\Update:Voxels to process : 326040
+\Update:Voxels to process : 292801
+\Update:Voxels to process : 267013
+\Update:Voxels to process : 239087
+\Update:Voxels to process : 208621
+\Update:Voxels to process : 174215
+\Update:Voxels to process : 143883
+\Update:Voxels to process : 109699
+\Update:Voxels to process : 71872
+\Update:Voxels to process : 31599
+\Update:Voxels to process : 15969
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2474
+Nb of each cells type: 0   Unlabelled: 2474
+====================================================================
+
+Time of execution is: 19.401
+Time:    19:57:07
+ 
+_______________________________________
+
+13
+5_06_CD57.svs__1_17940_17940
+5_06_CD57.svs__1_17940_17940_SEG.tif
+Time:    19:57:08
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_17940_17940_SEG
+marker img: 5_06_CD57.svs__1_17940_17940_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_17940_17940
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 569748
+\Update:Voxels to process : 532084
+\Update:Voxels to process : 496936
+\Update:Voxels to process : 467224
+\Update:Voxels to process : 446362
+\Update:Voxels to process : 433203
+\Update:Voxels to process : 403351
+\Update:Voxels to process : 381997
+\Update:Voxels to process : 349767
+\Update:Voxels to process : 330535
+\Update:Voxels to process : 298576
+\Update:Voxels to process : 274069
+\Update:Voxels to process : 247471
+\Update:Voxels to process : 213586
+\Update:Voxels to process : 188128
+\Update:Voxels to process : 158801
+\Update:Voxels to process : 127412
+\Update:Voxels to process : 96842
+\Update:Voxels to process : 62093
+\Update:Voxels to process : 22815
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2431
+Nb of each cells type: 0   Unlabelled: 2431
+====================================================================
+
+Time of execution is: 19.945
+Time:    19:57:27
+ 
+_______________________________________
+
+14
+5_06_CD57.svs__1_17940_20930
+5_06_CD57.svs__1_17940_20930_SEG.tif
+Time:    19:57:27
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_17940_20930_SEG
+marker img: 5_06_CD57.svs__1_17940_20930_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_17940_20930
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 570947
+\Update:Voxels to process : 536823
+\Update:Voxels to process : 501525
+\Update:Voxels to process : 474688
+\Update:Voxels to process : 455542
+\Update:Voxels to process : 430903
+\Update:Voxels to process : 420804
+\Update:Voxels to process : 400197
+\Update:Voxels to process : 373810
+\Update:Voxels to process : 353876
+\Update:Voxels to process : 325515
+\Update:Voxels to process : 300886
+\Update:Voxels to process : 273817
+\Update:Voxels to process : 250830
+\Update:Voxels to process : 226218
+\Update:Voxels to process : 195388
+\Update:Voxels to process : 170882
+\Update:Voxels to process : 143066
+\Update:Voxels to process : 112663
+\Update:Voxels to process : 83366
+\Update:Voxels to process : 52965
+\Update:Voxels to process : 14290
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2461
+Nb of each cells type: 0   Unlabelled: 2461
+====================================================================
+
+Time of execution is: 20.332
+Time:    19:57:48
+ 
+_______________________________________
+
+15
+5_06_CD57.svs__1_17940_23920
+5_06_CD57.svs__1_17940_23920_SEG.tif
+Time:    19:57:48
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_17940_23920_SEG
+marker img: 5_06_CD57.svs__1_17940_23920_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_17940_23920
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 495698
+\Update:Voxels to process : 462604
+\Update:Voxels to process : 435854
+\Update:Voxels to process : 418317
+\Update:Voxels to process : 401888
+\Update:Voxels to process : 381318
+\Update:Voxels to process : 370107
+\Update:Voxels to process : 347884
+\Update:Voxels to process : 337446
+\Update:Voxels to process : 315718
+\Update:Voxels to process : 302446
+\Update:Voxels to process : 290449
+\Update:Voxels to process : 276432
+\Update:Voxels to process : 256252
+\Update:Voxels to process : 239721
+\Update:Voxels to process : 224917
+\Update:Voxels to process : 203634
+\Update:Voxels to process : 186547
+\Update:Voxels to process : 168099
+\Update:Voxels to process : 148672
+\Update:Voxels to process : 130847
+\Update:Voxels to process : 115573
+\Update:Voxels to process : 95744
+\Update:Voxels to process : 74907
+\Update:Voxels to process : 50786
+\Update:Voxels to process : 21396
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2055
+Nb of each cells type: 0   Unlabelled: 2055
+====================================================================
+
+Time of execution is: 18.934
+Time:    19:58:07
+ 
+_______________________________________
+
+16
+5_06_CD57.svs__1_17940_26910
+5_06_CD57.svs__1_17940_26910_SEG.tif
+Time:    19:58:07
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_17940_26910_SEG
+marker img: 5_06_CD57.svs__1_17940_26910_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_17940_26910
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 545248
+\Update:Voxels to process : 508609
+\Update:Voxels to process : 473545
+\Update:Voxels to process : 448538
+\Update:Voxels to process : 430524
+\Update:Voxels to process : 404391
+\Update:Voxels to process : 385813
+\Update:Voxels to process : 363013
+\Update:Voxels to process : 348405
+\Update:Voxels to process : 329885
+\Update:Voxels to process : 300240
+\Update:Voxels to process : 280756
+\Update:Voxels to process : 260404
+\Update:Voxels to process : 232669
+\Update:Voxels to process : 211498
+\Update:Voxels to process : 186987
+\Update:Voxels to process : 161979
+\Update:Voxels to process : 136153
+\Update:Voxels to process : 123642
+\Update:Voxels to process : 104343
+\Update:Voxels to process : 87633
+\Update:Voxels to process : 69258
+\Update:Voxels to process : 49247
+\Update:Voxels to process : 26288
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2301
+Nb of each cells type: 0   Unlabelled: 2301
+====================================================================
+
+Time of execution is: 18.543
+Time:    19:58:25
+ 
+_______________________________________
+
+17
+5_06_CD57.svs__1_17940_29900
+5_06_CD57.svs__1_17940_29900_SEG.tif
+Time:    19:58:25
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_17940_29900_SEG
+marker img: 5_06_CD57.svs__1_17940_29900_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_17940_29900
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 563565
+\Update:Voxels to process : 526877
+\Update:Voxels to process : 510142
+\Update:Voxels to process : 485756
+\Update:Voxels to process : 464185
+\Update:Voxels to process : 450316
+\Update:Voxels to process : 432274
+\Update:Voxels to process : 408985
+\Update:Voxels to process : 391473
+\Update:Voxels to process : 373520
+\Update:Voxels to process : 349412
+\Update:Voxels to process : 337331
+\Update:Voxels to process : 315266
+\Update:Voxels to process : 292224
+\Update:Voxels to process : 275920
+\Update:Voxels to process : 250974
+\Update:Voxels to process : 218925
+\Update:Voxels to process : 194140
+\Update:Voxels to process : 163770
+\Update:Voxels to process : 132154
+\Update:Voxels to process : 100858
+\Update:Voxels to process : 86038
+\Update:Voxels to process : 46373
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2422
+Nb of each cells type: 3   Unlabelled: 2419
+====================================================================
+
+Time of execution is: 20.216
+Time:    19:58:46
+ 
+_______________________________________
+
+18
+5_06_CD57.svs__1_17940_32890
+5_06_CD57.svs__1_17940_32890_SEG.tif
+Time:    19:58:46
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_17940_32890_SEG
+marker img: 5_06_CD57.svs__1_17940_32890_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_17940_32890
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 569138
+\Update:Voxels to process : 549367
+\Update:Voxels to process : 508703
+\Update:Voxels to process : 471553
+\Update:Voxels to process : 448291
+\Update:Voxels to process : 421600
+\Update:Voxels to process : 393606
+\Update:Voxels to process : 372794
+\Update:Voxels to process : 342234
+\Update:Voxels to process : 321096
+\Update:Voxels to process : 289032
+\Update:Voxels to process : 265241
+\Update:Voxels to process : 239811
+\Update:Voxels to process : 210902
+\Update:Voxels to process : 177124
+\Update:Voxels to process : 147043
+\Update:Voxels to process : 121498
+\Update:Voxels to process : 91278
+\Update:Voxels to process : 55069
+\Update:Voxels to process : 11698
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2453
+Nb of each cells type: 1   Unlabelled: 2452
+====================================================================
+
+Time of execution is: 20.24
+Time:    19:59:06
+ 
+_______________________________________
+
+19
+5_06_CD57.svs__1_17940_35880
+5_06_CD57.svs__1_17940_35880_SEG.tif
+Time:    19:59:06
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_17940_35880_SEG
+marker img: 5_06_CD57.svs__1_17940_35880_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_17940_35880
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 568448
+\Update:Voxels to process : 529490
+\Update:Voxels to process : 507739
+\Update:Voxels to process : 487484
+\Update:Voxels to process : 458926
+\Update:Voxels to process : 433179
+\Update:Voxels to process : 404171
+\Update:Voxels to process : 383923
+\Update:Voxels to process : 355157
+\Update:Voxels to process : 334719
+\Update:Voxels to process : 304717
+\Update:Voxels to process : 281214
+\Update:Voxels to process : 251436
+\Update:Voxels to process : 224322
+\Update:Voxels to process : 213398
+\Update:Voxels to process : 201178
+\Update:Voxels to process : 172408
+\Update:Voxels to process : 142359
+\Update:Voxels to process : 111082
+\Update:Voxels to process : 77137
+\Update:Voxels to process : 40185
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2428
+Nb of each cells type: 0   Unlabelled: 2428
+====================================================================
+
+Time of execution is: 18.253
+Time:    19:59:24
+ 
+_______________________________________
+
+20
+5_06_CD57.svs__1_17940_8970
+5_06_CD57.svs__1_17940_8970_SEG.tif
+Time:    19:59:24
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_17940_8970_SEG
+marker img: 5_06_CD57.svs__1_17940_8970_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_17940_8970
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 577787
+\Update:Voxels to process : 551214
+\Update:Voxels to process : 522233
+\Update:Voxels to process : 488401
+\Update:Voxels to process : 463210
+\Update:Voxels to process : 439841
+\Update:Voxels to process : 423835
+\Update:Voxels to process : 400562
+\Update:Voxels to process : 373672
+\Update:Voxels to process : 352562
+\Update:Voxels to process : 324036
+\Update:Voxels to process : 299854
+\Update:Voxels to process : 277937
+\Update:Voxels to process : 258975
+\Update:Voxels to process : 233956
+\Update:Voxels to process : 211051
+\Update:Voxels to process : 185785
+\Update:Voxels to process : 152977
+\Update:Voxels to process : 122736
+\Update:Voxels to process : 88844
+\Update:Voxels to process : 51257
+\Update:Voxels to process : 7487
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2513
+Nb of each cells type: 0   Unlabelled: 2513
+====================================================================
+
+Time of execution is: 18.654
+Time:    19:59:43
+ 
+_______________________________________
+
+21
+5_06_CD57.svs__1_20930_11960
+5_06_CD57.svs__1_20930_11960_SEG.tif
+Time:    19:59:43
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_20930_11960_SEG
+marker img: 5_06_CD57.svs__1_20930_11960_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_20930_11960
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 565733
+\Update:Voxels to process : 524128
+\Update:Voxels to process : 482447
+\Update:Voxels to process : 453274
+\Update:Voxels to process : 439700
+\Update:Voxels to process : 421273
+\Update:Voxels to process : 403739
+\Update:Voxels to process : 384978
+\Update:Voxels to process : 364594
+\Update:Voxels to process : 333107
+\Update:Voxels to process : 324614
+\Update:Voxels to process : 308047
+\Update:Voxels to process : 278056
+\Update:Voxels to process : 255466
+\Update:Voxels to process : 233881
+\Update:Voxels to process : 202071
+\Update:Voxels to process : 170260
+\Update:Voxels to process : 140755
+\Update:Voxels to process : 112096
+\Update:Voxels to process : 84975
+\Update:Voxels to process : 58953
+\Update:Voxels to process : 29206
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2425
+Nb of each cells type: 0   Unlabelled: 2425
+====================================================================
+
+Time of execution is: 18.437
+Time:    20:00:01
+ 
+_______________________________________
+
+22
+5_06_CD57.svs__1_20930_14950
+5_06_CD57.svs__1_20930_14950_SEG.tif
+Time:    20:00:01
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_20930_14950_SEG
+marker img: 5_06_CD57.svs__1_20930_14950_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_20930_14950
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 566988
+\Update:Voxels to process : 527221
+\Update:Voxels to process : 490766
+\Update:Voxels to process : 461263
+\Update:Voxels to process : 440097
+\Update:Voxels to process : 432406
+\Update:Voxels to process : 399879
+\Update:Voxels to process : 376760
+\Update:Voxels to process : 343595
+\Update:Voxels to process : 323466
+\Update:Voxels to process : 291970
+\Update:Voxels to process : 268893
+\Update:Voxels to process : 242835
+\Update:Voxels to process : 210452
+\Update:Voxels to process : 182968
+\Update:Voxels to process : 152405
+\Update:Voxels to process : 119532
+\Update:Voxels to process : 89569
+\Update:Voxels to process : 57001
+\Update:Voxels to process : 43167
+\Update:Voxels to process : 17248
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2461
+Nb of each cells type: 0   Unlabelled: 2461
+====================================================================
+
+Time of execution is: 20.806
+Time:    20:00:22
+ 
+_______________________________________
+
+23
+5_06_CD57.svs__1_20930_17940
+5_06_CD57.svs__1_20930_17940_SEG.tif
+Time:    20:00:22
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_20930_17940_SEG
+marker img: 5_06_CD57.svs__1_20930_17940_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_20930_17940
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 568420
+\Update:Voxels to process : 523255
+\Update:Voxels to process : 483169
+\Update:Voxels to process : 452935
+\Update:Voxels to process : 441518
+\Update:Voxels to process : 414552
+\Update:Voxels to process : 384008
+\Update:Voxels to process : 360430
+\Update:Voxels to process : 329339
+\Update:Voxels to process : 307374
+\Update:Voxels to process : 275289
+\Update:Voxels to process : 251612
+\Update:Voxels to process : 225915
+\Update:Voxels to process : 201927
+\Update:Voxels to process : 169395
+\Update:Voxels to process : 140900
+\Update:Voxels to process : 112513
+\Update:Voxels to process : 83730
+\Update:Voxels to process : 50435
+\Update:Voxels to process : 7915
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2537
+Nb of each cells type: 4   Unlabelled: 2533
+====================================================================
+
+Time of execution is: 18.341
+Time:    20:00:40
+ 
+_______________________________________
+
+24
+5_06_CD57.svs__1_20930_20930
+5_06_CD57.svs__1_20930_20930_SEG.tif
+Time:    20:00:40
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_20930_20930_SEG
+marker img: 5_06_CD57.svs__1_20930_20930_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_20930_20930
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 569875
+\Update:Voxels to process : 530529
+\Update:Voxels to process : 512447
+\Update:Voxels to process : 486060
+\Update:Voxels to process : 465756
+\Update:Voxels to process : 448569
+\Update:Voxels to process : 428385
+\Update:Voxels to process : 408125
+\Update:Voxels to process : 396040
+\Update:Voxels to process : 376138
+\Update:Voxels to process : 351698
+\Update:Voxels to process : 330307
+\Update:Voxels to process : 300186
+\Update:Voxels to process : 278733
+\Update:Voxels to process : 254454
+\Update:Voxels to process : 223715
+\Update:Voxels to process : 198359
+\Update:Voxels to process : 180320
+\Update:Voxels to process : 151344
+\Update:Voxels to process : 125082
+\Update:Voxels to process : 95322
+\Update:Voxels to process : 61057
+\Update:Voxels to process : 19018
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2502
+Nb of each cells type: 2   Unlabelled: 2500
+====================================================================
+
+Time of execution is: 20.554
+Time:    20:01:01
+ 
+_______________________________________
+
+25
+5_06_CD57.svs__1_20930_23920
+5_06_CD57.svs__1_20930_23920_SEG.tif
+Time:    20:01:01
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_20930_23920_SEG
+marker img: 5_06_CD57.svs__1_20930_23920_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_20930_23920
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 538303
+\Update:Voxels to process : 502049
+\Update:Voxels to process : 468967
+\Update:Voxels to process : 445123
+\Update:Voxels to process : 427892
+\Update:Voxels to process : 402511
+\Update:Voxels to process : 389806
+\Update:Voxels to process : 370609
+\Update:Voxels to process : 348325
+\Update:Voxels to process : 331554
+\Update:Voxels to process : 305535
+\Update:Voxels to process : 287888
+\Update:Voxels to process : 266791
+\Update:Voxels to process : 242632
+\Update:Voxels to process : 223172
+\Update:Voxels to process : 202962
+\Update:Voxels to process : 178078
+\Update:Voxels to process : 158272
+\Update:Voxels to process : 136984
+\Update:Voxels to process : 116419
+\Update:Voxels to process : 98665
+\Update:Voxels to process : 77010
+\Update:Voxels to process : 56334
+\Update:Voxels to process : 28081
+\Update:Voxels to process : 1541
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Save the result as 5_06_CD57.svs__1_20930_23920_SEG_WAT
+Number of cells is: 2262
+Nb of each cells type: 1   Unlabelled: 2261
+Save cell type image to file
+====================================================================
+
+Time of execution is: 20.367
+Time:    20:01:21
+ 
+_______________________________________
+
+26
+5_06_CD57.svs__1_20930_26910
+5_06_CD57.svs__1_20930_26910_SEG.tif
+Time:    20:01:21
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_20930_26910_SEG
+marker img: 5_06_CD57.svs__1_20930_26910_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_20930_26910
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 540093
+\Update:Voxels to process : 501880
+\Update:Voxels to process : 465782
+\Update:Voxels to process : 441793
+\Update:Voxels to process : 422845
+\Update:Voxels to process : 396738
+\Update:Voxels to process : 380238
+\Update:Voxels to process : 363195
+\Update:Voxels to process : 342691
+\Update:Voxels to process : 318274
+\Update:Voxels to process : 296316
+\Update:Voxels to process : 273509
+\Update:Voxels to process : 257226
+\Update:Voxels to process : 230708
+\Update:Voxels to process : 218170
+\Update:Voxels to process : 199559
+\Update:Voxels to process : 180913
+\Update:Voxels to process : 165562
+\Update:Voxels to process : 144302
+\Update:Voxels to process : 123234
+\Update:Voxels to process : 102166
+\Update:Voxels to process : 84248
+\Update:Voxels to process : 64319
+\Update:Voxels to process : 39710
+\Update:Voxels to process : 9072
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2316
+Nb of each cells type: 0   Unlabelled: 2316
+====================================================================
+
+Time of execution is: 19.05
+Time:    20:01:40
+ 
+_______________________________________
+
+27
+5_06_CD57.svs__1_20930_29900
+5_06_CD57.svs__1_20930_29900_SEG.tif
+Time:    20:01:40
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_20930_29900_SEG
+marker img: 5_06_CD57.svs__1_20930_29900_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_20930_29900
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 557470
+\Update:Voxels to process : 521550
+\Update:Voxels to process : 486398
+\Update:Voxels to process : 463277
+\Update:Voxels to process : 453659
+\Update:Voxels to process : 427888
+\Update:Voxels to process : 404690
+\Update:Voxels to process : 383515
+\Update:Voxels to process : 357438
+\Update:Voxels to process : 342865
+\Update:Voxels to process : 311997
+\Update:Voxels to process : 289555
+\Update:Voxels to process : 262886
+\Update:Voxels to process : 237638
+\Update:Voxels to process : 215490
+\Update:Voxels to process : 191285
+\Update:Voxels to process : 173741
+\Update:Voxels to process : 154819
+\Update:Voxels to process : 133563
+\Update:Voxels to process : 114608
+\Update:Voxels to process : 94051
+\Update:Voxels to process : 70024
+\Update:Voxels to process : 35636
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2397
+Nb of each cells type: 0   Unlabelled: 2397
+====================================================================
+
+Time of execution is: 18.664
+Time:    20:01:59
+ 
+_______________________________________
+
+28
+5_06_CD57.svs__1_20930_32890
+5_06_CD57.svs__1_20930_32890_SEG.tif
+Time:    20:01:59
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_20930_32890_SEG
+marker img: 5_06_CD57.svs__1_20930_32890_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_20930_32890
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 566765
+\Update:Voxels to process : 530206
+\Update:Voxels to process : 491287
+\Update:Voxels to process : 465466
+\Update:Voxels to process : 444334
+\Update:Voxels to process : 417227
+\Update:Voxels to process : 394133
+\Update:Voxels to process : 369808
+\Update:Voxels to process : 344958
+\Update:Voxels to process : 335371
+\Update:Voxels to process : 303234
+\Update:Voxels to process : 277415
+\Update:Voxels to process : 250311
+\Update:Voxels to process : 218373
+\Update:Voxels to process : 191413
+\Update:Voxels to process : 160457
+\Update:Voxels to process : 126451
+\Update:Voxels to process : 99366
+\Update:Voxels to process : 69938
+\Update:Voxels to process : 34599
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2406
+Nb of each cells type: 0   Unlabelled: 2406
+====================================================================
+
+Time of execution is: 20.121
+Time:    20:02:19
+ 
+_______________________________________
+
+29
+5_06_CD57.svs__1_20930_5980
+5_06_CD57.svs__1_20930_5980_SEG.tif
+Time:    20:02:19
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_20930_5980_SEG
+marker img: 5_06_CD57.svs__1_20930_5980_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_20930_5980
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 602216
+\Update:Voxels to process : 560503
+\Update:Voxels to process : 541506
+\Update:Voxels to process : 504834
+\Update:Voxels to process : 476711
+\Update:Voxels to process : 452599
+\Update:Voxels to process : 422094
+\Update:Voxels to process : 402475
+\Update:Voxels to process : 373909
+\Update:Voxels to process : 355065
+\Update:Voxels to process : 326492
+\Update:Voxels to process : 300343
+\Update:Voxels to process : 271096
+\Update:Voxels to process : 247283
+\Update:Voxels to process : 221730
+\Update:Voxels to process : 191500
+\Update:Voxels to process : 166234
+\Update:Voxels to process : 136683
+\Update:Voxels to process : 109450
+\Update:Voxels to process : 74192
+\Update:Voxels to process : 43639
+\Update:Voxels to process : 7848
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2554
+Nb of each cells type: 0   Unlabelled: 2554
+====================================================================
+
+Time of execution is: 20.583
+Time:    20:02:40
+ 
+_______________________________________
+
+30
+5_06_CD57.svs__1_20930_8970
+5_06_CD57.svs__1_20930_8970_SEG.tif
+Time:    20:02:40
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_20930_8970_SEG
+marker img: 5_06_CD57.svs__1_20930_8970_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_20930_8970
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 602488
+\Update:Voxels to process : 557549
+\Update:Voxels to process : 518231
+\Update:Voxels to process : 500956
+\Update:Voxels to process : 483190
+\Update:Voxels to process : 452235
+\Update:Voxels to process : 419851
+\Update:Voxels to process : 389968
+\Update:Voxels to process : 363332
+\Update:Voxels to process : 331310
+\Update:Voxels to process : 306187
+\Update:Voxels to process : 271527
+\Update:Voxels to process : 244680
+\Update:Voxels to process : 215999
+\Update:Voxels to process : 190634
+\Update:Voxels to process : 156032
+\Update:Voxels to process : 125404
+\Update:Voxels to process : 90770
+\Update:Voxels to process : 58618
+\Update:Voxels to process : 29719
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2583
+Nb of each cells type: 0   Unlabelled: 2583
+====================================================================
+
+Time of execution is: 20.578
+Time:    20:03:00
+ 
+_______________________________________
+
+31
+5_06_CD57.svs__1_23920_14950
+5_06_CD57.svs__1_23920_14950_SEG.tif
+Time:    20:03:01
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_23920_14950_SEG
+marker img: 5_06_CD57.svs__1_23920_14950_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_23920_14950
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 524483
+\Update:Voxels to process : 488266
+\Update:Voxels to process : 469054
+\Update:Voxels to process : 438364
+\Update:Voxels to process : 418750
+\Update:Voxels to process : 390518
+\Update:Voxels to process : 371333
+\Update:Voxels to process : 344954
+\Update:Voxels to process : 325335
+\Update:Voxels to process : 297760
+\Update:Voxels to process : 283947
+\Update:Voxels to process : 262961
+\Update:Voxels to process : 241933
+\Update:Voxels to process : 216867
+\Update:Voxels to process : 190707
+\Update:Voxels to process : 167283
+\Update:Voxels to process : 142377
+\Update:Voxels to process : 117076
+\Update:Voxels to process : 94450
+\Update:Voxels to process : 69427
+\Update:Voxels to process : 48769
+\Update:Voxels to process : 15996
+\Update:Voxels to process : 1226
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2209
+Nb of each cells type: 0   Unlabelled: 2209
+====================================================================
+
+Time of execution is: 19.546
+Time:    20:03:20
+ 
+_______________________________________
+
+32
+5_06_CD57.svs__1_23920_17940
+5_06_CD57.svs__1_23920_17940_SEG.tif
+Time:    20:03:20
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_23920_17940_SEG
+marker img: 5_06_CD57.svs__1_23920_17940_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_23920_17940
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 478425
+\Update:Voxels to process : 454036
+\Update:Voxels to process : 424023
+\Update:Voxels to process : 402486
+\Update:Voxels to process : 384925
+\Update:Voxels to process : 363367
+\Update:Voxels to process : 349692
+\Update:Voxels to process : 327814
+\Update:Voxels to process : 314285
+\Update:Voxels to process : 297464
+\Update:Voxels to process : 287725
+\Update:Voxels to process : 269193
+\Update:Voxels to process : 258754
+\Update:Voxels to process : 242027
+\Update:Voxels to process : 231324
+\Update:Voxels to process : 213651
+\Update:Voxels to process : 201485
+\Update:Voxels to process : 184246
+\Update:Voxels to process : 172591
+\Update:Voxels to process : 160142
+\Update:Voxels to process : 147671
+\Update:Voxels to process : 134360
+\Update:Voxels to process : 119568
+\Update:Voxels to process : 107262
+\Update:Voxels to process : 95679
+\Update:Voxels to process : 84448
+\Update:Voxels to process : 69606
+\Update:Voxels to process : 56155
+\Update:Voxels to process : 41167
+\Update:Voxels to process : 25119
+\Update:Voxels to process : 9172
+\Update:Voxels to process : 982
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 1983
+Nb of each cells type: 1   Unlabelled: 1982
+====================================================================
+
+Time of execution is: 20.313
+Time:    20:03:40
+ 
+_______________________________________
+
+33
+5_06_CD57.svs__1_23920_20930
+5_06_CD57.svs__1_23920_20930_SEG.tif
+Time:    20:03:40
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_23920_20930_SEG
+marker img: 5_06_CD57.svs__1_23920_20930_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_23920_20930
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0000038146972656
+
+\Update:Voxels to process : 541821
+\Update:Voxels to process : 503482
+\Update:Voxels to process : 471604
+\Update:Voxels to process : 447707
+\Update:Voxels to process : 430190
+\Update:Voxels to process : 413418
+\Update:Voxels to process : 391420
+\Update:Voxels to process : 370816
+\Update:Voxels to process : 348485
+\Update:Voxels to process : 327563
+\Update:Voxels to process : 302378
+\Update:Voxels to process : 282618
+\Update:Voxels to process : 265590
+\Update:Voxels to process : 241470
+\Update:Voxels to process : 223556
+\Update:Voxels to process : 203952
+\Update:Voxels to process : 180591
+\Update:Voxels to process : 160390
+\Update:Voxels to process : 139224
+\Update:Voxels to process : 116940
+\Update:Voxels to process : 97565
+\Update:Voxels to process : 74339
+\Update:Voxels to process : 51485
+\Update:Voxels to process : 25009
+\Update:Voxels to process : 10451
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2381
+Nb of each cells type: 0   Unlabelled: 2381
+====================================================================
+
+Time of execution is: 20.252
+Time:    20:04:01
+ 
+_______________________________________
+
+34
+5_06_CD57.svs__1_23920_23920
+5_06_CD57.svs__1_23920_23920_SEG.tif
+Time:    20:04:01
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_23920_23920_SEG
+marker img: 5_06_CD57.svs__1_23920_23920_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_23920_23920
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 560145
+\Update:Voxels to process : 534797
+\Update:Voxels to process : 497356
+\Update:Voxels to process : 466498
+\Update:Voxels to process : 453953
+\Update:Voxels to process : 426547
+\Update:Voxels to process : 399547
+\Update:Voxels to process : 378739
+\Update:Voxels to process : 350605
+\Update:Voxels to process : 329692
+\Update:Voxels to process : 306627
+\Update:Voxels to process : 290064
+\Update:Voxels to process : 267960
+\Update:Voxels to process : 253208
+\Update:Voxels to process : 231807
+\Update:Voxels to process : 216317
+\Update:Voxels to process : 192760
+\Update:Voxels to process : 173341
+\Update:Voxels to process : 146865
+\Update:Voxels to process : 115164
+\Update:Voxels to process : 83881
+\Update:Voxels to process : 49039
+\Update:Voxels to process : 2867
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2418
+Nb of each cells type: 0   Unlabelled: 2418
+====================================================================
+
+Time of execution is: 18.815
+Time:    20:04:19
+ 
+_______________________________________
+
+35
+5_06_CD57.svs__1_23920_26910
+5_06_CD57.svs__1_23920_26910_SEG.tif
+Time:    20:04:19
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_23920_26910_SEG
+marker img: 5_06_CD57.svs__1_23920_26910_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_23920_26910
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 549870
+\Update:Voxels to process : 513450
+\Update:Voxels to process : 478474
+\Update:Voxels to process : 450985
+\Update:Voxels to process : 432830
+\Update:Voxels to process : 406824
+\Update:Voxels to process : 386949
+\Update:Voxels to process : 363119
+\Update:Voxels to process : 341468
+\Update:Voxels to process : 315846
+\Update:Voxels to process : 297604
+\Update:Voxels to process : 274669
+\Update:Voxels to process : 250787
+\Update:Voxels to process : 222010
+\Update:Voxels to process : 197285
+\Update:Voxels to process : 176578
+\Update:Voxels to process : 151785
+\Update:Voxels to process : 127062
+\Update:Voxels to process : 100753
+\Update:Voxels to process : 74408
+\Update:Voxels to process : 46920
+\Update:Voxels to process : 10520
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2331
+Nb of each cells type: 1   Unlabelled: 2330
+====================================================================
+
+Time of execution is: 20.375
+Time:    20:04:40
+ 
+_______________________________________
+
+36
+5_06_CD57.svs__1_23920_29900
+5_06_CD57.svs__1_23920_29900_SEG.tif
+Time:    20:04:40
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_23920_29900_SEG
+marker img: 5_06_CD57.svs__1_23920_29900_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_23920_29900
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 520452
+\Update:Voxels to process : 487247
+\Update:Voxels to process : 457070
+\Update:Voxels to process : 435163
+\Update:Voxels to process : 419872
+\Update:Voxels to process : 395937
+\Update:Voxels to process : 377522
+\Update:Voxels to process : 356538
+\Update:Voxels to process : 338292
+\Update:Voxels to process : 316087
+\Update:Voxels to process : 294016
+\Update:Voxels to process : 273964
+\Update:Voxels to process : 255765
+\Update:Voxels to process : 233357
+\Update:Voxels to process : 213266
+\Update:Voxels to process : 192750
+\Update:Voxels to process : 171483
+\Update:Voxels to process : 151778
+\Update:Voxels to process : 133319
+\Update:Voxels to process : 112893
+\Update:Voxels to process : 91469
+\Update:Voxels to process : 68112
+\Update:Voxels to process : 55746
+\Update:Voxels to process : 29099
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2213
+Nb of each cells type: 1   Unlabelled: 2212
+====================================================================
+
+Time of execution is: 19.835
+Time:    20:05:00
+ 
+_______________________________________
+
+37
+5_06_CD57.svs__1_23920_2990
+5_06_CD57.svs__1_23920_2990_SEG.tif
+Time:    20:05:00
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_23920_2990_SEG
+marker img: 5_06_CD57.svs__1_23920_2990_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_23920_2990
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 544012
+\Update:Voxels to process : 509545
+\Update:Voxels to process : 477716
+\Update:Voxels to process : 461346
+\Update:Voxels to process : 443032
+\Update:Voxels to process : 418609
+\Update:Voxels to process : 401323
+\Update:Voxels to process : 384309
+\Update:Voxels to process : 363616
+\Update:Voxels to process : 344727
+\Update:Voxels to process : 319494
+\Update:Voxels to process : 305026
+\Update:Voxels to process : 284038
+\Update:Voxels to process : 260067
+\Update:Voxels to process : 241066
+\Update:Voxels to process : 220090
+\Update:Voxels to process : 200000
+\Update:Voxels to process : 185950
+\Update:Voxels to process : 166953
+\Update:Voxels to process : 152267
+\Update:Voxels to process : 135415
+\Update:Voxels to process : 114961
+\Update:Voxels to process : 92860
+\Update:Voxels to process : 69384
+\Update:Voxels to process : 43143
+\Update:Voxels to process : 8074
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2211
+Nb of each cells type: 0   Unlabelled: 2211
+====================================================================
+
+Time of execution is: 19.508
+Time:    20:05:19
+ 
+_______________________________________
+
+38
+5_06_CD57.svs__1_23920_32890
+5_06_CD57.svs__1_23920_32890_SEG.tif
+Time:    20:05:19
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_23920_32890_SEG
+marker img: 5_06_CD57.svs__1_23920_32890_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_23920_32890
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 555222
+\Update:Voxels to process : 516393
+\Update:Voxels to process : 493395
+\Update:Voxels to process : 459730
+\Update:Voxels to process : 436825
+\Update:Voxels to process : 408875
+\Update:Voxels to process : 388443
+\Update:Voxels to process : 362912
+\Update:Voxels to process : 341882
+\Update:Voxels to process : 316785
+\Update:Voxels to process : 292211
+\Update:Voxels to process : 267286
+\Update:Voxels to process : 245135
+\Update:Voxels to process : 221133
+\Update:Voxels to process : 193402
+\Update:Voxels to process : 186016
+\Update:Voxels to process : 157129
+\Update:Voxels to process : 134138
+\Update:Voxels to process : 111894
+\Update:Voxels to process : 81044
+\Update:Voxels to process : 53411
+\Update:Voxels to process : 14600
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2393
+Nb of each cells type: 0   Unlabelled: 2393
+====================================================================
+
+Time of execution is: 19.927
+Time:    20:05:39
+ 
+_______________________________________
+
+39
+5_06_CD57.svs__1_23920_50830
+5_06_CD57.svs__1_23920_50830_SEG.tif
+Time:    20:05:39
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_23920_50830_SEG
+marker img: 5_06_CD57.svs__1_23920_50830_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_23920_50830
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 591673
+\Update:Voxels to process : 548618
+\Update:Voxels to process : 507308
+\Update:Voxels to process : 480326
+\Update:Voxels to process : 451287
+\Update:Voxels to process : 416367
+\Update:Voxels to process : 387236
+\Update:Voxels to process : 360710
+\Update:Voxels to process : 330205
+\Update:Voxels to process : 302010
+\Update:Voxels to process : 270314
+\Update:Voxels to process : 239010
+\Update:Voxels to process : 226467
+\Update:Voxels to process : 201364
+\Update:Voxels to process : 179621
+\Update:Voxels to process : 154626
+\Update:Voxels to process : 130188
+\Update:Voxels to process : 106148
+\Update:Voxels to process : 83631
+\Update:Voxels to process : 57983
+\Update:Voxels to process : 33828
+\Update:Voxels to process : 7992
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2631
+Nb of each cells type: 2   Unlabelled: 2629
+====================================================================
+
+Time of execution is: 19.303
+Time:    20:05:59
+ 
+_______________________________________
+
+40
+5_06_CD57.svs__1_23920_53820
+5_06_CD57.svs__1_23920_53820_SEG.tif
+Time:    20:05:59
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_23920_53820_SEG
+marker img: 5_06_CD57.svs__1_23920_53820_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_23920_53820
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 572125
+\Update:Voxels to process : 529729
+\Update:Voxels to process : 491071
+\Update:Voxels to process : 462570
+\Update:Voxels to process : 452579
+\Update:Voxels to process : 424946
+\Update:Voxels to process : 393378
+\Update:Voxels to process : 369098
+\Update:Voxels to process : 335629
+\Update:Voxels to process : 313816
+\Update:Voxels to process : 280327
+\Update:Voxels to process : 253745
+\Update:Voxels to process : 225377
+\Update:Voxels to process : 208816
+\Update:Voxels to process : 180191
+\Update:Voxels to process : 149196
+\Update:Voxels to process : 116494
+\Update:Voxels to process : 83783
+\Update:Voxels to process : 50002
+\Update:Voxels to process : 15550
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2583
+Nb of each cells type: 0   Unlabelled: 2583
+====================================================================
+
+Time of execution is: 20.16
+Time:    20:06:19
+ 
+_______________________________________
+
+41
+5_06_CD57.svs__1_23920_56810
+5_06_CD57.svs__1_23920_56810_SEG.tif
+Time:    20:06:19
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_23920_56810_SEG
+marker img: 5_06_CD57.svs__1_23920_56810_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_23920_56810
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 591341
+\Update:Voxels to process : 571692
+\Update:Voxels to process : 525188
+\Update:Voxels to process : 485891
+\Update:Voxels to process : 460137
+\Update:Voxels to process : 432565
+\Update:Voxels to process : 401823
+\Update:Voxels to process : 378669
+\Update:Voxels to process : 346341
+\Update:Voxels to process : 338550
+\Update:Voxels to process : 321431
+\Update:Voxels to process : 297769
+\Update:Voxels to process : 275966
+\Update:Voxels to process : 252050
+\Update:Voxels to process : 231230
+\Update:Voxels to process : 207151
+\Update:Voxels to process : 187109
+\Update:Voxels to process : 160595
+\Update:Voxels to process : 135899
+\Update:Voxels to process : 110930
+\Update:Voxels to process : 85703
+\Update:Voxels to process : 60456
+\Update:Voxels to process : 35273
+\Update:Voxels to process : 9160
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2657
+Nb of each cells type: 0   Unlabelled: 2657
+====================================================================
+
+Time of execution is: 19.091
+Time:    20:06:38
+ 
+_______________________________________
+
+42
+5_06_CD57.svs__1_23920_5980
+5_06_CD57.svs__1_23920_5980_SEG.tif
+Time:    20:06:38
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_23920_5980_SEG
+marker img: 5_06_CD57.svs__1_23920_5980_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_23920_5980
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 0.9999961853027344
+
+\Update:Voxels to process : 558056
+\Update:Voxels to process : 515853
+\Update:Voxels to process : 478147
+\Update:Voxels to process : 452797
+\Update:Voxels to process : 432645
+\Update:Voxels to process : 404715
+\Update:Voxels to process : 384060
+\Update:Voxels to process : 359078
+\Update:Voxels to process : 343374
+\Update:Voxels to process : 320329
+\Update:Voxels to process : 294982
+\Update:Voxels to process : 272717
+\Update:Voxels to process : 254155
+\Update:Voxels to process : 228372
+\Update:Voxels to process : 206732
+\Update:Voxels to process : 184072
+\Update:Voxels to process : 160679
+\Update:Voxels to process : 139361
+\Update:Voxels to process : 115730
+\Update:Voxels to process : 95420
+\Update:Voxels to process : 78617
+\Update:Voxels to process : 49688
+\Update:Voxels to process : 14216
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2294
+Nb of each cells type: 0   Unlabelled: 2294
+====================================================================
+
+Time of execution is: 19.29
+Time:    20:06:57
+ 
+_______________________________________
+
+43
+5_06_CD57.svs__1_26910_20930
+5_06_CD57.svs__1_26910_20930_SEG.tif
+Time:    20:06:57
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_26910_20930_SEG
+marker img: 5_06_CD57.svs__1_26910_20930_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_26910_20930
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 559121
+\Update:Voxels to process : 522419
+\Update:Voxels to process : 485562
+\Update:Voxels to process : 459728
+\Update:Voxels to process : 439586
+\Update:Voxels to process : 411756
+\Update:Voxels to process : 390157
+\Update:Voxels to process : 365806
+\Update:Voxels to process : 347719
+\Update:Voxels to process : 327982
+\Update:Voxels to process : 296865
+\Update:Voxels to process : 275303
+\Update:Voxels to process : 251288
+\Update:Voxels to process : 222614
+\Update:Voxels to process : 196159
+\Update:Voxels to process : 168307
+\Update:Voxels to process : 139135
+\Update:Voxels to process : 111641
+\Update:Voxels to process : 81676
+\Update:Voxels to process : 68103
+\Update:Voxels to process : 35493
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2473
+Nb of each cells type: 0   Unlabelled: 2473
+====================================================================
+
+Time of execution is: 19.212
+Time:    20:07:16
+ 
+_______________________________________
+
+44
+5_06_CD57.svs__1_26910_23920
+5_06_CD57.svs__1_26910_23920_SEG.tif
+Time:    20:07:16
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_26910_23920_SEG
+marker img: 5_06_CD57.svs__1_26910_23920_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_26910_23920
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 550060
+\Update:Voxels to process : 523462
+\Update:Voxels to process : 490106
+\Update:Voxels to process : 460649
+\Update:Voxels to process : 441936
+\Update:Voxels to process : 417493
+\Update:Voxels to process : 393348
+\Update:Voxels to process : 385908
+\Update:Voxels to process : 356173
+\Update:Voxels to process : 336153
+\Update:Voxels to process : 307987
+\Update:Voxels to process : 287289
+\Update:Voxels to process : 257631
+\Update:Voxels to process : 236617
+\Update:Voxels to process : 213794
+\Update:Voxels to process : 189954
+\Update:Voxels to process : 162158
+\Update:Voxels to process : 137444
+\Update:Voxels to process : 113019
+\Update:Voxels to process : 87401
+\Update:Voxels to process : 60494
+\Update:Voxels to process : 33790
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2331
+Nb of each cells type: 0   Unlabelled: 2331
+====================================================================
+
+Time of execution is: 18.732
+Time:    20:07:35
+ 
+_______________________________________
+
+45
+5_06_CD57.svs__1_26910_26910
+5_06_CD57.svs__1_26910_26910_SEG.tif
+Time:    20:07:35
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_26910_26910_SEG
+marker img: 5_06_CD57.svs__1_26910_26910_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_26910_26910
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 559326
+\Update:Voxels to process : 518765
+\Update:Voxels to process : 484005
+\Update:Voxels to process : 457447
+\Update:Voxels to process : 436531
+\Update:Voxels to process : 406917
+\Update:Voxels to process : 384822
+\Update:Voxels to process : 357512
+\Update:Voxels to process : 337124
+\Update:Voxels to process : 324515
+\Update:Voxels to process : 293964
+\Update:Voxels to process : 272451
+\Update:Voxels to process : 248593
+\Update:Voxels to process : 218962
+\Update:Voxels to process : 191129
+\Update:Voxels to process : 161382
+\Update:Voxels to process : 132371
+\Update:Voxels to process : 104720
+\Update:Voxels to process : 73029
+\Update:Voxels to process : 41144
+\Update:Voxels to process : 9608
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2441
+Nb of each cells type: 0   Unlabelled: 2441
+====================================================================
+
+Time of execution is: 18.796
+Time:    20:07:54
+ 
+_______________________________________
+
+46
+5_06_CD57.svs__1_26910_29900
+5_06_CD57.svs__1_26910_29900_SEG.tif
+Time:    20:07:54
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_26910_29900_SEG
+marker img: 5_06_CD57.svs__1_26910_29900_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_26910_29900
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 529886
+\Update:Voxels to process : 495009
+\Update:Voxels to process : 461564
+\Update:Voxels to process : 439474
+\Update:Voxels to process : 420049
+\Update:Voxels to process : 399259
+\Update:Voxels to process : 383501
+\Update:Voxels to process : 365560
+\Update:Voxels to process : 343987
+\Update:Voxels to process : 331640
+\Update:Voxels to process : 311794
+\Update:Voxels to process : 295590
+\Update:Voxels to process : 279921
+\Update:Voxels to process : 261423
+\Update:Voxels to process : 244100
+\Update:Voxels to process : 223066
+\Update:Voxels to process : 198008
+\Update:Voxels to process : 169970
+\Update:Voxels to process : 146689
+\Update:Voxels to process : 125747
+\Update:Voxels to process : 99340
+\Update:Voxels to process : 87701
+\Update:Voxels to process : 67253
+\Update:Voxels to process : 45251
+\Update:Voxels to process : 16543
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2271
+Nb of each cells type: 1   Unlabelled: 2270
+====================================================================
+
+Time of execution is: 19.157
+Time:    20:08:13
+ 
+_______________________________________
+
+47
+5_06_CD57.svs__1_26910_2990
+5_06_CD57.svs__1_26910_2990_SEG.tif
+Time:    20:08:13
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_26910_2990_SEG
+marker img: 5_06_CD57.svs__1_26910_2990_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_26910_2990
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 580017
+\Update:Voxels to process : 537832
+\Update:Voxels to process : 500851
+\Update:Voxels to process : 472580
+\Update:Voxels to process : 456448
+\Update:Voxels to process : 432038
+\Update:Voxels to process : 403841
+\Update:Voxels to process : 383312
+\Update:Voxels to process : 353582
+\Update:Voxels to process : 336480
+\Update:Voxels to process : 307163
+\Update:Voxels to process : 285761
+\Update:Voxels to process : 258459
+\Update:Voxels to process : 232134
+\Update:Voxels to process : 207377
+\Update:Voxels to process : 179741
+\Update:Voxels to process : 150568
+\Update:Voxels to process : 121074
+\Update:Voxels to process : 95110
+\Update:Voxels to process : 60629
+\Update:Voxels to process : 22715
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2394
+Nb of each cells type: 1   Unlabelled: 2393
+====================================================================
+
+Time of execution is: 20.341
+Time:    20:08:34
+ 
+_______________________________________
+
+48
+5_06_CD57.svs__1_26910_32890
+5_06_CD57.svs__1_26910_32890_SEG.tif
+Time:    20:08:34
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_26910_32890_SEG
+marker img: 5_06_CD57.svs__1_26910_32890_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_26910_32890
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 592370
+\Update:Voxels to process : 559617
+\Update:Voxels to process : 521495
+\Update:Voxels to process : 486651
+\Update:Voxels to process : 461600
+\Update:Voxels to process : 433990
+\Update:Voxels to process : 405556
+\Update:Voxels to process : 381151
+\Update:Voxels to process : 348570
+\Update:Voxels to process : 324550
+\Update:Voxels to process : 290754
+\Update:Voxels to process : 263933
+\Update:Voxels to process : 235554
+\Update:Voxels to process : 204781
+\Update:Voxels to process : 170390
+\Update:Voxels to process : 136180
+\Update:Voxels to process : 103961
+\Update:Voxels to process : 65847
+\Update:Voxels to process : 22038
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2657
+Nb of each cells type: 0   Unlabelled: 2657
+====================================================================
+
+Time of execution is: 20.316
+Time:    20:08:54
+ 
+_______________________________________
+
+49
+5_06_CD57.svs__1_26910_35880
+5_06_CD57.svs__1_26910_35880_SEG.tif
+Time:    20:08:54
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_26910_35880_SEG
+marker img: 5_06_CD57.svs__1_26910_35880_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_26910_35880
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 595892
+\Update:Voxels to process : 557992
+\Update:Voxels to process : 521669
+\Update:Voxels to process : 499630
+\Update:Voxels to process : 483932
+\Update:Voxels to process : 458952
+\Update:Voxels to process : 425456
+\Update:Voxels to process : 402078
+\Update:Voxels to process : 373361
+\Update:Voxels to process : 350055
+\Update:Voxels to process : 323481
+\Update:Voxels to process : 295640
+\Update:Voxels to process : 268028
+\Update:Voxels to process : 242352
+\Update:Voxels to process : 213877
+\Update:Voxels to process : 180280
+\Update:Voxels to process : 151101
+\Update:Voxels to process : 133545
+\Update:Voxels to process : 121292
+\Update:Voxels to process : 91628
+\Update:Voxels to process : 53754
+\Update:Voxels to process : 6737
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2594
+Nb of each cells type: 0   Unlabelled: 2594
+====================================================================
+
+Time of execution is: 18.915
+Time:    20:09:13
+ 
+_______________________________________
+
+50
+5_06_CD57.svs__1_26910_5980
+5_06_CD57.svs__1_26910_5980_SEG.tif
+Time:    20:09:13
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_26910_5980_SEG
+marker img: 5_06_CD57.svs__1_26910_5980_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_26910_5980
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 561174
+\Update:Voxels to process : 521941
+\Update:Voxels to process : 487031
+\Update:Voxels to process : 461630
+\Update:Voxels to process : 442117
+\Update:Voxels to process : 414765
+\Update:Voxels to process : 393690
+\Update:Voxels to process : 385656
+\Update:Voxels to process : 355863
+\Update:Voxels to process : 337402
+\Update:Voxels to process : 307686
+\Update:Voxels to process : 285720
+\Update:Voxels to process : 259439
+\Update:Voxels to process : 230531
+\Update:Voxels to process : 205206
+\Update:Voxels to process : 176844
+\Update:Voxels to process : 154790
+\Update:Voxels to process : 130475
+\Update:Voxels to process : 107491
+\Update:Voxels to process : 84682
+\Update:Voxels to process : 64400
+\Update:Voxels to process : 41594
+\Update:Voxels to process : 13918
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2350
+Nb of each cells type: 0   Unlabelled: 2350
+====================================================================
+
+Time of execution is: 18.851
+Time:    20:09:32
+ 
+_______________________________________
+
+51
+5_06_CD57.svs__1_29900_20930
+5_06_CD57.svs__1_29900_20930_SEG.tif
+Time:    20:09:32
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_29900_20930_SEG
+marker img: 5_06_CD57.svs__1_29900_20930_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_29900_20930
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 521009
+\Update:Voxels to process : 487177
+\Update:Voxels to process : 454710
+\Update:Voxels to process : 434545
+\Update:Voxels to process : 416157
+\Update:Voxels to process : 391446
+\Update:Voxels to process : 377574
+\Update:Voxels to process : 352561
+\Update:Voxels to process : 337299
+\Update:Voxels to process : 311947
+\Update:Voxels to process : 293258
+\Update:Voxels to process : 267557
+\Update:Voxels to process : 262568
+\Update:Voxels to process : 238979
+\Update:Voxels to process : 214233
+\Update:Voxels to process : 192358
+\Update:Voxels to process : 170866
+\Update:Voxels to process : 149643
+\Update:Voxels to process : 126818
+\Update:Voxels to process : 106692
+\Update:Voxels to process : 82032
+\Update:Voxels to process : 53615
+\Update:Voxels to process : 21396
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2169
+Nb of each cells type: 0   Unlabelled: 2169
+====================================================================
+
+Time of execution is: 19.812
+Time:    20:09:51
+ 
+_______________________________________
+
+52
+5_06_CD57.svs__1_29900_23920
+5_06_CD57.svs__1_29900_23920_SEG.tif
+Time:    20:09:52
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_29900_23920_SEG
+marker img: 5_06_CD57.svs__1_29900_23920_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_29900_23920
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 543135
+\Update:Voxels to process : 504430
+\Update:Voxels to process : 470329
+\Update:Voxels to process : 444673
+\Update:Voxels to process : 427655
+\Update:Voxels to process : 397222
+\Update:Voxels to process : 376110
+\Update:Voxels to process : 347852
+\Update:Voxels to process : 328287
+\Update:Voxels to process : 306108
+\Update:Voxels to process : 284761
+\Update:Voxels to process : 265052
+\Update:Voxels to process : 249117
+\Update:Voxels to process : 220020
+\Update:Voxels to process : 199088
+\Update:Voxels to process : 175778
+\Update:Voxels to process : 153815
+\Update:Voxels to process : 131425
+\Update:Voxels to process : 108623
+\Update:Voxels to process : 87444
+\Update:Voxels to process : 64719
+\Update:Voxels to process : 36422
+\Update:Voxels to process : 3501
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Save the result as 5_06_CD57.svs__1_29900_23920_SEG_WAT
+Number of cells is: 2334
+Nb of each cells type: 0   Unlabelled: 2334
+Save cell type image to file
+====================================================================
+
+Time of execution is: 20.522
+Time:    20:10:12
+ 
+_______________________________________
+
+53
+5_06_CD57.svs__1_29900_26910
+5_06_CD57.svs__1_29900_26910_SEG.tif
+Time:    20:10:12
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_29900_26910_SEG
+marker img: 5_06_CD57.svs__1_29900_26910_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_29900_26910
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 537297
+\Update:Voxels to process : 505063
+\Update:Voxels to process : 478314
+\Update:Voxels to process : 449211
+\Update:Voxels to process : 429890
+\Update:Voxels to process : 405314
+\Update:Voxels to process : 389155
+\Update:Voxels to process : 372105
+\Update:Voxels to process : 348206
+\Update:Voxels to process : 331613
+\Update:Voxels to process : 303542
+\Update:Voxels to process : 284694
+\Update:Voxels to process : 262034
+\Update:Voxels to process : 231130
+\Update:Voxels to process : 209870
+\Update:Voxels to process : 185684
+\Update:Voxels to process : 159658
+\Update:Voxels to process : 133809
+\Update:Voxels to process : 107835
+\Update:Voxels to process : 78357
+\Update:Voxels to process : 46815
+\Update:Voxels to process : 9829
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2277
+Nb of each cells type: 0   Unlabelled: 2277
+====================================================================
+
+Time of execution is: 19.806
+Time:    20:10:32
+ 
+_______________________________________
+
+54
+5_06_CD57.svs__1_29900_29900
+5_06_CD57.svs__1_29900_29900_SEG.tif
+Time:    20:10:32
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_29900_29900_SEG
+marker img: 5_06_CD57.svs__1_29900_29900_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_29900_29900
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 516500
+\Update:Voxels to process : 479832
+\Update:Voxels to process : 448821
+\Update:Voxels to process : 427109
+\Update:Voxels to process : 407899
+\Update:Voxels to process : 383336
+\Update:Voxels to process : 368557
+\Update:Voxels to process : 341376
+\Update:Voxels to process : 337783
+\Update:Voxels to process : 312775
+\Update:Voxels to process : 292362
+\Update:Voxels to process : 264312
+\Update:Voxels to process : 245741
+\Update:Voxels to process : 226229
+\Update:Voxels to process : 205313
+\Update:Voxels to process : 180102
+\Update:Voxels to process : 157847
+\Update:Voxels to process : 138061
+\Update:Voxels to process : 114124
+\Update:Voxels to process : 90349
+\Update:Voxels to process : 64763
+\Update:Voxels to process : 36075
+\Update:Voxels to process : 18534
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2160
+Nb of each cells type: 0   Unlabelled: 2160
+====================================================================
+
+Time of execution is: 18.358
+Time:    20:10:50
+ 
+_______________________________________
+
+55
+5_06_CD57.svs__1_29900_32890
+5_06_CD57.svs__1_29900_32890_SEG.tif
+Time:    20:10:50
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_29900_32890_SEG
+marker img: 5_06_CD57.svs__1_29900_32890_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_29900_32890
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 584258
+\Update:Voxels to process : 551997
+\Update:Voxels to process : 508936
+\Update:Voxels to process : 475510
+\Update:Voxels to process : 454094
+\Update:Voxels to process : 442619
+\Update:Voxels to process : 412044
+\Update:Voxels to process : 389819
+\Update:Voxels to process : 361876
+\Update:Voxels to process : 340623
+\Update:Voxels to process : 310849
+\Update:Voxels to process : 286320
+\Update:Voxels to process : 257351
+\Update:Voxels to process : 233314
+\Update:Voxels to process : 208057
+\Update:Voxels to process : 181455
+\Update:Voxels to process : 152372
+\Update:Voxels to process : 127908
+\Update:Voxels to process : 100114
+\Update:Voxels to process : 71458
+\Update:Voxels to process : 39662
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Save the result as 5_06_CD57.svs__1_29900_32890_SEG_WAT
+Number of cells is: 2606
+Nb of each cells type: 0   Unlabelled: 2606
+Save cell type image to file
+====================================================================
+
+Time of execution is: 21.01
+Time:    20:11:11
+ 
+_______________________________________
+
+56
+5_06_CD57.svs__1_29900_35880
+5_06_CD57.svs__1_29900_35880_SEG.tif
+Time:    20:11:11
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_29900_35880_SEG
+marker img: 5_06_CD57.svs__1_29900_35880_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_29900_35880
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 553049
+\Update:Voxels to process : 524243
+\Update:Voxels to process : 494674
+\Update:Voxels to process : 470420
+\Update:Voxels to process : 450811
+\Update:Voxels to process : 426031
+\Update:Voxels to process : 401021
+\Update:Voxels to process : 386066
+\Update:Voxels to process : 354944
+\Update:Voxels to process : 336695
+\Update:Voxels to process : 307421
+\Update:Voxels to process : 288583
+\Update:Voxels to process : 260970
+\Update:Voxels to process : 232300
+\Update:Voxels to process : 207131
+\Update:Voxels to process : 180745
+\Update:Voxels to process : 155829
+\Update:Voxels to process : 132646
+\Update:Voxels to process : 104250
+\Update:Voxels to process : 75687
+\Update:Voxels to process : 44027
+\Update:Voxels to process : 8485
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2377
+Nb of each cells type: 0   Unlabelled: 2377
+====================================================================
+
+Time of execution is: 19.039
+Time:    20:11:30
+ 
+_______________________________________
+
+57
+5_06_CD57.svs__1_29900_38870
+5_06_CD57.svs__1_29900_38870_SEG.tif
+Time:    20:11:30
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_29900_38870_SEG
+marker img: 5_06_CD57.svs__1_29900_38870_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_29900_38870
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 347317
+\Update:Voxels to process : 323769
+\Update:Voxels to process : 312648
+\Update:Voxels to process : 300947
+\Update:Voxels to process : 294678
+\Update:Voxels to process : 282266
+\Update:Voxels to process : 277250
+\Update:Voxels to process : 263006
+\Update:Voxels to process : 257309
+\Update:Voxels to process : 253826
+\Update:Voxels to process : 239094
+\Update:Voxels to process : 233920
+\Update:Voxels to process : 227245
+\Update:Voxels to process : 213560
+\Update:Voxels to process : 207630
+\Update:Voxels to process : 200842
+\Update:Voxels to process : 194337
+\Update:Voxels to process : 187074
+\Update:Voxels to process : 174803
+\Update:Voxels to process : 165921
+\Update:Voxels to process : 158128
+\Update:Voxels to process : 150109
+\Update:Voxels to process : 142095
+\Update:Voxels to process : 136121
+\Update:Voxels to process : 126254
+\Update:Voxels to process : 116905
+\Update:Voxels to process : 108532
+\Update:Voxels to process : 98703
+\Update:Voxels to process : 88362
+\Update:Voxels to process : 77369
+\Update:Voxels to process : 66899
+\Update:Voxels to process : 55052
+\Update:Voxels to process : 41561
+\Update:Voxels to process : 26378
+\Update:Voxels to process : 8624
+\Update:Voxels to process : 240
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 1312
+Nb of each cells type: 1   Unlabelled: 1311
+====================================================================
+
+Time of execution is: 19.861
+Time:    20:11:50
+ 
+_______________________________________
+
+58
+5_06_CD57.svs__1_29900_5980
+5_06_CD57.svs__1_29900_5980_SEG.tif
+Time:    20:11:50
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_29900_5980_SEG
+marker img: 5_06_CD57.svs__1_29900_5980_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_29900_5980
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 580904
+\Update:Voxels to process : 540684
+\Update:Voxels to process : 499396
+\Update:Voxels to process : 465801
+\Update:Voxels to process : 442537
+\Update:Voxels to process : 411528
+\Update:Voxels to process : 387349
+\Update:Voxels to process : 373601
+\Update:Voxels to process : 341843
+\Update:Voxels to process : 317027
+\Update:Voxels to process : 286860
+\Update:Voxels to process : 262641
+\Update:Voxels to process : 236769
+\Update:Voxels to process : 210660
+\Update:Voxels to process : 185750
+\Update:Voxels to process : 164125
+\Update:Voxels to process : 142272
+\Update:Voxels to process : 111007
+\Update:Voxels to process : 76952
+\Update:Voxels to process : 37890
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2509
+Nb of each cells type: 2   Unlabelled: 2507
+====================================================================
+
+Time of execution is: 18.85
+Time:    20:12:09
+ 
+_______________________________________
+
+59
+5_06_CD57.svs__1_32890_29900
+5_06_CD57.svs__1_32890_29900_SEG.tif
+Time:    20:12:09
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_32890_29900_SEG
+marker img: 5_06_CD57.svs__1_32890_29900_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_32890_29900
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 525218
+\Update:Voxels to process : 489878
+\Update:Voxels to process : 457087
+\Update:Voxels to process : 436993
+\Update:Voxels to process : 422877
+\Update:Voxels to process : 403441
+\Update:Voxels to process : 385466
+\Update:Voxels to process : 375714
+\Update:Voxels to process : 357564
+\Update:Voxels to process : 342853
+\Update:Voxels to process : 330173
+\Update:Voxels to process : 311727
+\Update:Voxels to process : 298419
+\Update:Voxels to process : 281721
+\Update:Voxels to process : 266380
+\Update:Voxels to process : 249560
+\Update:Voxels to process : 237025
+\Update:Voxels to process : 217703
+\Update:Voxels to process : 204215
+\Update:Voxels to process : 185134
+\Update:Voxels to process : 170765
+\Update:Voxels to process : 156117
+\Update:Voxels to process : 138799
+\Update:Voxels to process : 123761
+\Update:Voxels to process : 106466
+\Update:Voxels to process : 92461
+\Update:Voxels to process : 75901
+\Update:Voxels to process : 60743
+\Update:Voxels to process : 42959
+\Update:Voxels to process : 23848
+\Update:Voxels to process : 1490
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2202
+Nb of each cells type: 0   Unlabelled: 2202
+====================================================================
+
+Time of execution is: 20.71
+Time:    20:12:30
+ 
+_______________________________________
+
+60
+5_06_CD57.svs__1_32890_35880
+5_06_CD57.svs__1_32890_35880_SEG.tif
+Time:    20:12:30
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_32890_35880_SEG
+marker img: 5_06_CD57.svs__1_32890_35880_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_32890_35880
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 578377
+\Update:Voxels to process : 538616
+\Update:Voxels to process : 494392
+\Update:Voxels to process : 463819
+\Update:Voxels to process : 455195
+\Update:Voxels to process : 427290
+\Update:Voxels to process : 394615
+\Update:Voxels to process : 373421
+\Update:Voxels to process : 339329
+\Update:Voxels to process : 318623
+\Update:Voxels to process : 284875
+\Update:Voxels to process : 259503
+\Update:Voxels to process : 232330
+\Update:Voxels to process : 204612
+\Update:Voxels to process : 172723
+\Update:Voxels to process : 143093
+\Update:Voxels to process : 108055
+\Update:Voxels to process : 73040
+\Update:Voxels to process : 41727
+\Update:Voxels to process : 1738
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2568
+Nb of each cells type: 1   Unlabelled: 2567
+====================================================================
+
+Time of execution is: 20.186
+Time:    20:12:50
+ 
+_______________________________________
+
+61
+5_06_CD57.svs__1_32890_38870
+5_06_CD57.svs__1_32890_38870_SEG.tif
+Time:    20:12:50
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_32890_38870_SEG
+marker img: 5_06_CD57.svs__1_32890_38870_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_32890_38870
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 502144
+\Update:Voxels to process : 479410
+\Update:Voxels to process : 446525
+\Update:Voxels to process : 424887
+\Update:Voxels to process : 408078
+\Update:Voxels to process : 384665
+\Update:Voxels to process : 369101
+\Update:Voxels to process : 349731
+\Update:Voxels to process : 338008
+\Update:Voxels to process : 319441
+\Update:Voxels to process : 309413
+\Update:Voxels to process : 291368
+\Update:Voxels to process : 280178
+\Update:Voxels to process : 261552
+\Update:Voxels to process : 247247
+\Update:Voxels to process : 222581
+\Update:Voxels to process : 201891
+\Update:Voxels to process : 180311
+\Update:Voxels to process : 159591
+\Update:Voxels to process : 138545
+\Update:Voxels to process : 114662
+\Update:Voxels to process : 89702
+\Update:Voxels to process : 61425
+\Update:Voxels to process : 29181
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2097
+Nb of each cells type: 0   Unlabelled: 2097
+====================================================================
+
+Time of execution is: 18.586
+Time:    20:13:09
+ 
+_______________________________________
+
+62
+5_06_CD57.svs__1_32890_5980
+5_06_CD57.svs__1_32890_5980_SEG.tif
+Time:    20:13:09
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_32890_5980_SEG
+marker img: 5_06_CD57.svs__1_32890_5980_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_32890_5980
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 5073
+\Update:Voxels to process : 7545
+\Update:Voxels to process : 8952
+\Update:Voxels to process : 10072
+\Update:Voxels to process : 10885
+\Update:Voxels to process : 11292
+\Update:Voxels to process : 11884
+\Update:Voxels to process : 12560
+\Update:Voxels to process : 12207
+\Update:Voxels to process : 12660
+\Update:Voxels to process : 12646
+\Update:Voxels to process : 12901
+\Update:Voxels to process : 13168
+\Update:Voxels to process : 13213
+\Update:Voxels to process : 12963
+\Update:Voxels to process : 12898
+\Update:Voxels to process : 12741
+\Update:Voxels to process : 12691
+\Update:Voxels to process : 12707
+\Update:Voxels to process : 12744
+\Update:Voxels to process : 12819
+\Update:Voxels to process : 13030
+\Update:Voxels to process : 13225
+\Update:Voxels to process : 13442
+\Update:Voxels to process : 13660
+\Update:Voxels to process : 13329
+\Update:Voxels to process : 12531
+\Update:Voxels to process : 12081
+\Update:Voxels to process : 11753
+\Update:Voxels to process : 11482
+\Update:Voxels to process : 11239
+\Update:Voxels to process : 10846
+\Update:Voxels to process : 10081
+\Update:Voxels to process : 9164
+\Update:Voxels to process : 8774
+\Update:Voxels to process : 7910
+\Update:Voxels to process : 6610
+\Update:Voxels to process : 5782
+\Update:Voxels to process : 5226
+\Update:Voxels to process : 4718
+\Update:Voxels to process : 3502
+\Update:Voxels to process : 2351
+\Update:Voxels to process : 1940
+\Update:Voxels to process : 1487
+\Update:Voxels to process : 400
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 9
+Nb of each cells type: 0   Unlabelled: 9
+====================================================================
+
+Time of execution is: 20.653
+Time:    20:13:29
+ 
+_______________________________________
+
+63
+5_06_CD57.svs__1_32890_8970
+5_06_CD57.svs__1_32890_8970_SEG.tif
+Time:    20:13:29
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_32890_8970_SEG
+marker img: 5_06_CD57.svs__1_32890_8970_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_32890_8970
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 576259
+\Update:Voxels to process : 548585
+\Update:Voxels to process : 517141
+\Update:Voxels to process : 486369
+\Update:Voxels to process : 453485
+\Update:Voxels to process : 427261
+\Update:Voxels to process : 395550
+\Update:Voxels to process : 372133
+\Update:Voxels to process : 340415
+\Update:Voxels to process : 313025
+\Update:Voxels to process : 279501
+\Update:Voxels to process : 252829
+\Update:Voxels to process : 224473
+\Update:Voxels to process : 194755
+\Update:Voxels to process : 163427
+\Update:Voxels to process : 141912
+\Update:Voxels to process : 110685
+\Update:Voxels to process : 76116
+\Update:Voxels to process : 38796
+\Update:Voxels to process : 580
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2558
+Nb of each cells type: 0   Unlabelled: 2558
+====================================================================
+
+Time of execution is: 20.317
+Time:    20:13:50
+ 
+_______________________________________
+
+64
+5_06_CD57.svs__1_35880_35880
+5_06_CD57.svs__1_35880_35880_SEG.tif
+Time:    20:13:50
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_35880_35880_SEG
+marker img: 5_06_CD57.svs__1_35880_35880_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_35880_35880
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 553109
+\Update:Voxels to process : 515224
+\Update:Voxels to process : 478999
+\Update:Voxels to process : 453839
+\Update:Voxels to process : 433726
+\Update:Voxels to process : 423214
+\Update:Voxels to process : 400929
+\Update:Voxels to process : 386435
+\Update:Voxels to process : 365802
+\Update:Voxels to process : 347302
+\Update:Voxels to process : 333866
+\Update:Voxels to process : 312697
+\Update:Voxels to process : 297402
+\Update:Voxels to process : 278737
+\Update:Voxels to process : 263001
+\Update:Voxels to process : 242552
+\Update:Voxels to process : 226608
+\Update:Voxels to process : 204940
+\Update:Voxels to process : 188078
+\Update:Voxels to process : 170102
+\Update:Voxels to process : 149155
+\Update:Voxels to process : 130833
+\Update:Voxels to process : 110963
+\Update:Voxels to process : 92966
+\Update:Voxels to process : 71978
+\Update:Voxels to process : 50977
+\Update:Voxels to process : 26796
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2396
+Nb of each cells type: 0   Unlabelled: 2396
+====================================================================
+
+Time of execution is: 20.627
+Time:    20:14:10
+ 
+_______________________________________
+
+65
+5_06_CD57.svs__1_35880_38870
+5_06_CD57.svs__1_35880_38870_SEG.tif
+Time:    20:14:10
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_35880_38870_SEG
+marker img: 5_06_CD57.svs__1_35880_38870_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_35880_38870
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 534660
+\Update:Voxels to process : 502591
+\Update:Voxels to process : 470768
+\Update:Voxels to process : 447515
+\Update:Voxels to process : 431000
+\Update:Voxels to process : 419917
+\Update:Voxels to process : 396186
+\Update:Voxels to process : 378764
+\Update:Voxels to process : 353275
+\Update:Voxels to process : 337401
+\Update:Voxels to process : 312378
+\Update:Voxels to process : 295219
+\Update:Voxels to process : 274014
+\Update:Voxels to process : 250670
+\Update:Voxels to process : 230560
+\Update:Voxels to process : 210282
+\Update:Voxels to process : 183985
+\Update:Voxels to process : 159010
+\Update:Voxels to process : 135981
+\Update:Voxels to process : 106859
+\Update:Voxels to process : 78161
+\Update:Voxels to process : 47359
+\Update:Voxels to process : 30746
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2267
+Nb of each cells type: 0   Unlabelled: 2267
+====================================================================
+
+Time of execution is: 19.63
+Time:    20:14:30
+ 
+_______________________________________
+
+66
+5_06_CD57.svs__1_35880_8970
+5_06_CD57.svs__1_35880_8970_SEG.tif
+Time:    20:14:30
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_35880_8970_SEG
+marker img: 5_06_CD57.svs__1_35880_8970_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_35880_8970
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 572847
+\Update:Voxels to process : 531250
+\Update:Voxels to process : 505034
+\Update:Voxels to process : 472345
+\Update:Voxels to process : 448298
+\Update:Voxels to process : 422966
+\Update:Voxels to process : 402177
+\Update:Voxels to process : 386398
+\Update:Voxels to process : 360805
+\Update:Voxels to process : 344120
+\Update:Voxels to process : 322682
+\Update:Voxels to process : 297988
+\Update:Voxels to process : 275457
+\Update:Voxels to process : 246323
+\Update:Voxels to process : 211555
+\Update:Voxels to process : 181028
+\Update:Voxels to process : 148037
+\Update:Voxels to process : 116354
+\Update:Voxels to process : 78178
+\Update:Voxels to process : 33038
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2512
+Nb of each cells type: 0   Unlabelled: 2512
+====================================================================
+
+Time of execution is: 20.548
+Time:    20:14:50
+ 
+_______________________________________
+
+67
+5_06_CD57.svs__1_38870_20930
+5_06_CD57.svs__1_38870_20930_SEG.tif
+Time:    20:14:51
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_38870_20930_SEG
+marker img: 5_06_CD57.svs__1_38870_20930_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_38870_20930
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 516831
+\Update:Voxels to process : 483635
+\Update:Voxels to process : 455142
+\Update:Voxels to process : 435272
+\Update:Voxels to process : 416025
+\Update:Voxels to process : 391238
+\Update:Voxels to process : 379484
+\Update:Voxels to process : 371122
+\Update:Voxels to process : 348928
+\Update:Voxels to process : 327556
+\Update:Voxels to process : 305464
+\Update:Voxels to process : 284888
+\Update:Voxels to process : 266370
+\Update:Voxels to process : 245490
+\Update:Voxels to process : 218839
+\Update:Voxels to process : 196845
+\Update:Voxels to process : 173865
+\Update:Voxels to process : 149689
+\Update:Voxels to process : 128262
+\Update:Voxels to process : 101858
+\Update:Voxels to process : 80399
+\Update:Voxels to process : 61384
+\Update:Voxels to process : 40900
+\Update:Voxels to process : 11996
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2158
+Nb of each cells type: 0   Unlabelled: 2158
+====================================================================
+
+Time of execution is: 19.055
+Time:    20:15:10
+ 
+_______________________________________
+
+68
+5_06_CD57.svs__1_38870_44850
+5_06_CD57.svs__1_38870_44850_SEG.tif
+Time:    20:15:10
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_38870_44850_SEG
+marker img: 5_06_CD57.svs__1_38870_44850_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_38870_44850
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 528255
+\Update:Voxels to process : 491856
+\Update:Voxels to process : 457292
+\Update:Voxels to process : 433748
+\Update:Voxels to process : 413304
+\Update:Voxels to process : 387134
+\Update:Voxels to process : 370059
+\Update:Voxels to process : 341916
+\Update:Voxels to process : 324992
+\Update:Voxels to process : 297049
+\Update:Voxels to process : 289652
+\Update:Voxels to process : 260609
+\Update:Voxels to process : 238626
+\Update:Voxels to process : 215677
+\Update:Voxels to process : 190539
+\Update:Voxels to process : 163900
+\Update:Voxels to process : 136228
+\Update:Voxels to process : 110122
+\Update:Voxels to process : 81043
+\Update:Voxels to process : 49489
+\Update:Voxels to process : 16702
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2177
+Nb of each cells type: 8   Unlabelled: 2169
+====================================================================
+
+Time of execution is: 19.015
+Time:    20:15:29
+ 
+_______________________________________
+
+69
+5_06_CD57.svs__1_8970_35880
+5_06_CD57.svs__1_8970_35880_SEG.tif
+Time:    20:15:29
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.3
+Seg: 5_06_CD57.svs__1_8970_35880_SEG
+marker img: 5_06_CD57.svs__1_8970_35880_NUC
+Observed marker: CD57  MARKER_VAL: 4
+Save dir is: /Users/hoatran/Documents/images_HE/images/5_06/CD57_tiles/NUC/CELL_TYPE/
+5_06_CD57.svs__1_8970_35880
+Generate watershed cell segmentation image using radius from nucleus: 12.0
+Watershed radius: 12.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 552484
+\Update:Voxels to process : 517472
+\Update:Voxels to process : 501870
+\Update:Voxels to process : 470461
+\Update:Voxels to process : 449263
+\Update:Voxels to process : 423948
+\Update:Voxels to process : 399748
+\Update:Voxels to process : 380767
+\Update:Voxels to process : 353621
+\Update:Voxels to process : 332675
+\Update:Voxels to process : 302105
+\Update:Voxels to process : 280308
+\Update:Voxels to process : 257062
+\Update:Voxels to process : 225489
+\Update:Voxels to process : 196800
+\Update:Voxels to process : 167746
+\Update:Voxels to process : 135737
+\Update:Voxels to process : 123372
+\Update:Voxels to process : 88318
+\Update:Voxels to process : 51549
+\Update:Voxels to process : 8684
+\Update:Voxels to process : 550
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2480
+Nb of each cells type: 0   Unlabelled: 2480
+====================================================================
+
+Time of execution is: 20.183
+Time:    20:15:49
+ 
+_________________________
+
+Nb of processed images:  70
+Completed
+Completed

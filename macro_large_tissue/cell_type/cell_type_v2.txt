@@ -1,0 +1,116 @@
+
+setBatchMode(true);
+
+function GetTime() {
+     getDateAndTime(year, month, dayOfWeek, dayOfMonth, hour, minute, second, msec);
+     TimeString ="Time:    ";
+     if (hour<10) {TimeString = TimeString+"0";}
+     TimeString = TimeString+hour+":";
+     if (minute<10) {TimeString = TimeString+"0";}
+     TimeString = TimeString+minute+":";
+     if (second<10) {TimeString = TimeString+"0";}
+     TimeString = TimeString+second;
+     print(TimeString);
+}
+
+           	
+working_dir = getArgument;
+if (working_dir=="") 
+	exit("No argument!");
+
+print("Working dir: "+working_dir+"\n");
+
+dir = File.getParent(working_dir) + "/";
+print("Main dir: "+dir+"\n");
+
+if(!File.exists(dir+"CELL_TYPE")) 
+      File.mkdir(dir+"CELL_TYPE");
+    
+marker_name="CD57";
+tag = "_NUC";
+min_mask_thrs = 110; //130
+pct_marker = 0.3;
+watershed_rad = 12;
+outputDir=dir + "CELL_TYPE/";
+maskDir=dir + marker_name+"/";
+//segDir=dir + "NUC_SEG/";
+segDir = working_dir;
+print(maskDir);
+print(segDir);
+print("_______________________________________\n");
+
+
+if(!File.exists(segDir)) 
+  exit("Not correct seg dir, double check");
+  
+files=getFileList(segDir);
+
+print("Nb of processing images: "+files.length+"\n");
+count=0;
+for(f=0;f<files.length;f++)
+{
+     if(!File.isDirectory(segDir+files[f])) {
+				name=files[f];
+				
+				if(endsWith(name,'_SEG.tif') ){  
+					//print("Get the right channel : "+name);
+					print("_______________________________________\n");
+					count=count+1;
+					short_name = substring(name,0,indexOf(name,'_SEG.tif'));				
+					print(short_name);
+					
+
+					
+					open(segDir+name);
+					h=getHeight();
+					w=getWidth();
+					//print(' t: '+title+"   h:   "+h+"w:   "+w);
+					print(getTitle);
+					start = getTime();
+          GetTime();
+					if(File.exists(maskDir + short_name + tag + ".tif")){
+					        
+					        //marker thresholding
+  					      //print(maskDir+short_name+"_MASK.tif");
+    					    open(maskDir + short_name + tag + ".tif");
+    					    selectWindow(short_name + tag + ".tif");
+    					    run("Median...", "radius=2");
+                  run("Mean...", "radius=2");
+                  setAutoThreshold("Otsu dark");
+                  setOption("BlackBackground", true);    	
+                  setThreshold(min_mask_thrs, 255);					
+                  run("Convert to Mask");
+                  run("Fill Holes");
+                  run("Open");   
+                  
+                  
+                  print("Detect cell phenotype");
+                  run("CELL PHENOTYPE", "save="+outputDir+" nuclei="+name+" watershed=*None* marker="+short_name+tag+".tif marker_0="+marker_name+" percent_marker="+pct_marker+" watershed_cell_radius="+watershed_rad);
+                  
+                  //open(segDir+short_name+"_SEG_WAT.tif");
+    					    //run("CELL PHENOTYPE", "save="+outputDir+" nuclei="+name+" watershed="+short_name+"_SEG_WAT.tif marker="+short_name+tag+".tif marker_0="+marker_name);
+    					    
+  					  }else{
+  					      print("Detect cell phenotype without marker image");
+    					    run("CELL PHENOTYPE", "save="+outputDir+" nuclei="+name+" watershed=*None* marker=*None* marker_0="+marker_name+" percent_marker="+pct_marker+" watershed_cell_radius="+watershed_rad);
+  					  }
+						run("Close All"); 
+					  print("Time of execution is: "+(getTime()-start)/1000); 
+					 	GetTime();
+		 	      print(" ");
+           }
+           
+    }
+
+}
+print("_________________________\n");
+print("Nb of processed images:  "+count);
+print("Completed");
+
+//if(!File.exists(dir+"log")) File.mkdir(dir+"log");
+//selectWindow("Log");
+//saveAs("Text", dir+ "segment_log.txt");
+setBatchMode(false);
+
+
+

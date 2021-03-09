@@ -33934,3 +33934,61 @@ java.lang.UnsatisfiedLinkError: null
 File saving error (IOException):
    "No space left on device" 
    /home/htran/backup/home/htran/storage/images_dataset/large_tissue/3_08/CD8_tiles/3_08-19550-A2_CD8_80x.svs__1_47840_89700.tif
+05:54:33.021 [Run$_main] DEBUG loci.formats.tiff.TiffParser - Reading tile Length 33073 Offset 754483220
+05:54:33.047 [Run$_main] DEBUG loci.formats.tiff.TiffParser - Reading tile Length 32735 Offset 754516293
+05:54:33.076 [Run$_main] DEBUG loci.formats.tiff.TiffParser - Reading tile Length 36378 Offset 754549028
+05:54:33.102 [Run$_main] DEBUG loci.formats.tiff.TiffParser - Reading tile Length 23292 Offset 754585406
+05:54:33.129 [Run$_main] DEBUG loci.formats.tiff.TiffParser - Reading tile Length 39634 Offset 754608698
+05:54:33.146 [Run$_main] DEBUG loci.formats.tiff.TiffParser - Reading tile Length 42370 Offset 754648332
+05:54:33.162 [Run$_main] DEBUG loci.formats.tiff.TiffParser - Reading tile Length 21486 Offset 754690702
+File saving error (IOException):
+   "No space left on device" 
+   /home/htran/backup/home/htran/storage/images_dataset/large_tissue/3_08/CD8_tiles/3_08-19550-A2_CD8_80x.svs__1_47840_89700.tif
+The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+05:54:33.102 [Run$_main] DEBUG loci.formats.tiff.TiffParser - Reading tile Length 23292 Offset 754585406
+05:54:33.129 [Run$_main] DEBUG loci.formats.tiff.TiffParser - Reading tile Length 39634 Offset 754608698
+05:54:33.146 [Run$_main] DEBUG loci.formats.tiff.TiffParser - Reading tile Length 42370 Offset 754648332
+05:54:33.162 [Run$_main] DEBUG loci.formats.tiff.TiffParser - Reading tile Length 21486 Offset 754690702
+File saving error (IOException):
+   "No space left on device" 
+   /home/htran/backup/home/htran/storage/images_dataset/large_tissue/3_08/CD8_tiles/3_08-19550-A2_CD8_80x.svs__1_47840_89700.tif
+The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+Hello
+The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+Completed
+   "No space left on device" 
+   /home/htran/backup/home/htran/storage/images_dataset/large_tissue/3_08/CD8_tiles/3_08-19550-A2_CD8_80x.svs__1_47840_89700.tif
+The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+Hello
+The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+Completed
+Hello
+The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+Completed
+Hello
+The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+Completed
+Hello
+The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+Completed
+Hello
+The operation couldn’t be completed. Unable to locate a Java Runtime.
+Please visit http://www.java.com for information on installing Java.
+
+Completed

@@ -1,33 +1,64 @@
 //dir=getDirectory("mouse");
 //print(dir)
 setBatchMode(true);
-print("\\Clear");
 
-minSize=23;
+function GetTime() {
+     getDateAndTime(year, month, dayOfWeek, dayOfMonth, hour, minute, second, msec);
+     TimeString ="Time:    ";
+     if (hour<10) {TimeString = TimeString+"0";}
+     TimeString = TimeString+hour+":";
+     if (minute<10) {TimeString = TimeString+"0";}
+     TimeString = TimeString+minute+":";
+     if (second<10) {TimeString = TimeString+"0";}
+     TimeString = TimeString+second;
+     print(TimeString);
+}
+
+// 3_08
+//minSize=22;
+//maxSize=45;
+
+
+// 4_S01 parameters
+minSize=21;
 maxSize=38;
-background_threshold=100;	           	
+
+// 5_06
+//minSize=20;
+//maxSize=40;
+
+//6_10AS
+//minSize=17;
+//maxSize=40;
+
+
+background_threshold=120;	
+spot_seeds_threshold=37500;
 dir = getArgument;
 if (dir=="") 
 	exit ("No argument!");
 
 print("Working dir: "+dir+"\n");
 
-if(!File.exists(dir+"SEG")) 
-      File.mkdir(dir+"SEG");
-//if(!File.exists(dir+"FILTERED")) 
-      //File.mkdir(dir+"FILTERED");
+
       
 
-input_dir = dir+"filtered_NUC/";
+//input_dir = dir+"NUC/";
+//output_dir = dir+"NUC_SEG/";
+input_dir = dir;
+output_dir = File.getParent(dir)+"/NUC_SEG/";
+if(!File.exists(output_dir)) 
+      File.mkdir(output_dir);
+      
 files=getFileList(input_dir);
 print("Nb of processing images: "+files.length+"\n");
 count=0;
 for(f=0;f<files.length;f++)
 {
-     if(!File.isDirectory(input_dir+files[f])) {
+     //if(!File.isDirectory(input_dir+files[f])) {
 				name=files[f];
 				
-				if(endsWith(name,'.tif') | endsWith(name,'.tiff')){
+				if(endsWith(name,'_NUC.tif')){
 					//print("Get the right channel : "+name);
           count=count+1;
           
@@ -42,7 +73,7 @@ for(f=0;f<files.length;f++)
 					//saveAs("Tiff",dir+name);
 					//run("Close");
           
-          seg_output=dir+"SEG/"+short_name+"_SEG.tif";
+          seg_output=output_dir+short_name+"_SEG.tif";
           if(File.exists(seg_output)) {
             print("---------------------------");
             print("SEG output is exist, skip this image: "+name);
@@ -51,7 +82,7 @@ for(f=0;f<files.length;f++)
             print("Loading image: "+name);
             print("---------------------------");
             start = getTime();
-            print(start/1000);
+            GetTime();
   					open(input_dir+name);
   					h=getHeight();
   					w=getWidth();
@@ -59,6 +90,7 @@ for(f=0;f<files.length;f++)
 				  	
             selectWindow(name);
 						run("Median...", "radius=2");
+						//run("Mean...", "radius=2");
 						run("32-bit");
 			      run("Bandpass Filter...", "filter_large="+maxSize+" filter_small="+minSize+" suppress=None tolerance=5");
 						run("Enhance Contrast...", "saturated=0");
@@ -68,16 +100,28 @@ for(f=0;f<files.length;f++)
 						//open(input_dir+"FILTERED/"+"BP_"+name);
 						//selectWindow("BP_"+name);
 						rename("BP_dapi");
+						//mean=spot_seeds_threshold; //just in case program has problem
+						getStatistics(area, mean, min, max, std);
+						print(getTitle+"  mean: "+mean);
+						
+						if(spot_seeds_threshold<mean){
+							spot_seeds_threshold=mean+500;
+							print("_________________________________________");
+							print("ATTENTION: DEBUG Spot seeds threshold value is:  "+spot_seeds_threshold);
+							print(name);
+						}
+						
 						print("Segmenting...");
 						
 						// usually seeds_threshold=30000
-						run("3D Spot Segmentation", "seeds_threshold=35000 local_background=0 radius_0=2 radius_1=4 radius_2=6 weigth=0.50 radius_max=20 sd_value=1.90 local_threshold=[Gaussian fit] seg_spot=Block watershed volume_min=800 volume_max=100000 seeds=Automatic spots=BP_dapi radius_for_seeds=2 output=[Label Image]"); 
+						run("3D Spot Segmentation", "seeds_threshold="+spot_seeds_threshold+" local_background=0 radius_0=2 radius_1=4 radius_2=6 weigth=0.50 radius_max=20 sd_value=1.90 local_threshold=[Gaussian fit] seg_spot=Block watershed volume_min=800 volume_max=100000 seeds=Automatic spots=BP_dapi radius_for_seeds=2 output=[Label Image]"); 
 						
 						selectWindow("seg");
 						run("3-3-2 RGB");
 					 	saveAs("Tiff",seg_output);
 					 	run("Close All");
 					 	print("Time of execution is: "+(getTime()-start)/1000); 
+					 	GetTime();
 		 	      print(" ");
 				 	
           }
@@ -94,7 +138,7 @@ for(f=0;f<files.length;f++)
 					
            }
            
-    }
+    //}
 
 }
 print("_________________________\n");

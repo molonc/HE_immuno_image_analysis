@@ -1,10 +1,36 @@
 //dir=getDirectory("mouse");
 //print(dir)
 setBatchMode(true);
-print("\\Clear");
 
-minSize=27;
-maxSize=41;
+function GetTime() {
+     getDateAndTime(year, month, dayOfWeek, dayOfMonth, hour, minute, second, msec);
+     TimeString ="Time:    ";
+     if (hour<10) {TimeString = TimeString+"0";}
+     TimeString = TimeString+hour+":";
+     if (minute<10) {TimeString = TimeString+"0";}
+     TimeString = TimeString+minute+":";
+     if (second<10) {TimeString = TimeString+"0";}
+     TimeString = TimeString+second;
+     print(TimeString);
+}
+
+// 3_08
+minSize=22;
+maxSize=45;
+
+
+// 4_S01
+//minSize=16;
+//maxSize=34;
+
+//5_06
+//minSize=18;
+//maxSize=40;
+
+//6_10AS
+//minSize=19;
+//maxSize=40;
+
 background_threshold=120;	
 spot_seeds_threshold=37500;
 dir = getArgument;
@@ -13,22 +39,23 @@ if (dir=="")
 
 print("Working dir: "+dir+"\n");
 
-if(!File.exists(dir+"SEG")) 
-      File.mkdir(dir+"SEG");
-//if(!File.exists(dir+"FILTERED")) 
-      //File.mkdir(dir+"FILTERED");
-      
 
-input_dir = dir+"filtered_NUC/";
+
+input_dir = dir+"NUC/";
+output_dir = dir+"NUC_SEG/";
+//input_dir = dir;
+if(!File.exists(output_dir)) 
+      File.mkdir(output_dir);
+      
 files=getFileList(input_dir);
 print("Nb of processing images: "+files.length+"\n");
 count=0;
 for(f=0;f<files.length;f++)
 {
-     if(!File.isDirectory(input_dir+files[f])) {
+     //if(!File.isDirectory(input_dir+files[f])) {
 				name=files[f];
 				
-				if(endsWith(name,'.tif') | endsWith(name,'.tiff')){
+				if(endsWith(name,'_NUC.tif')){
 					//print("Get the right channel : "+name);
           count=count+1;
           
@@ -43,7 +70,7 @@ for(f=0;f<files.length;f++)
 					//saveAs("Tiff",dir+name);
 					//run("Close");
           
-          seg_output=dir+"SEG/"+short_name+"_SEG.tif";
+          seg_output=output_dir+short_name+"_SEG.tif";
           if(File.exists(seg_output)) {
             print("---------------------------");
             print("SEG output is exist, skip this image: "+name);
@@ -52,7 +79,7 @@ for(f=0;f<files.length;f++)
             print("Loading image: "+name);
             print("---------------------------");
             start = getTime();
-            print(start/1000);
+            GetTime();
   					open(input_dir+name);
   					h=getHeight();
   					w=getWidth();
@@ -60,6 +87,7 @@ for(f=0;f<files.length;f++)
 				  	
             selectWindow(name);
 						run("Median...", "radius=2");
+						//run("Mean...", "radius=2");
 						run("32-bit");
 			      run("Bandpass Filter...", "filter_large="+maxSize+" filter_small="+minSize+" suppress=None tolerance=5");
 						run("Enhance Contrast...", "saturated=0");
@@ -90,6 +118,7 @@ for(f=0;f<files.length;f++)
 					 	saveAs("Tiff",seg_output);
 					 	run("Close All");
 					 	print("Time of execution is: "+(getTime()-start)/1000); 
+					 	GetTime();
 		 	      print(" ");
 				 	
           }
@@ -106,7 +135,7 @@ for(f=0;f<files.length;f++)
 					
            }
            
-    }
+    //}
 
 }
 print("_________________________\n");

@@ -11,28 +11,29 @@ if (dir=="")
 	exit ("No argument!");
 
 print(dir);
-//,
-v = newArray("CD8");
+
+v = newArray("CD8","CD57");
 for (i=0; i<v.length; i++) {
 	print(v[i]);
-	//input_dir = dir + v[i] + "_tiles/deconv/";
-	input_dir = dir + v[i] + "_tiles/filtered_NUC/";
+	input_dir = dir + v[i] + "_tiles/";
+	print(input_dir);
+	//input_dir = dir + v[i] + "_tiles/filtered_NUC/";
 	if(File.exists(input_dir)){
-		output_dir = dir + v[i] + "_tiles/rescaled_NUC_CD8/";
-		//output_dir = dir + v[i] + "_tiles/rescaled_raw/";
+		//output_dir = dir + v[i] + "_tiles/rescaled_NUC_CD8/";
+		output_dir = dir + v[i] + "_rescaled_raw/";
 		if(!File.exists(output_dir)) 
 	      	       File.mkdir(output_dir);
 
 		files=getFileList(input_dir);
-
+    print(files.length);
 
 		for(f=0;f<files.length;f++)
 		{
-		     if(!File.isDirectory(input_dir+files[f])) {
-					print(files[f]);
+		     //if(!File.isDirectory(input_dir+files[f])) {
+				 //print(files[f]);
 					name=files[f];
-					if(endsWith(toLowerCase(name),'.tif') | endsWith(toLowerCase(name),'.tiff')){
-					
+					//if(endsWith(toLowerCase(name),'.tif') | endsWith(toLowerCase(name),'.tiff')){
+					if(endsWith(name,'.tif')){
 						print("  ");
 						print(name);
 						short_name = substring(name,0,indexOf(name,'.tif'));
@@ -45,7 +46,7 @@ for (i=0; i<v.length; i++) {
 						
 					}		
 
-			 }		
+			 //}		
 		}			
 
 	} 
