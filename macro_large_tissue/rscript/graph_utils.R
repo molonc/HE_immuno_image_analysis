@@ -6,6 +6,30 @@ library(parallel)
 # datatag <- '4_S01_CD8'
 
 # main_datatag <- '5_06'  #3_08, 4_S01, 5_06, 6_10AS
+
+## Linux
+main_datatag <- 'HE_10_33214'
+scale_layout <- NULL
+scale_img <- 300
+draw_edges <- F
+marker <- 'CD57'
+main_dir <- paste0('/home/htran/storage/images_dataset/',main_datatag,'/',marker,'_tiles/CELL_TYPE/')
+save_dir <- main_dir
+datatag <- marker
+results <- viz_cells_network(main_dir, save_dir, datatag, scale_layout, scale_img, draw_edges)
+
+
+main_datatag <- 'HE_10_33214'
+scale_layout <- NULL
+scale_img <- 300
+draw_edges <- F
+marker <- 'CD8'
+main_dir <- paste0('/home/htran/storage/images_dataset/',main_datatag,'/',marker,'_tiles/CELL_TYPE/')
+save_dir <- main_dir
+datatag <- marker
+results <- viz_cells_network(main_dir, save_dir, datatag, scale_layout, scale_img, draw_edges)
+
+## MACOS 
 main_datatag <- '3_08'
 scale_layout <- NULL
 scale_img <- 300
@@ -38,31 +62,45 @@ viz_cells_network <- function(main_dir, save_dir, datatag,
   edges_ls <- list()
   for(nodes_fn in nodes_fn_ls){
   # out <- mclapply(nodes_fn_ls, function(nodes_fn){
+    
     main_fn <- gsub('_nodes.csv','',nodes_fn)
     edges_fn <- paste0(main_fn,'_edges.csv')
+    # print(nodes_fn)
+    # print(edges_fn)
+    
     X <- gsub(paste0(tag,"([0-9]+)_[0-9]+$"), "\\1", main_fn)
     Y <- gsub(paste0(tag,"([0-9]+)_([0-9]+)$"), "\\2", main_fn)
     # print(paste0('Image tile info: X: ',X,'   Y:',Y))
-    if(file.exists(paste0(main_dir,edges_fn))){
+    cond = file.size(paste0(main_dir,nodes_fn)) == 0
+    if(file.exists(paste0(main_dir,nodes_fn)) & !cond){
+  
       nodes_df <- read.csv(paste0(main_dir,nodes_fn),check.names = F, stringsAsFactors = F)
       # print(dim(nodes_df))
       # colnames(nodes_df)
       # head(nodes_df)
-      edges_df <- read.csv(paste0(main_dir,edges_fn),check.names = F, stringsAsFactors = F)
+      
       # head(edges_df)
       # print(dim(edges_df))
       # edges_df <- edges_df %>%
       #   dplyr::rename(from=from_cell_id,to=to_cell_id)
-      edges_df$from <- paste0('N',edges_df$from,'_',X,'_',Y)
-      edges_df$to <- paste0('N',edges_df$to,'_',X,'_',Y)
-      
-      nodes_df$name <- paste0('N',nodes_df$cell_id,'_',X,'_',Y)
-      # nodes_df <- nodes_df %>%
-      #   dplyr::rename(x=centerX, y=centerY)
-      nodes_df$x <- as.numeric(nodes_df$x) + as.numeric(X)
-      nodes_df$y <- as.numeric(nodes_df$y) + as.numeric(Y)
-      nodes_ls[[paste0(X,'_',Y)]] <- nodes_df
-      edges_ls[[paste0(X,'_',Y)]] <- edges_df
+      cond2 = file.size(paste0(main_dir,edges_fn)) == 0
+      if(nrow(nodes_df)>0 & !cond2){
+        edges_df <- read.csv(paste0(main_dir,edges_fn),check.names = F, stringsAsFactors = F)
+        edges_df$from <- paste0('N',edges_df$from,'_',X,'_',Y)
+        edges_df$to <- paste0('N',edges_df$to,'_',X,'_',Y)
+        
+        nodes_df$name <- paste0('N',nodes_df$cell_id,'_',X,'_',Y)
+        # nodes_df <- nodes_df %>%
+        #   dplyr::rename(x=centerX, y=centerY)
+        nodes_df$x <- as.numeric(nodes_df$x) + as.numeric(X)
+        nodes_df$y <- as.numeric(nodes_df$y) + as.numeric(Y)
+        nodes_ls[[paste0(X,'_',Y)]] <- nodes_df
+        edges_ls[[paste0(X,'_',Y)]] <- edges_df
+      }else{
+        print("Error")
+        print(nodes_fn)
+        print(edges_fn)
+      }
       # return(list(nodes_df=nodes_df,edges_df=edges_df))
     }
     

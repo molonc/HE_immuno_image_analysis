@@ -1,0 +1,118 @@
+
+setBatchMode(true);
+
+function GetTime() {
+     getDateAndTime(year, month, dayOfWeek, dayOfMonth, hour, minute, second, msec);
+     TimeString ="Time:    ";
+     if (hour<10) {TimeString = TimeString+"0";}
+     TimeString = TimeString+hour+":";
+     if (minute<10) {TimeString = TimeString+"0";}
+     TimeString = TimeString+minute+":";
+     if (second<10) {TimeString = TimeString+"0";}
+     TimeString = TimeString+second;
+     print(TimeString);
+}
+
+           	
+working_dir = getArgument;
+if (working_dir=="") 
+	exit("No argument!");
+
+print("Working dir: "+working_dir+"\n");
+
+dir = File.getParent(working_dir) + "/";
+print("Main dir: "+dir+"\n");
+
+if(!File.exists(dir+"CELL_TYPE")) 
+      File.mkdir(dir+"CELL_TYPE");
+    
+marker_name="CD8";
+tag = "_CD8";  //in linux some case name still have .tif
+min_mask_thrs = 120; //90 for 3_08, 4_S01, 130 for 5_06, 6_10AS
+pct_marker = 0.35;  //0.3 for 4_S01, 5_06, 0.35 for 6_10AS
+watershed_rad = 14;
+outputDir=dir + "CELL_TYPE/";
+rawdataDir=dir + "raw/";
+maskDir=dir + marker_name+"/";
+if(!File.exists(maskDir)) 
+      File.mkdir(maskDir);
+segDir = working_dir;
+print(maskDir);
+print(segDir);
+print("_______________________________________\n");
+
+
+if(!File.exists(segDir)) 
+  exit("Not correct seg dir, double check");
+  
+files=getFileList(segDir);
+
+print("Nb of processing images: "+files.length+"\n");
+count=0;
+for(f=0;f<files.length;f++)
+{
+     if(!File.isDirectory(segDir+files[f]) && endsWith(files[f],'_SEG.tif')) {
+				name=files[f];
+				//print("Get the right channel : "+name);
+				print("_______________________________________\n");
+				print(count);
+				count=count+1;
+				short_name = substring(name,0,indexOf(name,'_SEG.tif'));				
+				print(short_name);
+				if(!File.exists(outputDir+short_name+"_nodes.csv")){  
+					open(segDir+name);
+					getStatistics(area, mean, min, max, std);
+					print(getTitle+":   max:   "+max+"  min: "+min+"  mean: "+mean+"  area: "+area+"  std:"+std);
+					if(max==0){
+						print("******* background image, skip this step");
+						run("Close All"); 
+					} else{
+					
+					print(getTitle);
+					//start = getTime();
+          //GetTime();
+					if(File.exists(rawdataDir + short_name + ".tif")){
+					        open(rawdataDir + short_name + ".tif");
+					        print(rawdataDir + short_name + ".tif");
+						      selectWindow(short_name + ".tif");
+						      run("Colour Deconvolution", "vectors=[H&E DAB]");
+						      selectWindow(short_name+".tif-(Colour_3)");
+						      run("Grays");
+						      run("Invert");
+						      getStatistics(area1, mean1, min1, max1, std1);
+						      print(getTitle+":   max:   "+max1+"  min: "+min1+"  mean: "+mean1+"  area: "+area1+"  std:"+std1);
+  						    if(max1 > min_mask_thrs){
+  						      selectWindow(short_name+".tif-(Colour_3)");
+  						      saveAs("Tiff", maskDir + short_name + "_"+ marker_name + ".tif");
+  						      
+                    marker_fn=short_name + "_"+ marker_name + ".tif";
+                    print("Save output to file");
+                    print(maskDir + short_name + "_"+ marker_name + ".tif");
+  						    }else{
+                    marker_fn="*None*";
+                    print("Do not contain marker cells");
+                  }
+                  
+                  
+  					  }
+						run("Close All"); 
+					  //print("Time of execution is: "+(getTime()-start)/1000); 
+					 	//GetTime();
+		 	      print(" ");
+           }
+      }     
+           
+    }
+
+}
+print("_________________________\n");
+print("Nb of processed images:  "+count);
+print("Completed");
+
+//if(!File.exists(dir+"log")) File.mkdir(dir+"log");
+//selectWindow("Log");
+//saveAs("Text", dir+ "segment_log.txt");
+setBatchMode(false);
+
+
+

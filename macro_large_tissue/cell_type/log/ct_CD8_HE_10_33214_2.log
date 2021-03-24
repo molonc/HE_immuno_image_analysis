@@ -1,0 +1,1711 @@
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/SEG/
+Detect cell types
+Working dir: /home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/SEG/
+
+Main dir: /home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/
+
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/SEG/
+_______________________________________
+
+Nb of processing images: 486
+
+_______________________________________
+
+1
+CD8.svs__1_0_0
+CD8.svs__1_0_0_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+2
+CD8.svs__1_0_11960
+CD8.svs__1_0_11960_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+3
+CD8.svs__1_0_14950
+CD8.svs__1_0_14950_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+4
+CD8.svs__1_0_17940
+CD8.svs__1_0_17940_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+5
+CD8.svs__1_0_20930
+CD8.svs__1_0_20930_SEG.tif:   max:   1  min: 0  mean: 0.0001393  area: 9000000  std:0.0118
+CD8.svs__1_0_20930_SEG.tif
+Time:    22:04:23
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.35
+Seg: CD8.svs__1_0_20930_SEG
+java.lang.ArrayIndexOutOfBoundsException: 2
+	at mcib_testing.Evaluation.DetectCellType_HEimage_.run(DetectCellType_HEimage_.java:170)
+	at ij.IJ.runUserPlugIn(IJ.java:235)
+	at ij.IJ.runPlugIn(IJ.java:198)
+	at ij.Executer.runCommand(Executer.java:150)
+	at ij.Executer.run(Executer.java:68)
+	at ij.IJ.run(IJ.java:317)
+	at ij.IJ.run(IJ.java:328)
+	at ij.macro.Functions.doRun(Functions.java:684)
+	at ij.macro.Functions.doFunction(Functions.java:98)
+	at ij.macro.Interpreter.doStatement(Interpreter.java:278)
+	at ij.macro.Interpreter.doBlock(Interpreter.java:712)
+	at ij.macro.Interpreter.doStatement(Interpreter.java:323)
+	at ij.macro.Interpreter.doIf(Interpreter.java:1090)
+	at ij.macro.Interpreter.doStatement(Interpreter.java:299)
+	at ij.macro.Interpreter.doBlock(Interpreter.java:712)
+	at ij.macro.Interpreter.doStatement(Interpreter.java:323)
+	at ij.macro.Interpreter.doIf(Interpreter.java:1103)
+	at ij.macro.Interpreter.doStatement(Interpreter.java:299)
+	at ij.macro.Interpreter.doBlock(Interpreter.java:712)
+	at ij.macro.Interpreter.doStatement(Interpreter.java:323)
+	at ij.macro.Interpreter.doIf(Interpreter.java:1090)
+	at ij.macro.Interpreter.doStatement(Interpreter.java:299)
+	at ij.macro.Interpreter.doBlock(Interpreter.java:712)
+	at ij.macro.Interpreter.doStatement(Interpreter.java:323)
+	at ij.macro.Interpreter.doIf(Interpreter.java:1090)
+	at ij.macro.Interpreter.doStatement(Interpreter.java:299)
+	at ij.macro.Interpreter.doBlock(Interpreter.java:712)
+	at ij.macro.Interpreter.doStatement(Interpreter.java:323)
+	at ij.macro.Interpreter.doFor(Interpreter.java:634)
+	at ij.macro.Interpreter.doStatement(Interpreter.java:305)
+	at ij.macro.Interpreter.doStatements(Interpreter.java:264)
+	at ij.macro.Interpreter.run(Interpreter.java:160)
+	at ij.macro.Interpreter.run(Interpreter.java:93)
+	at ij.macro.Interpreter.run(Interpreter.java:104)
+	at ij.plugin.Macro_Runner.runMacro(Macro_Runner.java:161)
+	at ij.plugin.Macro_Runner.runMacroFile(Macro_Runner.java:145)
+	at ij.IJ.runMacroFile(IJ.java:165)
+	at ij.ImageJ.main(ImageJ.java:749)
+
+Time of execution is: 0.133
+Time:    22:04:23
+ 
+_______________________________________
+
+6
+CD8.svs__1_0_23920
+CD8.svs__1_0_23920_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+7
+CD8.svs__1_0_26910
+CD8.svs__1_0_26910_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+8
+CD8.svs__1_0_29900
+CD8.svs__1_0_29900_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+9
+CD8.svs__1_0_2990
+CD8.svs__1_0_2990_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+10
+CD8.svs__1_0_32890
+CD8.svs__1_0_32890_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+11
+CD8.svs__1_0_35880
+CD8.svs__1_0_35880_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+12
+CD8.svs__1_0_38870
+CD8.svs__1_0_38870_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+13
+CD8.svs__1_0_41860
+CD8.svs__1_0_41860_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+14
+CD8.svs__1_0_44850
+CD8.svs__1_0_44850_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+15
+CD8.svs__1_0_47840
+CD8.svs__1_0_47840_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+16
+CD8.svs__1_0_50830
+CD8.svs__1_0_50830_SEG.tif:   max:   0  min: 0  mean: 0  area: 2736000  std:0
+******* background image, skip this step
+_______________________________________
+
+17
+CD8.svs__1_0_5980
+CD8.svs__1_0_5980_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+18
+CD8.svs__1_0_8970
+CD8.svs__1_0_8970_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+19
+CD8.svs__1_11960_0
+CD8.svs__1_11960_0_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+20
+CD8.svs__1_11960_11960
+CD8.svs__1_11960_11960_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+21
+CD8.svs__1_11960_14950
+CD8.svs__1_11960_14950_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+22
+CD8.svs__1_11960_17940
+CD8.svs__1_11960_17940_SEG.tif:   max:   611  min: 0  mean: 43.7822  area: 9000000  std:124.7967
+CD8.svs__1_11960_17940_SEG.tif
+Time:    22:04:23
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.35
+Seg: CD8.svs__1_11960_17940_SEG
+marker img: CD8.svs__1_11960_17940_CD8
+Observed marker: CD8  MARKER_VAL: 5
+Save dir is: /home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CELL_TYPE/
+CD8.svs__1_11960_17940
+Generate watershed cell segmentation image using radius from nucleus: 14.0
+Watershed radius: 14.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 139551
+\Update:Voxels to process : 126629
+\Update:Voxels to process : 118513
+\Update:Voxels to process : 115339
+\Update:Voxels to process : 112059
+\Update:Voxels to process : 106482
+\Update:Voxels to process : 98099
+\Update:Voxels to process : 87716
+\Update:Voxels to process : 78183
+\Update:Voxels to process : 65442
+\Update:Voxels to process : 55352
+\Update:Voxels to process : 48024
+\Update:Voxels to process : 39496
+\Update:Voxels to process : 32617
+\Update:Voxels to process : 23737
+\Update:Voxels to process : 16347
+\Update:Voxels to process : 7820
+\Update:Voxels to process : 5764
+\Update:Voxels to process : 5285
+\Update:Voxels to process : 5039
+\Update:Voxels to process : 4598
+\Update:Voxels to process : 4474
+\Update:Voxels to process : 4412
+\Update:Voxels to process : 4354
+\Update:Voxels to process : 4307
+\Update:Voxels to process : 4260
+\Update:Voxels to process : 4221
+\Update:Voxels to process : 4199
+\Update:Voxels to process : 4160
+\Update:Voxels to process : 4134
+\Update:Voxels to process : 4127
+\Update:Voxels to process : 4110
+\Update:Voxels to process : 4101
+\Update:Voxels to process : 4081
+\Update:Voxels to process : 4074
+\Update:Voxels to process : 4065
+\Update:Voxels to process : 4058
+\Update:Voxels to process : 4051
+\Update:Voxels to process : 4041
+\Update:Voxels to process : 4034
+\Update:Voxels to process : 4027
+\Update:Voxels to process : 4020
+\Update:Voxels to process : 4011
+\Update:Voxels to process : 4005
+\Update:Voxels to process : 4001
+\Update:Voxels to process : 3995
+\Update:Voxels to process : 3992
+\Update:Voxels to process : 3982
+\Update:Voxels to process : 3982
+\Update:Voxels to process : 3981
+\Update:Voxels to process : 3978
+\Update:Voxels to process : 3973
+\Update:Voxels to process : 3971
+\Update:Voxels to process : 3971
+\Update:Voxels to process : 3961
+\Update:Voxels to process : 3961
+\Update:Voxels to process : 3957
+\Update:Voxels to process : 3949
+\Update:Voxels to process : 3954
+\Update:Voxels to process : 3949
+\Update:Voxels to process : 3945
+\Update:Voxels to process : 3943
+\Update:Voxels to process : 3938
+\Update:Voxels to process : 3939
+\Update:Voxels to process : 3934
+\Update:Voxels to process : 3932
+\Update:Voxels to process : 3930
+\Update:Voxels to process : 3928
+\Update:Voxels to process : 3505
+\Update:Voxels to process : 3332
+\Update:Voxels to process : 3171
+\Update:Voxels to process : 3017
+\Update:Voxels to process : 2876
+\Update:Voxels to process : 2735
+\Update:Voxels to process : 2603
+\Update:Voxels to process : 2090
+\Update:Voxels to process : 1775
+\Update:Voxels to process : 1490
+\Update:Voxels to process : 1194
+\Update:Voxels to process : 875
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 610
+Nb of each cells type: 26   Unlabelled: 584
+====================================================================
+
+Time of execution is: 72.876
+Time:    22:05:36
+ 
+_______________________________________
+
+23
+CD8.svs__1_11960_20930
+CD8.svs__1_11960_20930_SEG.tif:   max:   2737  min: 0  mean: 841.915  area: 9000000  std:911.2226
+CD8.svs__1_11960_20930_SEG.tif
+Time:    22:05:36
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.35
+Seg: CD8.svs__1_11960_20930_SEG
+marker img: CD8.svs__1_11960_20930_CD8
+Observed marker: CD8  MARKER_VAL: 5
+Save dir is: /home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CELL_TYPE/
+CD8.svs__1_11960_20930
+Generate watershed cell segmentation image using radius from nucleus: 14.0
+Watershed radius: 14.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 599001
+\Update:Voxels to process : 583543
+\Update:Voxels to process : 569406
+\Update:Voxels to process : 553014
+\Update:Voxels to process : 530896
+\Update:Voxels to process : 511301
+\Update:Voxels to process : 494103
+\Update:Voxels to process : 479323
+\Update:Voxels to process : 467128
+\Update:Voxels to process : 452793
+\Update:Voxels to process : 441698
+\Update:Voxels to process : 424470
+\Update:Voxels to process : 409418
+\Update:Voxels to process : 398034
+\Update:Voxels to process : 387859
+\Update:Voxels to process : 373120
+\Update:Voxels to process : 356932
+\Update:Voxels to process : 345945
+\Update:Voxels to process : 336873
+\Update:Voxels to process : 323054
+\Update:Voxels to process : 308291
+\Update:Voxels to process : 291211
+\Update:Voxels to process : 281486
+\Update:Voxels to process : 264591
+\Update:Voxels to process : 248372
+\Update:Voxels to process : 239957
+\Update:Voxels to process : 223660
+\Update:Voxels to process : 212510
+\Update:Voxels to process : 196853
+\Update:Voxels to process : 182340
+\Update:Voxels to process : 171312
+\Update:Voxels to process : 155603
+\Update:Voxels to process : 144957
+\Update:Voxels to process : 130476
+\Update:Voxels to process : 119050
+\Update:Voxels to process : 107837
+\Update:Voxels to process : 96201
+\Update:Voxels to process : 82803
+\Update:Voxels to process : 69228
+\Update:Voxels to process : 54833
+\Update:Voxels to process : 40583
+\Update:Voxels to process : 29092
+\Update:Voxels to process : 16411
+\Update:Voxels to process : 3932
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2736
+Nb of each cells type: 102   Unlabelled: 2634
+====================================================================
+
+Time of execution is: 68.398
+Time:    22:06:45
+ 
+_______________________________________
+
+24
+CD8.svs__1_11960_23920
+CD8.svs__1_11960_23920_SEG.tif:   max:   2945  min: 0  mean: 951.8421  area: 9000000  std:980.9597
+CD8.svs__1_11960_23920_SEG.tif
+Time:    22:06:45
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.35
+Seg: CD8.svs__1_11960_23920_SEG
+marker img: CD8.svs__1_11960_23920_CD8
+Observed marker: CD8  MARKER_VAL: 5
+Save dir is: /home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CELL_TYPE/
+CD8.svs__1_11960_23920
+Generate watershed cell segmentation image using radius from nucleus: 14.0
+Watershed radius: 14.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 631608
+\Update:Voxels to process : 602620
+\Update:Voxels to process : 577349
+\Update:Voxels to process : 553240
+\Update:Voxels to process : 531583
+\Update:Voxels to process : 509860
+\Update:Voxels to process : 492475
+\Update:Voxels to process : 477535
+\Update:Voxels to process : 463569
+\Update:Voxels to process : 446723
+\Update:Voxels to process : 427577
+\Update:Voxels to process : 409899
+\Update:Voxels to process : 396492
+\Update:Voxels to process : 381547
+\Update:Voxels to process : 363422
+\Update:Voxels to process : 344474
+\Update:Voxels to process : 334111
+\Update:Voxels to process : 316352
+\Update:Voxels to process : 297887
+\Update:Voxels to process : 278724
+\Update:Voxels to process : 266023
+\Update:Voxels to process : 245620
+\Update:Voxels to process : 230273
+\Update:Voxels to process : 212096
+\Update:Voxels to process : 193171
+\Update:Voxels to process : 173966
+\Update:Voxels to process : 155525
+\Update:Voxels to process : 133590
+\Update:Voxels to process : 113551
+\Update:Voxels to process : 94672
+\Update:Voxels to process : 83820
+\Update:Voxels to process : 66357
+\Update:Voxels to process : 46506
+\Update:Voxels to process : 25629
+\Update:Voxels to process : 5196
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2944
+Nb of each cells type: 167   Unlabelled: 2777
+====================================================================
+
+Time of execution is: 38.335
+Time:    22:07:23
+ 
+_______________________________________
+
+25
+CD8.svs__1_11960_26910
+CD8.svs__1_11960_26910_SEG.tif:   max:   3086  min: 0  mean: 1014.2243  area: 9000000  std:1017.7165
+CD8.svs__1_11960_26910_SEG.tif
+Time:    22:07:23
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.35
+Seg: CD8.svs__1_11960_26910_SEG
+marker img: CD8.svs__1_11960_26910_CD8
+Observed marker: CD8  MARKER_VAL: 5
+Save dir is: /home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CELL_TYPE/
+CD8.svs__1_11960_26910
+Generate watershed cell segmentation image using radius from nucleus: 14.0
+Watershed radius: 14.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 650826
+\Update:Voxels to process : 624908
+\Update:Voxels to process : 599636
+\Update:Voxels to process : 574621
+\Update:Voxels to process : 550576
+\Update:Voxels to process : 528003
+\Update:Voxels to process : 507304
+\Update:Voxels to process : 499749
+\Update:Voxels to process : 493953
+\Update:Voxels to process : 480498
+\Update:Voxels to process : 465072
+\Update:Voxels to process : 446906
+\Update:Voxels to process : 428006
+\Update:Voxels to process : 411171
+\Update:Voxels to process : 397438
+\Update:Voxels to process : 380116
+\Update:Voxels to process : 360988
+\Update:Voxels to process : 343098
+\Update:Voxels to process : 329337
+\Update:Voxels to process : 310348
+\Update:Voxels to process : 290230
+\Update:Voxels to process : 272281
+\Update:Voxels to process : 254835
+\Update:Voxels to process : 233617
+\Update:Voxels to process : 219467
+\Update:Voxels to process : 197958
+\Update:Voxels to process : 179106
+\Update:Voxels to process : 157901
+\Update:Voxels to process : 135423
+\Update:Voxels to process : 110775
+\Update:Voxels to process : 84289
+\Update:Voxels to process : 57378
+\Update:Voxels to process : 31892
+\Update:Voxels to process : 5408
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 3085
+Nb of each cells type: 248   Unlabelled: 2837
+====================================================================
+
+Time of execution is: 37.022
+Time:    22:08:00
+ 
+_______________________________________
+
+26
+CD8.svs__1_11960_29900
+CD8.svs__1_11960_29900_SEG.tif:   max:   1892  min: 0  mean: 412.639  area: 9000000  std:599.372
+CD8.svs__1_11960_29900_SEG.tif
+Time:    22:08:00
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.35
+Seg: CD8.svs__1_11960_29900_SEG
+marker img: CD8.svs__1_11960_29900_CD8
+Observed marker: CD8  MARKER_VAL: 5
+Save dir is: /home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CELL_TYPE/
+CD8.svs__1_11960_29900
+Generate watershed cell segmentation image using radius from nucleus: 14.0
+Watershed radius: 14.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 408188
+\Update:Voxels to process : 390331
+\Update:Voxels to process : 368970
+\Update:Voxels to process : 344524
+\Update:Voxels to process : 328770
+\Update:Voxels to process : 317680
+\Update:Voxels to process : 303682
+\Update:Voxels to process : 289288
+\Update:Voxels to process : 276351
+\Update:Voxels to process : 262973
+\Update:Voxels to process : 244281
+\Update:Voxels to process : 232597
+\Update:Voxels to process : 216140
+\Update:Voxels to process : 197977
+\Update:Voxels to process : 185519
+\Update:Voxels to process : 168452
+\Update:Voxels to process : 153533
+\Update:Voxels to process : 138230
+\Update:Voxels to process : 120399
+\Update:Voxels to process : 101968
+\Update:Voxels to process : 84574
+\Update:Voxels to process : 68842
+\Update:Voxels to process : 53915
+\Update:Voxels to process : 41338
+\Update:Voxels to process : 30358
+\Update:Voxels to process : 23652
+\Update:Voxels to process : 18309
+\Update:Voxels to process : 15162
+\Update:Voxels to process : 11979
+\Update:Voxels to process : 7838
+\Update:Voxels to process : 6525
+\Update:Voxels to process : 6282
+\Update:Voxels to process : 6079
+\Update:Voxels to process : 5112
+\Update:Voxels to process : 4801
+\Update:Voxels to process : 4632
+\Update:Voxels to process : 4498
+\Update:Voxels to process : 4366
+\Update:Voxels to process : 4071
+\Update:Voxels to process : 3917
+\Update:Voxels to process : 3748
+\Update:Voxels to process : 3639
+\Update:Voxels to process : 3527
+\Update:Voxels to process : 3411
+\Update:Voxels to process : 3053
+\Update:Voxels to process : 2314
+\Update:Voxels to process : 2084
+\Update:Voxels to process : 1879
+\Update:Voxels to process : 1640
+\Update:Voxels to process : 1389
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 1891
+Nb of each cells type: 252   Unlabelled: 1639
+====================================================================
+
+Time of execution is: 37.753
+Time:    22:08:38
+ 
+_______________________________________
+
+27
+CD8.svs__1_11960_2990
+CD8.svs__1_11960_2990_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+28
+CD8.svs__1_11960_32890
+CD8.svs__1_11960_32890_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+29
+CD8.svs__1_11960_35880
+CD8.svs__1_11960_35880_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+30
+CD8.svs__1_11960_38870
+CD8.svs__1_11960_38870_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+31
+CD8.svs__1_11960_41860
+CD8.svs__1_11960_41860_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+32
+CD8.svs__1_11960_44850
+CD8.svs__1_11960_44850_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+33
+CD8.svs__1_11960_47840
+CD8.svs__1_11960_47840_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+34
+CD8.svs__1_11960_50830
+CD8.svs__1_11960_50830_SEG.tif:   max:   0  min: 0  mean: 0  area: 2736000  std:0
+******* background image, skip this step
+_______________________________________
+
+35
+CD8.svs__1_11960_5980
+CD8.svs__1_11960_5980_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+36
+CD8.svs__1_11960_8970
+CD8.svs__1_11960_8970_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+37
+CD8.svs__1_14950_0
+CD8.svs__1_14950_0_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+38
+CD8.svs__1_14950_11960
+CD8.svs__1_14950_11960_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+39
+CD8.svs__1_14950_14950
+CD8.svs__1_14950_14950_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+40
+CD8.svs__1_14950_17940
+CD8.svs__1_14950_17940_SEG.tif:   max:   1669  min: 0  mean: 308.2094  area: 9000000  std:496.238
+CD8.svs__1_14950_17940_SEG.tif
+Time:    22:08:39
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.35
+Seg: CD8.svs__1_14950_17940_SEG
+marker img: CD8.svs__1_14950_17940_CD8
+Observed marker: CD8  MARKER_VAL: 5
+Save dir is: /home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CELL_TYPE/
+CD8.svs__1_14950_17940
+Generate watershed cell segmentation image using radius from nucleus: 14.0
+Watershed radius: 14.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 357522
+\Update:Voxels to process : 334362
+\Update:Voxels to process : 310876
+\Update:Voxels to process : 294228
+\Update:Voxels to process : 281566
+\Update:Voxels to process : 266855
+\Update:Voxels to process : 250284
+\Update:Voxels to process : 239593
+\Update:Voxels to process : 224393
+\Update:Voxels to process : 213425
+\Update:Voxels to process : 212961
+\Update:Voxels to process : 200766
+\Update:Voxels to process : 183544
+\Update:Voxels to process : 170724
+\Update:Voxels to process : 154199
+\Update:Voxels to process : 139419
+\Update:Voxels to process : 125007
+\Update:Voxels to process : 108745
+\Update:Voxels to process : 91452
+\Update:Voxels to process : 75181
+\Update:Voxels to process : 59178
+\Update:Voxels to process : 43462
+\Update:Voxels to process : 29772
+\Update:Voxels to process : 15812
+\Update:Voxels to process : 5606
+\Update:Voxels to process : 4527
+\Update:Voxels to process : 4429
+\Update:Voxels to process : 4377
+\Update:Voxels to process : 4341
+\Update:Voxels to process : 4311
+\Update:Voxels to process : 4231
+\Update:Voxels to process : 4186
+\Update:Voxels to process : 4155
+\Update:Voxels to process : 4108
+\Update:Voxels to process : 4075
+\Update:Voxels to process : 4024
+\Update:Voxels to process : 4001
+\Update:Voxels to process : 3979
+\Update:Voxels to process : 3945
+\Update:Voxels to process : 3931
+\Update:Voxels to process : 3911
+\Update:Voxels to process : 3903
+\Update:Voxels to process : 3886
+\Update:Voxels to process : 3880
+\Update:Voxels to process : 3865
+\Update:Voxels to process : 3636
+\Update:Voxels to process : 3261
+\Update:Voxels to process : 3091
+\Update:Voxels to process : 2930
+\Update:Voxels to process : 2804
+\Update:Voxels to process : 2545
+\Update:Voxels to process : 2258
+\Update:Voxels to process : 2004
+\Update:Voxels to process : 1729
+\Update:Voxels to process : 1467
+\Update:Voxels to process : 487
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 1668
+Nb of each cells type: 117   Unlabelled: 1551
+====================================================================
+
+Time of execution is: 36.674
+Time:    22:09:15
+ 
+_______________________________________
+
+41
+CD8.svs__1_14950_20930
+CD8.svs__1_14950_20930_SEG.tif:   max:   2688  min: 0  mean: 818.0941  area: 9000000  std:895.9312
+CD8.svs__1_14950_20930_SEG.tif
+Time:    22:09:15
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.35
+Seg: CD8.svs__1_14950_20930_SEG
+marker img: CD8.svs__1_14950_20930_CD8
+Observed marker: CD8  MARKER_VAL: 5
+Save dir is: /home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CELL_TYPE/
+CD8.svs__1_14950_20930
+Generate watershed cell segmentation image using radius from nucleus: 14.0
+Watershed radius: 14.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 589312
+\Update:Voxels to process : 569491
+\Update:Voxels to process : 551971
+\Update:Voxels to process : 530155
+\Update:Voxels to process : 506736
+\Update:Voxels to process : 487995
+\Update:Voxels to process : 472133
+\Update:Voxels to process : 461939
+\Update:Voxels to process : 448062
+\Update:Voxels to process : 433031
+\Update:Voxels to process : 416568
+\Update:Voxels to process : 403035
+\Update:Voxels to process : 395025
+\Update:Voxels to process : 381452
+\Update:Voxels to process : 365028
+\Update:Voxels to process : 351431
+\Update:Voxels to process : 342370
+\Update:Voxels to process : 327798
+\Update:Voxels to process : 311549
+\Update:Voxels to process : 296706
+\Update:Voxels to process : 285691
+\Update:Voxels to process : 269655
+\Update:Voxels to process : 256854
+\Update:Voxels to process : 242532
+\Update:Voxels to process : 223918
+\Update:Voxels to process : 213839
+\Update:Voxels to process : 196131
+\Update:Voxels to process : 184302
+\Update:Voxels to process : 166407
+\Update:Voxels to process : 153324
+\Update:Voxels to process : 136885
+\Update:Voxels to process : 120680
+\Update:Voxels to process : 105368
+\Update:Voxels to process : 89492
+\Update:Voxels to process : 74419
+\Update:Voxels to process : 57378
+\Update:Voxels to process : 38905
+\Update:Voxels to process : 21849
+\Update:Voxels to process : 18719
+\Update:Voxels to process : 5381
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2687
+Nb of each cells type: 158   Unlabelled: 2529
+====================================================================
+
+Time of execution is: 36.671
+Time:    22:09:52
+ 
+_______________________________________
+
+42
+CD8.svs__1_14950_23920
+CD8.svs__1_14950_23920_SEG.tif:   max:   2829  min: 0  mean: 893.0061  area: 9000000  std:937.9008
+CD8.svs__1_14950_23920_SEG.tif
+Time:    22:09:52
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.35
+Seg: CD8.svs__1_14950_23920_SEG
+marker img: CD8.svs__1_14950_23920_CD8
+Observed marker: CD8  MARKER_VAL: 5
+Save dir is: /home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CELL_TYPE/
+CD8.svs__1_14950_23920
+Generate watershed cell segmentation image using radius from nucleus: 14.0
+Watershed radius: 14.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 611103
+\Update:Voxels to process : 586694
+\Update:Voxels to process : 564915
+\Update:Voxels to process : 542302
+\Update:Voxels to process : 517129
+\Update:Voxels to process : 498753
+\Update:Voxels to process : 483665
+\Update:Voxels to process : 469648
+\Update:Voxels to process : 457222
+\Update:Voxels to process : 441037
+\Update:Voxels to process : 424669
+\Update:Voxels to process : 409733
+\Update:Voxels to process : 399975
+\Update:Voxels to process : 386529
+\Update:Voxels to process : 368694
+\Update:Voxels to process : 351135
+\Update:Voxels to process : 341973
+\Update:Voxels to process : 326083
+\Update:Voxels to process : 308608
+\Update:Voxels to process : 291260
+\Update:Voxels to process : 286274
+\Update:Voxels to process : 271157
+\Update:Voxels to process : 253136
+\Update:Voxels to process : 243635
+\Update:Voxels to process : 227504
+\Update:Voxels to process : 210776
+\Update:Voxels to process : 196791
+\Update:Voxels to process : 176342
+\Update:Voxels to process : 161218
+\Update:Voxels to process : 144290
+\Update:Voxels to process : 127498
+\Update:Voxels to process : 110303
+\Update:Voxels to process : 91759
+\Update:Voxels to process : 71289
+\Update:Voxels to process : 52359
+\Update:Voxels to process : 34666
+\Update:Voxels to process : 13264
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2828
+Nb of each cells type: 183   Unlabelled: 2645
+====================================================================
+
+Time of execution is: 36.706
+Time:    22:10:29
+ 
+_______________________________________
+
+43
+CD8.svs__1_14950_26910
+CD8.svs__1_14950_26910_SEG.tif:   max:   3061  min: 0  mean: 1019.4581  area: 9000000  std:1021.4527
+CD8.svs__1_14950_26910_SEG.tif
+Time:    22:10:29
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.35
+Seg: CD8.svs__1_14950_26910_SEG
+marker img: CD8.svs__1_14950_26910_CD8
+Observed marker: CD8  MARKER_VAL: 5
+Save dir is: /home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CELL_TYPE/
+CD8.svs__1_14950_26910
+Generate watershed cell segmentation image using radius from nucleus: 14.0
+Watershed radius: 14.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 650278
+\Update:Voxels to process : 631163
+\Update:Voxels to process : 605276
+\Update:Voxels to process : 583864
+\Update:Voxels to process : 562723
+\Update:Voxels to process : 541449
+\Update:Voxels to process : 523801
+\Update:Voxels to process : 507741
+\Update:Voxels to process : 490681
+\Update:Voxels to process : 477457
+\Update:Voxels to process : 459234
+\Update:Voxels to process : 440506
+\Update:Voxels to process : 422857
+\Update:Voxels to process : 408274
+\Update:Voxels to process : 393237
+\Update:Voxels to process : 374292
+\Update:Voxels to process : 353890
+\Update:Voxels to process : 342802
+\Update:Voxels to process : 326532
+\Update:Voxels to process : 306396
+\Update:Voxels to process : 284873
+\Update:Voxels to process : 269627
+\Update:Voxels to process : 250897
+\Update:Voxels to process : 227563
+\Update:Voxels to process : 211080
+\Update:Voxels to process : 185648
+\Update:Voxels to process : 167326
+\Update:Voxels to process : 143519
+\Update:Voxels to process : 118189
+\Update:Voxels to process : 98445
+\Update:Voxels to process : 70400
+\Update:Voxels to process : 42722
+\Update:Voxels to process : 16263
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 3060
+Nb of each cells type: 232   Unlabelled: 2828
+====================================================================
+
+Time of execution is: 35.717
+Time:    22:11:05
+ 
+_______________________________________
+
+44
+CD8.svs__1_14950_29900
+CD8.svs__1_14950_29900_SEG.tif:   max:   2294  min: 0  mean: 563.9004  area: 9000000  std:742.1818
+CD8.svs__1_14950_29900_SEG.tif
+Time:    22:11:05
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.35
+Seg: CD8.svs__1_14950_29900_SEG
+marker img: CD8.svs__1_14950_29900_CD8
+Observed marker: CD8  MARKER_VAL: 5
+Save dir is: /home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CELL_TYPE/
+CD8.svs__1_14950_29900
+Generate watershed cell segmentation image using radius from nucleus: 14.0
+Watershed radius: 14.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 483164
+\Update:Voxels to process : 465447
+\Update:Voxels to process : 442776
+\Update:Voxels to process : 419017
+\Update:Voxels to process : 400673
+\Update:Voxels to process : 385674
+\Update:Voxels to process : 371174
+\Update:Voxels to process : 356626
+\Update:Voxels to process : 339204
+\Update:Voxels to process : 324408
+\Update:Voxels to process : 312926
+\Update:Voxels to process : 297216
+\Update:Voxels to process : 278999
+\Update:Voxels to process : 270143
+\Update:Voxels to process : 254718
+\Update:Voxels to process : 237501
+\Update:Voxels to process : 224927
+\Update:Voxels to process : 206462
+\Update:Voxels to process : 192347
+\Update:Voxels to process : 173586
+\Update:Voxels to process : 158983
+\Update:Voxels to process : 138919
+\Update:Voxels to process : 120944
+\Update:Voxels to process : 102155
+\Update:Voxels to process : 81190
+\Update:Voxels to process : 64183
+\Update:Voxels to process : 45341
+\Update:Voxels to process : 31303
+\Update:Voxels to process : 20656
+\Update:Voxels to process : 13887
+\Update:Voxels to process : 8529
+\Update:Voxels to process : 7090
+\Update:Voxels to process : 6039
+\Update:Voxels to process : 5382
+\Update:Voxels to process : 5062
+\Update:Voxels to process : 4659
+\Update:Voxels to process : 4516
+\Update:Voxels to process : 4404
+\Update:Voxels to process : 4342
+\Update:Voxels to process : 4302
+\Update:Voxels to process : 3943
+\Update:Voxels to process : 3583
+\Update:Voxels to process : 3328
+\Update:Voxels to process : 3176
+\Update:Voxels to process : 2357
+\Update:Voxels to process : 1382
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2293
+Nb of each cells type: 326   Unlabelled: 1967
+====================================================================
+
+Time of execution is: 38.358
+Time:    22:11:43
+ 
+_______________________________________
+
+45
+CD8.svs__1_14950_2990
+CD8.svs__1_14950_2990_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+46
+CD8.svs__1_14950_32890
+CD8.svs__1_14950_32890_SEG.tif:   max:   4  min: 0  mean: 0.001248  area: 9000000  std:0.06016
+CD8.svs__1_14950_32890_SEG.tif
+Time:    22:11:43
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.35
+Seg: CD8.svs__1_14950_32890_SEG
+marker img: CD8.svs__1_14950_32890_CD8
+Observed marker: CD8  MARKER_VAL: 5
+Save dir is: /home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CELL_TYPE/
+CD8.svs__1_14950_32890
+Generate watershed cell segmentation image using radius from nucleus: 14.0
+Watershed radius: 14.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 3070
+\Update:Voxels to process : 4318
+\Update:Voxels to process : 5246
+\Update:Voxels to process : 6046
+\Update:Voxels to process : 6654
+\Update:Voxels to process : 7262
+\Update:Voxels to process : 7838
+\Update:Voxels to process : 8382
+\Update:Voxels to process : 8926
+\Update:Voxels to process : 9374
+\Update:Voxels to process : 9822
+\Update:Voxels to process : 10206
+\Update:Voxels to process : 10622
+\Update:Voxels to process : 11038
+\Update:Voxels to process : 11422
+\Update:Voxels to process : 11358
+\Update:Voxels to process : 11480
+\Update:Voxels to process : 11289
+\Update:Voxels to process : 11213
+\Update:Voxels to process : 11239
+\Update:Voxels to process : 11343
+\Update:Voxels to process : 11432
+\Update:Voxels to process : 11327
+\Update:Voxels to process : 11345
+\Update:Voxels to process : 11425
+\Update:Voxels to process : 11349
+\Update:Voxels to process : 11196
+\Update:Voxels to process : 11195
+\Update:Voxels to process : 10181
+\Update:Voxels to process : 9669
+\Update:Voxels to process : 9332
+\Update:Voxels to process : 9056
+\Update:Voxels to process : 8832
+\Update:Voxels to process : 8830
+\Update:Voxels to process : 8833
+\Update:Voxels to process : 8848
+\Update:Voxels to process : 8867
+\Update:Voxels to process : 8884
+\Update:Voxels to process : 8891
+\Update:Voxels to process : 8904
+\Update:Voxels to process : 8928
+\Update:Voxels to process : 8962
+\Update:Voxels to process : 8994
+\Update:Voxels to process : 9023
+\Update:Voxels to process : 9054
+\Update:Voxels to process : 9098
+\Update:Voxels to process : 9147
+\Update:Voxels to process : 9186
+\Update:Voxels to process : 9230
+\Update:Voxels to process : 9281
+\Update:Voxels to process : 9322
+\Update:Voxels to process : 9368
+\Update:Voxels to process : 9419
+\Update:Voxels to process : 9468
+\Update:Voxels to process : 9513
+\Update:Voxels to process : 9558
+\Update:Voxels to process : 9609
+\Update:Voxels to process : 9657
+\Update:Voxels to process : 9706
+\Update:Voxels to process : 9756
+\Update:Voxels to process : 9802
+\Update:Voxels to process : 9853
+\Update:Voxels to process : 9904
+\Update:Voxels to process : 9950
+\Update:Voxels to process : 9692
+\Update:Voxels to process : 9555
+\Update:Voxels to process : 9144
+\Update:Voxels to process : 8873
+\Update:Voxels to process : 8645
+\Update:Voxels to process : 8297
+\Update:Voxels to process : 7789
+\Update:Voxels to process : 7414
+\Update:Voxels to process : 7065
+\Update:Voxels to process : 6720
+\Update:Voxels to process : 6388
+\Update:Voxels to process : 6027
+\Update:Voxels to process : 5656
+\Update:Voxels to process : 5281
+\Update:Voxels to process : 4928
+\Update:Voxels to process : 4523
+\Update:Voxels to process : 4086
+\Update:Voxels to process : 3640
+\Update:Voxels to process : 3127
+\Update:Voxels to process : 2812
+\Update:Voxels to process : 2414
+\Update:Voxels to process : 1677
+\Update:Voxels to process : 568
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 3
+Nb of each cells type: 0   Unlabelled: 3
+====================================================================
+
+Time of execution is: 37.522
+Time:    22:12:21
+ 
+_______________________________________
+
+47
+CD8.svs__1_14950_35880
+CD8.svs__1_14950_35880_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+48
+CD8.svs__1_14950_38870
+CD8.svs__1_14950_38870_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+49
+CD8.svs__1_14950_41860
+CD8.svs__1_14950_41860_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+50
+CD8.svs__1_14950_44850
+CD8.svs__1_14950_44850_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+51
+CD8.svs__1_14950_47840
+CD8.svs__1_14950_47840_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+52
+CD8.svs__1_14950_50830
+CD8.svs__1_14950_50830_SEG.tif:   max:   0  min: 0  mean: 0  area: 2736000  std:0
+******* background image, skip this step
+_______________________________________
+
+53
+CD8.svs__1_14950_5980
+CD8.svs__1_14950_5980_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+54
+CD8.svs__1_14950_8970
+CD8.svs__1_14950_8970_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+55
+CD8.svs__1_17940_0
+CD8.svs__1_17940_0_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+56
+CD8.svs__1_17940_11960
+CD8.svs__1_17940_11960_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+57
+CD8.svs__1_17940_14950
+CD8.svs__1_17940_14950_SEG.tif:   max:   121  min: 0  mean: 1.4718  area: 9000000  std:10.6328
+CD8.svs__1_17940_14950_SEG.tif
+Time:    22:12:21
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.35
+Seg: CD8.svs__1_17940_14950_SEG
+marker img: CD8.svs__1_17940_14950_CD8
+Observed marker: CD8  MARKER_VAL: 5
+Save dir is: /home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CELL_TYPE/
+CD8.svs__1_17940_14950
+Generate watershed cell segmentation image using radius from nucleus: 14.0
+Watershed radius: 14.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 10442
+\Update:Voxels to process : 2854
+\Update:Voxels to process : 2684
+\Update:Voxels to process : 2675
+\Update:Voxels to process : 2739
+\Update:Voxels to process : 2792
+\Update:Voxels to process : 2867
+\Update:Voxels to process : 2939
+\Update:Voxels to process : 3009
+\Update:Voxels to process : 3075
+\Update:Voxels to process : 3143
+\Update:Voxels to process : 3226
+\Update:Voxels to process : 3305
+\Update:Voxels to process : 3381
+\Update:Voxels to process : 3461
+\Update:Voxels to process : 3541
+\Update:Voxels to process : 3610
+\Update:Voxels to process : 3685
+\Update:Voxels to process : 3756
+\Update:Voxels to process : 3790
+\Update:Voxels to process : 3810
+\Update:Voxels to process : 3864
+\Update:Voxels to process : 3930
+\Update:Voxels to process : 4005
+\Update:Voxels to process : 4077
+\Update:Voxels to process : 4136
+\Update:Voxels to process : 4193
+\Update:Voxels to process : 4254
+\Update:Voxels to process : 4318
+\Update:Voxels to process : 4381
+\Update:Voxels to process : 4440
+\Update:Voxels to process : 4498
+\Update:Voxels to process : 4559
+\Update:Voxels to process : 4617
+\Update:Voxels to process : 4675
+\Update:Voxels to process : 4733
+\Update:Voxels to process : 4788
+\Update:Voxels to process : 4844
+\Update:Voxels to process : 4897
+\Update:Voxels to process : 4954
+\Update:Voxels to process : 4624
+\Update:Voxels to process : 4526
+\Update:Voxels to process : 4456
+\Update:Voxels to process : 4402
+\Update:Voxels to process : 4358
+\Update:Voxels to process : 4321
+\Update:Voxels to process : 4287
+\Update:Voxels to process : 4256
+\Update:Voxels to process : 4227
+\Update:Voxels to process : 4203
+\Update:Voxels to process : 4178
+\Update:Voxels to process : 4153
+\Update:Voxels to process : 4135
+\Update:Voxels to process : 4116
+\Update:Voxels to process : 4103
+\Update:Voxels to process : 4084
+\Update:Voxels to process : 4070
+\Update:Voxels to process : 4055
+\Update:Voxels to process : 4042
+\Update:Voxels to process : 4028
+\Update:Voxels to process : 4015
+\Update:Voxels to process : 4003
+\Update:Voxels to process : 3990
+\Update:Voxels to process : 3982
+\Update:Voxels to process : 3973
+\Update:Voxels to process : 3964
+\Update:Voxels to process : 3952
+\Update:Voxels to process : 3941
+\Update:Voxels to process : 3938
+\Update:Voxels to process : 3929
+\Update:Voxels to process : 3923
+\Update:Voxels to process : 3914
+\Update:Voxels to process : 3906
+\Update:Voxels to process : 3895
+\Update:Voxels to process : 3887
+\Update:Voxels to process : 2940
+\Update:Voxels to process : 2428
+\Update:Voxels to process : 2132
+\Update:Voxels to process : 1837
+\Update:Voxels to process : 1541
+\Update:Voxels to process : 1159
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 120
+Nb of each cells type: 15   Unlabelled: 105
+====================================================================
+
+Time of execution is: 36.75
+Time:    22:12:58
+ 
+_______________________________________
+
+58
+CD8.svs__1_17940_17940
+CD8.svs__1_17940_17940_SEG.tif:   max:   2801  min: 0  mean: 825.8601  area: 9000000  std:920.1305
+CD8.svs__1_17940_17940_SEG.tif
+Time:    22:12:58
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.35
+Seg: CD8.svs__1_17940_17940_SEG
+marker img: CD8.svs__1_17940_17940_CD8
+Observed marker: CD8  MARKER_VAL: 5
+Save dir is: /home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CELL_TYPE/
+CD8.svs__1_17940_17940
+Generate watershed cell segmentation image using radius from nucleus: 14.0
+Watershed radius: 14.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 604933
+\Update:Voxels to process : 582475
+\Update:Voxels to process : 560413
+\Update:Voxels to process : 541162
+\Update:Voxels to process : 518269
+\Update:Voxels to process : 497904
+\Update:Voxels to process : 480546
+\Update:Voxels to process : 466762
+\Update:Voxels to process : 453214
+\Update:Voxels to process : 437845
+\Update:Voxels to process : 419924
+\Update:Voxels to process : 402833
+\Update:Voxels to process : 390077
+\Update:Voxels to process : 375570
+\Update:Voxels to process : 357293
+\Update:Voxels to process : 338516
+\Update:Voxels to process : 329182
+\Update:Voxels to process : 312573
+\Update:Voxels to process : 295400
+\Update:Voxels to process : 277301
+\Update:Voxels to process : 264392
+\Update:Voxels to process : 244817
+\Update:Voxels to process : 231657
+\Update:Voxels to process : 212810
+\Update:Voxels to process : 196054
+\Update:Voxels to process : 176865
+\Update:Voxels to process : 158553
+\Update:Voxels to process : 137724
+\Update:Voxels to process : 119224
+\Update:Voxels to process : 99790
+\Update:Voxels to process : 78910
+\Update:Voxels to process : 59876
+\Update:Voxels to process : 37854
+\Update:Voxels to process : 15661
+\Update:Voxels to process : 2394
+\Update:Voxels to process : 2042
+\Update:Voxels to process : 1817
+\Update:Voxels to process : 1437
+\Update:Voxels to process : 140
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2800
+Nb of each cells type: 234   Unlabelled: 2566
+====================================================================
+
+Time of execution is: 37.882
+Time:    22:13:36
+ 
+_______________________________________
+
+59
+CD8.svs__1_17940_20930
+CD8.svs__1_17940_20930_SEG.tif:   max:   2808  min: 0  mean: 857.6538  area: 9000000  std:925.8152
+CD8.svs__1_17940_20930_SEG.tif
+Time:    22:13:36
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.35
+Seg: CD8.svs__1_17940_20930_SEG
+marker img: CD8.svs__1_17940_20930_CD8
+Observed marker: CD8  MARKER_VAL: 5
+Save dir is: /home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CELL_TYPE/
+CD8.svs__1_17940_20930
+Generate watershed cell segmentation image using radius from nucleus: 14.0
+Watershed radius: 14.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 611482
+\Update:Voxels to process : 591169
+\Update:Voxels to process : 570892
+\Update:Voxels to process : 551999
+\Update:Voxels to process : 532297
+\Update:Voxels to process : 513327
+\Update:Voxels to process : 497545
+\Update:Voxels to process : 486235
+\Update:Voxels to process : 475057
+\Update:Voxels to process : 463007
+\Update:Voxels to process : 447456
+\Update:Voxels to process : 432098
+\Update:Voxels to process : 420903
+\Update:Voxels to process : 413333
+\Update:Voxels to process : 401163
+\Update:Voxels to process : 385310
+\Update:Voxels to process : 371025
+\Update:Voxels to process : 365427
+\Update:Voxels to process : 350247
+\Update:Voxels to process : 333197
+\Update:Voxels to process : 317047
+\Update:Voxels to process : 307489
+\Update:Voxels to process : 292832
+\Update:Voxels to process : 277252
+\Update:Voxels to process : 267214
+\Update:Voxels to process : 257993
+\Update:Voxels to process : 241697
+\Update:Voxels to process : 230458
+\Update:Voxels to process : 211174
+\Update:Voxels to process : 194361
+\Update:Voxels to process : 176484
+\Update:Voxels to process : 161267
+\Update:Voxels to process : 140488
+\Update:Voxels to process : 121388
+\Update:Voxels to process : 102130
+\Update:Voxels to process : 81640
+\Update:Voxels to process : 60873
+\Update:Voxels to process : 39646
+\Update:Voxels to process : 19659
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Save the result as CD8.svs__1_17940_20930_SEG_WAT
+Number of cells is: 2807
+Nb of each cells type: 151   Unlabelled: 2656
+Save cell type image to file
+====================================================================
+
+Time of execution is: 37.398
+Time:    22:14:13
+ 
+_______________________________________
+
+60
+CD8.svs__1_17940_23920
+CD8.svs__1_17940_23920_SEG.tif:   max:   3085  min: 0  mean: 992.8425  area: 9000000  std:1028.3438
+CD8.svs__1_17940_23920_SEG.tif
+Time:    22:14:13
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.35
+Seg: CD8.svs__1_17940_23920_SEG
+marker img: CD8.svs__1_17940_23920_CD8
+Observed marker: CD8  MARKER_VAL: 5
+Save dir is: /home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CELL_TYPE/
+CD8.svs__1_17940_23920
+Generate watershed cell segmentation image using radius from nucleus: 14.0
+Watershed radius: 14.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 645860
+\Update:Voxels to process : 622952
+\Update:Voxels to process : 597995
+\Update:Voxels to process : 576315
+\Update:Voxels to process : 554716
+\Update:Voxels to process : 535169
+\Update:Voxels to process : 517812
+\Update:Voxels to process : 506131
+\Update:Voxels to process : 492479
+\Update:Voxels to process : 479002
+\Update:Voxels to process : 461412
+\Update:Voxels to process : 444024
+\Update:Voxels to process : 429783
+\Update:Voxels to process : 417941
+\Update:Voxels to process : 401153
+\Update:Voxels to process : 381208
+\Update:Voxels to process : 365069
+\Update:Voxels to process : 353532
+\Update:Voxels to process : 336091
+\Update:Voxels to process : 319255
+\Update:Voxels to process : 300504
+\Update:Voxels to process : 286369
+\Update:Voxels to process : 267798
+\Update:Voxels to process : 248063
+\Update:Voxels to process : 233043
+\Update:Voxels to process : 211149
+\Update:Voxels to process : 195385
+\Update:Voxels to process : 174070
+\Update:Voxels to process : 156445
+\Update:Voxels to process : 133460
+\Update:Voxels to process : 110660
+\Update:Voxels to process : 88740
+\Update:Voxels to process : 66875
+\Update:Voxels to process : 39185
+\Update:Voxels to process : 10005
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 3084
+Nb of each cells type: 222   Unlabelled: 2862
+====================================================================
+
+Time of execution is: 36.303
+Time:    22:14:50
+ 
+_______________________________________
+
+61
+CD8.svs__1_17940_26910
+CD8.svs__1_17940_26910_SEG.tif:   max:   2849  min: 0  mean: 917.4595  area: 9000000  std:948.0456
+CD8.svs__1_17940_26910_SEG.tif
+Time:    22:14:50
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.35
+Seg: CD8.svs__1_17940_26910_SEG
+marker img: CD8.svs__1_17940_26910_CD8
+Observed marker: CD8  MARKER_VAL: 5
+Save dir is: /home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CELL_TYPE/
+CD8.svs__1_17940_26910
+Generate watershed cell segmentation image using radius from nucleus: 14.0
+Watershed radius: 14.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 613269
+\Update:Voxels to process : 588177
+\Update:Voxels to process : 566317
+\Update:Voxels to process : 543828
+\Update:Voxels to process : 521148
+\Update:Voxels to process : 501317
+\Update:Voxels to process : 483796
+\Update:Voxels to process : 469687
+\Update:Voxels to process : 456901
+\Update:Voxels to process : 439698
+\Update:Voxels to process : 423240
+\Update:Voxels to process : 408651
+\Update:Voxels to process : 398694
+\Update:Voxels to process : 385248
+\Update:Voxels to process : 368319
+\Update:Voxels to process : 351422
+\Update:Voxels to process : 343547
+\Update:Voxels to process : 327825
+\Update:Voxels to process : 310382
+\Update:Voxels to process : 291394
+\Update:Voxels to process : 283420
+\Update:Voxels to process : 265075
+\Update:Voxels to process : 245546
+\Update:Voxels to process : 235474
+\Update:Voxels to process : 217816
+\Update:Voxels to process : 203480
+\Update:Voxels to process : 183427
+\Update:Voxels to process : 167267
+\Update:Voxels to process : 145747
+\Update:Voxels to process : 129036
+\Update:Voxels to process : 110101
+\Update:Voxels to process : 89567
+\Update:Voxels to process : 66420
+\Update:Voxels to process : 44296
+\Update:Voxels to process : 22597
+\Update:Voxels to process : 586
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Number of cells is: 2848
+Nb of each cells type: 141   Unlabelled: 2707
+====================================================================
+
+Time of execution is: 36.425
+Time:    22:15:26
+ 
+_______________________________________
+
+62
+CD8.svs__1_17940_29900
+CD8.svs__1_17940_29900_SEG.tif:   max:   2427  min: 0  mean: 686.3393  area: 9000000  std:802.8156
+CD8.svs__1_17940_29900_SEG.tif
+Time:    22:15:26
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.35
+Seg: CD8.svs__1_17940_29900_SEG
+marker img: CD8.svs__1_17940_29900_CD8
+Observed marker: CD8  MARKER_VAL: 5
+Save dir is: /home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CELL_TYPE/
+CD8.svs__1_17940_29900
+Generate watershed cell segmentation image using radius from nucleus: 14.0
+Watershed radius: 14.0
+Computing watershed, cell region detection
+Computing EDT
+Computing Watershed
+Watershed...
+Setting minimum for raw image to 1.0
+
+\Update:Voxels to process : 533783
+\Update:Voxels to process : 511994
+\Update:Voxels to process : 488877
+\Update:Voxels to process : 467611
+\Update:Voxels to process : 447467
+\Update:Voxels to process : 430303
+\Update:Voxels to process : 419118
+\Update:Voxels to process : 407110
+\Update:Voxels to process : 392615
+\Update:Voxels to process : 376910
+\Update:Voxels to process : 361796
+\Update:Voxels to process : 350582
+\Update:Voxels to process : 337343
+\Update:Voxels to process : 320027
+\Update:Voxels to process : 306603
+\Update:Voxels to process : 295290
+\Update:Voxels to process : 278064
+\Update:Voxels to process : 259376
+\Update:Voxels to process : 249365
+\Update:Voxels to process : 232388
+\Update:Voxels to process : 219118
+\Update:Voxels to process : 201503
+\Update:Voxels to process : 187591
+\Update:Voxels to process : 167223
+\Update:Voxels to process : 152434
+\Update:Voxels to process : 131902
+\Update:Voxels to process : 118835
+\Update:Voxels to process : 103722
+\Update:Voxels to process : 87186
+\Update:Voxels to process : 68776
+\Update:Voxels to process : 52610
+\Update:Voxels to process : 35825
+\Update:Voxels to process : 18679
+\Update:Voxels to process : 8672
+\Update:Voxels to process : 5566
+\Update:Voxels to process : 4939
+\Update:Voxels to process : 4453
+\Update:Voxels to process : 4350
+\Update:Voxels to process : 4171
+\Update:Voxels to process : 3659
+\Update:Voxels to process : 2936
+\Update:Voxels to process : 1154
+\Update:Voxels to process : 0
+Watershed completed.
+Computing Voronoi
+Save the result as CD8.svs__1_17940_29900_SEG_WAT
+Number of cells is: 2426
+Nb of each cells type: 264   Unlabelled: 2162
+Save cell type image to file
+====================================================================
+
+Time of execution is: 37.901
+Time:    22:16:04
+ 
+_______________________________________
+
+63
+CD8.svs__1_17940_2990
+CD8.svs__1_17940_2990_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+64
+CD8.svs__1_17940_32890
+CD8.svs__1_17940_32890_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+65
+CD8.svs__1_17940_35880
+CD8.svs__1_17940_35880_SEG.tif:   max:   1  min: 0  mean: 0.0002012  area: 9000000  std:0.01418
+CD8.svs__1_17940_35880_SEG.tif
+Time:    22:16:04
+Detect cell phenotype without marker image

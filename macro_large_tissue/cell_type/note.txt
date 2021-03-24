@@ -1,0 +1,17 @@
+print("Detect cell phenotype");
+                  run("CELL PHENOTYPE", "save="+outputDir+" nuclei="+name+" watershed=*None* marker="+marker_fn+" marker_0="+marker_name+" percent_marker="+pct_marker+" watershed_cell_radius="+watershed_rad);
+    					    else{
+  					      print("Detect cell phenotype without marker image");
+    					    run("CELL PHENOTYPE", "save="+outputDir+" nuclei="+name+" watershed=*None* marker=*None* marker_0="+marker_name+" percent_marker="+pct_marker+" watershed_cell_radius="+watershed_rad);
+  					  }
+  					  
+  					  
+  					  selectWindow(short_name + "_"+ marker_name + ".tif");
+  						      run("Median...", "radius=2");
+                    run("Mean...", "radius=3");
+                    setAutoThreshold("Otsu dark");
+                    setOption("BlackBackground", true);    	
+                    setThreshold(min_mask_thrs, 255);					
+                    run("Convert to Mask");
+                    run("Fill Holes");
+                    run("Open");   

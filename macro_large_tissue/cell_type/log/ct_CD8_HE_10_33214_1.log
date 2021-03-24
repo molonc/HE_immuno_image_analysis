@@ -1,0 +1,4246 @@
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/SEG/
+Detect cell types
+Working dir: /home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/SEG/
+
+Main dir: /home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/
+
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/SEG/
+_______________________________________
+
+Nb of processing images: 486
+
+_______________________________________
+
+0
+CD8.svs__1_0_0
+CD8.svs__1_0_0_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+1
+CD8.svs__1_0_11960
+CD8.svs__1_0_11960_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+2
+CD8.svs__1_0_14950
+CD8.svs__1_0_14950_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+3
+CD8.svs__1_0_17940
+CD8.svs__1_0_17940_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+4
+CD8.svs__1_0_20930
+CD8.svs__1_0_20930_SEG.tif:   max:   1  min: 0  mean: 0.0001393  area: 9000000  std:0.0118
+CD8.svs__1_0_20930_SEG.tif
+Time:    20:07:38
+No window with the title "CD8.svs__1_0_20930-(Colour_3)" found.
+CD8.svs__1_0_20930.tif-(Colour_3):   max:   126  min: 0  mean: 2.5604  area: 9000000  std:7.2597
+No window with the title "CD8.svs__1_0_20930-(Colour_3)" found.
+Detect cell phenotype
+
+4
+CD8.svs__1_0_20930
+CD8.svs__1_0_20930_SEG.tif:   max:   1  min: 0  mean: 0.0001393  area: 9000000  std:0.0118
+CD8.svs__1_0_20930_SEG.tif
+Time:    20:07:38
+No window with the title "CD8.svs__1_0_20930-(Colour_3)" found.
+CD8.svs__1_0_20930.tif-(Colour_3):   max:   126  min: 0  mean: 2.5604  area: 9000000  std:7.2597
+No window with the title "CD8.svs__1_0_20930-(Colour_3)" found.
+Detect cell phenotype
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/SEG/
+Detect cell types
+Working dir: /home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/SEG/
+
+Main dir: /home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/
+
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/SEG/
+_______________________________________
+
+Nb of processing images: 486
+
+_______________________________________
+
+0
+CD8.svs__1_0_0
+CD8.svs__1_0_0_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+1
+CD8.svs__1_0_11960
+CD8.svs__1_0_11960_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+2
+CD8.svs__1_0_14950
+CD8.svs__1_0_14950_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+3
+CD8.svs__1_0_17940
+CD8.svs__1_0_17940_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+4
+CD8.svs__1_0_20930
+CD8.svs__1_0_20930_SEG.tif:   max:   1  min: 0  mean: 0.0001393  area: 9000000  std:0.0118
+CD8.svs__1_0_20930_SEG.tif
+Time:    20:22:31
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_0_20930.tif
+CD8.svs__1_0_20930.tif-(Colour_3):   max:   126  min: 0  mean: 2.5604  area: 9000000  std:7.2597
+Detect cell phenotype
+_______________________________________
+
+4
+CD8.svs__1_0_20930
+CD8.svs__1_0_20930_SEG.tif:   max:   1  min: 0  mean: 0.0001393  area: 9000000  std:0.0118
+CD8.svs__1_0_20930_SEG.tif
+Time:    20:22:31
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_0_20930.tif
+CD8.svs__1_0_20930.tif-(Colour_3):   max:   126  min: 0  mean: 2.5604  area: 9000000  std:7.2597
+Detect cell phenotype
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/SEG/
+Detect cell types
+Working dir: /home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/SEG/
+
+Main dir: /home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/
+
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/SEG/
+_______________________________________
+
+Nb of processing images: 486
+
+_______________________________________
+
+0
+CD8.svs__1_0_0
+CD8.svs__1_0_0_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+1
+CD8.svs__1_0_11960
+CD8.svs__1_0_11960_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+2
+CD8.svs__1_0_14950
+CD8.svs__1_0_14950_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+3
+CD8.svs__1_0_17940
+CD8.svs__1_0_17940_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+4
+CD8.svs__1_0_20930
+CD8.svs__1_0_20930_SEG.tif:   max:   1  min: 0  mean: 0.0001393  area: 9000000  std:0.0118
+CD8.svs__1_0_20930_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_0_20930.tif
+CD8.svs__1_0_20930.tif-(Colour_3):   max:   126  min: 0  mean: 2.5604  area: 9000000  std:7.2597
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_0_20930_CD8.tif
+ 
+_______________________________________
+
+5
+CD8.svs__1_0_23920
+CD8.svs__1_0_23920_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+6
+CD8.svs__1_0_26910
+CD8.svs__1_0_26910_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+7
+CD8.svs__1_0_29900
+CD8.svs__1_0_29900_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+8
+CD8.svs__1_0_2990
+CD8.svs__1_0_2990_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+9
+CD8.svs__1_0_32890
+CD8.svs__1_0_32890_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+10
+CD8.svs__1_0_35880
+CD8.svs__1_0_35880_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+11
+CD8.svs__1_0_38870
+CD8.svs__1_0_38870_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+12
+CD8.svs__1_0_41860
+CD8.svs__1_0_41860_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+13
+CD8.svs__1_0_44850
+CD8.svs__1_0_44850_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+14
+CD8.svs__1_0_47840
+CD8.svs__1_0_47840_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+15
+CD8.svs__1_0_50830
+CD8.svs__1_0_50830_SEG.tif:   max:   0  min: 0  mean: 0  area: 2736000  std:0
+******* background image, skip this step
+_______________________________________
+
+16
+CD8.svs__1_0_5980
+CD8.svs__1_0_5980_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+17
+CD8.svs__1_0_8970
+CD8.svs__1_0_8970_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+18
+CD8.svs__1_11960_0
+CD8.svs__1_11960_0_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+19
+CD8.svs__1_11960_11960
+CD8.svs__1_11960_11960_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+20
+CD8.svs__1_11960_14950
+CD8.svs__1_11960_14950_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+21
+CD8.svs__1_11960_17940
+CD8.svs__1_11960_17940_SEG.tif:   max:   611  min: 0  mean: 43.7822  area: 9000000  std:124.7967
+CD8.svs__1_11960_17940_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_11960_17940.tif
+CD8.svs__1_11960_17940.tif-(Colour_3):   max:   255  min: 0  mean: 16.5848  area: 9000000  std:26.7663
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_11960_17940_CD8.tif
+ 
+_______________________________________
+
+22
+CD8.svs__1_11960_20930
+CD8.svs__1_11960_20930_SEG.tif:   max:   2737  min: 0  mean: 841.915  area: 9000000  std:911.2226
+CD8.svs__1_11960_20930_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_11960_20930.tif
+CD8.svs__1_11960_20930.tif-(Colour_3):   max:   255  min: 0  mean: 28.7203  area: 9000000  std:47.7145
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_11960_20930_CD8.tif
+ 
+_______________________________________
+
+23
+CD8.svs__1_11960_23920
+CD8.svs__1_11960_23920_SEG.tif:   max:   2945  min: 0  mean: 951.8421  area: 9000000  std:980.9597
+CD8.svs__1_11960_23920_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_11960_23920.tif
+CD8.svs__1_11960_23920.tif-(Colour_3):   max:   255  min: 0  mean: 32.5318  area: 9000000  std:55.5479
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_11960_23920_CD8.tif
+ 
+_______________________________________
+
+24
+CD8.svs__1_11960_26910
+CD8.svs__1_11960_26910_SEG.tif:   max:   3086  min: 0  mean: 1014.2243  area: 9000000  std:1017.7165
+CD8.svs__1_11960_26910_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_11960_26910.tif
+CD8.svs__1_11960_26910.tif-(Colour_3):   max:   255  min: 0  mean: 43.6205  area: 9000000  std:62.1822
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_11960_26910_CD8.tif
+ 
+_______________________________________
+
+25
+CD8.svs__1_11960_29900
+CD8.svs__1_11960_29900_SEG.tif:   max:   1892  min: 0  mean: 412.639  area: 9000000  std:599.372
+CD8.svs__1_11960_29900_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_11960_29900.tif
+CD8.svs__1_11960_29900.tif-(Colour_3):   max:   255  min: 0  mean: 42.2318  area: 9000000  std:58.2118
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_11960_29900_CD8.tif
+ 
+_______________________________________
+
+26
+CD8.svs__1_11960_2990
+CD8.svs__1_11960_2990_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+27
+CD8.svs__1_11960_32890
+CD8.svs__1_11960_32890_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+28
+CD8.svs__1_11960_35880
+CD8.svs__1_11960_35880_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+29
+CD8.svs__1_11960_38870
+CD8.svs__1_11960_38870_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+30
+CD8.svs__1_11960_41860
+CD8.svs__1_11960_41860_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+31
+CD8.svs__1_11960_44850
+CD8.svs__1_11960_44850_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+32
+CD8.svs__1_11960_47840
+CD8.svs__1_11960_47840_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+33
+CD8.svs__1_11960_50830
+CD8.svs__1_11960_50830_SEG.tif:   max:   0  min: 0  mean: 0  area: 2736000  std:0
+******* background image, skip this step
+_______________________________________
+
+34
+CD8.svs__1_11960_5980
+CD8.svs__1_11960_5980_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+35
+CD8.svs__1_11960_8970
+CD8.svs__1_11960_8970_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+36
+CD8.svs__1_14950_0
+CD8.svs__1_14950_0_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+37
+CD8.svs__1_14950_11960
+CD8.svs__1_14950_11960_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+38
+CD8.svs__1_14950_14950
+CD8.svs__1_14950_14950_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+39
+CD8.svs__1_14950_17940
+CD8.svs__1_14950_17940_SEG.tif:   max:   1669  min: 0  mean: 308.2094  area: 9000000  std:496.238
+CD8.svs__1_14950_17940_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_14950_17940.tif
+CD8.svs__1_14950_17940.tif-(Colour_3):   max:   255  min: 0  mean: 26.8858  area: 9000000  std:45.6202
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_14950_17940_CD8.tif
+ 
+_______________________________________
+
+40
+CD8.svs__1_14950_20930
+CD8.svs__1_14950_20930_SEG.tif:   max:   2688  min: 0  mean: 818.0941  area: 9000000  std:895.9312
+CD8.svs__1_14950_20930_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_14950_20930.tif
+CD8.svs__1_14950_20930.tif-(Colour_3):   max:   255  min: 0  mean: 32.5146  area: 9000000  std:53.6204
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_14950_20930_CD8.tif
+ 
+_______________________________________
+
+41
+CD8.svs__1_14950_23920
+CD8.svs__1_14950_23920_SEG.tif:   max:   2829  min: 0  mean: 893.0061  area: 9000000  std:937.9008
+CD8.svs__1_14950_23920_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_14950_23920.tif
+CD8.svs__1_14950_23920.tif-(Colour_3):   max:   255  min: 0  mean: 32.0759  area: 9000000  std:56.1101
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_14950_23920_CD8.tif
+ 
+_______________________________________
+
+42
+CD8.svs__1_14950_26910
+CD8.svs__1_14950_26910_SEG.tif:   max:   3061  min: 0  mean: 1019.4581  area: 9000000  std:1021.4527
+CD8.svs__1_14950_26910_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_14950_26910.tif
+CD8.svs__1_14950_26910.tif-(Colour_3):   max:   255  min: 0  mean: 40.2246  area: 9000000  std:60.5917
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_14950_26910_CD8.tif
+ 
+_______________________________________
+
+43
+CD8.svs__1_14950_29900
+CD8.svs__1_14950_29900_SEG.tif:   max:   2294  min: 0  mean: 563.9004  area: 9000000  std:742.1818
+CD8.svs__1_14950_29900_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_14950_29900.tif
+CD8.svs__1_14950_29900.tif-(Colour_3):   max:   255  min: 0  mean: 47.4052  area: 9000000  std:63.6317
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_14950_29900_CD8.tif
+ 
+_______________________________________
+
+44
+CD8.svs__1_14950_2990
+CD8.svs__1_14950_2990_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+45
+CD8.svs__1_14950_32890
+CD8.svs__1_14950_32890_SEG.tif:   max:   4  min: 0  mean: 0.001248  area: 9000000  std:0.06016
+CD8.svs__1_14950_32890_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_14950_32890.tif
+CD8.svs__1_14950_32890.tif-(Colour_3):   max:   180  min: 0  mean: 23.2058  area: 9000000  std:4.5482
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_14950_32890_CD8.tif
+ 
+_______________________________________
+
+46
+CD8.svs__1_14950_35880
+CD8.svs__1_14950_35880_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+47
+CD8.svs__1_14950_38870
+CD8.svs__1_14950_38870_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+48
+CD8.svs__1_14950_41860
+CD8.svs__1_14950_41860_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+49
+CD8.svs__1_14950_44850
+CD8.svs__1_14950_44850_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+50
+CD8.svs__1_14950_47840
+CD8.svs__1_14950_47840_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+51
+CD8.svs__1_14950_50830
+CD8.svs__1_14950_50830_SEG.tif:   max:   0  min: 0  mean: 0  area: 2736000  std:0
+******* background image, skip this step
+_______________________________________
+
+52
+CD8.svs__1_14950_5980
+CD8.svs__1_14950_5980_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+53
+CD8.svs__1_14950_8970
+CD8.svs__1_14950_8970_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+54
+CD8.svs__1_17940_0
+CD8.svs__1_17940_0_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+55
+CD8.svs__1_17940_11960
+CD8.svs__1_17940_11960_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+56
+CD8.svs__1_17940_14950
+CD8.svs__1_17940_14950_SEG.tif:   max:   121  min: 0  mean: 1.4718  area: 9000000  std:10.6328
+CD8.svs__1_17940_14950_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_17940_14950.tif
+CD8.svs__1_17940_14950.tif-(Colour_3):   max:   255  min: 0  mean: 18.1795  area: 9000000  std:18.2087
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_17940_14950_CD8.tif
+ 
+_______________________________________
+
+57
+CD8.svs__1_17940_17940
+CD8.svs__1_17940_17940_SEG.tif:   max:   2801  min: 0  mean: 825.8601  area: 9000000  std:920.1305
+CD8.svs__1_17940_17940_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_17940_17940.tif
+CD8.svs__1_17940_17940.tif-(Colour_3):   max:   255  min: 0  mean: 38.9065  area: 9000000  std:62.5165
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_17940_17940_CD8.tif
+ 
+_______________________________________
+
+58
+CD8.svs__1_17940_20930
+CD8.svs__1_17940_20930_SEG.tif:   max:   2808  min: 0  mean: 857.6538  area: 9000000  std:925.8152
+CD8.svs__1_17940_20930_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_17940_20930.tif
+CD8.svs__1_17940_20930.tif-(Colour_3):   max:   255  min: 0  mean: 31.6403  area: 9000000  std:52.9896
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_17940_20930_CD8.tif
+ 
+_______________________________________
+
+59
+CD8.svs__1_17940_23920
+CD8.svs__1_17940_23920_SEG.tif:   max:   3085  min: 0  mean: 992.8425  area: 9000000  std:1028.3438
+CD8.svs__1_17940_23920_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_17940_23920.tif
+CD8.svs__1_17940_23920.tif-(Colour_3):   max:   255  min: 0  mean: 36.7993  area: 9000000  std:58.8466
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_17940_23920_CD8.tif
+ 
+_______________________________________
+
+60
+CD8.svs__1_17940_26910
+CD8.svs__1_17940_26910_SEG.tif:   max:   2849  min: 0  mean: 917.4595  area: 9000000  std:948.0456
+CD8.svs__1_17940_26910_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_17940_26910.tif
+CD8.svs__1_17940_26910.tif-(Colour_3):   max:   255  min: 0  mean: 32.6622  area: 9000000  std:51.5175
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_17940_26910_CD8.tif
+ 
+_______________________________________
+
+61
+CD8.svs__1_17940_29900
+CD8.svs__1_17940_29900_SEG.tif:   max:   2427  min: 0  mean: 686.3393  area: 9000000  std:802.8156
+CD8.svs__1_17940_29900_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_17940_29900.tif
+CD8.svs__1_17940_29900.tif-(Colour_3):   max:   255  min: 0  mean: 45.7534  area: 9000000  std:63.0419
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_17940_29900_CD8.tif
+ 
+_______________________________________
+
+62
+CD8.svs__1_17940_2990
+CD8.svs__1_17940_2990_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+63
+CD8.svs__1_17940_32890
+CD8.svs__1_17940_32890_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+64
+CD8.svs__1_17940_35880
+CD8.svs__1_17940_35880_SEG.tif:   max:   1  min: 0  mean: 0.0002012  area: 9000000  std:0.01418
+CD8.svs__1_17940_35880_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_17940_35880.tif
+CD8.svs__1_17940_35880.tif-(Colour_3):   max:   117  min: 0  mean: 13.8568  area: 9000000  std:8.8582
+Do not contain marker cells
+ 
+_______________________________________
+
+65
+CD8.svs__1_17940_38870
+CD8.svs__1_17940_38870_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+66
+CD8.svs__1_17940_41860
+CD8.svs__1_17940_41860_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+67
+CD8.svs__1_17940_44850
+CD8.svs__1_17940_44850_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+68
+CD8.svs__1_17940_47840
+CD8.svs__1_17940_47840_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+69
+CD8.svs__1_17940_50830
+CD8.svs__1_17940_50830_SEG.tif:   max:   0  min: 0  mean: 0  area: 2736000  std:0
+******* background image, skip this step
+_______________________________________
+
+70
+CD8.svs__1_17940_5980
+CD8.svs__1_17940_5980_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+71
+CD8.svs__1_17940_8970
+CD8.svs__1_17940_8970_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+72
+CD8.svs__1_20930_0
+CD8.svs__1_20930_0_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+73
+CD8.svs__1_20930_11960
+CD8.svs__1_20930_11960_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+74
+CD8.svs__1_20930_14950
+CD8.svs__1_20930_14950_SEG.tif:   max:   807  min: 0  mean: 74.5329  area: 9000000  std:184.5764
+CD8.svs__1_20930_14950_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_20930_14950.tif
+CD8.svs__1_20930_14950.tif-(Colour_3):   max:   255  min: 0  mean: 27.9455  area: 9000000  std:35.7076
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_20930_14950_CD8.tif
+ 
+_______________________________________
+
+75
+CD8.svs__1_20930_17940
+CD8.svs__1_20930_17940_SEG.tif:   max:   3056  min: 0  mean: 986.6242  area: 9000000  std:1015.1115
+CD8.svs__1_20930_17940_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_20930_17940.tif
+CD8.svs__1_20930_17940.tif-(Colour_3):   max:   255  min: 0  mean: 36.4245  area: 9000000  std:60.595
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_20930_17940_CD8.tif
+ 
+_______________________________________
+
+76
+CD8.svs__1_20930_20930
+CD8.svs__1_20930_20930_SEG.tif:   max:   2877  min: 0  mean: 880.6444  area: 9000000  std:956.1357
+CD8.svs__1_20930_20930_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_20930_20930.tif
+CD8.svs__1_20930_20930.tif-(Colour_3):   max:   255  min: 0  mean: 33.0127  area: 9000000  std:56.974
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_20930_20930_CD8.tif
+ 
+_______________________________________
+
+77
+CD8.svs__1_20930_23920
+CD8.svs__1_20930_23920_SEG.tif:   max:   3195  min: 0  mean: 1026.3421  area: 9000000  std:1069.2218
+CD8.svs__1_20930_23920_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_20930_23920.tif
+CD8.svs__1_20930_23920.tif-(Colour_3):   max:   255  min: 0  mean: 37.2328  area: 9000000  std:59.6813
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_20930_23920_CD8.tif
+ 
+_______________________________________
+
+78
+CD8.svs__1_20930_26910
+CD8.svs__1_20930_26910_SEG.tif:   max:   2983  min: 0  mean: 977.3186  area: 9000000  std:996.7379
+CD8.svs__1_20930_26910_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_20930_26910.tif
+CD8.svs__1_20930_26910.tif-(Colour_3):   max:   255  min: 0  mean: 36.6742  area: 9000000  std:56.5621
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_20930_26910_CD8.tif
+ 
+_______________________________________
+
+79
+CD8.svs__1_20930_29900
+CD8.svs__1_20930_29900_SEG.tif:   max:   1998  min: 0  mean: 463.2383  area: 9000000  std:636.544
+CD8.svs__1_20930_29900_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_20930_29900.tif
+CD8.svs__1_20930_29900.tif-(Colour_3):   max:   255  min: 0  mean: 45.2965  area: 9000000  std:62.2691
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_20930_29900_CD8.tif
+ 
+_______________________________________
+
+80
+CD8.svs__1_20930_2990
+CD8.svs__1_20930_2990_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+81
+CD8.svs__1_20930_32890
+CD8.svs__1_20930_32890_SEG.tif:   max:   7  min: 0  mean: 0.004594  area: 9000000  std:0.1487
+CD8.svs__1_20930_32890_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_20930_32890.tif
+CD8.svs__1_20930_32890.tif-(Colour_3):   max:   255  min: 0  mean: 22.9586  area: 9000000  std:6.1338
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_20930_32890_CD8.tif
+ 
+_______________________________________
+
+82
+CD8.svs__1_20930_35880
+CD8.svs__1_20930_35880_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+83
+CD8.svs__1_20930_38870
+CD8.svs__1_20930_38870_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+84
+CD8.svs__1_20930_41860
+CD8.svs__1_20930_41860_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+85
+CD8.svs__1_20930_44850
+CD8.svs__1_20930_44850_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+86
+CD8.svs__1_20930_47840
+CD8.svs__1_20930_47840_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+87
+CD8.svs__1_20930_50830
+CD8.svs__1_20930_50830_SEG.tif:   max:   0  min: 0  mean: 0  area: 2736000  std:0
+******* background image, skip this step
+_______________________________________
+
+88
+CD8.svs__1_20930_5980
+CD8.svs__1_20930_5980_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+89
+CD8.svs__1_20930_8970
+CD8.svs__1_20930_8970_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+90
+CD8.svs__1_23920_0
+CD8.svs__1_23920_0_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+91
+CD8.svs__1_23920_11960
+CD8.svs__1_23920_11960_SEG.tif:   max:   1  min: 0  mean: 0.0001337  area: 9000000  std:0.01156
+CD8.svs__1_23920_11960_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_23920_11960.tif
+CD8.svs__1_23920_11960.tif-(Colour_3):   max:   252  min: 0  mean: 12.4787  area: 9000000  std:8.6674
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_23920_11960_CD8.tif
+ 
+_______________________________________
+
+92
+CD8.svs__1_23920_14950
+CD8.svs__1_23920_14950_SEG.tif:   max:   1974  min: 0  mean: 406.3014  area: 9000000  std:603.9491
+CD8.svs__1_23920_14950_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_23920_14950.tif
+CD8.svs__1_23920_14950.tif-(Colour_3):   max:   255  min: 0  mean: 32.9026  area: 9000000  std:49.3614
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_23920_14950_CD8.tif
+ 
+_______________________________________
+
+93
+CD8.svs__1_23920_17940
+CD8.svs__1_23920_17940_SEG.tif:   max:   3008  min: 0  mean: 963.7168  area: 9000000  std:1003.4379
+CD8.svs__1_23920_17940_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_23920_17940.tif
+CD8.svs__1_23920_17940.tif-(Colour_3):   max:   255  min: 0  mean: 34.4057  area: 9000000  std:58.371
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_23920_17940_CD8.tif
+ 
+_______________________________________
+
+94
+CD8.svs__1_23920_20930
+CD8.svs__1_23920_20930_SEG.tif:   max:   3049  min: 0  mean: 958.1185  area: 9000000  std:1012.8392
+CD8.svs__1_23920_20930_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_23920_20930.tif
+CD8.svs__1_23920_20930.tif-(Colour_3):   max:   255  min: 0  mean: 36.186  area: 9000000  std:59.8898
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_23920_20930_CD8.tif
+ 
+_______________________________________
+
+95
+CD8.svs__1_23920_23920
+CD8.svs__1_23920_23920_SEG.tif:   max:   2880  min: 0  mean: 911.9711  area: 9000000  std:962.4935
+CD8.svs__1_23920_23920_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_23920_23920.tif
+CD8.svs__1_23920_23920.tif-(Colour_3):   max:   255  min: 0  mean: 35.773  area: 9000000  std:57.859
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_23920_23920_CD8.tif
+ 
+_______________________________________
+
+96
+CD8.svs__1_23920_26910
+CD8.svs__1_23920_26910_SEG.tif:   max:   2936  min: 0  mean: 944.4554  area: 9000000  std:973.3685
+CD8.svs__1_23920_26910_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_23920_26910.tif
+CD8.svs__1_23920_26910.tif-(Colour_3):   max:   255  min: 0  mean: 39.3536  area: 9000000  std:58.4666
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_23920_26910_CD8.tif
+ 
+_______________________________________
+
+97
+CD8.svs__1_23920_29900
+CD8.svs__1_23920_29900_SEG.tif:   max:   1503  min: 0  mean: 274.9482  area: 9000000  std:451.4391
+CD8.svs__1_23920_29900_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_23920_29900.tif
+CD8.svs__1_23920_29900.tif-(Colour_3):   max:   255  min: 0  mean: 39.9104  area: 9000000  std:54.0067
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_23920_29900_CD8.tif
+ 
+_______________________________________
+
+98
+CD8.svs__1_23920_2990
+CD8.svs__1_23920_2990_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+99
+CD8.svs__1_23920_32890
+CD8.svs__1_23920_32890_SEG.tif:   max:   8  min: 0  mean: 0.005733  area: 9000000  std:0.1784
+CD8.svs__1_23920_32890_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_23920_32890.tif
+CD8.svs__1_23920_32890.tif-(Colour_3):   max:   179  min: 0  mean: 22.7099  area: 9000000  std:4.539
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_23920_32890_CD8.tif
+ 
+_______________________________________
+
+100
+CD8.svs__1_23920_35880
+CD8.svs__1_23920_35880_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+101
+CD8.svs__1_23920_38870
+CD8.svs__1_23920_38870_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+102
+CD8.svs__1_23920_41860
+CD8.svs__1_23920_41860_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+103
+CD8.svs__1_23920_44850
+CD8.svs__1_23920_44850_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+104
+CD8.svs__1_23920_47840
+CD8.svs__1_23920_47840_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+105
+CD8.svs__1_23920_50830
+CD8.svs__1_23920_50830_SEG.tif:   max:   0  min: 0  mean: 0  area: 2736000  std:0
+******* background image, skip this step
+_______________________________________
+
+106
+CD8.svs__1_23920_5980
+CD8.svs__1_23920_5980_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+107
+CD8.svs__1_23920_8970
+CD8.svs__1_23920_8970_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+108
+CD8.svs__1_26910_0
+CD8.svs__1_26910_0_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+109
+CD8.svs__1_26910_11960
+CD8.svs__1_26910_11960_SEG.tif:   max:   180  min: 0  mean: 3.3368  area: 9000000  std:19.4079
+CD8.svs__1_26910_11960_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_26910_11960.tif
+CD8.svs__1_26910_11960.tif-(Colour_3):   max:   255  min: 0  mean: 12.652  area: 9000000  std:15.8493
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_26910_11960_CD8.tif
+ 
+_______________________________________
+
+110
+CD8.svs__1_26910_14950
+CD8.svs__1_26910_14950_SEG.tif:   max:   3065  min: 0  mean: 973.2183  area: 9000000  std:1017.4506
+CD8.svs__1_26910_14950_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_26910_14950.tif
+CD8.svs__1_26910_14950.tif-(Colour_3):   max:   255  min: 0  mean: 24.4698  area: 9000000  std:47.3483
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_26910_14950_CD8.tif
+ 
+_______________________________________
+
+111
+CD8.svs__1_26910_17940
+CD8.svs__1_26910_17940_SEG.tif:   max:   3140  min: 0  mean: 1019.7871  area: 9000000  std:1041.4027
+CD8.svs__1_26910_17940_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_26910_17940.tif
+CD8.svs__1_26910_17940.tif-(Colour_3):   max:   255  min: 0  mean: 31.4027  area: 9000000  std:55.9977
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_26910_17940_CD8.tif
+ 
+_______________________________________
+
+112
+CD8.svs__1_26910_20930
+CD8.svs__1_26910_20930_SEG.tif:   max:   2600  min: 0  mean: 768.5895  area: 9000000  std:858.8726
+CD8.svs__1_26910_20930_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_26910_20930.tif
+CD8.svs__1_26910_20930.tif-(Colour_3):   max:   255  min: 0  mean: 28.5965  area: 9000000  std:51.1176
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_26910_20930_CD8.tif
+ 
+_______________________________________
+
+113
+CD8.svs__1_26910_23920
+CD8.svs__1_26910_23920_SEG.tif:   max:   2946  min: 0  mean: 942.3825  area: 9000000  std:978.8525
+CD8.svs__1_26910_23920_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_26910_23920.tif
+CD8.svs__1_26910_23920.tif-(Colour_3):   max:   255  min: 0  mean: 29.613  area: 9000000  std:51.1765
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_26910_23920_CD8.tif
+ 
+_______________________________________
+
+114
+CD8.svs__1_26910_26910
+CD8.svs__1_26910_26910_SEG.tif:   max:   2990  min: 0  mean: 963.6181  area: 9000000  std:994.1152
+CD8.svs__1_26910_26910_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_26910_26910.tif
+CD8.svs__1_26910_26910.tif-(Colour_3):   max:   255  min: 0  mean: 47.6369  area: 9000000  std:66.8993
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_26910_26910_CD8.tif
+ 
+_______________________________________
+
+115
+CD8.svs__1_26910_29900
+CD8.svs__1_26910_29900_SEG.tif:   max:   839  min: 0  mean: 89.5638  area: 9000000  std:207.0544
+CD8.svs__1_26910_29900_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_26910_29900.tif
+CD8.svs__1_26910_29900.tif-(Colour_3):   max:   255  min: 0  mean: 33.2513  area: 9000000  std:45.2207
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_26910_29900_CD8.tif
+ 
+_______________________________________
+
+116
+CD8.svs__1_26910_2990
+CD8.svs__1_26910_2990_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+117
+CD8.svs__1_26910_32890
+CD8.svs__1_26910_32890_SEG.tif:   max:   1  min: 0  mean: 0.0001357  area: 9000000  std:0.01165
+CD8.svs__1_26910_32890_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_26910_32890.tif
+CD8.svs__1_26910_32890.tif-(Colour_3):   max:   242  min: 0  mean: 17.7946  area: 9000000  std:8.4263
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_26910_32890_CD8.tif
+ 
+_______________________________________
+
+118
+CD8.svs__1_26910_35880
+CD8.svs__1_26910_35880_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+119
+CD8.svs__1_26910_38870
+CD8.svs__1_26910_38870_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+120
+CD8.svs__1_26910_41860
+CD8.svs__1_26910_41860_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+121
+CD8.svs__1_26910_44850
+CD8.svs__1_26910_44850_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+122
+CD8.svs__1_26910_47840
+CD8.svs__1_26910_47840_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+123
+CD8.svs__1_26910_50830
+CD8.svs__1_26910_50830_SEG.tif:   max:   0  min: 0  mean: 0  area: 2736000  std:0
+******* background image, skip this step
+_______________________________________
+
+124
+CD8.svs__1_26910_5980
+CD8.svs__1_26910_5980_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+125
+CD8.svs__1_26910_8970
+CD8.svs__1_26910_8970_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+126
+CD8.svs__1_29900_0
+CD8.svs__1_29900_0_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+127
+CD8.svs__1_29900_11960
+CD8.svs__1_29900_11960_SEG.tif:   max:   1302  min: 0  mean: 172.2253  area: 9000000  std:345.454
+CD8.svs__1_29900_11960_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_29900_11960.tif
+CD8.svs__1_29900_11960.tif-(Colour_3):   max:   255  min: 0  mean: 16.9307  area: 9000000  std:32.2799
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_29900_11960_CD8.tif
+ 
+_______________________________________
+
+128
+CD8.svs__1_29900_14950
+CD8.svs__1_29900_14950_SEG.tif:   max:   3191  min: 0  mean: 1080.5005  area: 9000000  std:1066.4681
+CD8.svs__1_29900_14950_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_29900_14950.tif
+CD8.svs__1_29900_14950.tif-(Colour_3):   max:   255  min: 0  mean: 19.0815  area: 9000000  std:41.3707
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_29900_14950_CD8.tif
+ 
+_______________________________________
+
+129
+CD8.svs__1_29900_17940
+CD8.svs__1_29900_17940_SEG.tif:   max:   3169  min: 0  mean: 1049.3039  area: 9000000  std:1056.5137
+CD8.svs__1_29900_17940_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_29900_17940.tif
+CD8.svs__1_29900_17940.tif-(Colour_3):   max:   255  min: 0  mean: 24.9221  area: 9000000  std:48.9982
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_29900_17940_CD8.tif
+ 
+_______________________________________
+
+130
+CD8.svs__1_29900_20930
+CD8.svs__1_29900_20930_SEG.tif:   max:   2768  min: 0  mean: 869.2455  area: 9000000  std:927.5726
+CD8.svs__1_29900_20930_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_29900_20930.tif
+CD8.svs__1_29900_20930.tif-(Colour_3):   max:   255  min: 0  mean: 24.9283  area: 9000000  std:45.7051
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_29900_20930_CD8.tif
+ 
+_______________________________________
+
+131
+CD8.svs__1_29900_23920
+CD8.svs__1_29900_23920_SEG.tif:   max:   2939  min: 0  mean: 954.8683  area: 9000000  std:978.4047
+CD8.svs__1_29900_23920_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_29900_23920.tif
+CD8.svs__1_29900_23920.tif-(Colour_3):   max:   255  min: 0  mean: 24.6118  area: 9000000  std:44.0773
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_29900_23920_CD8.tif
+ 
+_______________________________________
+
+132
+CD8.svs__1_29900_26910
+CD8.svs__1_29900_26910_SEG.tif:   max:   2825  min: 0  mean: 878.7145  area: 9000000  std:943.6852
+CD8.svs__1_29900_26910_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_29900_26910.tif
+CD8.svs__1_29900_26910.tif-(Colour_3):   max:   255  min: 0  mean: 57.3196  area: 9000000  std:73.9826
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_29900_26910_CD8.tif
+ 
+_______________________________________
+
+133
+CD8.svs__1_29900_29900
+CD8.svs__1_29900_29900_SEG.tif:   max:   296  min: 0  mean: 12.0133  area: 9000000  std:47.3801
+CD8.svs__1_29900_29900_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_29900_29900.tif
+CD8.svs__1_29900_29900.tif-(Colour_3):   max:   255  min: 0  mean: 27.8361  area: 9000000  std:28.1645
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_29900_29900_CD8.tif
+ 
+_______________________________________
+
+134
+CD8.svs__1_29900_2990
+CD8.svs__1_29900_2990_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+135
+CD8.svs__1_29900_32890
+CD8.svs__1_29900_32890_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+136
+CD8.svs__1_29900_35880
+CD8.svs__1_29900_35880_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+137
+CD8.svs__1_29900_38870
+CD8.svs__1_29900_38870_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+138
+CD8.svs__1_29900_41860
+CD8.svs__1_29900_41860_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+139
+CD8.svs__1_29900_44850
+CD8.svs__1_29900_44850_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+140
+CD8.svs__1_29900_47840
+CD8.svs__1_29900_47840_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+141
+CD8.svs__1_29900_50830
+CD8.svs__1_29900_50830_SEG.tif:   max:   0  min: 0  mean: 0  area: 2736000  std:0
+******* background image, skip this step
+_______________________________________
+
+142
+CD8.svs__1_29900_5980
+CD8.svs__1_29900_5980_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+143
+CD8.svs__1_29900_8970
+CD8.svs__1_29900_8970_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+144
+CD8.svs__1_2990_0
+CD8.svs__1_2990_0_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+145
+CD8.svs__1_2990_11960
+CD8.svs__1_2990_11960_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+146
+CD8.svs__1_2990_14950
+CD8.svs__1_2990_14950_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+147
+CD8.svs__1_2990_17940
+CD8.svs__1_2990_17940_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+148
+CD8.svs__1_2990_20930
+CD8.svs__1_2990_20930_SEG.tif:   max:   319  min: 0  mean: 12.2338  area: 9000000  std:49.2036
+CD8.svs__1_2990_20930_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_2990_20930.tif
+CD8.svs__1_2990_20930.tif-(Colour_3):   max:   255  min: 0  mean: 19.4299  area: 9000000  std:25.3274
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_2990_20930_CD8.tif
+ 
+_______________________________________
+
+149
+CD8.svs__1_2990_23920
+CD8.svs__1_2990_23920_SEG.tif:   max:   792  min: 0  mean: 81.1817  area: 9000000  std:190.7586
+CD8.svs__1_2990_23920_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_2990_23920.tif
+CD8.svs__1_2990_23920.tif-(Colour_3):   max:   255  min: 0  mean: 29.6869  area: 9000000  std:37.2538
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_2990_23920_CD8.tif
+ 
+_______________________________________
+
+150
+CD8.svs__1_2990_26910
+CD8.svs__1_2990_26910_SEG.tif:   max:   48  min: 0  mean: 0.3062  area: 9000000  std:3.1401
+CD8.svs__1_2990_26910_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_2990_26910.tif
+CD8.svs__1_2990_26910.tif-(Colour_3):   max:   255  min: 0  mean: 22.8157  area: 9000000  std:7.1275
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_2990_26910_CD8.tif
+ 
+_______________________________________
+
+151
+CD8.svs__1_2990_29900
+CD8.svs__1_2990_29900_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+152
+CD8.svs__1_2990_2990
+CD8.svs__1_2990_2990_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+153
+CD8.svs__1_2990_32890
+CD8.svs__1_2990_32890_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+154
+CD8.svs__1_2990_35880
+CD8.svs__1_2990_35880_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+155
+CD8.svs__1_2990_38870
+CD8.svs__1_2990_38870_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+156
+CD8.svs__1_2990_41860
+CD8.svs__1_2990_41860_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+157
+CD8.svs__1_2990_44850
+CD8.svs__1_2990_44850_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+158
+CD8.svs__1_2990_47840
+CD8.svs__1_2990_47840_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+159
+CD8.svs__1_2990_50830
+CD8.svs__1_2990_50830_SEG.tif:   max:   0  min: 0  mean: 0  area: 2736000  std:0
+******* background image, skip this step
+_______________________________________
+
+160
+CD8.svs__1_2990_5980
+CD8.svs__1_2990_5980_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+161
+CD8.svs__1_2990_8970
+CD8.svs__1_2990_8970_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+162
+CD8.svs__1_32890_0
+CD8.svs__1_32890_0_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+163
+CD8.svs__1_32890_11960
+CD8.svs__1_32890_11960_SEG.tif:   max:   2508  min: 0  mean: 638.9865  area: 9000000  std:810.5935
+CD8.svs__1_32890_11960_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_32890_11960.tif
+CD8.svs__1_32890_11960.tif-(Colour_3):   max:   255  min: 0  mean: 28.0115  area: 9000000  std:48.7745
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_32890_11960_CD8.tif
+ 
+_______________________________________
+
+164
+CD8.svs__1_32890_14950
+CD8.svs__1_32890_14950_SEG.tif:   max:   3250  min: 0  mean: 1093.727  area: 9000000  std:1080.9758
+CD8.svs__1_32890_14950_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_32890_14950.tif
+CD8.svs__1_32890_14950.tif-(Colour_3):   max:   255  min: 0  mean: 21.3607  area: 9000000  std:45.97
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_32890_14950_CD8.tif
+ 
+_______________________________________
+
+165
+CD8.svs__1_32890_17940
+CD8.svs__1_32890_17940_SEG.tif:   max:   3081  min: 0  mean: 1016.0393  area: 9000000  std:1030.2422
+CD8.svs__1_32890_17940_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_32890_17940.tif
+CD8.svs__1_32890_17940.tif-(Colour_3):   max:   255  min: 0  mean: 21.1231  area: 9000000  std:42.7243
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_32890_17940_CD8.tif
+ 
+_______________________________________
+
+166
+CD8.svs__1_32890_20930
+CD8.svs__1_32890_20930_SEG.tif:   max:   3062  min: 0  mean: 1005.9448  area: 9000000  std:1022.9813
+CD8.svs__1_32890_20930_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_32890_20930.tif
+CD8.svs__1_32890_20930.tif-(Colour_3):   max:   255  min: 0  mean: 22.7644  area: 9000000  std:43.6763
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_32890_20930_CD8.tif
+ 
+_______________________________________
+
+167
+CD8.svs__1_32890_23920
+CD8.svs__1_32890_23920_SEG.tif:   max:   3102  min: 0  mean: 1046.889  area: 9000000  std:1037.9732
+CD8.svs__1_32890_23920_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_32890_23920.tif
+CD8.svs__1_32890_23920.tif-(Colour_3):   max:   255  min: 0  mean: 28.568  area: 9000000  std:49.9379
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_32890_23920_CD8.tif
+ 
+_______________________________________
+
+168
+CD8.svs__1_32890_26910
+CD8.svs__1_32890_26910_SEG.tif:   max:   1422  min: 0  mean: 248.5856  area: 9000000  std:420.0922
+CD8.svs__1_32890_26910_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_32890_26910.tif
+CD8.svs__1_32890_26910.tif-(Colour_3):   max:   255  min: 0  mean: 44.2268  area: 9000000  std:57.3745
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_32890_26910_CD8.tif
+ 
+_______________________________________
+
+169
+CD8.svs__1_32890_29900
+CD8.svs__1_32890_29900_SEG.tif:   max:   2  min: 0  mean: 0.0003244  area: 9000000  std:0.02311
+CD8.svs__1_32890_29900_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_32890_29900.tif
+CD8.svs__1_32890_29900.tif-(Colour_3):   max:   228  min: 0  mean: 22.1369  area: 9000000  std:5.3849
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_32890_29900_CD8.tif
+ 
+_______________________________________
+
+170
+CD8.svs__1_32890_2990
+CD8.svs__1_32890_2990_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+171
+CD8.svs__1_32890_32890
+CD8.svs__1_32890_32890_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+172
+CD8.svs__1_32890_35880
+CD8.svs__1_32890_35880_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+173
+CD8.svs__1_32890_38870
+CD8.svs__1_32890_38870_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+174
+CD8.svs__1_32890_41860
+CD8.svs__1_32890_41860_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+175
+CD8.svs__1_32890_44850
+CD8.svs__1_32890_44850_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+176
+CD8.svs__1_32890_47840
+CD8.svs__1_32890_47840_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+177
+CD8.svs__1_32890_50830
+CD8.svs__1_32890_50830_SEG.tif:   max:   0  min: 0  mean: 0  area: 2736000  std:0
+******* background image, skip this step
+_______________________________________
+
+178
+CD8.svs__1_32890_5980
+CD8.svs__1_32890_5980_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+179
+CD8.svs__1_32890_8970
+CD8.svs__1_32890_8970_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+180
+CD8.svs__1_35880_0
+CD8.svs__1_35880_0_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+181
+CD8.svs__1_35880_11960
+CD8.svs__1_35880_11960_SEG.tif:   max:   3250  min: 0  mean: 1098.9585  area: 9000000  std:1085.1666
+CD8.svs__1_35880_11960_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_35880_11960.tif
+CD8.svs__1_35880_11960.tif-(Colour_3):   max:   255  min: 0  mean: 30.1961  area: 9000000  std:56.2901
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_35880_11960_CD8.tif
+ 
+_______________________________________
+
+182
+CD8.svs__1_35880_14950
+CD8.svs__1_35880_14950_SEG.tif:   max:   3173  min: 0  mean: 1049.0167  area: 9000000  std:1051.2242
+CD8.svs__1_35880_14950_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_35880_14950.tif
+CD8.svs__1_35880_14950.tif-(Colour_3):   max:   255  min: 0  mean: 30.571  area: 9000000  std:55.788
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_35880_14950_CD8.tif
+ 
+_______________________________________
+
+183
+CD8.svs__1_35880_17940
+CD8.svs__1_35880_17940_SEG.tif:   max:   3157  min: 0  mean: 1055.0511  area: 9000000  std:1057.4016
+CD8.svs__1_35880_17940_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_35880_17940.tif
+CD8.svs__1_35880_17940.tif-(Colour_3):   max:   255  min: 0  mean: 24.9143  area: 9000000  std:48.9395
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_35880_17940_CD8.tif
+ 
+_______________________________________
+
+184
+CD8.svs__1_35880_20930
+CD8.svs__1_35880_20930_SEG.tif:   max:   3001  min: 0  mean: 971.0424  area: 9000000  std:996.2061
+CD8.svs__1_35880_20930_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_35880_20930.tif
+CD8.svs__1_35880_20930.tif-(Colour_3):   max:   255  min: 0  mean: 19.9112  area: 9000000  std:38.016
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_35880_20930_CD8.tif
+ 
+_______________________________________
+
+185
+CD8.svs__1_35880_23920
+CD8.svs__1_35880_23920_SEG.tif:   max:   2932  min: 0  mean: 944.8384  area: 9000000  std:971.9798
+CD8.svs__1_35880_23920_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_35880_23920.tif
+CD8.svs__1_35880_23920.tif-(Colour_3):   max:   255  min: 0  mean: 36.3343  area: 9000000  std:57.4311
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_35880_23920_CD8.tif
+ 
+_______________________________________
+
+186
+CD8.svs__1_35880_26910
+CD8.svs__1_35880_26910_SEG.tif:   max:   344  min: 0  mean: 14.7351  area: 9000000  std:56.6218
+CD8.svs__1_35880_26910_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_35880_26910.tif
+CD8.svs__1_35880_26910.tif-(Colour_3):   max:   255  min: 0  mean: 27.4021  area: 9000000  std:27.4182
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_35880_26910_CD8.tif
+ 
+_______________________________________
+
+187
+CD8.svs__1_35880_29900
+CD8.svs__1_35880_29900_SEG.tif:   max:   6  min: 0  mean: 0.002236  area: 9000000  std:0.09917
+CD8.svs__1_35880_29900_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_35880_29900.tif
+CD8.svs__1_35880_29900.tif-(Colour_3):   max:   138  min: 0  mean: 20.5011  area: 9000000  std:6.6239
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_35880_29900_CD8.tif
+ 
+_______________________________________
+
+188
+CD8.svs__1_35880_2990
+CD8.svs__1_35880_2990_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+189
+CD8.svs__1_35880_32890
+CD8.svs__1_35880_32890_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+190
+CD8.svs__1_35880_35880
+CD8.svs__1_35880_35880_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+191
+CD8.svs__1_35880_38870
+CD8.svs__1_35880_38870_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+192
+CD8.svs__1_35880_41860
+CD8.svs__1_35880_41860_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+193
+CD8.svs__1_35880_44850
+CD8.svs__1_35880_44850_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+194
+CD8.svs__1_35880_47840
+CD8.svs__1_35880_47840_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+195
+CD8.svs__1_35880_50830
+CD8.svs__1_35880_50830_SEG.tif:   max:   0  min: 0  mean: 0  area: 2736000  std:0
+******* background image, skip this step
+_______________________________________
+
+196
+CD8.svs__1_35880_5980
+CD8.svs__1_35880_5980_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+197
+CD8.svs__1_35880_8970
+CD8.svs__1_35880_8970_SEG.tif:   max:   576  min: 0  mean: 32.6285  area: 9000000  std:106.2381
+CD8.svs__1_35880_8970_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_35880_8970.tif
+CD8.svs__1_35880_8970.tif-(Colour_3):   max:   255  min: 0  mean: 20.5507  area: 9000000  std:32.0854
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_35880_8970_CD8.tif
+ 
+_______________________________________
+
+198
+CD8.svs__1_38870_0
+CD8.svs__1_38870_0_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+199
+CD8.svs__1_38870_11960
+CD8.svs__1_38870_11960_SEG.tif:   max:   3173  min: 0  mean: 1068.1578  area: 9000000  std:1052.789
+CD8.svs__1_38870_11960_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_38870_11960.tif
+CD8.svs__1_38870_11960.tif-(Colour_3):   max:   255  min: 0  mean: 45.7648  area: 9000000  std:70.146
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_38870_11960_CD8.tif
+ 
+_______________________________________
+
+200
+CD8.svs__1_38870_14950
+CD8.svs__1_38870_14950_SEG.tif:   max:   3051  min: 0  mean: 1009.4332  area: 9000000  std:1011.9955
+CD8.svs__1_38870_14950_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_38870_14950.tif
+CD8.svs__1_38870_14950.tif-(Colour_3):   max:   255  min: 0  mean: 35.3773  area: 9000000  std:59.2503
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_38870_14950_CD8.tif
+ 
+_______________________________________
+
+201
+CD8.svs__1_38870_17940
+CD8.svs__1_38870_17940_SEG.tif:   max:   3043  min: 0  mean: 995.4547  area: 9000000  std:1012.5953
+CD8.svs__1_38870_17940_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_38870_17940.tif
+CD8.svs__1_38870_17940.tif-(Colour_3):   max:   255  min: 0  mean: 22.0916  area: 9000000  std:44.2876
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_38870_17940_CD8.tif
+ 
+_______________________________________
+
+202
+CD8.svs__1_38870_20930
+CD8.svs__1_38870_20930_SEG.tif:   max:   2972  min: 0  mean: 956.9904  area: 9000000  std:983.5482
+CD8.svs__1_38870_20930_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_38870_20930.tif
+CD8.svs__1_38870_20930.tif-(Colour_3):   max:   255  min: 0  mean: 23.0647  area: 9000000  std:40.9652
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_38870_20930_CD8.tif
+ 
+_______________________________________
+
+203
+CD8.svs__1_38870_23920
+CD8.svs__1_38870_23920_SEG.tif:   max:   1853  min: 0  mean: 406.7709  area: 9000000  std:584.5829
+CD8.svs__1_38870_23920_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_38870_23920.tif
+CD8.svs__1_38870_23920.tif-(Colour_3):   max:   255  min: 0  mean: 41.7402  area: 9000000  std:58.5258
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_38870_23920_CD8.tif
+ 
+_______________________________________
+
+204
+CD8.svs__1_38870_26910
+CD8.svs__1_38870_26910_SEG.tif:   max:   4  min: 0  mean: 0.001059  area: 9000000  std:0.05551
+CD8.svs__1_38870_26910_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_38870_26910.tif
+CD8.svs__1_38870_26910.tif-(Colour_3):   max:   109  min: 0  mean: 21.3466  area: 9000000  std:6.4633
+Do not contain marker cells
+ 
+_______________________________________
+
+205
+CD8.svs__1_38870_29900
+CD8.svs__1_38870_29900_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+206
+CD8.svs__1_38870_2990
+CD8.svs__1_38870_2990_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+207
+CD8.svs__1_38870_32890
+CD8.svs__1_38870_32890_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+208
+CD8.svs__1_38870_35880
+CD8.svs__1_38870_35880_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+209
+CD8.svs__1_38870_38870
+CD8.svs__1_38870_38870_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+210
+CD8.svs__1_38870_41860
+CD8.svs__1_38870_41860_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+211
+CD8.svs__1_38870_44850
+CD8.svs__1_38870_44850_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+212
+CD8.svs__1_38870_47840
+CD8.svs__1_38870_47840_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+213
+CD8.svs__1_38870_50830
+CD8.svs__1_38870_50830_SEG.tif:   max:   0  min: 0  mean: 0  area: 2736000  std:0
+******* background image, skip this step
+_______________________________________
+
+214
+CD8.svs__1_38870_5980
+CD8.svs__1_38870_5980_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+215
+CD8.svs__1_38870_8970
+CD8.svs__1_38870_8970_SEG.tif:   max:   1890  min: 0  mean: 383.0161  area: 9000000  std:578.392
+CD8.svs__1_38870_8970_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_38870_8970.tif
+CD8.svs__1_38870_8970.tif-(Colour_3):   max:   255  min: 0  mean: 43.5983  area: 9000000  std:66.5658
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_38870_8970_CD8.tif
+ 
+_______________________________________
+
+216
+CD8.svs__1_41860_0
+CD8.svs__1_41860_0_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+217
+CD8.svs__1_41860_11960
+CD8.svs__1_41860_11960_SEG.tif:   max:   3065  min: 0  mean: 1023.9646  area: 9000000  std:1015.6759
+CD8.svs__1_41860_11960_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_41860_11960.tif
+CD8.svs__1_41860_11960.tif-(Colour_3):   max:   255  min: 0  mean: 53.999  area: 9000000  std:75.6302
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_41860_11960_CD8.tif
+ 
+_______________________________________
+
+218
+CD8.svs__1_41860_14950
+CD8.svs__1_41860_14950_SEG.tif:   max:   3186  min: 0  mean: 1069.5343  area: 9000000  std:1070.826
+CD8.svs__1_41860_14950_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_41860_14950.tif
+CD8.svs__1_41860_14950.tif-(Colour_3):   max:   255  min: 0  mean: 43.3539  area: 9000000  std:64.0926
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_41860_14950_CD8.tif
+ 
+_______________________________________
+
+219
+CD8.svs__1_41860_17940
+CD8.svs__1_41860_17940_SEG.tif:   max:   3167  min: 0  mean: 1051.084  area: 9000000  std:1051.9052
+CD8.svs__1_41860_17940_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_41860_17940.tif
+CD8.svs__1_41860_17940.tif-(Colour_3):   max:   255  min: 0  mean: 26.4587  area: 9000000  std:51.2725
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_41860_17940_CD8.tif
+ 
+_______________________________________
+
+220
+CD8.svs__1_41860_20930
+CD8.svs__1_41860_20930_SEG.tif:   max:   2343  min: 0  mean: 596.5492  area: 9000000  std:758.8524
+CD8.svs__1_41860_20930_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_41860_20930.tif
+CD8.svs__1_41860_20930.tif-(Colour_3):   max:   255  min: 0  mean: 32.5927  area: 9000000  std:52.2856
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_41860_20930_CD8.tif
+ 
+_______________________________________
+
+221
+CD8.svs__1_41860_23920
+CD8.svs__1_41860_23920_SEG.tif:   max:   162  min: 0  mean: 3.0793  area: 9000000  std:18.1196
+CD8.svs__1_41860_23920_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_41860_23920.tif
+CD8.svs__1_41860_23920.tif-(Colour_3):   max:   255  min: 0  mean: 25.2853  area: 9000000  std:21.1889
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_41860_23920_CD8.tif
+ 
+_______________________________________
+
+222
+CD8.svs__1_41860_26910
+CD8.svs__1_41860_26910_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+223
+CD8.svs__1_41860_29900
+CD8.svs__1_41860_29900_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+224
+CD8.svs__1_41860_2990
+CD8.svs__1_41860_2990_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+225
+CD8.svs__1_41860_32890
+CD8.svs__1_41860_32890_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+226
+CD8.svs__1_41860_35880
+CD8.svs__1_41860_35880_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+227
+CD8.svs__1_41860_38870
+CD8.svs__1_41860_38870_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+228
+CD8.svs__1_41860_41860
+CD8.svs__1_41860_41860_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+229
+CD8.svs__1_41860_44850
+CD8.svs__1_41860_44850_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+230
+CD8.svs__1_41860_47840
+CD8.svs__1_41860_47840_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+231
+CD8.svs__1_41860_50830
+CD8.svs__1_41860_50830_SEG.tif:   max:   0  min: 0  mean: 0  area: 2736000  std:0
+******* background image, skip this step
+_______________________________________
+
+232
+CD8.svs__1_41860_5980
+CD8.svs__1_41860_5980_SEG.tif:   max:   377  min: 0  mean: 14.6243  area: 9000000  std:58.6083
+CD8.svs__1_41860_5980_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_41860_5980.tif
+CD8.svs__1_41860_5980.tif-(Colour_3):   max:   255  min: 0  mean: 21.8496  area: 9000000  std:44.8739
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_41860_5980_CD8.tif
+ 
+_______________________________________
+
+233
+CD8.svs__1_41860_8970
+CD8.svs__1_41860_8970_SEG.tif:   max:   3064  min: 0  mean: 1003.9527  area: 9000000  std:1017.9445
+CD8.svs__1_41860_8970_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_41860_8970.tif
+CD8.svs__1_41860_8970.tif-(Colour_3):   max:   255  min: 0  mean: 70.2245  area: 9000000  std:85.6454
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_41860_8970_CD8.tif
+ 
+_______________________________________
+
+234
+CD8.svs__1_44850_0
+CD8.svs__1_44850_0_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+235
+CD8.svs__1_44850_11960
+CD8.svs__1_44850_11960_SEG.tif:   max:   3103  min: 0  mean: 1027.0573  area: 9000000  std:1036.7729
+CD8.svs__1_44850_11960_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_44850_11960.tif
+CD8.svs__1_44850_11960.tif-(Colour_3):   max:   255  min: 0  mean: 82.628  area: 9000000  std:87.4504
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_44850_11960_CD8.tif
+ 
+_______________________________________
+
+236
+CD8.svs__1_44850_14950
+CD8.svs__1_44850_14950_SEG.tif:   max:   3100  min: 0  mean: 1032.7359  area: 9000000  std:1032.5091
+CD8.svs__1_44850_14950_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_44850_14950.tif
+CD8.svs__1_44850_14950.tif-(Colour_3):   max:   255  min: 0  mean: 40.3096  area: 9000000  std:63.1854
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_44850_14950_CD8.tif
+ 
+_______________________________________
+
+237
+CD8.svs__1_44850_17940
+CD8.svs__1_44850_17940_SEG.tif:   max:   2571  min: 0  mean: 718.9199  area: 9000000  std:840.5018
+CD8.svs__1_44850_17940_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_44850_17940.tif
+CD8.svs__1_44850_17940.tif-(Colour_3):   max:   255  min: 0  mean: 40.0049  area: 9000000  std:61.894
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_44850_17940_CD8.tif
+ 
+_______________________________________
+
+238
+CD8.svs__1_44850_20930
+CD8.svs__1_44850_20930_SEG.tif:   max:   227  min: 0  mean: 6  area: 9000000  std:29.7629
+CD8.svs__1_44850_20930_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_44850_20930.tif
+CD8.svs__1_44850_20930.tif-(Colour_3):   max:   255  min: 0  mean: 26.3418  area: 9000000  std:26.0677
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_44850_20930_CD8.tif
+ 
+_______________________________________
+
+239
+CD8.svs__1_44850_23920
+CD8.svs__1_44850_23920_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+240
+CD8.svs__1_44850_26910
+CD8.svs__1_44850_26910_SEG.tif:   max:   5  min: 0  mean: 0.002347  area: 9000000  std:0.08805
+CD8.svs__1_44850_26910_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_44850_26910.tif
+CD8.svs__1_44850_26910.tif-(Colour_3):   max:   135  min: 0  mean: 8.5477  area: 9000000  std:6.1694
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_44850_26910_CD8.tif
+ 
+_______________________________________
+
+241
+CD8.svs__1_44850_29900
+CD8.svs__1_44850_29900_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+242
+CD8.svs__1_44850_2990
+CD8.svs__1_44850_2990_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+243
+CD8.svs__1_44850_32890
+CD8.svs__1_44850_32890_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+244
+CD8.svs__1_44850_35880
+CD8.svs__1_44850_35880_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+245
+CD8.svs__1_44850_38870
+CD8.svs__1_44850_38870_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+246
+CD8.svs__1_44850_41860
+CD8.svs__1_44850_41860_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+247
+CD8.svs__1_44850_44850
+CD8.svs__1_44850_44850_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+248
+CD8.svs__1_44850_47840
+CD8.svs__1_44850_47840_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+249
+CD8.svs__1_44850_50830
+CD8.svs__1_44850_50830_SEG.tif:   max:   0  min: 0  mean: 0  area: 2736000  std:0
+******* background image, skip this step
+_______________________________________
+
+250
+CD8.svs__1_44850_5980
+CD8.svs__1_44850_5980_SEG.tif:   max:   1932  min: 0  mean: 391.9923  area: 9000000  std:593.2216
+CD8.svs__1_44850_5980_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_44850_5980.tif
+CD8.svs__1_44850_5980.tif-(Colour_3):   max:   255  min: 0  mean: 83.0931  area: 9000000  std:90.6007
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_44850_5980_CD8.tif
+ 
+_______________________________________
+
+251
+CD8.svs__1_44850_8970
+CD8.svs__1_44850_8970_SEG.tif:   max:   3029  min: 0  mean: 982.551  area: 9000000  std:1007.6754
+CD8.svs__1_44850_8970_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_44850_8970.tif
+CD8.svs__1_44850_8970.tif-(Colour_3):   max:   255  min: 0  mean: 105.7446  area: 9000000  std:96.2502
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_44850_8970_CD8.tif
+ 
+_______________________________________
+
+252
+CD8.svs__1_47840_0
+CD8.svs__1_47840_0_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+253
+CD8.svs__1_47840_11960
+CD8.svs__1_47840_11960_SEG.tif:   max:   3133  min: 0  mean: 1035.6482  area: 9000000  std:1042.4427
+CD8.svs__1_47840_11960_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_47840_11960.tif
+CD8.svs__1_47840_11960.tif-(Colour_3):   max:   255  min: 0  mean: 83.3706  area: 9000000  std:88.9102
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_47840_11960_CD8.tif
+ 
+_______________________________________
+
+254
+CD8.svs__1_47840_14950
+CD8.svs__1_47840_14950_SEG.tif:   max:   3130  min: 0  mean: 1035.0805  area: 9000000  std:1040.4355
+CD8.svs__1_47840_14950_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_47840_14950.tif
+CD8.svs__1_47840_14950.tif-(Colour_3):   max:   255  min: 0  mean: 53.5848  area: 9000000  std:75.4052
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_47840_14950_CD8.tif
+ 
+_______________________________________
+
+255
+CD8.svs__1_47840_17940
+CD8.svs__1_47840_17940_SEG.tif:   max:   721  min: 0  mean: 64.719  area: 9000000  std:165.9098
+CD8.svs__1_47840_17940_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_47840_17940.tif
+CD8.svs__1_47840_17940.tif-(Colour_3):   max:   255  min: 0  mean: 38.8647  area: 9000000  std:51.9273
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_47840_17940_CD8.tif
+ 
+_______________________________________
+
+256
+CD8.svs__1_47840_20930
+CD8.svs__1_47840_20930_SEG.tif:   max:   12  min: 0  mean: 0.01576  area: 9000000  std:0.3629
+CD8.svs__1_47840_20930_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_47840_20930.tif
+CD8.svs__1_47840_20930.tif-(Colour_3):   max:   255  min: 0  mean: 21.9789  area: 9000000  std:7.4939
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_47840_20930_CD8.tif
+ 
+_______________________________________
+
+257
+CD8.svs__1_47840_23920
+CD8.svs__1_47840_23920_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+258
+CD8.svs__1_47840_26910
+CD8.svs__1_47840_26910_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+259
+CD8.svs__1_47840_29900
+CD8.svs__1_47840_29900_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+260
+CD8.svs__1_47840_2990
+CD8.svs__1_47840_2990_SEG.tif:   max:   307  min: 0  mean: 9.9211  area: 9000000  std:43.8573
+CD8.svs__1_47840_2990_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_47840_2990.tif
+CD8.svs__1_47840_2990.tif-(Colour_3):   max:   255  min: 0  mean: 25.5575  area: 9000000  std:43.9632
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_47840_2990_CD8.tif
+ 
+_______________________________________
+
+261
+CD8.svs__1_47840_32890
+CD8.svs__1_47840_32890_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+262
+CD8.svs__1_47840_35880
+CD8.svs__1_47840_35880_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+263
+CD8.svs__1_47840_38870
+CD8.svs__1_47840_38870_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+264
+CD8.svs__1_47840_41860
+CD8.svs__1_47840_41860_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+265
+CD8.svs__1_47840_44850
+CD8.svs__1_47840_44850_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+266
+CD8.svs__1_47840_47840
+CD8.svs__1_47840_47840_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+267
+CD8.svs__1_47840_50830
+CD8.svs__1_47840_50830_SEG.tif:   max:   0  min: 0  mean: 0  area: 2736000  std:0
+******* background image, skip this step
+_______________________________________
+
+268
+CD8.svs__1_47840_5980
+CD8.svs__1_47840_5980_SEG.tif:   max:   2923  min: 0  mean: 927.1342  area: 9000000  std:974.1774
+CD8.svs__1_47840_5980_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_47840_5980.tif
+CD8.svs__1_47840_5980.tif-(Colour_3):   max:   255  min: 0  mean: 118.2274  area: 9000000  std:98.2912
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_47840_5980_CD8.tif
+ 
+_______________________________________
+
+269
+CD8.svs__1_47840_8970
+CD8.svs__1_47840_8970_SEG.tif:   max:   3012  min: 0  mean: 970.8479  area: 9000000  std:1000.5787
+CD8.svs__1_47840_8970_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_47840_8970.tif
+CD8.svs__1_47840_8970.tif-(Colour_3):   max:   255  min: 0  mean: 114.1843  area: 9000000  std:96.7298
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_47840_8970_CD8.tif
+ 
+_______________________________________
+
+270
+CD8.svs__1_50830_0
+CD8.svs__1_50830_0_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+271
+CD8.svs__1_50830_11960
+CD8.svs__1_50830_11960_SEG.tif:   max:   3129  min: 0  mean: 1050.3828  area: 9000000  std:1041.9925
+CD8.svs__1_50830_11960_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_50830_11960.tif
+CD8.svs__1_50830_11960.tif-(Colour_3):   max:   255  min: 0  mean: 66.3377  area: 9000000  std:82.0475
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_50830_11960_CD8.tif
+ 
+_______________________________________
+
+272
+CD8.svs__1_50830_14950
+CD8.svs__1_50830_14950_SEG.tif:   max:   2365  min: 0  mean: 639.7684  area: 9000000  std:779.7398
+CD8.svs__1_50830_14950_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_50830_14950.tif
+CD8.svs__1_50830_14950.tif-(Colour_3):   max:   255  min: 0  mean: 66.4435  area: 9000000  std:78.4448
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_50830_14950_CD8.tif
+ 
+_______________________________________
+
+273
+CD8.svs__1_50830_17940
+CD8.svs__1_50830_17940_SEG.tif:   max:   30  min: 0  mean: 0.1389  area: 9000000  std:1.7223
+CD8.svs__1_50830_17940_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_50830_17940.tif
+CD8.svs__1_50830_17940.tif-(Colour_3):   max:   255  min: 0  mean: 23.4685  area: 9000000  std:10.4764
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_50830_17940_CD8.tif
+ 
+_______________________________________
+
+274
+CD8.svs__1_50830_20930
+CD8.svs__1_50830_20930_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+275
+CD8.svs__1_50830_23920
+CD8.svs__1_50830_23920_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+276
+CD8.svs__1_50830_26910
+CD8.svs__1_50830_26910_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+277
+CD8.svs__1_50830_29900
+CD8.svs__1_50830_29900_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+278
+CD8.svs__1_50830_2990
+CD8.svs__1_50830_2990_SEG.tif:   max:   1616  min: 0  mean: 279.4892  area: 9000000  std:469.3007
+CD8.svs__1_50830_2990_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_50830_2990.tif
+CD8.svs__1_50830_2990.tif-(Colour_3):   max:   255  min: 0  mean: 71.1984  area: 9000000  std:84.2447
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_50830_2990_CD8.tif
+ 
+_______________________________________
+
+279
+CD8.svs__1_50830_32890
+CD8.svs__1_50830_32890_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+280
+CD8.svs__1_50830_35880
+CD8.svs__1_50830_35880_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+281
+CD8.svs__1_50830_38870
+CD8.svs__1_50830_38870_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+282
+CD8.svs__1_50830_41860
+CD8.svs__1_50830_41860_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+283
+CD8.svs__1_50830_44850
+CD8.svs__1_50830_44850_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+284
+CD8.svs__1_50830_47840
+CD8.svs__1_50830_47840_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+285
+CD8.svs__1_50830_50830
+CD8.svs__1_50830_50830_SEG.tif:   max:   0  min: 0  mean: 0  area: 2736000  std:0
+******* background image, skip this step
+_______________________________________
+
+286
+CD8.svs__1_50830_5980
+CD8.svs__1_50830_5980_SEG.tif:   max:   3032  min: 0  mean: 972.4383  area: 9000000  std:1011.5745
+CD8.svs__1_50830_5980_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_50830_5980.tif
+CD8.svs__1_50830_5980.tif-(Colour_3):   max:   255  min: 0  mean: 136.9468  area: 9000000  std:97.9278
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_50830_5980_CD8.tif
+ 
+_______________________________________
+
+287
+CD8.svs__1_50830_8970
+CD8.svs__1_50830_8970_SEG.tif:   max:   3064  min: 0  mean: 977.0672  area: 9000000  std:1013.7181
+CD8.svs__1_50830_8970_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_50830_8970.tif
+CD8.svs__1_50830_8970.tif-(Colour_3):   max:   255  min: 0  mean: 111.5837  area: 9000000  std:95.4081
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_50830_8970_CD8.tif
+ 
+_______________________________________
+
+288
+CD8.svs__1_53820_0
+CD8.svs__1_53820_0_SEG.tif:   max:   145  min: 0  mean: 2.1205  area: 9000000  std:14.0552
+CD8.svs__1_53820_0_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_53820_0.tif
+CD8.svs__1_53820_0.tif-(Colour_3):   max:   255  min: 0  mean: 18.4394  area: 9000000  std:39.6298
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_53820_0_CD8.tif
+ 
+_______________________________________
+
+289
+CD8.svs__1_53820_11960
+CD8.svs__1_53820_11960_SEG.tif:   max:   3176  min: 0  mean: 1055.4467  area: 9000000  std:1063.1781
+CD8.svs__1_53820_11960_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_53820_11960.tif
+CD8.svs__1_53820_11960.tif-(Colour_3):   max:   255  min: 0  mean: 61.2826  area: 9000000  std:77.6983
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_53820_11960_CD8.tif
+ 
+_______________________________________
+
+290
+CD8.svs__1_53820_14950
+CD8.svs__1_53820_14950_SEG.tif:   max:   419  min: 0  mean: 23.2144  area: 9000000  std:77.5305
+CD8.svs__1_53820_14950_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_53820_14950.tif
+CD8.svs__1_53820_14950.tif-(Colour_3):   max:   255  min: 0  mean: 34.6794  area: 9000000  std:42.3383
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_53820_14950_CD8.tif
+ 
+_______________________________________
+
+291
+CD8.svs__1_53820_17940
+CD8.svs__1_53820_17940_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+292
+CD8.svs__1_53820_20930
+CD8.svs__1_53820_20930_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+293
+CD8.svs__1_53820_23920
+CD8.svs__1_53820_23920_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+294
+CD8.svs__1_53820_26910
+CD8.svs__1_53820_26910_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+295
+CD8.svs__1_53820_29900
+CD8.svs__1_53820_29900_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+296
+CD8.svs__1_53820_2990
+CD8.svs__1_53820_2990_SEG.tif:   max:   2922  min: 0  mean: 867.6327  area: 9000000  std:962.3372
+CD8.svs__1_53820_2990_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_53820_2990.tif
+CD8.svs__1_53820_2990.tif-(Colour_3):   max:   255  min: 0  mean: 132.0773  area: 9000000  std:97.9782
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_53820_2990_CD8.tif
+ 
+_______________________________________
+
+297
+CD8.svs__1_53820_32890
+CD8.svs__1_53820_32890_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+298
+CD8.svs__1_53820_35880
+CD8.svs__1_53820_35880_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+299
+CD8.svs__1_53820_38870
+CD8.svs__1_53820_38870_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+300
+CD8.svs__1_53820_41860
+CD8.svs__1_53820_41860_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+301
+CD8.svs__1_53820_44850
+CD8.svs__1_53820_44850_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+302
+CD8.svs__1_53820_47840
+CD8.svs__1_53820_47840_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+303
+CD8.svs__1_53820_50830
+CD8.svs__1_53820_50830_SEG.tif:   max:   0  min: 0  mean: 0  area: 2736000  std:0
+******* background image, skip this step
+_______________________________________
+
+304
+CD8.svs__1_53820_5980
+CD8.svs__1_53820_5980_SEG.tif:   max:   3046  min: 0  mean: 973.0461  area: 9000000  std:1014.6035
+CD8.svs__1_53820_5980_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_53820_5980.tif
+CD8.svs__1_53820_5980.tif-(Colour_3):   max:   255  min: 0  mean: 132.3891  area: 9000000  std:97.1851
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_53820_5980_CD8.tif
+ 
+_______________________________________
+
+305
+CD8.svs__1_53820_8970
+CD8.svs__1_53820_8970_SEG.tif:   max:   2970  min: 0  mean: 929.7955  area: 9000000  std:987.3963
+CD8.svs__1_53820_8970_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_53820_8970.tif
+CD8.svs__1_53820_8970.tif-(Colour_3):   max:   255  min: 0  mean: 93.7422  area: 9000000  std:90.6836
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_53820_8970_CD8.tif
+ 
+_______________________________________
+
+306
+CD8.svs__1_56810_0
+CD8.svs__1_56810_0_SEG.tif:   max:   1042  min: 0  mean: 112.8845  area: 9000000  std:256.0993
+CD8.svs__1_56810_0_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_56810_0.tif
+CD8.svs__1_56810_0.tif-(Colour_3):   max:   255  min: 0  mean: 60.8982  area: 9000000  std:83.3012
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_56810_0_CD8.tif
+ 
+_______________________________________
+
+307
+CD8.svs__1_56810_11960
+CD8.svs__1_56810_11960_SEG.tif:   max:   1625  min: 0  mean: 300.9947  area: 9000000  std:485.5747
+CD8.svs__1_56810_11960_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_56810_11960.tif
+CD8.svs__1_56810_11960.tif-(Colour_3):   max:   255  min: 0  mean: 45.3737  area: 9000000  std:60.7416
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_56810_11960_CD8.tif
+ 
+_______________________________________
+
+308
+CD8.svs__1_56810_14950
+CD8.svs__1_56810_14950_SEG.tif:   max:   4  min: 0  mean: 0.002192  area: 9000000  std:0.08271
+CD8.svs__1_56810_14950_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_56810_14950.tif
+CD8.svs__1_56810_14950.tif-(Colour_3):   max:   249  min: 0  mean: 22.826  area: 9000000  std:4.6836
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_56810_14950_CD8.tif
+ 
+_______________________________________
+
+309
+CD8.svs__1_56810_17940
+CD8.svs__1_56810_17940_SEG.tif:   max:   3  min: 0  mean: 0.0009158  area: 9000000  std:0.04711
+CD8.svs__1_56810_17940_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_56810_17940.tif
+CD8.svs__1_56810_17940.tif-(Colour_3):   max:   159  min: 0  mean: 9.5619  area: 9000000  std:7.2886
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_56810_17940_CD8.tif
+ 
+_______________________________________
+
+310
+CD8.svs__1_56810_20930
+CD8.svs__1_56810_20930_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+311
+CD8.svs__1_56810_23920
+CD8.svs__1_56810_23920_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+312
+CD8.svs__1_56810_26910
+CD8.svs__1_56810_26910_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+313
+CD8.svs__1_56810_29900
+CD8.svs__1_56810_29900_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+314
+CD8.svs__1_56810_2990
+CD8.svs__1_56810_2990_SEG.tif:   max:   2943  min: 0  mean: 903.4883  area: 9000000  std:975.0597
+CD8.svs__1_56810_2990_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_56810_2990.tif
+CD8.svs__1_56810_2990.tif-(Colour_3):   max:   255  min: 0  mean: 138.2341  area: 9000000  std:98.8856
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_56810_2990_CD8.tif
+ 
+_______________________________________
+
+315
+CD8.svs__1_56810_32890
+CD8.svs__1_56810_32890_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+316
+CD8.svs__1_56810_35880
+CD8.svs__1_56810_35880_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+317
+CD8.svs__1_56810_38870
+CD8.svs__1_56810_38870_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+318
+CD8.svs__1_56810_41860
+CD8.svs__1_56810_41860_SEG.tif:   max:   420  min: 0  mean: 20.2448  area: 9000000  std:72.8299
+CD8.svs__1_56810_41860_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_56810_41860.tif
+CD8.svs__1_56810_41860.tif-(Colour_3):   max:   255  min: 0  mean: 21.7059  area: 9000000  std:34.0693
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_56810_41860_CD8.tif
+ 
+_______________________________________
+
+319
+CD8.svs__1_56810_44850
+CD8.svs__1_56810_44850_SEG.tif:   max:   57  min: 0  mean: 0.3572  area: 9000000  std:3.7571
+CD8.svs__1_56810_44850_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_56810_44850.tif
+CD8.svs__1_56810_44850.tif-(Colour_3):   max:   255  min: 0  mean: 17.2271  area: 9000000  std:13.236
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_56810_44850_CD8.tif
+ 
+_______________________________________
+
+320
+CD8.svs__1_56810_47840
+CD8.svs__1_56810_47840_SEG.tif:   max:   17  min: 0  mean: 0.02903  area: 9000000  std:0.558
+CD8.svs__1_56810_47840_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_56810_47840.tif
+CD8.svs__1_56810_47840.tif-(Colour_3):   max:   255  min: 0  mean: 16.4378  area: 9000000  std:10.6592
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_56810_47840_CD8.tif
+ 
+_______________________________________
+
+321
+CD8.svs__1_56810_50830
+CD8.svs__1_56810_50830_SEG.tif:   max:   0  min: 0  mean: 0  area: 2736000  std:0
+******* background image, skip this step
+_______________________________________
+
+322
+CD8.svs__1_56810_5980
+CD8.svs__1_56810_5980_SEG.tif:   max:   3022  min: 0  mean: 953.7814  area: 9000000  std:1005.2287
+CD8.svs__1_56810_5980_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_56810_5980.tif
+CD8.svs__1_56810_5980.tif-(Colour_3):   max:   255  min: 0  mean: 129.0525  area: 9000000  std:96.0734
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_56810_5980_CD8.tif
+ 
+_______________________________________
+
+323
+CD8.svs__1_56810_8970
+CD8.svs__1_56810_8970_SEG.tif:   max:   3044  min: 0  mean: 972.1661  area: 9000000  std:1012.6059
+CD8.svs__1_56810_8970_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_56810_8970.tif
+CD8.svs__1_56810_8970.tif-(Colour_3):   max:   255  min: 0  mean: 84.7753  area: 9000000  std:86.2065
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_56810_8970_CD8.tif
+ 
+_______________________________________
+
+324
+CD8.svs__1_59800_0
+CD8.svs__1_59800_0_SEG.tif:   max:   2137  min: 0  mean: 459.8328  area: 9000000  std:664.2187
+CD8.svs__1_59800_0_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_59800_0.tif
+CD8.svs__1_59800_0.tif-(Colour_3):   max:   255  min: 0  mean: 98.4749  area: 9000000  std:101.2782
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_59800_0_CD8.tif
+ 
+_______________________________________
+
+325
+CD8.svs__1_59800_11960
+CD8.svs__1_59800_11960_SEG.tif:   max:   52  min: 0  mean: 0.3825  area: 9000000  std:3.6575
+CD8.svs__1_59800_11960_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_59800_11960.tif
+CD8.svs__1_59800_11960.tif-(Colour_3):   max:   255  min: 0  mean: 24.7621  area: 9000000  std:16.1443
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_59800_11960_CD8.tif
+ 
+_______________________________________
+
+326
+CD8.svs__1_59800_14950
+CD8.svs__1_59800_14950_SEG.tif:   max:   2  min: 0  mean: 0.0004797  area: 9000000  std:0.02848
+CD8.svs__1_59800_14950_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_59800_14950.tif
+CD8.svs__1_59800_14950.tif-(Colour_3):   max:   185  min: 0  mean: 14.0635  area: 9000000  std:9.0804
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_59800_14950_CD8.tif
+ 
+_______________________________________
+
+327
+CD8.svs__1_59800_17940
+CD8.svs__1_59800_17940_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+328
+CD8.svs__1_59800_20930
+CD8.svs__1_59800_20930_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+329
+CD8.svs__1_59800_23920
+CD8.svs__1_59800_23920_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+330
+CD8.svs__1_59800_26910
+CD8.svs__1_59800_26910_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+331
+CD8.svs__1_59800_29900
+CD8.svs__1_59800_29900_SEG.tif:   max:   114  min: 0  mean: 1.5077  area: 9000000  std:10.5702
+CD8.svs__1_59800_29900_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_59800_29900.tif
+CD8.svs__1_59800_29900.tif-(Colour_3):   max:   255  min: 0  mean: 11.1881  area: 9000000  std:20.3587
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_59800_29900_CD8.tif
+ 
+_______________________________________
+
+332
+CD8.svs__1_59800_2990
+CD8.svs__1_59800_2990_SEG.tif:   max:   2979  min: 0  mean: 906.122  area: 9000000  std:992.8732
+CD8.svs__1_59800_2990_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_59800_2990.tif
+CD8.svs__1_59800_2990.tif-(Colour_3):   max:   255  min: 0  mean: 154.1798  area: 9000000  std:96.0842
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_59800_2990_CD8.tif
+ 
+_______________________________________
+
+333
+CD8.svs__1_59800_32890
+CD8.svs__1_59800_32890_SEG.tif:   max:   45  min: 0  mean: 0.228  area: 9000000  std:2.6357
+CD8.svs__1_59800_32890_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_59800_32890.tif
+CD8.svs__1_59800_32890.tif-(Colour_3):   max:   250  min: 0  mean: 7.747  area: 9000000  std:6.9176
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_59800_32890_CD8.tif
+ 
+_______________________________________
+
+334
+CD8.svs__1_59800_35880
+CD8.svs__1_59800_35880_SEG.tif:   max:   212  min: 0  mean: 5.2436  area: 9000000  std:26.3699
+CD8.svs__1_59800_35880_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_59800_35880.tif
+CD8.svs__1_59800_35880.tif-(Colour_3):   max:   255  min: 0  mean: 23.1831  area: 9000000  std:26.987
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_59800_35880_CD8.tif
+ 
+_______________________________________
+
+335
+CD8.svs__1_59800_38870
+CD8.svs__1_59800_38870_SEG.tif:   max:   289  min: 0  mean: 10.319  area: 9000000  std:43.3081
+CD8.svs__1_59800_38870_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_59800_38870.tif
+CD8.svs__1_59800_38870.tif-(Colour_3):   max:   255  min: 0  mean: 26.1202  area: 9000000  std:28.4479
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_59800_38870_CD8.tif
+ 
+_______________________________________
+
+336
+CD8.svs__1_59800_41860
+CD8.svs__1_59800_41860_SEG.tif:   max:   1123  min: 0  mean: 151.7027  area: 9000000  std:301.0803
+CD8.svs__1_59800_41860_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_59800_41860.tif
+CD8.svs__1_59800_41860.tif-(Colour_3):   max:   255  min: 0  mean: 44.5357  area: 9000000  std:61.1426
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_59800_41860_CD8.tif
+ 
+_______________________________________
+
+337
+CD8.svs__1_59800_44850
+CD8.svs__1_59800_44850_SEG.tif:   max:   2462  min: 0  mean: 611.8781  area: 9000000  std:789.1872
+CD8.svs__1_59800_44850_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_59800_44850.tif
+CD8.svs__1_59800_44850.tif-(Colour_3):   max:   255  min: 0  mean: 56.9221  area: 9000000  std:77.2649
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_59800_44850_CD8.tif
+ 
+_______________________________________
+
+338
+CD8.svs__1_59800_47840
+CD8.svs__1_59800_47840_SEG.tif:   max:   1282  min: 0  mean: 181.8246  area: 9000000  std:350.6367
+CD8.svs__1_59800_47840_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_59800_47840.tif
+CD8.svs__1_59800_47840.tif-(Colour_3):   max:   255  min: 0  mean: 41.8653  area: 9000000  std:60.694
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_59800_47840_CD8.tif
+ 
+_______________________________________
+
+339
+CD8.svs__1_59800_50830
+CD8.svs__1_59800_50830_SEG.tif:   max:   0  min: 0  mean: 0  area: 2736000  std:0
+******* background image, skip this step
+_______________________________________
+
+340
+CD8.svs__1_59800_5980
+CD8.svs__1_59800_5980_SEG.tif:   max:   2881  min: 0  mean: 858.7158  area: 9000000  std:952.5364
+CD8.svs__1_59800_5980_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_59800_5980.tif
+CD8.svs__1_59800_5980.tif-(Colour_3):   max:   255  min: 0  mean: 154.3853  area: 9000000  std:92.8275
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_59800_5980_CD8.tif
+ 
+_______________________________________
+
+341
+CD8.svs__1_59800_8970
+CD8.svs__1_59800_8970_SEG.tif:   max:   1998  min: 0  mean: 441.4257  area: 9000000  std:630.1105
+CD8.svs__1_59800_8970_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_59800_8970.tif
+CD8.svs__1_59800_8970.tif-(Colour_3):   max:   255  min: 0  mean: 88.6927  area: 9000000  std:89.0535
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_59800_8970_CD8.tif
+ 
+_______________________________________
+
+342
+CD8.svs__1_5980_0
+CD8.svs__1_5980_0_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+343
+CD8.svs__1_5980_11960
+CD8.svs__1_5980_11960_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+344
+CD8.svs__1_5980_14950
+CD8.svs__1_5980_14950_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+345
+CD8.svs__1_5980_17940
+CD8.svs__1_5980_17940_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+346
+CD8.svs__1_5980_20930
+CD8.svs__1_5980_20930_SEG.tif:   max:   1651  min: 0  mean: 314.3522  area: 9000000  std:499.1117
+CD8.svs__1_5980_20930_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_5980_20930.tif
+CD8.svs__1_5980_20930.tif-(Colour_3):   max:   255  min: 0  mean: 26.9223  area: 9000000  std:44.3298
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_5980_20930_CD8.tif
+ 
+_______________________________________
+
+347
+CD8.svs__1_5980_23920
+CD8.svs__1_5980_23920_SEG.tif:   max:   2871  min: 0  mean: 894.2615  area: 9000000  std:948.7605
+CD8.svs__1_5980_23920_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_5980_23920.tif
+CD8.svs__1_5980_23920.tif-(Colour_3):   max:   255  min: 0  mean: 46.7078  area: 9000000  std:68.3524
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_5980_23920_CD8.tif
+ 
+_______________________________________
+
+348
+CD8.svs__1_5980_26910
+CD8.svs__1_5980_26910_SEG.tif:   max:   1429  min: 0  mean: 253.0937  area: 9000000  std:422.5357
+CD8.svs__1_5980_26910_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_5980_26910.tif
+CD8.svs__1_5980_26910.tif-(Colour_3):   max:   255  min: 0  mean: 39.8997  area: 9000000  std:54.7457
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_5980_26910_CD8.tif
+ 
+_______________________________________
+
+349
+CD8.svs__1_5980_29900
+CD8.svs__1_5980_29900_SEG.tif:   max:   3  min: 0  mean: 0.001791  area: 9000000  std:0.06809
+CD8.svs__1_5980_29900_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_5980_29900.tif
+CD8.svs__1_5980_29900.tif-(Colour_3):   max:   190  min: 0  mean: 22.4883  area: 9000000  std:5.0837
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_5980_29900_CD8.tif
+ 
+_______________________________________
+
+350
+CD8.svs__1_5980_2990
+CD8.svs__1_5980_2990_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+351
+CD8.svs__1_5980_32890
+CD8.svs__1_5980_32890_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+352
+CD8.svs__1_5980_35880
+CD8.svs__1_5980_35880_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+353
+CD8.svs__1_5980_38870
+CD8.svs__1_5980_38870_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+354
+CD8.svs__1_5980_41860
+CD8.svs__1_5980_41860_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+355
+CD8.svs__1_5980_44850
+CD8.svs__1_5980_44850_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+356
+CD8.svs__1_5980_47840
+CD8.svs__1_5980_47840_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+357
+CD8.svs__1_5980_50830
+CD8.svs__1_5980_50830_SEG.tif:   max:   0  min: 0  mean: 0  area: 2736000  std:0
+******* background image, skip this step
+_______________________________________
+
+358
+CD8.svs__1_5980_5980
+CD8.svs__1_5980_5980_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+359
+CD8.svs__1_5980_8970
+CD8.svs__1_5980_8970_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+360
+CD8.svs__1_62790_0
+CD8.svs__1_62790_0_SEG.tif:   max:   2427  min: 0  mean: 573.6512  area: 9000000  std:772.7253
+CD8.svs__1_62790_0_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_62790_0.tif
+CD8.svs__1_62790_0.tif-(Colour_3):   max:   255  min: 0  mean: 148.6214  area: 9000000  std:107.9817
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_62790_0_CD8.tif
+ 
+_______________________________________
+
+361
+CD8.svs__1_62790_11960
+CD8.svs__1_62790_11960_SEG.tif:   max:   1  min: 0  mean: 0.0001012  area: 9000000  std:0.01006
+CD8.svs__1_62790_11960_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_62790_11960.tif
+CD8.svs__1_62790_11960.tif-(Colour_3):   max:   253  min: 0  mean: 17.2321  area: 9000000  std:8.6191
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_62790_11960_CD8.tif
+ 
+_______________________________________
+
+362
+CD8.svs__1_62790_14950
+CD8.svs__1_62790_14950_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+363
+CD8.svs__1_62790_17940
+CD8.svs__1_62790_17940_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+364
+CD8.svs__1_62790_20930
+CD8.svs__1_62790_20930_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+365
+CD8.svs__1_62790_23920
+CD8.svs__1_62790_23920_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+366
+CD8.svs__1_62790_26910
+CD8.svs__1_62790_26910_SEG.tif:   max:   389  min: 0  mean: 17.2072  area: 9000000  std:64.2152
+CD8.svs__1_62790_26910_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_62790_26910.tif
+CD8.svs__1_62790_26910.tif-(Colour_3):   max:   255  min: 0  mean: 21.1673  area: 9000000  std:38.8508
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_62790_26910_CD8.tif
+ 
+_______________________________________
+
+367
+CD8.svs__1_62790_29900
+CD8.svs__1_62790_29900_SEG.tif:   max:   1411  min: 0  mean: 206.9922  area: 9000000  std:391.9101
+CD8.svs__1_62790_29900_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_62790_29900.tif
+CD8.svs__1_62790_29900.tif-(Colour_3):   max:   255  min: 0  mean: 38.0723  area: 9000000  std:57.1906
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_62790_29900_CD8.tif
+ 
+_______________________________________
+
+368
+CD8.svs__1_62790_2990
+CD8.svs__1_62790_2990_SEG.tif:   max:   2978  min: 0  mean: 853.9654  area: 9000000  std:979.2228
+CD8.svs__1_62790_2990_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_62790_2990.tif
+CD8.svs__1_62790_2990.tif-(Colour_3):   max:   255  min: 0  mean: 186.8363  area: 9000000  std:85.7611
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_62790_2990_CD8.tif
+ 
+_______________________________________
+
+369
+CD8.svs__1_62790_32890
+CD8.svs__1_62790_32890_SEG.tif:   max:   69  min: 0  mean: 0.6084  area: 9000000  std:5.2613
+CD8.svs__1_62790_32890_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_62790_32890.tif
+CD8.svs__1_62790_32890.tif-(Colour_3):   max:   255  min: 0  mean: 18.9554  area: 9000000  std:11.3799
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_62790_32890_CD8.tif
+ 
+_______________________________________
+
+370
+CD8.svs__1_62790_35880
+CD8.svs__1_62790_35880_SEG.tif:   max:   2635  min: 0  mean: 699.0083  area: 9000000  std:854.9922
+CD8.svs__1_62790_35880_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_62790_35880.tif
+CD8.svs__1_62790_35880.tif-(Colour_3):   max:   255  min: 0  mean: 68.6746  area: 9000000  std:84.2102
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_62790_35880_CD8.tif
+ 
+_______________________________________
+
+371
+CD8.svs__1_62790_38870
+CD8.svs__1_62790_38870_SEG.tif:   max:   1901  min: 0  mean: 412.5402  area: 9000000  std:596.107
+CD8.svs__1_62790_38870_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_62790_38870.tif
+CD8.svs__1_62790_38870.tif-(Colour_3):   max:   255  min: 0  mean: 68.8989  area: 9000000  std:81.8253
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_62790_38870_CD8.tif
+ 
+_______________________________________
+
+372
+CD8.svs__1_62790_41860
+CD8.svs__1_62790_41860_SEG.tif:   max:   2763  min: 0  mean: 804.8964  area: 9000000  std:914.9689
+CD8.svs__1_62790_41860_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_62790_41860.tif
+CD8.svs__1_62790_41860.tif-(Colour_3):   max:   255  min: 0  mean: 89.2391  area: 9000000  std:92.3412
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_62790_41860_CD8.tif
+ 
+_______________________________________
+
+373
+CD8.svs__1_62790_44850
+CD8.svs__1_62790_44850_SEG.tif:   max:   2487  min: 0  mean: 669.9397  area: 9000000  std:813.9914
+CD8.svs__1_62790_44850_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_62790_44850.tif
+CD8.svs__1_62790_44850.tif-(Colour_3):   max:   255  min: 0  mean: 79.2614  area: 9000000  std:90.0564
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_62790_44850_CD8.tif
+ 
+_______________________________________
+
+374
+CD8.svs__1_62790_47840
+CD8.svs__1_62790_47840_SEG.tif:   max:   1259  min: 0  mean: 180.0112  area: 9000000  std:347.2532
+CD8.svs__1_62790_47840_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_62790_47840.tif
+CD8.svs__1_62790_47840.tif-(Colour_3):   max:   255  min: 0  mean: 47.7205  area: 9000000  std:65.8663
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_62790_47840_CD8.tif
+ 
+_______________________________________
+
+375
+CD8.svs__1_62790_50830
+CD8.svs__1_62790_50830_SEG.tif:   max:   0  min: 0  mean: 0  area: 2736000  std:0
+******* background image, skip this step
+_______________________________________
+
+376
+CD8.svs__1_62790_5980
+CD8.svs__1_62790_5980_SEG.tif:   max:   1932  min: 0  mean: 399.5821  area: 9000000  std:601.6847
+CD8.svs__1_62790_5980_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_62790_5980.tif
+CD8.svs__1_62790_5980.tif-(Colour_3):   max:   255  min: 0  mean: 103.6147  area: 9000000  std:95.3321
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_62790_5980_CD8.tif
+ 
+_______________________________________
+
+377
+CD8.svs__1_62790_8970
+CD8.svs__1_62790_8970_SEG.tif:   max:   21  min: 0  mean: 0.06141  area: 9000000  std:0.9261
+CD8.svs__1_62790_8970_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_62790_8970.tif
+CD8.svs__1_62790_8970.tif-(Colour_3):   max:   255  min: 0  mean: 24.5965  area: 9000000  std:14.5379
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_62790_8970_CD8.tif
+ 
+_______________________________________
+
+378
+CD8.svs__1_65780_0
+CD8.svs__1_65780_0_SEG.tif:   max:   2416  min: 0  mean: 535.6369  area: 9000000  std:757.887
+CD8.svs__1_65780_0_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_65780_0.tif
+CD8.svs__1_65780_0.tif-(Colour_3):   max:   255  min: 0  mean: 152.4975  area: 9000000  std:109.6934
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_65780_0_CD8.tif
+ 
+_______________________________________
+
+379
+CD8.svs__1_65780_11960
+CD8.svs__1_65780_11960_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+380
+CD8.svs__1_65780_14950
+CD8.svs__1_65780_14950_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+381
+CD8.svs__1_65780_17940
+CD8.svs__1_65780_17940_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+382
+CD8.svs__1_65780_20930
+CD8.svs__1_65780_20930_SEG.tif:   max:   22  min: 0  mean: 0.05504  area: 9000000  std:0.8843
+CD8.svs__1_65780_20930_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_65780_20930.tif
+CD8.svs__1_65780_20930.tif-(Colour_3):   max:   255  min: 0  mean: 7.2848  area: 9000000  std:7.1635
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_65780_20930_CD8.tif
+ 
+_______________________________________
+
+383
+CD8.svs__1_65780_23920
+CD8.svs__1_65780_23920_SEG.tif:   max:   55  min: 0  mean: 0.3484  area: 9000000  std:3.5916
+CD8.svs__1_65780_23920_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_65780_23920.tif
+CD8.svs__1_65780_23920.tif-(Colour_3):   max:   255  min: 0  mean: 12.9522  area: 9000000  std:11.7808
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_65780_23920_CD8.tif
+ 
+_______________________________________
+
+384
+CD8.svs__1_65780_26910
+CD8.svs__1_65780_26910_SEG.tif:   max:   1726  min: 0  mean: 313.5506  area: 9000000  std:508.9346
+CD8.svs__1_65780_26910_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_65780_26910.tif
+CD8.svs__1_65780_26910.tif-(Colour_3):   max:   255  min: 0  mean: 37.7814  area: 9000000  std:59.225
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_65780_26910_CD8.tif
+ 
+_______________________________________
+
+385
+CD8.svs__1_65780_29900
+CD8.svs__1_65780_29900_SEG.tif:   max:   2037  min: 0  mean: 459.8706  area: 9000000  std:644.7491
+CD8.svs__1_65780_29900_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_65780_29900.tif
+CD8.svs__1_65780_29900.tif-(Colour_3):   max:   255  min: 0  mean: 47.0971  area: 9000000  std:67.7384
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_65780_29900_CD8.tif
+ 
+_______________________________________
+
+386
+CD8.svs__1_65780_2990
+CD8.svs__1_65780_2990_SEG.tif:   max:   2958  min: 0  mean: 841.7469  area: 9000000  std:982.4914
+CD8.svs__1_65780_2990_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_65780_2990.tif
+CD8.svs__1_65780_2990.tif-(Colour_3):   max:   255  min: 0  mean: 176.9308  area: 9000000  std:92.5203
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_65780_2990_CD8.tif
+ 
+_______________________________________
+
+387
+CD8.svs__1_65780_32890
+CD8.svs__1_65780_32890_SEG.tif:   max:   1316  min: 0  mean: 192.6161  area: 9000000  std:363.4168
+CD8.svs__1_65780_32890_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_65780_32890.tif
+CD8.svs__1_65780_32890.tif-(Colour_3):   max:   255  min: 0  mean: 46.1322  area: 9000000  std:64.3529
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_65780_32890_CD8.tif
+ 
+_______________________________________
+
+388
+CD8.svs__1_65780_35880
+CD8.svs__1_65780_35880_SEG.tif:   max:   2872  min: 0  mean: 810.3255  area: 9000000  std:939.8799
+CD8.svs__1_65780_35880_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_65780_35880.tif
+CD8.svs__1_65780_35880.tif-(Colour_3):   max:   255  min: 0  mean: 82.0282  area: 9000000  std:91.4652
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_65780_35880_CD8.tif
+ 
+_______________________________________
+
+389
+CD8.svs__1_65780_38870
+CD8.svs__1_65780_38870_SEG.tif:   max:   3195  min: 0  mean: 1033.0436  area: 9000000  std:1067.3869
+CD8.svs__1_65780_38870_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_65780_38870.tif
+CD8.svs__1_65780_38870.tif-(Colour_3):   max:   255  min: 0  mean: 61.5698  area: 9000000  std:81.1679
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_65780_38870_CD8.tif
+ 
+_______________________________________
+
+390
+CD8.svs__1_65780_41860
+CD8.svs__1_65780_41860_SEG.tif:   max:   2685  min: 0  mean: 718.2318  area: 9000000  std:876.7516
+CD8.svs__1_65780_41860_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_65780_41860.tif
+CD8.svs__1_65780_41860.tif-(Colour_3):   max:   255  min: 0  mean: 71.1415  area: 9000000  std:87.2039
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_65780_41860_CD8.tif
+ 
+_______________________________________
+
+391
+CD8.svs__1_65780_44850
+CD8.svs__1_65780_44850_SEG.tif:   max:   1553  min: 0  mean: 256.6504  area: 9000000  std:445.8542
+CD8.svs__1_65780_44850_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_65780_44850.tif
+CD8.svs__1_65780_44850.tif-(Colour_3):   max:   255  min: 0  mean: 32.9109  area: 9000000  std:53.0964
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_65780_44850_CD8.tif
+ 
+_______________________________________
+
+392
+CD8.svs__1_65780_47840
+CD8.svs__1_65780_47840_SEG.tif:   max:   68  min: 0  mean: 0.4386  area: 9000000  std:4.4216
+CD8.svs__1_65780_47840_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_65780_47840.tif
+CD8.svs__1_65780_47840.tif-(Colour_3):   max:   255  min: 0  mean: 21.2136  area: 9000000  std:14.0867
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_65780_47840_CD8.tif
+ 
+_______________________________________
+
+393
+CD8.svs__1_65780_50830
+CD8.svs__1_65780_50830_SEG.tif:   max:   0  min: 0  mean: 0  area: 2736000  std:0
+******* background image, skip this step
+_______________________________________
+
+394
+CD8.svs__1_65780_5980
+CD8.svs__1_65780_5980_SEG.tif:   max:   343  min: 0  mean: 11.6059  area: 9000000  std:49.9472
+CD8.svs__1_65780_5980_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_65780_5980.tif
+CD8.svs__1_65780_5980.tif-(Colour_3):   max:   255  min: 0  mean: 37.9949  area: 9000000  std:53.0235
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_65780_5980_CD8.tif
+ 
+_______________________________________
+
+395
+CD8.svs__1_65780_8970
+CD8.svs__1_65780_8970_SEG.tif:   max:   2  min: 0  mean: 0.000771  area: 9000000  std:0.0355
+CD8.svs__1_65780_8970_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_65780_8970.tif
+CD8.svs__1_65780_8970.tif-(Colour_3):   max:   73  min: 0  mean: 18.4095  area: 9000000  std:8.1505
+Do not contain marker cells
+ 
+_______________________________________
+
+396
+CD8.svs__1_68770_0
+CD8.svs__1_68770_0_SEG.tif:   max:   1495  min: 0  mean: 205.3606  area: 9000000  std:403.7185
+CD8.svs__1_68770_0_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_68770_0.tif
+CD8.svs__1_68770_0.tif-(Colour_3):   max:   255  min: 0  mean: 96.6666  area: 9000000  std:112.7254
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_68770_0_CD8.tif
+ 
+_______________________________________
+
+397
+CD8.svs__1_68770_11960
+CD8.svs__1_68770_11960_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+398
+CD8.svs__1_68770_14950
+CD8.svs__1_68770_14950_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+399
+CD8.svs__1_68770_17940
+CD8.svs__1_68770_17940_SEG.tif:   max:   180  min: 0  mean: 3.5155  area: 9000000  std:20.2579
+CD8.svs__1_68770_17940_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_68770_17940.tif
+CD8.svs__1_68770_17940.tif-(Colour_3):   max:   255  min: 0  mean: 10.6203  area: 9000000  std:27.4448
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_68770_17940_CD8.tif
+ 
+_______________________________________
+
+400
+CD8.svs__1_68770_20930
+CD8.svs__1_68770_20930_SEG.tif:   max:   314  min: 0  mean: 12.5795  area: 9000000  std:49.7648
+CD8.svs__1_68770_20930_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_68770_20930.tif
+CD8.svs__1_68770_20930.tif-(Colour_3):   max:   255  min: 0  mean: 27.7171  area: 9000000  std:40.5289
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_68770_20930_CD8.tif
+ 
+_______________________________________
+
+401
+CD8.svs__1_68770_23920
+CD8.svs__1_68770_23920_SEG.tif:   max:   1611  min: 0  mean: 279.0426  area: 9000000  std:469.6306
+CD8.svs__1_68770_23920_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_68770_23920.tif
+CD8.svs__1_68770_23920.tif-(Colour_3):   max:   255  min: 0  mean: 31.7801  area: 9000000  std:47.6845
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_68770_23920_CD8.tif
+ 
+_______________________________________
+
+402
+CD8.svs__1_68770_26910
+CD8.svs__1_68770_26910_SEG.tif:   max:   3112  min: 0  mean: 962.4137  area: 9000000  std:1029.3652
+CD8.svs__1_68770_26910_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_68770_26910.tif
+CD8.svs__1_68770_26910.tif-(Colour_3):   max:   255  min: 0  mean: 48.9343  area: 9000000  std:73.8871
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_68770_26910_CD8.tif
+ 
+_______________________________________
+
+403
+CD8.svs__1_68770_29900
+CD8.svs__1_68770_29900_SEG.tif:   max:   2409  min: 0  mean: 635.9447  area: 9000000  std:781.3655
+CD8.svs__1_68770_29900_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_68770_29900.tif
+CD8.svs__1_68770_29900.tif-(Colour_3):   max:   255  min: 0  mean: 60.3439  area: 9000000  std:81.534
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_68770_29900_CD8.tif
+ 
+_______________________________________
+
+404
+CD8.svs__1_68770_2990
+CD8.svs__1_68770_2990_SEG.tif:   max:   658  min: 0  mean: 44.3422  area: 9000000  std:134.3147
+CD8.svs__1_68770_2990_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_68770_2990.tif
+CD8.svs__1_68770_2990.tif-(Colour_3):   max:   255  min: 0  mean: 51.0487  area: 9000000  std:80.6449
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_68770_2990_CD8.tif
+ 
+_______________________________________
+
+405
+CD8.svs__1_68770_32890
+CD8.svs__1_68770_32890_SEG.tif:   max:   2724  min: 0  mean: 783.5716  area: 9000000  std:898.614
+CD8.svs__1_68770_32890_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_68770_32890.tif
+CD8.svs__1_68770_32890.tif-(Colour_3):   max:   255  min: 0  mean: 60.9014  area: 9000000  std:80.0816
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_68770_32890_CD8.tif
+ 
+_______________________________________
+
+406
+CD8.svs__1_68770_35880
+CD8.svs__1_68770_35880_SEG.tif:   max:   2430  min: 0  mean: 578.7933  area: 9000000  std:769.5883
+CD8.svs__1_68770_35880_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_68770_35880.tif
+CD8.svs__1_68770_35880.tif-(Colour_3):   max:   255  min: 0  mean: 77.0816  area: 9000000  std:88.3683
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_68770_35880_CD8.tif
+ 
+_______________________________________
+
+407
+CD8.svs__1_68770_38870
+CD8.svs__1_68770_38870_SEG.tif:   max:   3050  min: 0  mean: 899.366  area: 9000000  std:1015.1823
+CD8.svs__1_68770_38870_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_68770_38870.tif
+CD8.svs__1_68770_38870.tif-(Colour_3):   max:   255  min: 0  mean: 73.1949  area: 9000000  std:87.1601
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_68770_38870_CD8.tif
+ 
+_______________________________________
+
+408
+CD8.svs__1_68770_41860
+CD8.svs__1_68770_41860_SEG.tif:   max:   259  min: 0  mean: 7.4129  area: 9000000  std:34.9575
+CD8.svs__1_68770_41860_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_68770_41860.tif
+CD8.svs__1_68770_41860.tif-(Colour_3):   max:   255  min: 0  mean: 24.8799  area: 9000000  std:30.9821
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_68770_41860_CD8.tif
+ 
+_______________________________________
+
+409
+CD8.svs__1_68770_44850
+CD8.svs__1_68770_44850_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+410
+CD8.svs__1_68770_47840
+CD8.svs__1_68770_47840_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+411
+CD8.svs__1_68770_50830
+CD8.svs__1_68770_50830_SEG.tif:   max:   0  min: 0  mean: 0  area: 2736000  std:0
+******* background image, skip this step
+_______________________________________
+
+412
+CD8.svs__1_68770_5980
+CD8.svs__1_68770_5980_SEG.tif:   max:   4  min: 0  mean: 0.00106  area: 9000000  std:0.05575
+CD8.svs__1_68770_5980_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_68770_5980.tif
+CD8.svs__1_68770_5980.tif-(Colour_3):   max:   252  min: 0  mean: 12.3506  area: 9000000  std:8.7381
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_68770_5980_CD8.tif
+ 
+_______________________________________
+
+413
+CD8.svs__1_68770_8970
+CD8.svs__1_68770_8970_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+414
+CD8.svs__1_71760_0
+CD8.svs__1_71760_0_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+415
+CD8.svs__1_71760_11960
+CD8.svs__1_71760_11960_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+416
+CD8.svs__1_71760_14950
+CD8.svs__1_71760_14950_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+417
+CD8.svs__1_71760_17940
+CD8.svs__1_71760_17940_SEG.tif:   max:   128  min: 0  mean: 1.7466  area: 9000000  std:12.0753
+CD8.svs__1_71760_17940_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_71760_17940.tif
+CD8.svs__1_71760_17940.tif-(Colour_3):   max:   255  min: 0  mean: 12.2208  area: 9000000  std:25.3727
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_71760_17940_CD8.tif
+ 
+_______________________________________
+
+418
+CD8.svs__1_71760_20930
+CD8.svs__1_71760_20930_SEG.tif:   max:   2326  min: 0  mean: 548.7904  area: 9000000  std:733.7672
+CD8.svs__1_71760_20930_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_71760_20930.tif
+CD8.svs__1_71760_20930.tif-(Colour_3):   max:   255  min: 0  mean: 67.4623  area: 9000000  std:76.8684
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_71760_20930_CD8.tif
+ 
+_______________________________________
+
+419
+CD8.svs__1_71760_23920
+CD8.svs__1_71760_23920_SEG.tif:   max:   3112  min: 0  mean: 985.1843  area: 9000000  std:1034.3186
+CD8.svs__1_71760_23920_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_71760_23920.tif
+CD8.svs__1_71760_23920.tif-(Colour_3):   max:   255  min: 0  mean: 48.5007  area: 9000000  std:69.5587
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_71760_23920_CD8.tif
+ 
+_______________________________________
+
+420
+CD8.svs__1_71760_26910
+CD8.svs__1_71760_26910_SEG.tif:   max:   3102  min: 0  mean: 967.1725  area: 9000000  std:1028.9948
+CD8.svs__1_71760_26910_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_71760_26910.tif
+CD8.svs__1_71760_26910.tif-(Colour_3):   max:   255  min: 0  mean: 64.7518  area: 9000000  std:84.5699
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_71760_26910_CD8.tif
+ 
+_______________________________________
+
+421
+CD8.svs__1_71760_29900
+CD8.svs__1_71760_29900_SEG.tif:   max:   3209  min: 0  mean: 1011.036  area: 9000000  std:1071.5528
+CD8.svs__1_71760_29900_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_71760_29900.tif
+CD8.svs__1_71760_29900.tif-(Colour_3):   max:   255  min: 0  mean: 81.6855  area: 9000000  std:91.0422
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_71760_29900_CD8.tif
+ 
+_______________________________________
+
+422
+CD8.svs__1_71760_2990
+CD8.svs__1_71760_2990_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+423
+CD8.svs__1_71760_32890
+CD8.svs__1_71760_32890_SEG.tif:   max:   2964  min: 0  mean: 907.5708  area: 9000000  std:987.5331
+CD8.svs__1_71760_32890_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_71760_32890.tif
+CD8.svs__1_71760_32890.tif-(Colour_3):   max:   255  min: 0  mean: 67.1066  area: 9000000  std:78.5353
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_71760_32890_CD8.tif
+ 
+_______________________________________
+
+424
+CD8.svs__1_71760_35880
+CD8.svs__1_71760_35880_SEG.tif:   max:   1823  min: 0  mean: 343.4906  area: 9000000  std:546.4184
+CD8.svs__1_71760_35880_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_71760_35880.tif
+CD8.svs__1_71760_35880.tif-(Colour_3):   max:   255  min: 0  mean: 47.1985  area: 9000000  std:63.678
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_71760_35880_CD8.tif
+ 
+_______________________________________
+
+425
+CD8.svs__1_71760_38870
+CD8.svs__1_71760_38870_SEG.tif:   max:   474  min: 0  mean: 22.9514  area: 9000000  std:81.8757
+CD8.svs__1_71760_38870_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_71760_38870.tif
+CD8.svs__1_71760_38870.tif-(Colour_3):   max:   255  min: 0  mean: 21.2299  area: 9000000  std:35.9212
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_71760_38870_CD8.tif
+ 
+_______________________________________
+
+426
+CD8.svs__1_71760_41860
+CD8.svs__1_71760_41860_SEG.tif:   max:   1  min: 0  mean: 0.0001  area: 9000000  std:0.01
+CD8.svs__1_71760_41860_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_71760_41860.tif
+CD8.svs__1_71760_41860.tif-(Colour_3):   max:   224  min: 0  mean: 8.7624  area: 9000000  std:6.471
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_71760_41860_CD8.tif
+ 
+_______________________________________
+
+427
+CD8.svs__1_71760_44850
+CD8.svs__1_71760_44850_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+428
+CD8.svs__1_71760_47840
+CD8.svs__1_71760_47840_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+429
+CD8.svs__1_71760_50830
+CD8.svs__1_71760_50830_SEG.tif:   max:   0  min: 0  mean: 0  area: 2736000  std:0
+******* background image, skip this step
+_______________________________________
+
+430
+CD8.svs__1_71760_5980
+CD8.svs__1_71760_5980_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+431
+CD8.svs__1_71760_8970
+CD8.svs__1_71760_8970_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+432
+CD8.svs__1_74750_0
+CD8.svs__1_74750_0_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+433
+CD8.svs__1_74750_11960
+CD8.svs__1_74750_11960_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+434
+CD8.svs__1_74750_14950
+CD8.svs__1_74750_14950_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+435
+CD8.svs__1_74750_17940
+CD8.svs__1_74750_17940_SEG.tif:   max:   1  min: 0  mean: 0.00009978  area: 9000000  std:0.009988
+CD8.svs__1_74750_17940_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_74750_17940.tif
+CD8.svs__1_74750_17940.tif-(Colour_3):   max:   255  min: 0  mean: 8.2142  area: 9000000  std:6.0014
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_74750_17940_CD8.tif
+ 
+_______________________________________
+
+436
+CD8.svs__1_74750_20930
+CD8.svs__1_74750_20930_SEG.tif:   max:   1961  min: 0  mean: 430.8075  area: 9000000  std:610.3107
+CD8.svs__1_74750_20930_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_74750_20930.tif
+CD8.svs__1_74750_20930.tif-(Colour_3):   max:   255  min: 0  mean: 38.6289  area: 9000000  std:64.6043
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_74750_20930_CD8.tif
+ 
+_______________________________________
+
+437
+CD8.svs__1_74750_23920
+CD8.svs__1_74750_23920_SEG.tif:   max:   3053  min: 0  mean: 951.9199  area: 9000000  std:1008.6352
+CD8.svs__1_74750_23920_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_74750_23920.tif
+CD8.svs__1_74750_23920.tif-(Colour_3):   max:   255  min: 0  mean: 58.1428  area: 9000000  std:79.1176
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_74750_23920_CD8.tif
+ 
+_______________________________________
+
+438
+CD8.svs__1_74750_26910
+CD8.svs__1_74750_26910_SEG.tif:   max:   3189  min: 0  mean: 1009.4619  area: 9000000  std:1061.7343
+CD8.svs__1_74750_26910_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_74750_26910.tif
+CD8.svs__1_74750_26910.tif-(Colour_3):   max:   255  min: 0  mean: 69.0495  area: 9000000  std:85.9814
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_74750_26910_CD8.tif
+ 
+_______________________________________
+
+439
+CD8.svs__1_74750_29900
+CD8.svs__1_74750_29900_SEG.tif:   max:   2335  min: 0  mean: 567.2865  area: 9000000  std:751.4207
+CD8.svs__1_74750_29900_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_74750_29900.tif
+CD8.svs__1_74750_29900.tif-(Colour_3):   max:   255  min: 0  mean: 62.5317  area: 9000000  std:83.2594
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_74750_29900_CD8.tif
+ 
+_______________________________________
+
+440
+CD8.svs__1_74750_2990
+CD8.svs__1_74750_2990_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+441
+CD8.svs__1_74750_32890
+CD8.svs__1_74750_32890_SEG.tif:   max:   605  min: 0  mean: 42.5898  area: 9000000  std:123.9227
+CD8.svs__1_74750_32890_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_74750_32890.tif
+CD8.svs__1_74750_32890.tif-(Colour_3):   max:   255  min: 0  mean: 28.6181  area: 9000000  std:44.9598
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_74750_32890_CD8.tif
+ 
+_______________________________________
+
+442
+CD8.svs__1_74750_35880
+CD8.svs__1_74750_35880_SEG.tif:   max:   4  min: 0  mean: 0.003415  area: 9000000  std:0.1037
+CD8.svs__1_74750_35880_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_74750_35880.tif
+CD8.svs__1_74750_35880.tif-(Colour_3):   max:   230  min: 0  mean: 15.3969  area: 9000000  std:9.6134
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_74750_35880_CD8.tif
+ 
+_______________________________________
+
+443
+CD8.svs__1_74750_38870
+CD8.svs__1_74750_38870_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+444
+CD8.svs__1_74750_41860
+CD8.svs__1_74750_41860_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+445
+CD8.svs__1_74750_44850
+CD8.svs__1_74750_44850_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+446
+CD8.svs__1_74750_47840
+CD8.svs__1_74750_47840_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+447
+CD8.svs__1_74750_50830
+CD8.svs__1_74750_50830_SEG.tif:   max:   0  min: 0  mean: 0  area: 2736000  std:0
+******* background image, skip this step
+_______________________________________
+
+448
+CD8.svs__1_74750_5980
+CD8.svs__1_74750_5980_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+449
+CD8.svs__1_74750_8970
+CD8.svs__1_74750_8970_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+450
+CD8.svs__1_77740_0
+CD8.svs__1_77740_0_SEG.tif:   max:   0  min: 0  mean: 0  area: 5376000  std:0
+******* background image, skip this step
+_______________________________________
+
+451
+CD8.svs__1_77740_11960
+CD8.svs__1_77740_11960_SEG.tif:   max:   0  min: 0  mean: 0  area: 5376000  std:0
+******* background image, skip this step
+_______________________________________
+
+452
+CD8.svs__1_77740_14950
+CD8.svs__1_77740_14950_SEG.tif:   max:   0  min: 0  mean: 0  area: 5376000  std:0
+******* background image, skip this step
+_______________________________________
+
+453
+CD8.svs__1_77740_17940
+CD8.svs__1_77740_17940_SEG.tif:   max:   0  min: 0  mean: 0  area: 5376000  std:0
+******* background image, skip this step
+_______________________________________
+
+454
+CD8.svs__1_77740_20930
+CD8.svs__1_77740_20930_SEG.tif:   max:   481  min: 0  mean: 44.2957  area: 5376000  std:110.5056
+CD8.svs__1_77740_20930_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_77740_20930.tif
+CD8.svs__1_77740_20930.tif-(Colour_3):   max:   255  min: 0  mean: 24.123  area: 5376000  std:49.5048
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_77740_20930_CD8.tif
+ 
+_______________________________________
+
+455
+CD8.svs__1_77740_23920
+CD8.svs__1_77740_23920_SEG.tif:   max:   1423  min: 0  mean: 345.8725  area: 5376000  std:457.4164
+CD8.svs__1_77740_23920_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_77740_23920.tif
+CD8.svs__1_77740_23920.tif-(Colour_3):   max:   255  min: 0  mean: 62.6163  area: 5376000  std:86.3011
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_77740_23920_CD8.tif
+ 
+_______________________________________
+
+456
+CD8.svs__1_77740_26910
+CD8.svs__1_77740_26910_SEG.tif:   max:   1217  min: 0  mean: 256.8333  area: 5376000  std:377.9546
+CD8.svs__1_77740_26910_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_77740_26910.tif
+CD8.svs__1_77740_26910.tif-(Colour_3):   max:   255  min: 0  mean: 53.2159  area: 5376000  std:78.3047
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_77740_26910_CD8.tif
+ 
+_______________________________________
+
+457
+CD8.svs__1_77740_29900
+CD8.svs__1_77740_29900_SEG.tif:   max:   33  min: 0  mean: 0.2522  area: 5376000  std:2.382
+CD8.svs__1_77740_29900_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_77740_29900.tif
+CD8.svs__1_77740_29900.tif-(Colour_3):   max:   255  min: 0  mean: 10.7834  area: 5376000  std:11.74
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_77740_29900_CD8.tif
+ 
+_______________________________________
+
+458
+CD8.svs__1_77740_2990
+CD8.svs__1_77740_2990_SEG.tif:   max:   0  min: 0  mean: 0  area: 5376000  std:0
+******* background image, skip this step
+_______________________________________
+
+459
+CD8.svs__1_77740_32890
+CD8.svs__1_77740_32890_SEG.tif:   max:   0  min: 0  mean: 0  area: 5376000  std:0
+******* background image, skip this step
+_______________________________________
+
+460
+CD8.svs__1_77740_35880
+CD8.svs__1_77740_35880_SEG.tif:   max:   0  min: 0  mean: 0  area: 5376000  std:0
+******* background image, skip this step
+_______________________________________
+
+461
+CD8.svs__1_77740_38870
+CD8.svs__1_77740_38870_SEG.tif:   max:   0  min: 0  mean: 0  area: 5376000  std:0
+******* background image, skip this step
+_______________________________________
+
+462
+CD8.svs__1_77740_41860
+CD8.svs__1_77740_41860_SEG.tif:   max:   0  min: 0  mean: 0  area: 5376000  std:0
+******* background image, skip this step
+_______________________________________
+
+463
+CD8.svs__1_77740_44850
+CD8.svs__1_77740_44850_SEG.tif:   max:   0  min: 0  mean: 0  area: 5376000  std:0
+******* background image, skip this step
+_______________________________________
+
+464
+CD8.svs__1_77740_47840
+CD8.svs__1_77740_47840_SEG.tif:   max:   0  min: 0  mean: 0  area: 5376000  std:0
+******* background image, skip this step
+_______________________________________
+
+465
+CD8.svs__1_77740_50830
+CD8.svs__1_77740_50830_SEG.tif:   max:   0  min: 0  mean: 0  area: 1634304  std:0
+******* background image, skip this step
+_______________________________________
+
+466
+CD8.svs__1_77740_5980
+CD8.svs__1_77740_5980_SEG.tif:   max:   0  min: 0  mean: 0  area: 5376000  std:0
+******* background image, skip this step
+_______________________________________
+
+467
+CD8.svs__1_77740_8970
+CD8.svs__1_77740_8970_SEG.tif:   max:   0  min: 0  mean: 0  area: 5376000  std:0
+******* background image, skip this step
+_______________________________________
+
+468
+CD8.svs__1_8970_0
+CD8.svs__1_8970_0_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+469
+CD8.svs__1_8970_11960
+CD8.svs__1_8970_11960_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+470
+CD8.svs__1_8970_14950
+CD8.svs__1_8970_14950_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+471
+CD8.svs__1_8970_17940
+CD8.svs__1_8970_17940_SEG.tif:   max:   44  min: 0  mean: 0.2037  area: 9000000  std:2.4057
+CD8.svs__1_8970_17940_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_8970_17940.tif
+CD8.svs__1_8970_17940.tif-(Colour_3):   max:   255  min: 0  mean: 9.691  area: 9000000  std:10.1401
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_8970_17940_CD8.tif
+ 
+_______________________________________
+
+472
+CD8.svs__1_8970_20930
+CD8.svs__1_8970_20930_SEG.tif:   max:   2352  min: 0  mean: 627.3488  area: 9000000  std:769.6908
+CD8.svs__1_8970_20930_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_8970_20930.tif
+CD8.svs__1_8970_20930.tif-(Colour_3):   max:   255  min: 0  mean: 29.3998  area: 9000000  std:44.9213
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_8970_20930_CD8.tif
+ 
+_______________________________________
+
+473
+CD8.svs__1_8970_23920
+CD8.svs__1_8970_23920_SEG.tif:   max:   2613  min: 0  mean: 742.0994  area: 9000000  std:861.19
+CD8.svs__1_8970_23920_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_8970_23920.tif
+CD8.svs__1_8970_23920.tif-(Colour_3):   max:   255  min: 0  mean: 35.2517  area: 9000000  std:51.3012
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_8970_23920_CD8.tif
+ 
+_______________________________________
+
+474
+CD8.svs__1_8970_26910
+CD8.svs__1_8970_26910_SEG.tif:   max:   2860  min: 0  mean: 909.4553  area: 9000000  std:957.4162
+CD8.svs__1_8970_26910_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_8970_26910.tif
+CD8.svs__1_8970_26910.tif-(Colour_3):   max:   255  min: 0  mean: 48.2783  area: 9000000  std:64.754
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_8970_26910_CD8.tif
+ 
+_______________________________________
+
+475
+CD8.svs__1_8970_29900
+CD8.svs__1_8970_29900_SEG.tif:   max:   548  min: 0  mean: 38.904  area: 9000000  std:113.6168
+CD8.svs__1_8970_29900_SEG.tif
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/raw/CD8.svs__1_8970_29900.tif
+CD8.svs__1_8970_29900.tif-(Colour_3):   max:   255  min: 0  mean: 33.7291  area: 9000000  std:38.9872
+Save output to file
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/CD8.svs__1_8970_29900_CD8.tif
+ 
+_______________________________________
+
+476
+CD8.svs__1_8970_2990
+CD8.svs__1_8970_2990_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+477
+CD8.svs__1_8970_32890
+CD8.svs__1_8970_32890_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+478
+CD8.svs__1_8970_35880
+CD8.svs__1_8970_35880_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+479
+CD8.svs__1_8970_38870
+CD8.svs__1_8970_38870_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+480
+CD8.svs__1_8970_41860
+CD8.svs__1_8970_41860_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+481
+CD8.svs__1_8970_44850
+CD8.svs__1_8970_44850_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+482
+CD8.svs__1_8970_47840
+CD8.svs__1_8970_47840_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+483
+CD8.svs__1_8970_50830
+CD8.svs__1_8970_50830_SEG.tif:   max:   0  min: 0  mean: 0  area: 2736000  std:0
+******* background image, skip this step
+_______________________________________
+
+484
+CD8.svs__1_8970_5980
+CD8.svs__1_8970_5980_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+485
+CD8.svs__1_8970_8970
+CD8.svs__1_8970_8970_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_________________________
+
+Nb of processed images:  486
+Completed
+Completed
+
+485
+CD8.svs__1_8970_8970
+CD8.svs__1_8970_8970_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_________________________
+
+Nb of processed images:  486
+Completed
+Completed
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/SEG/
+Detect cell types
+Working dir: /home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/SEG/
+
+Main dir: /home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/
+
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CD8/
+/home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/SEG/
+_______________________________________
+
+Nb of processing images: 486
+
+_______________________________________
+
+1
+CD8.svs__1_0_0
+CD8.svs__1_0_0_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+2
+CD8.svs__1_0_11960
+CD8.svs__1_0_11960_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+3
+CD8.svs__1_0_14950
+CD8.svs__1_0_14950_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+4
+CD8.svs__1_0_17940
+CD8.svs__1_0_17940_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+5
+CD8.svs__1_0_20930
+CD8.svs__1_0_20930_SEG.tif:   max:   1  min: 0  mean: 0.0001393  area: 9000000  std:0.0118
+CD8.svs__1_0_20930_SEG.tif
+Time:    22:04:04
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.35
+Seg: CD8.svs__1_0_20930_SEG
+java.lang.ArrayIndexOutOfBoundsException: 2
+	at mcib_testing.Evaluation.DetectCellType_HEimage_.run(DetectCellType_HEimage_.java:170)
+	at ij.IJ.runUserPlugIn(IJ.java:235)
+	at ij.IJ.runPlugIn(IJ.java:198)
+	at ij.Executer.runCommand(Executer.java:150)
+	at ij.Executer.run(Executer.java:68)
+	at ij.IJ.run(IJ.java:317)
+	at ij.IJ.run(IJ.java:328)
+	at ij.macro.Functions.doRun(Functions.java:684)
+	at ij.macro.Functions.doFunction(Functions.java:98)
+	at ij.macro.Interpreter.doStatement(Interpreter.java:278)
+	at ij.macro.Interpreter.doBlock(Interpreter.java:712)
+	at ij.macro.Interpreter.doStatement(Interpreter.java:323)
+	at ij.macro.Interpreter.doIf(Interpreter.java:1090)
+	at ij.macro.Interpreter.doStatement(Interpreter.java:299)
+	at ij.macro.Interpreter.doBlock(Interpreter.java:712)
+	at ij.macro.Interpreter.doStatement(Interpreter.java:323)
+	at ij.macro.Interpreter.doIf(Interpreter.java:1103)
+	at ij.macro.Interpreter.doStatement(Interpreter.java:299)
+	at ij.macro.Interpreter.doBlock(Interpreter.java:712)
+	at ij.macro.Interpreter.doStatement(Interpreter.java:323)
+	at ij.macro.Interpreter.doIf(Interpreter.java:1090)
+	at ij.macro.Interpreter.doStatement(Interpreter.java:299)
+	at ij.macro.Interpreter.doBlock(Interpreter.java:712)
+	at ij.macro.Interpreter.doStatement(Interpreter.java:323)
+	at ij.macro.Interpreter.doIf(Interpreter.java:1090)
+	at ij.macro.Interpreter.doStatement(Interpreter.java:299)
+	at ij.macro.Interpreter.doBlock(Interpreter.java:712)
+	at ij.macro.Interpreter.doStatement(Interpreter.java:323)
+	at ij.macro.Interpreter.doFor(Interpreter.java:634)
+	at ij.macro.Interpreter.doStatement(Interpreter.java:305)
+	at ij.macro.Interpreter.doStatements(Interpreter.java:264)
+	at ij.macro.Interpreter.run(Interpreter.java:160)
+	at ij.macro.Interpreter.run(Interpreter.java:93)
+	at ij.macro.Interpreter.run(Interpreter.java:104)
+	at ij.plugin.Macro_Runner.runMacro(Macro_Runner.java:161)
+	at ij.plugin.Macro_Runner.runMacroFile(Macro_Runner.java:145)
+	at ij.IJ.runMacroFile(IJ.java:165)
+	at ij.ImageJ.main(ImageJ.java:749)
+
+Time of execution is: 0.157
+Time:    22:04:04
+ 
+_______________________________________
+
+6
+CD8.svs__1_0_23920
+CD8.svs__1_0_23920_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+7
+CD8.svs__1_0_26910
+CD8.svs__1_0_26910_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+8
+CD8.svs__1_0_29900
+CD8.svs__1_0_29900_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+9
+CD8.svs__1_0_2990
+CD8.svs__1_0_2990_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+10
+CD8.svs__1_0_32890
+CD8.svs__1_0_32890_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+11
+CD8.svs__1_0_35880
+CD8.svs__1_0_35880_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+12
+CD8.svs__1_0_38870
+CD8.svs__1_0_38870_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+13
+CD8.svs__1_0_41860
+CD8.svs__1_0_41860_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+14
+CD8.svs__1_0_44850
+CD8.svs__1_0_44850_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+15
+CD8.svs__1_0_47840
+CD8.svs__1_0_47840_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+16
+CD8.svs__1_0_50830
+CD8.svs__1_0_50830_SEG.tif:   max:   0  min: 0  mean: 0  area: 2736000  std:0
+******* background image, skip this step
+_______________________________________
+
+17
+CD8.svs__1_0_5980
+CD8.svs__1_0_5980_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+18
+CD8.svs__1_0_8970
+CD8.svs__1_0_8970_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+19
+CD8.svs__1_11960_0
+CD8.svs__1_11960_0_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+20
+CD8.svs__1_11960_11960
+CD8.svs__1_11960_11960_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+21
+CD8.svs__1_11960_14950
+CD8.svs__1_11960_14950_SEG.tif:   max:   0  min: 0  mean: 0  area: 9000000  std:0
+******* background image, skip this step
+_______________________________________
+
+22
+CD8.svs__1_11960_17940
+CD8.svs__1_11960_17940_SEG.tif:   max:   611  min: 0  mean: 43.7822  area: 9000000  std:124.7967
+CD8.svs__1_11960_17940_SEG.tif
+Time:    22:04:05
+Detect cell phenotype
+Ratio marker to assign a cell type: 0.35
+Seg: CD8.svs__1_11960_17940_SEG
+marker img: CD8.svs__1_11960_17940_CD8
+Observed marker: CD8  MARKER_VAL: 5
+Save dir is: /home/htran/storage/images_dataset/HE_10_33214/CD8_tiles/CELL_TYPE/
+CD8.svs__1_11960_17940
+Generate watershed cell segmentation image using radius from nucleus: 14.0
+Watershed radius: 14.0
+Computing watershed, cell region detection
+Computing EDT
