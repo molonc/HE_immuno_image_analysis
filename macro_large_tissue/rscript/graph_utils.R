@@ -1,6 +1,8 @@
 library(dplyr)
 library(igraph)
 library(parallel)
+
+# BiocManager::install("GSReg")
 # main_dir <- '/Users/hoatran/Documents/images_HE/images/4_S01/CD8_tiles/testing/'
 # save_dir <- main_dir
 # datatag <- '4_S01_CD8'
