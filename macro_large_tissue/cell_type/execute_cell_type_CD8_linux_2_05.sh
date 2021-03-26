@@ -4,13 +4,18 @@
 
 imagej_dir="/home/htran/storage/install_software/ImageJ"
 macro_dir="/home/htran/Projects/HE_immuno_image_analysis/macro_large_tissue"
-macro_fn="$macro_dir/cell_type/cell_type_CD8_linux_v2.txt"
+macro_fn="$macro_dir/cell_type/cell_type_CD8_linux_v3.txt"
 # project_dir="/home/htran/storage/images_dataset/"
 
 # in case of 1_10 serie
-project_dir="/home/htran/storage/images_dataset/large_tissue/"
+# project_dir="/home/htran/storage/images_dataset/large_tissue/"
+
+# in case of 2_05 serie
+project_dir="/home/htran/backup/home/htran/storage/images_dataset/large_tissue/"
+
 # series="HE_10_33214"
-series="1_10"
+# series="1_10"
+series="2_05"
 # series="3_08"
 # series="4_S01"
 # series="5_06"

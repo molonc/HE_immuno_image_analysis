@@ -123,7 +123,7 @@ viz_cells_network <- function(main_dir, save_dir, datatag,
   # dim(nodes_total)
   print(summary(as.factor(nodes_total$cell_type)))
   print(round(nrow(nodes_total[nodes_total$cell_type!='UNLABELLED',])/nrow(nodes_total)*100,2))
-  res <- plot_igraph(edges_total, nodes_total, datatag, save_dir, scale_layout, scale_img, F, draw_edges)
+  # res <- plot_igraph(edges_total, nodes_total, datatag, save_dir, scale_layout, scale_img, F, draw_edges)
   
   results <- list(edges_df=edges_total,nodes_df=nodes_total)
   # nb_contacts <- get_cells_contacts(res, obs_cell_type=NULL, contact_degrees=NULL)

@@ -28,8 +28,8 @@ if(!File.exists(dir+"CELL_TYPE"))
     
 marker_name="CD8";
 tag = "_CD8";  //in linux some case name still have .tif
-min_mask_thrs = 130; //90 for 3_08, 4_S01, 130 for 5_06, 6_10AS
-pct_marker = 0.35;  //0.3 for 4_S01, 5_06, 0.35 for 6_10AS
+min_mask_thrs = 90; //90 for 1_10, 3_08, 4_S01, 130 for 5_06, 6_10AS, HE_10_33214
+pct_marker = 0.3;  //0.3 for 4_S01, 5_06, 0.35 for 6_10AS, HE_10_33214
 watershed_rad = 14;
 outputDir=dir + "CELL_TYPE/";
 rawdataDir=dir + "raw/";

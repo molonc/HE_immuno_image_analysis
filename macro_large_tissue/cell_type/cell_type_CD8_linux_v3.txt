@@ -26,15 +26,16 @@ print("Main dir: "+dir+"\n");
 if(!File.exists(dir+"CELL_TYPE")) 
       File.mkdir(dir+"CELL_TYPE");
     
-marker_name="CD57";
-//tag = ".tif_CD57";  //in linux server some case name still have .tif
-tag = "_CD57";  //in linux server some case name still have .tif
-min_mask_thrs = 80; //90 for 3_08, 4_S01, 130 for 5_06, 6_10AS
-pct_marker = 0.25;  //0.25 for 1_10, 0.3 for 4_S01, 5_06, 0.35 for 6_10AS
+marker_name="CD8";
+tag = "_CD8";  //in linux some case name still have .tif
+min_mask_thrs = 130; //90 for 1_10, 3_08, 4_S01, 130 for 2_05, 5_06, 6_10AS, HE_10_33214
+pct_marker = 0.35;  //0.3 for 4_S01, 5_06, 0.35 for 2_05, 6_10AS, HE_10_33214
 watershed_rad = 14;
 outputDir=dir + "CELL_TYPE/";
+rawdataDir=dir + "raw/";
 maskDir=dir + marker_name+"/";
-//segDir=dir + "NUC_SEG/";
+if(!File.exists(maskDir)) 
+      File.mkdir(maskDir);
 segDir = working_dir;
 print(maskDir);
 print(segDir);
@@ -54,7 +55,6 @@ for(f=0;f<files.length;f++)
 				name=files[f];
 				//print("Get the right channel : "+name);
 				print("_______________________________________\n");
-				
 				count=count+1;
 				print(count);
 				short_name = substring(name,0,indexOf(name,'_SEG.tif'));				
@@ -97,7 +97,8 @@ for(f=0;f<files.length;f++)
     					    
   					  }else{
   					      print("Detect cell phenotype without marker image");
-    					    run("CELL PHENOTYPE", "save="+outputDir+" nuclei="+name+" watershed=*None* marker=*None* marker_0="+marker_name+" percent_marker="+pct_marker+" watershed_cell_radius="+watershed_rad);
+  					      print(name);
+    					    //run("CELL PHENOTYPE", "save="+outputDir+" nuclei="+name+" watershed=*None* marker=*None* marker_0="+marker_name+" percent_marker="+pct_marker+" watershed_cell_radius="+watershed_rad);
   					  }
 						run("Close All"); 
 					  print("Time of execution is: "+(getTime()-start)/1000); 
