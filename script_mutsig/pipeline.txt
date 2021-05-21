@@ -1,0 +1,38 @@
+Pipeline
+
+
+
+
+
+1. Run slideJ to crop images into many blocks (window, patches)
+
+
+
+
+
+2. Color deconvolution
+
+
+Double check which deconvolution option is the best
+
+
+Here I use [H DAB] - the best to separate membrane from nucleus and marker staining image
+
+
+But for different images, maybe we need to select different deconvolution option
+
+
+
+
+
+3. Nucleus segmentation
+
+
+Attention: at the boundary of image, right side, there are some problem due to capturing process, we need to open image and remove these parts first.
+
+
+
+
+
+4. Other process ..pending
+
