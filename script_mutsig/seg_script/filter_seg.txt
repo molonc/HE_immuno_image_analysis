@@ -19,7 +19,7 @@ function GetTime() {
 
 
 dir = getArgument;
-//dir="/Users/hoatran/Documents/storage_tmp/mut_sig_project/";  //just for testing
+//dir="/Users/hoatran/Documents/storage_tmp/test/";  //just for testing
 
 if (dir=="") 
 	exit ("No argument!");
@@ -33,7 +33,7 @@ spot_seeds_threshold=25000; //#similar to threshold 120/255 in 8 bits image, her
 
 minSize=5;  //minimum diameter of object 
 maxSize=9;  //maximum diameter of object 
-input_dir = dir+"NUC/";
+input_dir = dir+"NUC/";   //input dir should contain a NUC sub folder
 output_dir = dir+"NUC_SEG/";
 //input_dir = dir;
 print("Input nuc dir: "+input_dir+"\n");
@@ -54,7 +54,7 @@ for(f=0;f<files.length;f++)
      //if(!File.isDirectory(input_dir+files[f])) {
 				name=files[f];
 				
-				if(endsWith(name,'_NUC.tif')){
+				if(endsWith(name,'_NUC.tif')){  //input image should end with _NUC.tif
 					//print("Get the right channel : "+name);
           count=count+1;
           
@@ -81,8 +81,8 @@ for(f=0;f<files.length;f++)
             start = getTime();
             GetTime();
   					open(input_dir+name);
-					  run("Duplicate...", " ");
-					  selectWindow(name);	
+					run("Duplicate...", " ");
+					selectWindow(name);	
   					h=getHeight();
   					w=getWidth();
 				  	print('Image: '+name+"   h:   "+h+"  w:   "+w);
@@ -131,13 +131,13 @@ for(f=0;f<files.length;f++)
 		 	      print(" ");
 				 	
           }
-					run("Close All");  //diable it if you want to test and display images
+					//run("Close All");  //diable it if you want to test and display images
 					// Script just to make sure to close all windows, can remove this part below if you are sure there are only images windows. 	
 					list = getList("window.titles");
 			    for (i=0; i<list.length; i++){
 			    	winame = list[i];
 			      selectWindow(winame);
-			     	run("Close"); //diable it if you want to test and display images
+			     	//run("Close"); //diable it if you want to test and display images
 			    } 
 
 					
