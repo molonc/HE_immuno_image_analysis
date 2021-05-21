@@ -1,0 +1,45 @@
+//dir=getDirectory("mouse");
+//print(dir)
+
+print("\\Clear");
+
+setBatchMode(true);	
+
+// Parameters
+macro_dir = "/home/blahblah/script_mutsig";
+macro_fn = macro_dir+"/slidej/SlideJdemo0.ijm";
+//macro_dir = File.getParent(dir);
+print(macro_fn);
+
+window_size = 3000;
+overlap_size = 10;
+
+input_dir = getArgument;
+if (input_dir=="") 
+	exit ("No argument!");
+
+print(input_dir);
+
+
+
+if(!File.exists(macro_fn))
+  exit ("Check macro file first!");
+
+print("-------------------------------------------------- ");
+if(File.exists(input_dir)){
+	output_dir = input_dir+"_tiles";
+	if(!File.exists(output_dir)) 
+      	   File.mkdir(output_dir);
+  print(input_dir);
+  print(output_dir);
+	run("SlideJ ", "input="+input_dir+" output="+output_dir+" macro="+macro_fn+" series=1 tile="+window_size+" overlap="+overlap_size+" cancel=No");
+	print("-------------------------------------------------- ");
+} 
+
+
+print("Completed");
+
+//if(!File.exists(dir+"log")) File.mkdir(dir+"log");
+//selectWindow("Log");
+//saveAs("Text", dir+ "log/segment_process_log.txt");
+setBatchMode(false);
