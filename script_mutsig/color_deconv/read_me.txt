@@ -8,3 +8,10 @@ marker_type="MYC";
 
 Execute file using script execute_color_deconvolution.sh
 Change input image folder here
+
+
+Download plugin to ImageJ/plugins/ folder first
+https://imagejdocu.tudor.lu/plugin/color/colour_deconvolution/start
+https://blog.bham.ac.uk/intellimic/g-landini-software/colour-deconvolution-2/
+
+Or use the plugins from merfish/demo/segmentation_plugins_Hoa/

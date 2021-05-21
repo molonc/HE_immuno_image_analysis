@@ -12,3 +12,8 @@ overlap_size = 10;
 
 + Run function: using bash file execute_slidej.sh
 
+
+Download plugin to ImageJ/plugins/ folder first
+https://imagej.net/SlideJ
+Or use the plugins from merfish/demo/segmentation_plugins_Hoa/
+

@@ -11,3 +11,6 @@ output_dir = dir+"NUC_SEG/";
 
 Execute file using script execute_color_deconvolution.sh
 Change input image folder here
+
+
+Use the plugins from merfish/demo/segmentation_plugins_Hoa/ to run this segmentation
