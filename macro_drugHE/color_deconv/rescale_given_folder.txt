@@ -1,0 +1,39 @@
+print("\\Clear");
+
+setBatchMode(true);	
+
+
+input_dir = getArgument;
+if (input_dir=="") 
+	exit ("No argument!");
+
+
+print(input_dir);
+output_dir = File.getParent(input_dir) + "/rescaled_raw_deconv/";
+print(output_dir);
+if(!File.exists(output_dir)) 
+    	       File.mkdir(output_dir);
+
+files=getFileList(input_dir);
+print(files.length);
+
+for(f=0;f<files.length;f++)
+{
+		     //if(!File.isDirectory(input_dir+files[f])) {
+				 //print(files[f]);
+					name=files[f];
+					//if(endsWith(toLowerCase(name),'.tif') | endsWith(toLowerCase(name),'.tiff')){
+					if(endsWith(name,'.tif')){
+						print(f);
+						//print(name);
+						short_name = substring(name,0,lengthOf(name)-4);
+						open(input_dir+name);
+						//selectWindow(name);
+						run("Scale...", "x=0.1 y=0.1 interpolation=None average create");
+						selectWindow(short_name+"-1.tif");
+						saveAs("PNG", output_dir + short_name + ".png");
+						run("Close All");
+						
+					}		
+
+}			

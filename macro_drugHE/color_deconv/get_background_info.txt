@@ -1,0 +1,31 @@
+marker1 = getArgument;
+if (marker1=="") 
+	exit ("No argument!");
+print(marker1);
+
+//series="3_08";
+//series="5_06";
+//series="4_S01";
+series="6_10AS";
+//marker1="CD57";
+
+dir="/Users/hoatran/Documents/images_HE/images/"+series+"/"+marker1+"_tiles/";
+input_dir1=dir+"BACKGROUND/";
+run("Clear Results");
+output_dir = dir+"meta_data/";
+input_dir = input_dir1;
+if(!File.exists(output_dir)) 
+      File.mkdir(output_dir);
+      
+files=getFileList(input_dir);
+print("Nb of processing images: "+files.length+"\n");
+for (i=0; i<files.length; i++) {
+   setResult("image", i, files[i]);
+   open(input_dir+files[i]);
+   setResult("height", i, getHeight());
+   setResult("width", i, getWidth());
+   close();
+}
+setOption("ShowRowNumbers", false);
+updateResults;
+saveAs("Results", output_dir+marker1+"_background_images.csv");

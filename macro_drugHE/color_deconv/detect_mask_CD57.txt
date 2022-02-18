@@ -1,0 +1,106 @@
+//dir=getDirectory("mouse");
+//print(dir)
+
+print("\\Clear");
+
+setBatchMode(true);	
+
+
+dir = getArgument;
+if (dir=="") 
+	exit ("No argument!");
+
+print(dir);
+background_threshold=120;	 
+maximum_expand_radius=200;
+	   
+v = newArray("CD57");
+for (i=0; i<v.length; i++) {
+	print(v[i]);
+	input_dir = dir + v[i] + "_tiles/deconv/";
+	if(File.exists(input_dir)){
+		input_nuc_dir = dir + v[i] + "_tiles/" + "NUC/";
+		output_dir = dir + v[i] + "_tiles/" + "filtered_NUC/";
+		mask_dir = dir + v[i] + "_tiles/" + "MASK/";
+    if(!File.exists(output_dir)) 
+	    File.mkdir(output_dir);
+	    
+	  if(!File.exists(mask_dir)) 
+	    File.mkdir(mask_dir);
+	    
+		files=getFileList(input_nuc_dir);
+
+
+		for(f=0;f<files.length;f++)
+		{
+		     if(!File.isDirectory(input_nuc_dir+files[f])) {
+					print(files[f]);
+					name=files[f];
+					if(endsWith(toLowerCase(name),'.tif') | endsWith(toLowerCase(name),'.tiff')){
+						
+						print("  ");
+						print("  ");
+						short_name = substring(name,0,indexOf(name,'_NUC.tif'));
+						deconv_name = short_name+".tif";
+						print(input_dir+deconv_name);
+						open(input_dir+deconv_name);
+						
+						run("Split Channels");
+					  selectWindow(deconv_name+" (red)");
+					  //run("Mean...", "radius=15");
+					  //setAutoThreshold("Default dark");
+					  //setThreshold(15, 255);
+					  //setOption("BlackBackground", true);
+            //run("Convert to Mask");
+            run("Gaussian Blur...", "sigma=15");
+            setAutoThreshold("Default dark");
+            //run("Threshold...");
+            setThreshold(25, 255);
+            setOption("BlackBackground", true);
+            run("Convert to Mask");
+            run("Fill Holes");
+            run("Invert");
+            run("Maximum...", "radius="+maximum_expand_radius);
+            run("Invert");
+            selectWindow(deconv_name+" (red)");
+            saveAs("Tiff", mask_dir+short_name+"_MASK.tif");
+            
+            open(input_nuc_dir+name);
+            getStatistics(area, mean, min, max, std);
+            print("Before mask processing: ");
+    				print(getTitle+":   max:   "+max+"  mean: "+mean);
+            imageCalculator("AND", name, short_name+"_MASK.tif");
+            
+            selectWindow(name);
+						saveAs("Tiff", output_dir+name);
+						print("After mask processing: ");
+						selectWindow(name);
+            getStatistics(area1, mean1, min1, max1, std1);
+            print(getTitle+":   max:   "+max1+"  mean: "+mean1);
+            
+						run("Close All");
+						list = getList("window.titles");
+  					if(list.length>0){
+  					  for (i=0; i<list.length; i++){
+  				    	winame = list[i];
+  						  print(winame);
+  				      selectWindow(winame);
+  				     	run("Close");
+  				    } 
+  					}
+					}		
+
+			 }		
+		}			
+
+	} 
+	
+}
+
+
+print("Completed");
+
+//if(!File.exists(dir+"log")) File.mkdir(dir+"log");
+//selectWindow("Log");
+//saveAs("Text", dir+ "log/segment_process_log.txt");
+setBatchMode(false);

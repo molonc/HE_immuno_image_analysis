@@ -34,8 +34,8 @@ for (i=0; i<v.length; i++) {
 					name=files[f];
 					//if(endsWith(toLowerCase(name),'.tif') | endsWith(toLowerCase(name),'.tiff')){
 					if(endsWith(name,'.tif')){
-						print("  ");
-						print(name);
+						print(f);
+						//print(name);
 						short_name = substring(name,0,indexOf(name,'.tif'));
 						open(input_dir+name);
 						//selectWindow(name);

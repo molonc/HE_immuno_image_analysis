@@ -1,0 +1,42 @@
+print("\\Clear");
+
+setBatchMode(true);	
+
+
+input_dir = getArgument;
+if (input_dir=="") 
+	exit ("No argument!");
+
+
+print(input_dir);
+output_dir = File.getParent(input_dir) + "/Ki67_C0/";
+print(output_dir);
+if(!File.exists(output_dir)) 
+    	       File.mkdir(output_dir);
+
+files=getFileList(input_dir);
+print(files.length);
+
+for(f=0;f<files.length;f++)
+{
+		     //if(!File.isDirectory(input_dir+files[f])) {
+				 //print(files[f]);
+					name=files[f];
+					//if(endsWith(toLowerCase(name),'.tif') | endsWith(toLowerCase(name),'.tiff')){
+					if(endsWith(name,'.tif')){
+						print(f);
+						//print(name);
+						short_name = substring(name,0,lengthOf(name)-4);
+						open(input_dir+name);
+						//selectWindow(name);
+						run("Stack to Images");
+						title = getTitle;
+            print(title);
+            
+						selectWindow(short_name+"-0001");
+						saveAs("Tiff", output_dir + short_name + "_C0.tif");
+						run("Close All");
+						
+					}		
+
+}			

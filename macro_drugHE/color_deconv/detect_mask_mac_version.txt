@@ -1,0 +1,114 @@
+//dir=getDirectory("mouse");
+//print(dir)
+
+print("\\Clear");
+
+
+setBatchMode(true);	
+function GetTime() {
+     getDateAndTime(year, month, dayOfWeek, dayOfMonth, hour, minute, second, msec);
+     TimeString ="Time:    ";
+     if (hour<10) {TimeString = TimeString+"0";}
+     TimeString = TimeString+hour+":";
+     if (minute<10) {TimeString = TimeString+"0";}
+     TimeString = TimeString+minute+":";
+     if (second<10) {TimeString = TimeString+"0";}
+     TimeString = TimeString+second;
+     print(TimeString);
+}
+
+
+dir = getArgument;
+if (dir=="") 
+	exit ("No argument!");
+
+print(dir);
+background_threshold=120;	 
+maximum_expand_radius=210;
+	   
+v = newArray("CD57");
+for (i=0; i<v.length; i++) {
+	print(v[i]);
+	input_dir = dir + v[i] + "_tiles/BK_NUC/";
+	
+	if(File.exists(input_dir)){
+		input_nuc_dir = input_dir + "NUC/";
+		output_dir = input_dir + "NUC_filtered/";
+		mask_dir = input_dir + "MASK/";
+    if(!File.exists(output_dir)) 
+	    File.mkdir(output_dir);
+	    
+	  if(!File.exists(mask_dir)) 
+	    File.mkdir(mask_dir);
+	    
+		files=getFileList(input_nuc_dir);
+
+
+		for(f=0;f<files.length;f++)
+		{
+		     //if(!File.isDirectory(input_nuc_dir+files[f])) {
+					print(files[f]);
+					name=files[f];
+					if(endsWith(name,'.tif')){
+						
+						print("  ");
+						print("  ");
+						print("Start time:    ");
+            GetTime();
+						short_name = substring(name,0,indexOf(name,'_NUC.tif'));
+						deconv_name = short_name+".tif";
+						print(deconv_name);
+						open(input_dir+"raw/"+deconv_name);
+						
+						run("Split Channels");
+					  selectWindow(deconv_name+" (red)");
+					  //run("Mean...", "radius=15");
+					  //setAutoThreshold("Default dark");
+					  //setThreshold(15, 255);
+					  //setOption("BlackBackground", true);
+            //run("Convert to Mask");
+            run("Gaussian Blur...", "sigma=15");
+            setAutoThreshold("Default dark");
+            //run("Threshold...");
+            setThreshold(25, 255);
+            setOption("BlackBackground", true);
+            run("Convert to Mask");
+            run("Fill Holes");
+            run("Invert");
+            run("Maximum...", "radius="+maximum_expand_radius);
+            run("Invert");
+            selectWindow(deconv_name+" (red)");
+            saveAs("Tiff", mask_dir+short_name+"_MASK.tif");
+            
+            open(input_nuc_dir+name);
+            getStatistics(area, mean, min, max, std);
+            print("Before mask processing: ");
+    				print(getTitle+":   max:   "+max+"  mean: "+mean);
+            imageCalculator("AND", name, short_name+"_MASK.tif");
+            
+            selectWindow(name);
+						saveAs("Tiff", output_dir+name);
+						print("After mask processing: ");
+						selectWindow(name);
+            getStatistics(area1, mean1, min1, max1, std1);
+            print(getTitle+":   max:   "+max1+"  mean: "+mean1);
+            GetTime();
+						run("Close All");
+					
+					}		
+
+			// }		
+		}			
+
+	} 
+	
+}
+
+
+print("Completed");
+
+
+//if(!File.exists(dir+"log")) File.mkdir(dir+"log");
+//selectWindow("Log");
+//saveAs("Text", dir+ "log/segment_process_log.txt");
+setBatchMode(false);

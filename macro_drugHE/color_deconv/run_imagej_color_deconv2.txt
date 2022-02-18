@@ -1,0 +1,99 @@
+//dir=getDirectory("mouse");
+//print(dir)
+
+print("\\Clear");
+
+setBatchMode(true);	
+
+
+dir = getArgument;
+if (dir=="") 
+	exit ("No argument!");
+
+print(dir);
+background_threshold=50;	 
+
+v = newArray("Ki67");
+for (i=0; i<v.length; i++) {
+  print("Initializing...");
+	print(v[i]);
+	input_dir = dir + v[i] + "/raw/";
+	print(input_dir);
+	if(File.exists(input_dir)){
+	  print("Hello");
+		output_nuc_dir = dir +v[i]+"/NUC/";
+		output_marker_dir = dir +v[i]+"/Ki67/";
+		print(output_marker_dir);
+		if(!File.exists(output_nuc_dir)) 
+	      	       File.mkdir(output_nuc_dir);
+
+    if(!File.exists(output_marker_dir)) 
+  	       File.mkdir(output_marker_dir);
+
+		files=getFileList(input_dir);
+
+
+		for(f=0;f<files.length;f++)
+		{
+		     //if(!File.isDirectory(input_dir+files[f])) {
+					print(files[f]);
+					name=files[f];
+					if(endsWith(name,'.tif')){
+						//print("Colour Deconvolution");
+						print("  ");
+						print(name);
+						open(input_dir+name);
+						short_name = substring(name,0,lengthOf(name)-4);
+						//selectWindow(name);
+						run("Colour Deconvolution", "vectors=[H&E DAB]");
+						
+						//Keep image in case we see nuc objs only
+						selectWindow(name+"-(Colour_1)");
+						run("Grays");
+						run("Invert");
+						getStatistics(area, mean, min, max, std);
+    				print(getTitle+":   max:   "+max+"  min: "+min+"  mean: "+mean+"  area: "+area+"  std:"+std);
+    				if(max > background_threshold){
+    						print("******* NUC area detected");
+    						selectWindow(name+"-(Colour_1)");
+						    saveAs("Tiff", output_nuc_dir + short_name + "_NUC.tif");
+						    selectWindow(name+"-(Colour_3)");
+						    run("Grays");
+						    run("Invert");
+						    getStatistics(area1, mean1, min1, max1, std1);
+						    print(getTitle+":   max:   "+max1+"  min: "+min1+"  mean: "+mean1+"  area: "+area1+"  std:"+std1);
+						    if(max1 > background_threshold){
+						      selectWindow(name+"-(Colour_3)");
+						      saveAs("Tiff", output_marker_dir + short_name + "_" + v[i] + ".tif");
+						    }
+						    
+						} else{
+						    print("DEBUG******* Background image, have not found any NUC area, skip!!!");
+						}
+						
+						run("Close All");
+						list = getList("window.titles");
+  					if(list.length>0){
+  					  for (i=0; i<list.length; i++){
+  				    	winame = list[i];
+  						  print(winame);
+  				      selectWindow(winame);
+  				     	run("Close");
+  				    } 
+  					}
+					}		
+
+			 		
+		}			
+
+	} 
+	
+}
+
+
+print("Completed");
+
+//if(!File.exists(dir+"log")) File.mkdir(dir+"log");
+//selectWindow("Log");
+//saveAs("Text", dir+ "log/segment_process_log.txt");
+setBatchMode(false);

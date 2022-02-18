@@ -1,0 +1,2842 @@
+Deconv images
+\Clear
+input_dir1
+Initializing...
+NUC
+Initializing...
+BK_NUC
+Completed
+Completed
+Deconv images
+\Clear
+input_dir1
+Initializing...
+NUC
+Initializing...
+BK_NUC
+Completed
+Completed
+Deconv images
+\Clear
+input_dir1
+Initializing...
+NUC
+input_dir1NUC/
+Initializing...
+BK_NUC
+input_dir1BK_NUC/
+Completed
+Completed
+\Clear
+input_dir1
+Initializing...
+NUC
+input_dir1NUC/
+Initializing...
+BK_NUC
+input_dir1BK_NUC/
+Completed
+Completed
+Deconv images
+\Clear
+/Users/hoatran/Documents/images_HE/images/4_S01/CD8_tiles/
+Initializing...
+NUC
+/Users/hoatran/Documents/images_HE/images/4_S01/CD8_tiles/NUC/
+Hello
+4_S01_CD8.svs__1_11960_11960.tif
+  
+4_S01_CD8.svs__1_11960_11960.tif
+4_S01_CD8.svs__1_11960_11960.tif-(Colour_1):   max:   255  min: 0  mean: 66.7082  area: 9000000  std:60.4048
+******* NUC area detected
+4_S01_CD8.svs__1_11960_11960.tif-(Colour_3):   max:   255  min: 0  mean: 19.5791  area: 9000000  std:38.4097
+4_S01_CD8.svs__1_11960_14950.tif
+  
+4_S01_CD8.svs__1_11960_14950.tif
+4_S01_CD8.svs__1_11960_14950.tif-(Colour_1):   max:   255  min: 0  mean: 63.469  area: 9000000  std:59.6058
+******* NUC area detected
+4_S01_CD8.svs__1_11960_14950.tif-(Colour_3):   max:   255  min: 0  mean: 20.6263  area: 9000000  std:39.4335
+4_S01_CD8.svs__1_11960_17940.tif
+  
+4_S01_CD8.svs__1_11960_17940.tif
+4_S01_CD8.svs__1_11960_17940.tif-(Colour_1):   max:   255  min: 0  mean: 63.49  area: 9000000  std:60.3208
+******* NUC area detected
+4_S01_CD8.svs__1_11960_17940.tif-(Colour_3):   max:   255  min: 0  mean: 23.0953  area: 9000000  std:44.302
+4_S01_CD8.svs__1_11960_20930.tif
+  
+4_S01_CD8.svs__1_11960_20930.tif
+4_S01_CD8.svs__1_11960_20930.tif-(Colour_1):   max:   255  min: 0  mean: 61.5508  area: 9000000  std:58.4014
+******* NUC area detected
+4_S01_CD8.svs__1_11960_20930.tif-(Colour_3):   max:   255  min: 0  mean: 18.433  area: 9000000  std:33.1403
+4_S01_CD8.svs__1_11960_23920.tif
+  
+4_S01_CD8.svs__1_11960_23920.tif
+4_S01_CD8.svs__1_11960_23920.tif-(Colour_1):   max:   255  min: 0  mean: 61.5969  area: 9000000  std:61.2378
+******* NUC area detected
+4_S01_CD8.svs__1_11960_23920.tif-(Colour_3):   max:   255  min: 0  mean: 22.3755  area: 9000000  std:41.5146
+4_S01_CD8.svs__1_11960_26910.tif
+  
+4_S01_CD8.svs__1_11960_26910.tif
+4_S01_CD8.svs__1_11960_26910.tif-(Colour_1):   max:   255  min: 0  mean: 59.097  area: 9000000  std:59.554
+******* NUC area detected
+4_S01_CD8.svs__1_11960_26910.tif-(Colour_3):   max:   255  min: 0  mean: 23.7658  area: 9000000  std:43.8887
+4_S01_CD8.svs__1_11960_2990.tif
+  
+4_S01_CD8.svs__1_11960_2990.tif
+4_S01_CD8.svs__1_11960_2990.tif-(Colour_1):   max:   255  min: 0  mean: 64.1992  area: 9000000  std:58.7368
+******* NUC area detected
+4_S01_CD8.svs__1_11960_2990.tif-(Colour_3):   max:   255  min: 0  mean: 26.434  area: 9000000  std:46.3579
+4_S01_CD8.svs__1_11960_29900.tif
+  
+4_S01_CD8.svs__1_11960_29900.tif
+4_S01_CD8.svs__1_11960_29900.tif-(Colour_1):   max:   255  min: 0  mean: 70.395  area: 9000000  std:62.4128
+******* NUC area detected
+4_S01_CD8.svs__1_11960_29900.tif-(Colour_3):   max:   255  min: 0  mean: 22.3945  area: 9000000  std:40.9214
+4_S01_CD8.svs__1_11960_35880.tif
+  
+4_S01_CD8.svs__1_11960_35880.tif
+4_S01_CD8.svs__1_11960_35880.tif-(Colour_1):   max:   255  min: 0  mean: 80.7073  area: 9000000  std:70.4069
+******* NUC area detected
+4_S01_CD8.svs__1_11960_35880.tif-(Colour_3):   max:   255  min: 0  mean: 29.2172  area: 9000000  std:51.8634
+4_S01_CD8.svs__1_11960_38870.tif
+  
+4_S01_CD8.svs__1_11960_38870.tif
+4_S01_CD8.svs__1_11960_38870.tif-(Colour_1):   max:   255  min: 0  mean: 71.858  area: 9000000  std:66.3247
+******* NUC area detected
+4_S01_CD8.svs__1_11960_38870.tif-(Colour_3):   max:   255  min: 0  mean: 20.3874  area: 9000000  std:40.3326
+4_S01_CD8.svs__1_11960_41860.tif
+  
+4_S01_CD8.svs__1_11960_41860.tif
+4_S01_CD8.svs__1_11960_41860.tif-(Colour_1):   max:   255  min: 0  mean: 76.3806  area: 9000000  std:66.2242
+******* NUC area detected
+4_S01_CD8.svs__1_11960_41860.tif-(Colour_3):   max:   255  min: 0  mean: 14.4037  area: 9000000  std:26.4283
+4_S01_CD8.svs__1_11960_44850.tif
+  
+4_S01_CD8.svs__1_11960_44850.tif
+4_S01_CD8.svs__1_11960_44850.tif-(Colour_1):   max:   255  min: 0  mean: 71.9015  area: 9000000  std:62.9044
+******* NUC area detected
+4_S01_CD8.svs__1_11960_44850.tif-(Colour_3):   max:   255  min: 0  mean: 16.8424  area: 9000000  std:32.24
+4_S01_CD8.svs__1_11960_47840.tif
+  
+4_S01_CD8.svs__1_11960_47840.tif
+4_S01_CD8.svs__1_11960_47840.tif-(Colour_1):   max:   255  min: 0  mean: 72.9433  area: 9000000  std:63.5713
+******* NUC area detected
+4_S01_CD8.svs__1_11960_47840.tif-(Colour_3):   max:   255  min: 0  mean: 17.0451  area: 9000000  std:28.5087
+4_S01_CD8.svs__1_11960_5980.tif
+  
+4_S01_CD8.svs__1_11960_5980.tif
+4_S01_CD8.svs__1_11960_5980.tif-(Colour_1):   max:   255  min: 0  mean: 62.6452  area: 9000000  std:56.1671
+******* NUC area detected
+4_S01_CD8.svs__1_11960_5980.tif-(Colour_3):   max:   255  min: 0  mean: 21.6206  area: 9000000  std:41.7733
+4_S01_CD8.svs__1_11960_8970.tif
+  
+4_S01_CD8.svs__1_11960_8970.tif
+4_S01_CD8.svs__1_11960_8970.tif-(Colour_1):   max:   255  min: 0  mean: 66.7797  area: 9000000  std:55.8947
+******* NUC area detected
+4_S01_CD8.svs__1_11960_8970.tif-(Colour_3):   max:   255  min: 0  mean: 16.151  area: 9000000  std:30.7866
+4_S01_CD8.svs__1_14950_11960.tif
+  
+4_S01_CD8.svs__1_14950_11960.tif
+4_S01_CD8.svs__1_14950_11960.tif-(Colour_1):   max:   255  min: 0  mean: 58.4099  area: 9000000  std:57.0507
+******* NUC area detected
+4_S01_CD8.svs__1_14950_11960.tif-(Colour_3):   max:   255  min: 0  mean: 19.9072  area: 9000000  std:36.832
+4_S01_CD8.svs__1_14950_14950.tif
+  
+4_S01_CD8.svs__1_14950_14950.tif
+4_S01_CD8.svs__1_14950_14950.tif-(Colour_1):   max:   255  min: 0  mean: 56.0608  area: 9000000  std:59.4205
+******* NUC area detected
+4_S01_CD8.svs__1_14950_14950.tif-(Colour_3):   max:   255  min: 0  mean: 29.9173  area: 9000000  std:54.1786
+4_S01_CD8.svs__1_14950_17940.tif
+  
+4_S01_CD8.svs__1_14950_17940.tif
+4_S01_CD8.svs__1_14950_17940.tif-(Colour_1):   max:   255  min: 0  mean: 61.4695  area: 9000000  std:62.1087
+******* NUC area detected
+4_S01_CD8.svs__1_14950_17940.tif-(Colour_3):   max:   255  min: 0  mean: 28.1093  area: 9000000  std:52.3508
+4_S01_CD8.svs__1_14950_20930.tif
+  
+4_S01_CD8.svs__1_14950_20930.tif
+4_S01_CD8.svs__1_14950_20930.tif-(Colour_1):   max:   255  min: 0  mean: 54.9382  area: 9000000  std:57.4575
+******* NUC area detected
+4_S01_CD8.svs__1_14950_20930.tif-(Colour_3):   max:   255  min: 0  mean: 27.974  area: 9000000  std:49.5833
+4_S01_CD8.svs__1_14950_23920.tif
+  
+4_S01_CD8.svs__1_14950_23920.tif
+4_S01_CD8.svs__1_14950_23920.tif-(Colour_1):   max:   255  min: 0  mean: 58.6855  area: 9000000  std:60.6679
+******* NUC area detected
+4_S01_CD8.svs__1_14950_23920.tif-(Colour_3):   max:   255  min: 0  mean: 34.5534  area: 9000000  std:59.5856
+4_S01_CD8.svs__1_14950_26910.tif
+  
+4_S01_CD8.svs__1_14950_26910.tif
+4_S01_CD8.svs__1_14950_26910.tif-(Colour_1):   max:   255  min: 0  mean: 51.0526  area: 9000000  std:56.4607
+******* NUC area detected
+4_S01_CD8.svs__1_14950_26910.tif-(Colour_3):   max:   255  min: 0  mean: 28.3648  area: 9000000  std:47.7318
+4_S01_CD8.svs__1_14950_2990.tif
+  
+4_S01_CD8.svs__1_14950_2990.tif
+4_S01_CD8.svs__1_14950_2990.tif-(Colour_1):   max:   255  min: 0  mean: 70.461  area: 9000000  std:62.4202
+******* NUC area detected
+4_S01_CD8.svs__1_14950_2990.tif-(Colour_3):   max:   255  min: 0  mean: 17.63  area: 9000000  std:27.818
+4_S01_CD8.svs__1_14950_29900.tif
+  
+4_S01_CD8.svs__1_14950_29900.tif
+4_S01_CD8.svs__1_14950_29900.tif-(Colour_1):   max:   255  min: 0  mean: 53.1114  area: 9000000  std:56.6138
+******* NUC area detected
+4_S01_CD8.svs__1_14950_29900.tif-(Colour_3):   max:   255  min: 0  mean: 25.751  area: 9000000  std:43.3894
+4_S01_CD8.svs__1_14950_32890.tif
+  
+4_S01_CD8.svs__1_14950_32890.tif
+4_S01_CD8.svs__1_14950_32890.tif-(Colour_1):   max:   255  min: 0  mean: 54.9394  area: 9000000  std:57.2578
+******* NUC area detected
+4_S01_CD8.svs__1_14950_32890.tif-(Colour_3):   max:   255  min: 0  mean: 21.2061  area: 9000000  std:33.2885
+4_S01_CD8.svs__1_14950_35880.tif
+  
+4_S01_CD8.svs__1_14950_35880.tif
+4_S01_CD8.svs__1_14950_35880.tif-(Colour_1):   max:   255  min: 0  mean: 60.1131  area: 9000000  std:60.5708
+******* NUC area detected
+4_S01_CD8.svs__1_14950_35880.tif-(Colour_3):   max:   255  min: 0  mean: 23.2424  area: 9000000  std:41.0561
+4_S01_CD8.svs__1_14950_38870.tif
+  
+4_S01_CD8.svs__1_14950_38870.tif
+4_S01_CD8.svs__1_14950_38870.tif-(Colour_1):   max:   255  min: 0  mean: 66.2933  area: 9000000  std:63.3073
+******* NUC area detected
+4_S01_CD8.svs__1_14950_38870.tif-(Colour_3):   max:   255  min: 0  mean: 25.4048  area: 9000000  std:48.5437
+4_S01_CD8.svs__1_14950_41860.tif
+  
+4_S01_CD8.svs__1_14950_41860.tif
+4_S01_CD8.svs__1_14950_41860.tif-(Colour_1):   max:   255  min: 0  mean: 78.1177  area: 9000000  std:69.9952
+******* NUC area detected
+4_S01_CD8.svs__1_14950_41860.tif-(Colour_3):   max:   255  min: 0  mean: 25.3292  area: 9000000  std:50.8291
+4_S01_CD8.svs__1_14950_44850.tif
+  
+4_S01_CD8.svs__1_14950_44850.tif
+4_S01_CD8.svs__1_14950_44850.tif-(Colour_1):   max:   255  min: 0  mean: 80.0112  area: 9000000  std:67.2271
+******* NUC area detected
+4_S01_CD8.svs__1_14950_44850.tif-(Colour_3):   max:   255  min: 0  mean: 17.3336  area: 9000000  std:36.1554
+4_S01_CD8.svs__1_14950_47840.tif
+  
+4_S01_CD8.svs__1_14950_47840.tif
+4_S01_CD8.svs__1_14950_47840.tif-(Colour_1):   max:   255  min: 0  mean: 80.9175  area: 9000000  std:66.3662
+******* NUC area detected
+4_S01_CD8.svs__1_14950_47840.tif-(Colour_3):   max:   255  min: 0  mean: 17.5732  area: 9000000  std:36.785
+4_S01_CD8.svs__1_14950_50830.tif
+  
+4_S01_CD8.svs__1_14950_50830.tif
+4_S01_CD8.svs__1_14950_50830.tif-(Colour_1):   max:   255  min: 0  mean: 69.8169  area: 9000000  std:60.0121
+******* NUC area detected
+4_S01_CD8.svs__1_14950_50830.tif-(Colour_3):   max:   255  min: 0  mean: 18.4083  area: 9000000  std:33.122
+4_S01_CD8.svs__1_14950_53820.tif
+  
+4_S01_CD8.svs__1_14950_53820.tif
+4_S01_CD8.svs__1_14950_53820.tif-(Colour_1):   max:   255  min: 0  mean: 67.4847  area: 9000000  std:60.8221
+******* NUC area detected
+4_S01_CD8.svs__1_14950_53820.tif-(Colour_3):   max:   255  min: 0  mean: 23.6805  area: 9000000  std:38.7912
+4_S01_CD8.svs__1_14950_5980.tif
+  
+4_S01_CD8.svs__1_14950_5980.tif
+4_S01_CD8.svs__1_14950_5980.tif-(Colour_1):   max:   255  min: 0  mean: 57.6607  area: 9000000  std:57.3526
+******* NUC area detected
+4_S01_CD8.svs__1_14950_5980.tif-(Colour_3):   max:   255  min: 0  mean: 17.0109  area: 9000000  std:26.7753
+4_S01_CD8.svs__1_14950_8970.tif
+  
+4_S01_CD8.svs__1_14950_8970.tif
+4_S01_CD8.svs__1_14950_8970.tif-(Colour_1):   max:   255  min: 0  mean: 70.208  area: 9000000  std:59.5282
+******* NUC area detected
+4_S01_CD8.svs__1_14950_8970.tif-(Colour_3):   max:   255  min: 0  mean: 13.9441  area: 9000000  std:25.7677
+4_S01_CD8.svs__1_17940_11960.tif
+  
+4_S01_CD8.svs__1_17940_11960.tif
+4_S01_CD8.svs__1_17940_11960.tif-(Colour_1):   max:   255  min: 0  mean: 63.4605  area: 9000000  std:60.2005
+******* NUC area detected
+4_S01_CD8.svs__1_17940_11960.tif-(Colour_3):   max:   255  min: 0  mean: 19.5338  area: 9000000  std:37.9349
+4_S01_CD8.svs__1_17940_14950.tif
+  
+4_S01_CD8.svs__1_17940_14950.tif
+4_S01_CD8.svs__1_17940_14950.tif-(Colour_1):   max:   255  min: 0  mean: 61.6827  area: 9000000  std:60.6703
+******* NUC area detected
+4_S01_CD8.svs__1_17940_14950.tif-(Colour_3):   max:   255  min: 0  mean: 24.1825  area: 9000000  std:46.9659
+4_S01_CD8.svs__1_17940_17940.tif
+  
+4_S01_CD8.svs__1_17940_17940.tif
+4_S01_CD8.svs__1_17940_17940.tif-(Colour_1):   max:   255  min: 0  mean: 68.6313  area: 9000000  std:63.7595
+******* NUC area detected
+4_S01_CD8.svs__1_17940_17940.tif-(Colour_3):   max:   255  min: 0  mean: 20.9805  area: 9000000  std:42.172
+4_S01_CD8.svs__1_17940_20930.tif
+  
+4_S01_CD8.svs__1_17940_20930.tif
+4_S01_CD8.svs__1_17940_20930.tif-(Colour_1):   max:   255  min: 0  mean: 65.5269  area: 9000000  std:63.5028
+******* NUC area detected
+4_S01_CD8.svs__1_17940_20930.tif-(Colour_3):   max:   255  min: 0  mean: 25.8445  area: 9000000  std:50.5356
+4_S01_CD8.svs__1_17940_23920.tif
+  
+4_S01_CD8.svs__1_17940_23920.tif
+4_S01_CD8.svs__1_17940_23920.tif-(Colour_1):   max:   255  min: 0  mean: 76.2148  area: 9000000  std:64.8287
+******* NUC area detected
+4_S01_CD8.svs__1_17940_23920.tif-(Colour_3):   max:   255  min: 0  mean: 29.2325  area: 9000000  std:59.8802
+4_S01_CD8.svs__1_17940_26910.tif
+  
+4_S01_CD8.svs__1_17940_26910.tif
+4_S01_CD8.svs__1_17940_26910.tif-(Colour_1):   max:   255  min: 0  mean: 70.9274  area: 9000000  std:61.5592
+******* NUC area detected
+4_S01_CD8.svs__1_17940_26910.tif-(Colour_3):   max:   255  min: 0  mean: 25.9547  area: 9000000  std:52.6402
+4_S01_CD8.svs__1_17940_29900.tif
+  
+4_S01_CD8.svs__1_17940_29900.tif
+4_S01_CD8.svs__1_17940_29900.tif-(Colour_1):   max:   255  min: 0  mean: 69.6018  area: 9000000  std:60.1652
+******* NUC area detected
+4_S01_CD8.svs__1_17940_29900.tif-(Colour_3):   max:   255  min: 0  mean: 21.8422  area: 9000000  std:44.4314
+4_S01_CD8.svs__1_17940_32890.tif
+  
+4_S01_CD8.svs__1_17940_32890.tif
+4_S01_CD8.svs__1_17940_32890.tif-(Colour_1):   max:   255  min: 0  mean: 53.8516  area: 9000000  std:55.5031
+******* NUC area detected
+4_S01_CD8.svs__1_17940_32890.tif-(Colour_3):   max:   255  min: 0  mean: 23.6072  area: 9000000  std:40.5946
+4_S01_CD8.svs__1_17940_35880.tif
+  
+4_S01_CD8.svs__1_17940_35880.tif
+4_S01_CD8.svs__1_17940_35880.tif-(Colour_1):   max:   255  min: 0  mean: 45.6707  area: 9000000  std:53.0406
+******* NUC area detected
+4_S01_CD8.svs__1_17940_35880.tif-(Colour_3):   max:   255  min: 0  mean: 25.4421  area: 9000000  std:37.7643
+4_S01_CD8.svs__1_17940_38870.tif
+  
+4_S01_CD8.svs__1_17940_38870.tif
+4_S01_CD8.svs__1_17940_38870.tif-(Colour_1):   max:   255  min: 0  mean: 54.1179  area: 9000000  std:56.5802
+******* NUC area detected
+4_S01_CD8.svs__1_17940_38870.tif-(Colour_3):   max:   255  min: 0  mean: 21.6208  area: 9000000  std:34.4352
+4_S01_CD8.svs__1_17940_41860.tif
+  
+4_S01_CD8.svs__1_17940_41860.tif
+4_S01_CD8.svs__1_17940_41860.tif-(Colour_1):   max:   255  min: 0  mean: 59.0249  area: 9000000  std:58.355
+******* NUC area detected
+4_S01_CD8.svs__1_17940_41860.tif-(Colour_3):   max:   255  min: 0  mean: 24.0965  area: 9000000  std:41.9319
+4_S01_CD8.svs__1_17940_44850.tif
+  
+4_S01_CD8.svs__1_17940_44850.tif
+4_S01_CD8.svs__1_17940_44850.tif-(Colour_1):   max:   255  min: 0  mean: 63.4409  area: 9000000  std:57.7579
+******* NUC area detected
+4_S01_CD8.svs__1_17940_44850.tif-(Colour_3):   max:   255  min: 0  mean: 20.5991  area: 9000000  std:37.8952
+4_S01_CD8.svs__1_17940_47840.tif
+  
+4_S01_CD8.svs__1_17940_47840.tif
+4_S01_CD8.svs__1_17940_47840.tif-(Colour_1):   max:   255  min: 0  mean: 61.4341  area: 9000000  std:55.4997
+******* NUC area detected
+4_S01_CD8.svs__1_17940_47840.tif-(Colour_3):   max:   255  min: 0  mean: 20.1414  area: 9000000  std:37.6906
+4_S01_CD8.svs__1_17940_50830.tif
+  
+4_S01_CD8.svs__1_17940_50830.tif
+4_S01_CD8.svs__1_17940_50830.tif-(Colour_1):   max:   255  min: 0  mean: 56.9043  area: 9000000  std:54.7172
+******* NUC area detected
+4_S01_CD8.svs__1_17940_50830.tif-(Colour_3):   max:   255  min: 0  mean: 20.8053  area: 9000000  std:37.4814
+4_S01_CD8.svs__1_17940_53820.tif
+  
+4_S01_CD8.svs__1_17940_53820.tif
+4_S01_CD8.svs__1_17940_53820.tif-(Colour_1):   max:   255  min: 0  mean: 57.5282  area: 9000000  std:54.9393
+******* NUC area detected
+4_S01_CD8.svs__1_17940_53820.tif-(Colour_3):   max:   255  min: 0  mean: 21.8296  area: 9000000  std:38.6843
+4_S01_CD8.svs__1_17940_56810.tif
+  
+4_S01_CD8.svs__1_17940_56810.tif
+4_S01_CD8.svs__1_17940_56810.tif-(Colour_1):   max:   255  min: 0  mean: 65.0374  area: 9000000  std:56.9873
+******* NUC area detected
+4_S01_CD8.svs__1_17940_56810.tif-(Colour_3):   max:   255  min: 0  mean: 23.796  area: 9000000  std:44.9424
+4_S01_CD8.svs__1_17940_5980.tif
+  
+4_S01_CD8.svs__1_17940_5980.tif
+4_S01_CD8.svs__1_17940_5980.tif-(Colour_1):   max:   255  min: 0  mean: 69.8505  area: 9000000  std:59.8679
+******* NUC area detected
+4_S01_CD8.svs__1_17940_5980.tif-(Colour_3):   max:   255  min: 0  mean: 17.8739  area: 9000000  std:37.604
+4_S01_CD8.svs__1_17940_59800.tif
+  
+4_S01_CD8.svs__1_17940_59800.tif
+4_S01_CD8.svs__1_17940_59800.tif-(Colour_1):   max:   255  min: 0  mean: 65.433  area: 9000000  std:56.6351
+******* NUC area detected
+4_S01_CD8.svs__1_17940_59800.tif-(Colour_3):   max:   255  min: 0  mean: 23.7137  area: 9000000  std:44.027
+4_S01_CD8.svs__1_17940_62790.tif
+  
+4_S01_CD8.svs__1_17940_62790.tif
+4_S01_CD8.svs__1_17940_62790.tif-(Colour_1):   max:   255  min: 0  mean: 70.9967  area: 9000000  std:60.5305
+******* NUC area detected
+4_S01_CD8.svs__1_17940_62790.tif-(Colour_3):   max:   255  min: 0  mean: 27.3872  area: 9000000  std:43.8611
+4_S01_CD8.svs__1_17940_8970.tif
+  
+4_S01_CD8.svs__1_17940_8970.tif
+4_S01_CD8.svs__1_17940_8970.tif-(Colour_1):   max:   255  min: 0  mean: 65.4984  area: 9000000  std:58.0084
+******* NUC area detected
+4_S01_CD8.svs__1_17940_8970.tif-(Colour_3):   max:   255  min: 0  mean: 18.7793  area: 9000000  std:38.1116
+4_S01_CD8.svs__1_20930_11960.tif
+  
+4_S01_CD8.svs__1_20930_11960.tif
+4_S01_CD8.svs__1_20930_11960.tif-(Colour_1):   max:   255  min: 0  mean: 62.6331  area: 9000000  std:58.7876
+******* NUC area detected
+4_S01_CD8.svs__1_20930_11960.tif-(Colour_3):   max:   255  min: 0  mean: 28.3098  area: 9000000  std:54.3871
+4_S01_CD8.svs__1_20930_14950.tif
+  
+4_S01_CD8.svs__1_20930_14950.tif
+4_S01_CD8.svs__1_20930_14950.tif-(Colour_1):   max:   255  min: 0  mean: 55.821  area: 9000000  std:57.0758
+******* NUC area detected
+4_S01_CD8.svs__1_20930_14950.tif-(Colour_3):   max:   255  min: 0  mean: 28.2825  area: 9000000  std:51.0492
+4_S01_CD8.svs__1_20930_17940.tif
+  
+4_S01_CD8.svs__1_20930_17940.tif
+4_S01_CD8.svs__1_20930_17940.tif-(Colour_1):   max:   255  min: 0  mean: 58.9256  area: 9000000  std:60.369
+******* NUC area detected
+4_S01_CD8.svs__1_20930_17940.tif-(Colour_3):   max:   255  min: 0  mean: 29.7817  area: 9000000  std:54.2375
+4_S01_CD8.svs__1_20930_20930.tif
+  
+4_S01_CD8.svs__1_20930_20930.tif
+4_S01_CD8.svs__1_20930_20930.tif-(Colour_1):   max:   255  min: 0  mean: 63.4736  area: 9000000  std:62.9606
+******* NUC area detected
+4_S01_CD8.svs__1_20930_20930.tif-(Colour_3):   max:   255  min: 0  mean: 35.0588  area: 9000000  std:59.7501
+4_S01_CD8.svs__1_20930_23920.tif
+  
+4_S01_CD8.svs__1_20930_23920.tif
+4_S01_CD8.svs__1_20930_23920.tif-(Colour_1):   max:   255  min: 0  mean: 67.2846  area: 9000000  std:64.3659
+******* NUC area detected
+4_S01_CD8.svs__1_20930_23920.tif-(Colour_3):   max:   255  min: 0  mean: 23.9582  area: 9000000  std:44.7401
+4_S01_CD8.svs__1_20930_26910.tif
+  
+4_S01_CD8.svs__1_20930_26910.tif
+4_S01_CD8.svs__1_20930_26910.tif-(Colour_1):   max:   255  min: 0  mean: 72.8817  area: 9000000  std:61.9098
+******* NUC area detected
+4_S01_CD8.svs__1_20930_26910.tif-(Colour_3):   max:   255  min: 0  mean: 24.2944  area: 9000000  std:50.7207
+4_S01_CD8.svs__1_20930_29900.tif
+  
+4_S01_CD8.svs__1_20930_29900.tif
+4_S01_CD8.svs__1_20930_29900.tif-(Colour_1):   max:   255  min: 0  mean: 77.2173  area: 9000000  std:62.0008
+******* NUC area detected
+4_S01_CD8.svs__1_20930_29900.tif-(Colour_3):   max:   255  min: 0  mean: 16.5524  area: 9000000  std:36.065
+4_S01_CD8.svs__1_20930_32890.tif
+  
+4_S01_CD8.svs__1_20930_32890.tif
+4_S01_CD8.svs__1_20930_32890.tif-(Colour_1):   max:   255  min: 0  mean: 69.4553  area: 9000000  std:61.5229
+******* NUC area detected
+4_S01_CD8.svs__1_20930_32890.tif-(Colour_3):   max:   255  min: 0  mean: 17.6253  area: 9000000  std:35.2454
+4_S01_CD8.svs__1_20930_35880.tif
+  
+4_S01_CD8.svs__1_20930_35880.tif
+4_S01_CD8.svs__1_20930_35880.tif-(Colour_1):   max:   255  min: 0  mean: 66.3814  area: 9000000  std:59.3412
+******* NUC area detected
+4_S01_CD8.svs__1_20930_35880.tif-(Colour_3):   max:   255  min: 0  mean: 18.6277  area: 9000000  std:35.991
+4_S01_CD8.svs__1_20930_38870.tif
+  
+4_S01_CD8.svs__1_20930_38870.tif
+4_S01_CD8.svs__1_20930_38870.tif-(Colour_1):   max:   255  min: 0  mean: 61.5456  area: 9000000  std:55.4812
+******* NUC area detected
+4_S01_CD8.svs__1_20930_38870.tif-(Colour_3):   max:   255  min: 0  mean: 17.6954  area: 9000000  std:31.7671
+4_S01_CD8.svs__1_20930_41860.tif
+  
+4_S01_CD8.svs__1_20930_41860.tif
+4_S01_CD8.svs__1_20930_41860.tif-(Colour_1):   max:   255  min: 0  mean: 59.3943  area: 9000000  std:55.9833
+******* NUC area detected
+4_S01_CD8.svs__1_20930_41860.tif-(Colour_3):   max:   255  min: 0  mean: 19.098  area: 9000000  std:32.2425
+4_S01_CD8.svs__1_20930_44850.tif
+  
+4_S01_CD8.svs__1_20930_44850.tif
+4_S01_CD8.svs__1_20930_44850.tif-(Colour_1):   max:   255  min: 0  mean: 54.3408  area: 9000000  std:53.6156
+******* NUC area detected
+4_S01_CD8.svs__1_20930_44850.tif-(Colour_3):   max:   255  min: 0  mean: 22.5699  area: 9000000  std:37.9645
+4_S01_CD8.svs__1_20930_47840.tif
+  
+4_S01_CD8.svs__1_20930_47840.tif
+4_S01_CD8.svs__1_20930_47840.tif-(Colour_1):   max:   255  min: 0  mean: 48.6504  area: 9000000  std:52.7104
+******* NUC area detected
+4_S01_CD8.svs__1_20930_47840.tif-(Colour_3):   max:   255  min: 0  mean: 25.8098  area: 9000000  std:42.0357
+4_S01_CD8.svs__1_20930_50830.tif
+  
+4_S01_CD8.svs__1_20930_50830.tif
+4_S01_CD8.svs__1_20930_50830.tif-(Colour_1):   max:   255  min: 0  mean: 47.5171  area: 9000000  std:50.9898
+******* NUC area detected
+4_S01_CD8.svs__1_20930_50830.tif-(Colour_3):   max:   255  min: 0  mean: 19.8013  area: 9000000  std:27.7419
+4_S01_CD8.svs__1_20930_53820.tif
+  
+4_S01_CD8.svs__1_20930_53820.tif
+4_S01_CD8.svs__1_20930_53820.tif-(Colour_1):   max:   255  min: 0  mean: 46.3666  area: 9000000  std:50.9588
+******* NUC area detected
+4_S01_CD8.svs__1_20930_53820.tif-(Colour_3):   max:   255  min: 0  mean: 21.0343  area: 9000000  std:31.1648
+4_S01_CD8.svs__1_20930_56810.tif
+  
+4_S01_CD8.svs__1_20930_56810.tif
+4_S01_CD8.svs__1_20930_56810.tif-(Colour_1):   max:   255  min: 0  mean: 51.0981  area: 9000000  std:52.8688
+******* NUC area detected
+4_S01_CD8.svs__1_20930_56810.tif-(Colour_3):   max:   255  min: 0  mean: 22.8356  area: 9000000  std:37.5311
+4_S01_CD8.svs__1_20930_5980.tif
+  
+4_S01_CD8.svs__1_20930_5980.tif
+4_S01_CD8.svs__1_20930_5980.tif-(Colour_1):   max:   255  min: 0  mean: 59.4794  area: 9000000  std:57.6237
+******* NUC area detected
+4_S01_CD8.svs__1_20930_5980.tif-(Colour_3):   max:   255  min: 0  mean: 27.1125  area: 9000000  std:50.4138
+4_S01_CD8.svs__1_20930_59800.tif
+  
+4_S01_CD8.svs__1_20930_59800.tif
+4_S01_CD8.svs__1_20930_59800.tif-(Colour_1):   max:   255  min: 0  mean: 58.9072  area: 9000000  std:51.7716
+******* NUC area detected
+4_S01_CD8.svs__1_20930_59800.tif-(Colour_3):   max:   255  min: 0  mean: 17.9779  area: 9000000  std:31.7549
+4_S01_CD8.svs__1_20930_62790.tif
+  
+4_S01_CD8.svs__1_20930_62790.tif
+4_S01_CD8.svs__1_20930_62790.tif-(Colour_1):   max:   255  min: 0  mean: 55.0713  area: 9000000  std:52.1075
+******* NUC area detected
+4_S01_CD8.svs__1_20930_62790.tif-(Colour_3):   max:   255  min: 0  mean: 21.0736  area: 9000000  std:36.6466
+4_S01_CD8.svs__1_20930_65780.tif
+  
+4_S01_CD8.svs__1_20930_65780.tif
+4_S01_CD8.svs__1_20930_65780.tif-(Colour_1):   max:   255  min: 0  mean: 57.4796  area: 9000000  std:55.5296
+******* NUC area detected
+4_S01_CD8.svs__1_20930_65780.tif-(Colour_3):   max:   255  min: 0  mean: 22.2124  area: 9000000  std:37.9358
+4_S01_CD8.svs__1_20930_68770.tif
+  
+4_S01_CD8.svs__1_20930_68770.tif
+4_S01_CD8.svs__1_20930_68770.tif-(Colour_1):   max:   255  min: 0  mean: 67.0242  area: 9000000  std:57.2362
+******* NUC area detected
+4_S01_CD8.svs__1_20930_68770.tif-(Colour_3):   max:   255  min: 0  mean: 23.0561  area: 9000000  std:43.0918
+4_S01_CD8.svs__1_20930_77740.tif
+  
+4_S01_CD8.svs__1_20930_77740.tif
+4_S01_CD8.svs__1_20930_77740.tif-(Colour_1):   max:   255  min: 0  mean: 64.6626  area: 9000000  std:55.6259
+******* NUC area detected
+4_S01_CD8.svs__1_20930_77740.tif-(Colour_3):   max:   255  min: 0  mean: 21.7141  area: 9000000  std:29.9659
+4_S01_CD8.svs__1_20930_8970.tif
+  
+4_S01_CD8.svs__1_20930_8970.tif
+4_S01_CD8.svs__1_20930_8970.tif-(Colour_1):   max:   255  min: 0  mean: 62.9377  area: 9000000  std:61.3272
+******* NUC area detected
+4_S01_CD8.svs__1_20930_8970.tif-(Colour_3):   max:   255  min: 0  mean: 37.0024  area: 9000000  std:65.3757
+4_S01_CD8.svs__1_23920_101660.tif
+  
+4_S01_CD8.svs__1_23920_101660.tif
+4_S01_CD8.svs__1_23920_101660.tif-(Colour_1):   max:   255  min: 0  mean: 43.1613  area: 9000000  std:53.3243
+******* NUC area detected
+4_S01_CD8.svs__1_23920_101660.tif-(Colour_3):   max:   255  min: 0  mean: 32.3701  area: 9000000  std:43.9606
+4_S01_CD8.svs__1_23920_11960.tif
+  
+4_S01_CD8.svs__1_23920_11960.tif
+4_S01_CD8.svs__1_23920_11960.tif-(Colour_1):   max:   255  min: 0  mean: 57.2189  area: 9000000  std:56.8221
+******* NUC area detected
+4_S01_CD8.svs__1_23920_11960.tif-(Colour_3):   max:   255  min: 0  mean: 21.8985  area: 9000000  std:40.1979
+4_S01_CD8.svs__1_23920_14950.tif
+  
+4_S01_CD8.svs__1_23920_14950.tif
+4_S01_CD8.svs__1_23920_14950.tif-(Colour_1):   max:   255  min: 0  mean: 55.5597  area: 9000000  std:58.8666
+******* NUC area detected
+4_S01_CD8.svs__1_23920_14950.tif-(Colour_3):   max:   255  min: 0  mean: 37.3087  area: 9000000  std:63.8561
+4_S01_CD8.svs__1_23920_17940.tif
+  
+4_S01_CD8.svs__1_23920_17940.tif
+4_S01_CD8.svs__1_23920_17940.tif-(Colour_1):   max:   255  min: 0  mean: 56.172  area: 9000000  std:59.4474
+******* NUC area detected
+4_S01_CD8.svs__1_23920_17940.tif-(Colour_3):   max:   255  min: 0  mean: 36.4528  area: 9000000  std:61.6364
+4_S01_CD8.svs__1_23920_26910.tif
+  
+4_S01_CD8.svs__1_23920_26910.tif
+4_S01_CD8.svs__1_23920_26910.tif-(Colour_1):   max:   255  min: 0  mean: 63.7699  area: 9000000  std:59.5072
+******* NUC area detected
+4_S01_CD8.svs__1_23920_26910.tif-(Colour_3):   max:   255  min: 0  mean: 28.1571  area: 9000000  std:54.1861
+4_S01_CD8.svs__1_23920_29900.tif
+  
+4_S01_CD8.svs__1_23920_29900.tif
+4_S01_CD8.svs__1_23920_29900.tif-(Colour_1):   max:   255  min: 0  mean: 63.9955  area: 9000000  std:59.7266
+******* NUC area detected
+4_S01_CD8.svs__1_23920_29900.tif-(Colour_3):   max:   255  min: 0  mean: 27.1077  area: 9000000  std:52.2617
+4_S01_CD8.svs__1_23920_32890.tif
+  
+4_S01_CD8.svs__1_23920_32890.tif
+4_S01_CD8.svs__1_23920_32890.tif-(Colour_1):   max:   255  min: 0  mean: 60.3377  area: 9000000  std:57.1804
+******* NUC area detected
+4_S01_CD8.svs__1_23920_32890.tif-(Colour_3):   max:   255  min: 0  mean: 23.3953  area: 9000000  std:44.7317
+4_S01_CD8.svs__1_23920_35880.tif
+  
+4_S01_CD8.svs__1_23920_35880.tif
+4_S01_CD8.svs__1_23920_35880.tif-(Colour_1):   max:   255  min: 0  mean: 63.3482  area: 9000000  std:57.7155
+******* NUC area detected
+4_S01_CD8.svs__1_23920_35880.tif-(Colour_3):   max:   255  min: 0  mean: 21.741  area: 9000000  std:42.8649
+4_S01_CD8.svs__1_23920_38870.tif
+  
+4_S01_CD8.svs__1_23920_38870.tif
+4_S01_CD8.svs__1_23920_38870.tif-(Colour_1):   max:   255  min: 0  mean: 62.5704  area: 9000000  std:55.4803
+******* NUC area detected
+4_S01_CD8.svs__1_23920_38870.tif-(Colour_3):   max:   255  min: 0  mean: 18.8173  area: 9000000  std:35.4694
+4_S01_CD8.svs__1_23920_41860.tif
+  
+4_S01_CD8.svs__1_23920_41860.tif
+4_S01_CD8.svs__1_23920_41860.tif-(Colour_1):   max:   255  min: 0  mean: 68.3935  area: 9000000  std:58.334
+******* NUC area detected
+4_S01_CD8.svs__1_23920_41860.tif-(Colour_3):   max:   255  min: 0  mean: 26.4556  area: 9000000  std:52.2766
+4_S01_CD8.svs__1_23920_44850.tif
+  
+4_S01_CD8.svs__1_23920_44850.tif
+4_S01_CD8.svs__1_23920_44850.tif-(Colour_1):   max:   255  min: 0  mean: 58.2659  area: 9000000  std:57.1587
+******* NUC area detected
+4_S01_CD8.svs__1_23920_44850.tif-(Colour_3):   max:   255  min: 0  mean: 28.9753  area: 9000000  std:52.984
+4_S01_CD8.svs__1_23920_47840.tif
+  
+4_S01_CD8.svs__1_23920_47840.tif
+4_S01_CD8.svs__1_23920_47840.tif-(Colour_1):   max:   255  min: 0  mean: 55.7317  area: 9000000  std:56.1813
+******* NUC area detected
+4_S01_CD8.svs__1_23920_47840.tif-(Colour_3):   max:   255  min: 0  mean: 24.5832  area: 9000000  std:44.0597
+4_S01_CD8.svs__1_23920_50830.tif
+  
+4_S01_CD8.svs__1_23920_50830.tif
+4_S01_CD8.svs__1_23920_50830.tif-(Colour_1):   max:   255  min: 0  mean: 57.8898  area: 9000000  std:54.819
+******* NUC area detected
+4_S01_CD8.svs__1_23920_50830.tif-(Colour_3):   max:   255  min: 0  mean: 17.5904  area: 9000000  std:28.5606
+4_S01_CD8.svs__1_23920_53820.tif
+  
+4_S01_CD8.svs__1_23920_53820.tif
+4_S01_CD8.svs__1_23920_53820.tif-(Colour_1):   max:   255  min: 0  mean: 59.8677  area: 9000000  std:54.3516
+******* NUC area detected
+4_S01_CD8.svs__1_23920_53820.tif-(Colour_3):   max:   255  min: 0  mean: 16.8706  area: 9000000  std:28.4576
+4_S01_CD8.svs__1_23920_56810.tif
+  
+4_S01_CD8.svs__1_23920_56810.tif
+4_S01_CD8.svs__1_23920_56810.tif-(Colour_1):   max:   255  min: 0  mean: 54.7195  area: 9000000  std:54.2149
+******* NUC area detected
+4_S01_CD8.svs__1_23920_56810.tif-(Colour_3):   max:   255  min: 0  mean: 17.7549  area: 9000000  std:27.0156
+4_S01_CD8.svs__1_23920_5980.tif
+  
+4_S01_CD8.svs__1_23920_5980.tif
+4_S01_CD8.svs__1_23920_5980.tif-(Colour_1):   max:   255  min: 0  mean: 58.2611  area: 9000000  std:58.3873
+******* NUC area detected
+4_S01_CD8.svs__1_23920_5980.tif-(Colour_3):   max:   255  min: 0  mean: 27.0013  area: 9000000  std:50.1086
+4_S01_CD8.svs__1_23920_59800.tif
+  
+4_S01_CD8.svs__1_23920_59800.tif
+4_S01_CD8.svs__1_23920_59800.tif-(Colour_1):   max:   255  min: 0  mean: 59.1218  area: 9000000  std:54.939
+******* NUC area detected
+4_S01_CD8.svs__1_23920_59800.tif-(Colour_3):   max:   255  min: 0  mean: 20.8925  area: 9000000  std:38.6875
+4_S01_CD8.svs__1_23920_62790.tif
+  
+4_S01_CD8.svs__1_23920_62790.tif
+4_S01_CD8.svs__1_23920_62790.tif-(Colour_1):   max:   255  min: 0  mean: 53.4578  area: 9000000  std:54.3882
+******* NUC area detected
+4_S01_CD8.svs__1_23920_62790.tif-(Colour_3):   max:   255  min: 0  mean: 24.734  area: 9000000  std:43.1938
+4_S01_CD8.svs__1_23920_65780.tif
+  
+4_S01_CD8.svs__1_23920_65780.tif
+4_S01_CD8.svs__1_23920_65780.tif-(Colour_1):   max:   255  min: 0  mean: 49.9073  area: 9000000  std:52.8532
+******* NUC area detected
+4_S01_CD8.svs__1_23920_65780.tif-(Colour_3):   max:   255  min: 0  mean: 20.9511  area: 9000000  std:32.2166
+4_S01_CD8.svs__1_23920_68770.tif
+  
+4_S01_CD8.svs__1_23920_68770.tif
+4_S01_CD8.svs__1_23920_68770.tif-(Colour_1):   max:   255  min: 0  mean: 56.3069  area: 9000000  std:55.0547
+******* NUC area detected
+4_S01_CD8.svs__1_23920_68770.tif-(Colour_3):   max:   255  min: 0  mean: 22.6581  area: 9000000  std:41.0841
+4_S01_CD8.svs__1_23920_71760.tif
+  
+4_S01_CD8.svs__1_23920_71760.tif
+4_S01_CD8.svs__1_23920_71760.tif-(Colour_1):   max:   255  min: 0  mean: 49.7259  area: 9000000  std:53.7288
+******* NUC area detected
+4_S01_CD8.svs__1_23920_71760.tif-(Colour_3):   max:   255  min: 0  mean: 25.4345  area: 9000000  std:42.5476
+4_S01_CD8.svs__1_23920_74750.tif
+  
+4_S01_CD8.svs__1_23920_74750.tif
+4_S01_CD8.svs__1_23920_74750.tif-(Colour_1):   max:   255  min: 0  mean: 56.8017  area: 9000000  std:57.7343
+******* NUC area detected
+4_S01_CD8.svs__1_23920_74750.tif-(Colour_3):   max:   255  min: 0  mean: 22.8595  area: 9000000  std:39.6676
+4_S01_CD8.svs__1_23920_77740.tif
+  
+4_S01_CD8.svs__1_23920_77740.tif
+4_S01_CD8.svs__1_23920_77740.tif-(Colour_1):   max:   255  min: 0  mean: 60.869  area: 9000000  std:56.481
+******* NUC area detected
+4_S01_CD8.svs__1_23920_77740.tif-(Colour_3):   max:   255  min: 0  mean: 18.8476  area: 9000000  std:31.9429
+4_S01_CD8.svs__1_23920_80730.tif
+  
+4_S01_CD8.svs__1_23920_80730.tif
+4_S01_CD8.svs__1_23920_80730.tif-(Colour_1):   max:   255  min: 0  mean: 59.3441  area: 9000000  std:53.9033
+******* NUC area detected
+4_S01_CD8.svs__1_23920_80730.tif-(Colour_3):   max:   255  min: 0  mean: 21.4014  area: 9000000  std:37.2929
+4_S01_CD8.svs__1_23920_83720.tif
+  
+4_S01_CD8.svs__1_23920_83720.tif
+4_S01_CD8.svs__1_23920_83720.tif-(Colour_1):   max:   255  min: 0  mean: 74.2994  area: 9000000  std:63.3891
+******* NUC area detected
+4_S01_CD8.svs__1_23920_83720.tif-(Colour_3):   max:   255  min: 0  mean: 29.1579  area: 9000000  std:47.2175
+4_S01_CD8.svs__1_23920_86710.tif
+  
+4_S01_CD8.svs__1_23920_86710.tif
+4_S01_CD8.svs__1_23920_86710.tif-(Colour_1):   max:   255  min: 0  mean: 72.3504  area: 9000000  std:59.1148
+******* NUC area detected
+4_S01_CD8.svs__1_23920_86710.tif-(Colour_3):   max:   255  min: 0  mean: 28.2418  area: 9000000  std:46.5331
+4_S01_CD8.svs__1_23920_8970.tif
+  
+4_S01_CD8.svs__1_23920_8970.tif
+4_S01_CD8.svs__1_23920_8970.tif-(Colour_1):   max:   255  min: 0  mean: 56.1871  area: 9000000  std:58.4936
+******* NUC area detected
+4_S01_CD8.svs__1_23920_8970.tif-(Colour_3):   max:   255  min: 0  mean: 26.6446  area: 9000000  std:48.76
+4_S01_CD8.svs__1_23920_89700.tif
+  
+4_S01_CD8.svs__1_23920_89700.tif
+4_S01_CD8.svs__1_23920_89700.tif-(Colour_1):   max:   255  min: 0  mean: 58.0511  area: 9000000  std:52.6529
+******* NUC area detected
+4_S01_CD8.svs__1_23920_89700.tif-(Colour_3):   max:   255  min: 0  mean: 28.0245  area: 9000000  std:45.4726
+4_S01_CD8.svs__1_23920_92690.tif
+  
+4_S01_CD8.svs__1_23920_92690.tif
+4_S01_CD8.svs__1_23920_92690.tif-(Colour_1):   max:   255  min: 0  mean: 54.8543  area: 9000000  std:53.2807
+******* NUC area detected
+4_S01_CD8.svs__1_23920_92690.tif-(Colour_3):   max:   255  min: 0  mean: 26.674  area: 9000000  std:41.3702
+4_S01_CD8.svs__1_23920_95680.tif
+  
+4_S01_CD8.svs__1_23920_95680.tif
+4_S01_CD8.svs__1_23920_95680.tif-(Colour_1):   max:   255  min: 0  mean: 53.0632  area: 9000000  std:54.8617
+******* NUC area detected
+4_S01_CD8.svs__1_23920_95680.tif-(Colour_3):   max:   255  min: 0  mean: 25.5068  area: 9000000  std:39.4504
+4_S01_CD8.svs__1_23920_98670.tif
+  
+4_S01_CD8.svs__1_23920_98670.tif
+4_S01_CD8.svs__1_23920_98670.tif-(Colour_1):   max:   255  min: 0  mean: 41.4127  area: 9000000  std:49.0555
+******* NUC area detected
+4_S01_CD8.svs__1_23920_98670.tif-(Colour_3):   max:   255  min: 0  mean: 26.1108  area: 9000000  std:32.6079
+4_S01_CD8.svs__1_26910_101660.tif
+  
+4_S01_CD8.svs__1_26910_101660.tif
+4_S01_CD8.svs__1_26910_101660.tif-(Colour_1):   max:   255  min: 0  mean: 55.7282  area: 9000000  std:58.973
+******* NUC area detected
+4_S01_CD8.svs__1_26910_101660.tif-(Colour_3):   max:   255  min: 0  mean: 35.1481  area: 9000000  std:57.2628
+4_S01_CD8.svs__1_26910_104650.tif
+  
+4_S01_CD8.svs__1_26910_104650.tif
+4_S01_CD8.svs__1_26910_104650.tif-(Colour_1):   max:   255  min: 0  mean: 55.9668  area: 9000000  std:60.8974
+******* NUC area detected
+4_S01_CD8.svs__1_26910_104650.tif-(Colour_3):   max:   255  min: 0  mean: 41.1657  area: 9000000  std:63.2979
+4_S01_CD8.svs__1_26910_107640.tif
+  
+4_S01_CD8.svs__1_26910_107640.tif
+4_S01_CD8.svs__1_26910_107640.tif-(Colour_1):   max:   255  min: 0  mean: 57.3902  area: 9000000  std:65.5385
+******* NUC area detected
+4_S01_CD8.svs__1_26910_107640.tif-(Colour_3):   max:   255  min: 0  mean: 32.9108  area: 9000000  std:50.5947
+4_S01_CD8.svs__1_26910_110630.tif
+  
+4_S01_CD8.svs__1_26910_110630.tif
+4_S01_CD8.svs__1_26910_110630.tif-(Colour_1):   max:   255  min: 0  mean: 65.3416  area: 9000000  std:70.3115
+******* NUC area detected
+4_S01_CD8.svs__1_26910_110630.tif-(Colour_3):   max:   255  min: 0  mean: 48.535  area: 9000000  std:69.6772
+4_S01_CD8.svs__1_26910_11960.tif
+  
+4_S01_CD8.svs__1_26910_11960.tif
+4_S01_CD8.svs__1_26910_11960.tif-(Colour_1):   max:   255  min: 0  mean: 55.4005  area: 9000000  std:56.3597
+******* NUC area detected
+4_S01_CD8.svs__1_26910_11960.tif-(Colour_3):   max:   255  min: 0  mean: 22.2907  area: 9000000  std:40.5176
+4_S01_CD8.svs__1_26910_14950.tif
+  
+4_S01_CD8.svs__1_26910_14950.tif
+4_S01_CD8.svs__1_26910_14950.tif-(Colour_1):   max:   255  min: 0  mean: 55.3721  area: 9000000  std:55.8997
+******* NUC area detected
+4_S01_CD8.svs__1_26910_14950.tif-(Colour_3):   max:   255  min: 0  mean: 20.9623  area: 9000000  std:36.5395
+4_S01_CD8.svs__1_26910_17940.tif
+  
+4_S01_CD8.svs__1_26910_17940.tif
+4_S01_CD8.svs__1_26910_17940.tif-(Colour_1):   max:   255  min: 0  mean: 58.4759  area: 9000000  std:57.7662
+******* NUC area detected
+4_S01_CD8.svs__1_26910_17940.tif-(Colour_3):   max:   255  min: 0  mean: 25.6889  area: 9000000  std:47.7101
+4_S01_CD8.svs__1_26910_26910.tif
+  
+4_S01_CD8.svs__1_26910_26910.tif
+4_S01_CD8.svs__1_26910_26910.tif-(Colour_1):   max:   255  min: 0  mean: 57.5056  area: 9000000  std:57.6156
+******* NUC area detected
+4_S01_CD8.svs__1_26910_26910.tif-(Colour_3):   max:   255  min: 0  mean: 23.8269  area: 9000000  std:43.5423
+4_S01_CD8.svs__1_26910_29900.tif
+  
+4_S01_CD8.svs__1_26910_29900.tif
+4_S01_CD8.svs__1_26910_29900.tif-(Colour_1):   max:   255  min: 0  mean: 58.4808  area: 9000000  std:57.6048
+******* NUC area detected
+4_S01_CD8.svs__1_26910_29900.tif-(Colour_3):   max:   255  min: 0  mean: 22.2377  area: 9000000  std:40.656
+4_S01_CD8.svs__1_26910_32890.tif
+  
+4_S01_CD8.svs__1_26910_32890.tif
+4_S01_CD8.svs__1_26910_32890.tif-(Colour_1):   max:   255  min: 0  mean: 57.6858  area: 9000000  std:57.9693
+******* NUC area detected
+4_S01_CD8.svs__1_26910_32890.tif-(Colour_3):   max:   255  min: 0  mean: 23.8291  area: 9000000  std:43.6674
+4_S01_CD8.svs__1_26910_35880.tif
+  
+4_S01_CD8.svs__1_26910_35880.tif
+4_S01_CD8.svs__1_26910_35880.tif-(Colour_1):   max:   255  min: 0  mean: 58.1451  area: 9000000  std:57.991
+******* NUC area detected
+4_S01_CD8.svs__1_26910_35880.tif-(Colour_3):   max:   255  min: 0  mean: 24.5752  area: 9000000  std:44.7231
+4_S01_CD8.svs__1_26910_47840.tif
+  
+4_S01_CD8.svs__1_26910_47840.tif
+4_S01_CD8.svs__1_26910_47840.tif-(Colour_1):   max:   255  min: 0  mean: 64.7442  area: 9000000  std:59.1989
+******* NUC area detected
+4_S01_CD8.svs__1_26910_47840.tif-(Colour_3):   max:   255  min: 0  mean: 21.1193  area: 9000000  std:41.4358
+4_S01_CD8.svs__1_26910_50830.tif
+  
+4_S01_CD8.svs__1_26910_50830.tif
+4_S01_CD8.svs__1_26910_50830.tif-(Colour_1):   max:   255  min: 0  mean: 63.3648  area: 9000000  std:57.7213
+******* NUC area detected
+4_S01_CD8.svs__1_26910_50830.tif-(Colour_3):   max:   255  min: 0  mean: 17.6769  area: 9000000  std:32.2027
+4_S01_CD8.svs__1_26910_53820.tif
+  
+4_S01_CD8.svs__1_26910_53820.tif
+4_S01_CD8.svs__1_26910_53820.tif-(Colour_1):   max:   255  min: 0  mean: 64.5758  area: 9000000  std:58.0316
+******* NUC area detected
+4_S01_CD8.svs__1_26910_53820.tif-(Colour_3):   max:   255  min: 0  mean: 18.0207  area: 9000000  std:33.1933
+4_S01_CD8.svs__1_26910_56810.tif
+  
+4_S01_CD8.svs__1_26910_56810.tif
+4_S01_CD8.svs__1_26910_56810.tif-(Colour_1):   max:   255  min: 0  mean: 62.9821  area: 9000000  std:56.5388
+******* NUC area detected
+4_S01_CD8.svs__1_26910_56810.tif-(Colour_3):   max:   255  min: 0  mean: 20.2099  area: 9000000  std:39.5431
+4_S01_CD8.svs__1_26910_5980.tif
+  
+4_S01_CD8.svs__1_26910_5980.tif
+4_S01_CD8.svs__1_26910_5980.tif-(Colour_1):   max:   255  min: 0  mean: 54.9796  area: 9000000  std:56.1934
+******* NUC area detected
+4_S01_CD8.svs__1_26910_5980.tif-(Colour_3):   max:   255  min: 0  mean: 22.5234  area: 9000000  std:38.988
+4_S01_CD8.svs__1_26910_59800.tif
+  
+4_S01_CD8.svs__1_26910_59800.tif
+4_S01_CD8.svs__1_26910_59800.tif-(Colour_1):   max:   255  min: 0  mean: 64.0339  area: 9000000  std:58.1807
+******* NUC area detected
+4_S01_CD8.svs__1_26910_59800.tif-(Colour_3):   max:   255  min: 0  mean: 19.8016  area: 9000000  std:37.7324
+4_S01_CD8.svs__1_26910_62790.tif
+  
+4_S01_CD8.svs__1_26910_62790.tif
+4_S01_CD8.svs__1_26910_62790.tif-(Colour_1):   max:   255  min: 0  mean: 60.5728  area: 9000000  std:56.6408
+******* NUC area detected
+4_S01_CD8.svs__1_26910_62790.tif-(Colour_3):   max:   255  min: 0  mean: 21.8071  area: 9000000  std:40.5187
+4_S01_CD8.svs__1_26910_65780.tif
+  
+4_S01_CD8.svs__1_26910_65780.tif
+4_S01_CD8.svs__1_26910_65780.tif-(Colour_1):   max:   255  min: 0  mean: 54.9909  area: 9000000  std:53.9533
+******* NUC area detected
+4_S01_CD8.svs__1_26910_65780.tif-(Colour_3):   max:   255  min: 0  mean: 22.2272  area: 9000000  std:39.5317
+4_S01_CD8.svs__1_26910_68770.tif
+  
+4_S01_CD8.svs__1_26910_68770.tif
+4_S01_CD8.svs__1_26910_68770.tif-(Colour_1):   max:   255  min: 0  mean: 53.9696  area: 9000000  std:56.3919
+******* NUC area detected
+4_S01_CD8.svs__1_26910_68770.tif-(Colour_3):   max:   255  min: 0  mean: 23.0154  area: 9000000  std:39.5598
+4_S01_CD8.svs__1_26910_71760.tif
+  
+4_S01_CD8.svs__1_26910_71760.tif
+4_S01_CD8.svs__1_26910_71760.tif-(Colour_1):   max:   255  min: 0  mean: 44.555  area: 9000000  std:54.6969
+******* NUC area detected
+4_S01_CD8.svs__1_26910_71760.tif-(Colour_3):   max:   255  min: 0  mean: 23.108  area: 9000000  std:35.5637
+4_S01_CD8.svs__1_26910_74750.tif
+  
+4_S01_CD8.svs__1_26910_74750.tif
+4_S01_CD8.svs__1_26910_74750.tif-(Colour_1):   max:   255  min: 0  mean: 51.543  area: 9000000  std:54.0292
+******* NUC area detected
+4_S01_CD8.svs__1_26910_74750.tif-(Colour_3):   max:   255  min: 0  mean: 21.3327  area: 9000000  std:35.1162
+4_S01_CD8.svs__1_26910_77740.tif
+  
+4_S01_CD8.svs__1_26910_77740.tif
+4_S01_CD8.svs__1_26910_77740.tif-(Colour_1):   max:   255  min: 0  mean: 56.7993  area: 9000000  std:54.3955
+******* NUC area detected
+4_S01_CD8.svs__1_26910_77740.tif-(Colour_3):   max:   255  min: 0  mean: 21.8454  area: 9000000  std:39.2856
+4_S01_CD8.svs__1_26910_80730.tif
+  
+4_S01_CD8.svs__1_26910_80730.tif
+4_S01_CD8.svs__1_26910_80730.tif-(Colour_1):   max:   255  min: 0  mean: 61.4543  area: 9000000  std:53.8707
+******* NUC area detected
+4_S01_CD8.svs__1_26910_80730.tif-(Colour_3):   max:   255  min: 0  mean: 18.7986  area: 9000000  std:33.7956
+4_S01_CD8.svs__1_26910_83720.tif
+  
+4_S01_CD8.svs__1_26910_83720.tif
+4_S01_CD8.svs__1_26910_83720.tif-(Colour_1):   max:   255  min: 0  mean: 61.4791  area: 9000000  std:52.5565
+******* NUC area detected
+4_S01_CD8.svs__1_26910_83720.tif-(Colour_3):   max:   255  min: 0  mean: 15.2567  area: 9000000  std:23.268
+4_S01_CD8.svs__1_26910_86710.tif
+  
+4_S01_CD8.svs__1_26910_86710.tif
+4_S01_CD8.svs__1_26910_86710.tif-(Colour_1):   max:   255  min: 0  mean: 65.8444  area: 9000000  std:54.011
+******* NUC area detected
+4_S01_CD8.svs__1_26910_86710.tif-(Colour_3):   max:   255  min: 0  mean: 15.8182  area: 9000000  std:26.339
+4_S01_CD8.svs__1_26910_8970.tif
+  
+4_S01_CD8.svs__1_26910_8970.tif
+4_S01_CD8.svs__1_26910_8970.tif-(Colour_1):   max:   255  min: 0  mean: 49.8245  area: 9000000  std:55.2469
+******* NUC area detected
+4_S01_CD8.svs__1_26910_8970.tif-(Colour_3):   max:   255  min: 0  mean: 27.06  area: 9000000  std:46.462
+4_S01_CD8.svs__1_26910_95680.tif
+  
+4_S01_CD8.svs__1_26910_95680.tif
+4_S01_CD8.svs__1_26910_95680.tif-(Colour_1):   max:   255  min: 0  mean: 67.1212  area: 9000000  std:58.1637
+******* NUC area detected
+4_S01_CD8.svs__1_26910_95680.tif-(Colour_3):   max:   255  min: 0  mean: 24.9741  area: 9000000  std:42.3575
+4_S01_CD8.svs__1_26910_98670.tif
+  
+4_S01_CD8.svs__1_26910_98670.tif
+4_S01_CD8.svs__1_26910_98670.tif-(Colour_1):   max:   255  min: 0  mean: 59.5548  area: 9000000  std:59.0591
+******* NUC area detected
+4_S01_CD8.svs__1_26910_98670.tif-(Colour_3):   max:   255  min: 0  mean: 29.4914  area: 9000000  std:51.9615
+4_S01_CD8.svs__1_29900_101660.tif
+  
+4_S01_CD8.svs__1_29900_101660.tif
+4_S01_CD8.svs__1_29900_101660.tif-(Colour_1):   max:   255  min: 0  mean: 66.006  area: 9000000  std:63.2268
+******* NUC area detected
+4_S01_CD8.svs__1_29900_101660.tif-(Colour_3):   max:   255  min: 0  mean: 30.8629  area: 9000000  std:55.7597
+4_S01_CD8.svs__1_29900_104650.tif
+  
+4_S01_CD8.svs__1_29900_104650.tif
+4_S01_CD8.svs__1_29900_104650.tif-(Colour_1):   max:   255  min: 0  mean: 65.9459  area: 9000000  std:65.3562
+******* NUC area detected
+4_S01_CD8.svs__1_29900_104650.tif-(Colour_3):   max:   255  min: 0  mean: 34.3096  area: 9000000  std:59.6671
+4_S01_CD8.svs__1_29900_107640.tif
+  
+4_S01_CD8.svs__1_29900_107640.tif
+4_S01_CD8.svs__1_29900_107640.tif-(Colour_1):   max:   255  min: 0  mean: 61.5533  area: 9000000  std:65.5235
+******* NUC area detected
+4_S01_CD8.svs__1_29900_107640.tif-(Colour_3):   max:   255  min: 0  mean: 35.753  area: 9000000  std:58.5492
+4_S01_CD8.svs__1_29900_110630.tif
+  
+4_S01_CD8.svs__1_29900_110630.tif
+4_S01_CD8.svs__1_29900_110630.tif-(Colour_1):   max:   255  min: 0  mean: 62.9758  area: 9000000  std:67.4063
+******* NUC area detected
+4_S01_CD8.svs__1_29900_110630.tif-(Colour_3):   max:   255  min: 0  mean: 46.1564  area: 9000000  std:70.0123
+4_S01_CD8.svs__1_29900_113620.tif
+  
+4_S01_CD8.svs__1_29900_113620.tif
+4_S01_CD8.svs__1_29900_113620.tif-(Colour_1):   max:   255  min: 0  mean: 53.9438  area: 9000000  std:66.5549
+******* NUC area detected
+4_S01_CD8.svs__1_29900_113620.tif-(Colour_3):   max:   255  min: 0  mean: 49.9647  area: 9000000  std:69.5024
+4_S01_CD8.svs__1_29900_116610.tif
+  
+4_S01_CD8.svs__1_29900_116610.tif
+4_S01_CD8.svs__1_29900_116610.tif-(Colour_1):   max:   255  min: 0  mean: 61.9746  area: 9000000  std:68.449
+******* NUC area detected
+4_S01_CD8.svs__1_29900_116610.tif-(Colour_3):   max:   255  min: 0  mean: 55.5885  area: 9000000  std:75.7431
+4_S01_CD8.svs__1_29900_11960.tif
+  
+4_S01_CD8.svs__1_29900_11960.tif
+4_S01_CD8.svs__1_29900_11960.tif-(Colour_1):   max:   255  min: 0  mean: 52.5049  area: 9000000  std:54.5374
+******* NUC area detected
+4_S01_CD8.svs__1_29900_11960.tif-(Colour_3):   max:   255  min: 0  mean: 20.9511  area: 9000000  std:35.5175
+4_S01_CD8.svs__1_29900_14950.tif
+  
+4_S01_CD8.svs__1_29900_14950.tif
+4_S01_CD8.svs__1_29900_14950.tif-(Colour_1):   max:   255  min: 0  mean: 61.221  area: 9000000  std:58.4447
+******* NUC area detected
+4_S01_CD8.svs__1_29900_14950.tif-(Colour_3):   max:   255  min: 0  mean: 21.3721  area: 9000000  std:40.8316
+4_S01_CD8.svs__1_29900_17940.tif
+  
+4_S01_CD8.svs__1_29900_17940.tif
+4_S01_CD8.svs__1_29900_17940.tif-(Colour_1):   max:   255  min: 0  mean: 61.4035  area: 9000000  std:59.0817
+******* NUC area detected
+4_S01_CD8.svs__1_29900_17940.tif-(Colour_3):   max:   255  min: 0  mean: 21.1242  area: 9000000  std:39.9417
+4_S01_CD8.svs__1_29900_20930.tif
+  
+4_S01_CD8.svs__1_29900_20930.tif
+4_S01_CD8.svs__1_29900_20930.tif-(Colour_1):   max:   255  min: 0  mean: 66.6104  area: 9000000  std:62.9503
+******* NUC area detected
+4_S01_CD8.svs__1_29900_20930.tif-(Colour_3):   max:   255  min: 0  mean: 29.1432  area: 9000000  std:56.2885
+4_S01_CD8.svs__1_29900_29900.tif
+  
+4_S01_CD8.svs__1_29900_29900.tif
+4_S01_CD8.svs__1_29900_29900.tif-(Colour_1):   max:   255  min: 0  mean: 56.3167  area: 9000000  std:58.2896
+******* NUC area detected
+4_S01_CD8.svs__1_29900_29900.tif-(Colour_3):   max:   255  min: 0  mean: 21.1041  area: 9000000  std:36.2377
+4_S01_CD8.svs__1_29900_32890.tif
+  
+4_S01_CD8.svs__1_29900_32890.tif
+4_S01_CD8.svs__1_29900_32890.tif-(Colour_1):   max:   255  min: 0  mean: 59.4788  area: 9000000  std:59.8246
+******* NUC area detected
+4_S01_CD8.svs__1_29900_32890.tif-(Colour_3):   max:   255  min: 0  mean: 22.4528  area: 9000000  std:41.6425
+4_S01_CD8.svs__1_29900_35880.tif
+  
+4_S01_CD8.svs__1_29900_35880.tif
+4_S01_CD8.svs__1_29900_35880.tif-(Colour_1):   max:   255  min: 0  mean: 58.2172  area: 9000000  std:58.3962
+******* NUC area detected
+4_S01_CD8.svs__1_29900_35880.tif-(Colour_3):   max:   255  min: 0  mean: 22.6825  area: 9000000  std:40.7926
+4_S01_CD8.svs__1_29900_47840.tif
+  
+4_S01_CD8.svs__1_29900_47840.tif
+4_S01_CD8.svs__1_29900_47840.tif-(Colour_1):   max:   255  min: 0  mean: 58.4863  area: 9000000  std:60.5586
+******* NUC area detected
+4_S01_CD8.svs__1_29900_47840.tif-(Colour_3):   max:   255  min: 0  mean: 27.2634  area: 9000000  std:49.5163
+4_S01_CD8.svs__1_29900_50830.tif
+  
+4_S01_CD8.svs__1_29900_50830.tif
+4_S01_CD8.svs__1_29900_50830.tif-(Colour_1):   max:   255  min: 0  mean: 66.1467  area: 9000000  std:61.0243
+******* NUC area detected
+4_S01_CD8.svs__1_29900_50830.tif-(Colour_3):   max:   255  min: 0  mean: 19.8058  area: 9000000  std:37.846
+4_S01_CD8.svs__1_29900_53820.tif
+  
+4_S01_CD8.svs__1_29900_53820.tif
+4_S01_CD8.svs__1_29900_53820.tif-(Colour_1):   max:   255  min: 0  mean: 60.9837  area: 9000000  std:60.2336
+******* NUC area detected
+4_S01_CD8.svs__1_29900_53820.tif-(Colour_3):   max:   255  min: 0  mean: 21.3528  area: 9000000  std:38.3645
+4_S01_CD8.svs__1_29900_56810.tif
+  
+4_S01_CD8.svs__1_29900_56810.tif
+4_S01_CD8.svs__1_29900_56810.tif-(Colour_1):   max:   255  min: 0  mean: 61.5503  area: 9000000  std:58.6725
+******* NUC area detected
+4_S01_CD8.svs__1_29900_56810.tif-(Colour_3):   max:   255  min: 0  mean: 25.3121  area: 9000000  std:47.3113
+4_S01_CD8.svs__1_29900_5980.tif
+  
+4_S01_CD8.svs__1_29900_5980.tif
+4_S01_CD8.svs__1_29900_5980.tif-(Colour_1):   max:   255  min: 0  mean: 50.7605  area: 9000000  std:55.4953
+******* NUC area detected
+4_S01_CD8.svs__1_29900_5980.tif-(Colour_3):   max:   255  min: 0  mean: 24.8814  area: 9000000  std:41.9306
+4_S01_CD8.svs__1_29900_59800.tif
+  
+4_S01_CD8.svs__1_29900_59800.tif
+4_S01_CD8.svs__1_29900_59800.tif-(Colour_1):   max:   255  min: 0  mean: 61.0134  area: 9000000  std:58.9571
+******* NUC area detected
+4_S01_CD8.svs__1_29900_59800.tif-(Colour_3):   max:   255  min: 0  mean: 21.9635  area: 9000000  std:39.8423
+4_S01_CD8.svs__1_29900_62790.tif
+  
+4_S01_CD8.svs__1_29900_62790.tif
+4_S01_CD8.svs__1_29900_62790.tif-(Colour_1):   max:   255  min: 0  mean: 66.8966  area: 9000000  std:60.2996
+******* NUC area detected
+4_S01_CD8.svs__1_29900_62790.tif-(Colour_3):   max:   255  min: 0  mean: 25.5904  area: 9000000  std:50.2092
+4_S01_CD8.svs__1_29900_65780.tif
+  
+4_S01_CD8.svs__1_29900_65780.tif
+4_S01_CD8.svs__1_29900_65780.tif-(Colour_1):   max:   255  min: 0  mean: 65.5259  area: 9000000  std:60.5681
+******* NUC area detected
+4_S01_CD8.svs__1_29900_65780.tif-(Colour_3):   max:   255  min: 0  mean: 20.6772  area: 9000000  std:39.4015
+4_S01_CD8.svs__1_29900_68770.tif
+  
+4_S01_CD8.svs__1_29900_68770.tif
+4_S01_CD8.svs__1_29900_68770.tif-(Colour_1):   max:   255  min: 0  mean: 69.6341  area: 9000000  std:60.4126
+******* NUC area detected
+4_S01_CD8.svs__1_29900_68770.tif-(Colour_3):   max:   255  min: 0  mean: 21.4789  area: 9000000  std:44.0191
+4_S01_CD8.svs__1_29900_71760.tif
+  
+4_S01_CD8.svs__1_29900_71760.tif
+4_S01_CD8.svs__1_29900_71760.tif-(Colour_1):   max:   255  min: 0  mean: 59.2598  area: 9000000  std:60.0788
+******* NUC area detected
+4_S01_CD8.svs__1_29900_71760.tif-(Colour_3):   max:   255  min: 0  mean: 24.4826  area: 9000000  std:44.2745
+4_S01_CD8.svs__1_29900_74750.tif
+  
+4_S01_CD8.svs__1_29900_74750.tif
+4_S01_CD8.svs__1_29900_74750.tif-(Colour_1):   max:   255  min: 0  mean: 59.8137  area: 9000000  std:60.6329
+******* NUC area detected
+4_S01_CD8.svs__1_29900_74750.tif-(Colour_3):   max:   255  min: 0  mean: 27.98  area: 9000000  std:51.1786
+4_S01_CD8.svs__1_29900_77740.tif
+  
+4_S01_CD8.svs__1_29900_77740.tif
+4_S01_CD8.svs__1_29900_77740.tif-(Colour_1):   max:   255  min: 0  mean: 50.4841  area: 9000000  std:55.4986
+******* NUC area detected
+4_S01_CD8.svs__1_29900_77740.tif-(Colour_3):   max:   255  min: 0  mean: 24.9531  area: 9000000  std:41.089
+4_S01_CD8.svs__1_29900_80730.tif
+  
+4_S01_CD8.svs__1_29900_80730.tif
+4_S01_CD8.svs__1_29900_80730.tif-(Colour_1):   max:   255  min: 0  mean: 56.0353  area: 9000000  std:55.9738
+******* NUC area detected
+4_S01_CD8.svs__1_29900_80730.tif-(Colour_3):   max:   255  min: 0  mean: 22.5056  area: 9000000  std:38.521
+4_S01_CD8.svs__1_29900_83720.tif
+  
+4_S01_CD8.svs__1_29900_83720.tif
+4_S01_CD8.svs__1_29900_83720.tif-(Colour_1):   max:   255  min: 0  mean: 62.5337  area: 9000000  std:56.6586
+******* NUC area detected
+4_S01_CD8.svs__1_29900_83720.tif-(Colour_3):   max:   255  min: 0  mean: 19.1384  area: 9000000  std:34.6259
+4_S01_CD8.svs__1_29900_86710.tif
+  
+4_S01_CD8.svs__1_29900_86710.tif
+4_S01_CD8.svs__1_29900_86710.tif-(Colour_1):   max:   255  min: 0  mean: 57.9514  area: 9000000  std:54.6307
+******* NUC area detected
+4_S01_CD8.svs__1_29900_86710.tif-(Colour_3):   max:   255  min: 0  mean: 21.4032  area: 9000000  std:36.4475
+4_S01_CD8.svs__1_29900_8970.tif
+  
+4_S01_CD8.svs__1_29900_8970.tif
+4_S01_CD8.svs__1_29900_8970.tif-(Colour_1):   max:   255  min: 0  mean: 50.3648  area: 9000000  std:55.4288
+******* NUC area detected
+4_S01_CD8.svs__1_29900_8970.tif-(Colour_3):   max:   255  min: 0  mean: 21.8783  area: 9000000  std:35.9873
+4_S01_CD8.svs__1_29900_95680.tif
+  
+4_S01_CD8.svs__1_29900_95680.tif
+4_S01_CD8.svs__1_29900_95680.tif-(Colour_1):   max:   255  min: 0  mean: 80.3421  area: 9000000  std:62.3287
+******* NUC area detected
+4_S01_CD8.svs__1_29900_95680.tif-(Colour_3):   max:   255  min: 0  mean: 24.407  area: 9000000  std:48.6304
+4_S01_CD8.svs__1_29900_98670.tif
+  
+4_S01_CD8.svs__1_29900_98670.tif
+4_S01_CD8.svs__1_29900_98670.tif-(Colour_1):   max:   255  min: 0  mean: 70.9277  area: 9000000  std:62.0691
+******* NUC area detected
+4_S01_CD8.svs__1_29900_98670.tif-(Colour_3):   max:   255  min: 0  mean: 28.4799  area: 9000000  std:54.9659
+4_S01_CD8.svs__1_32890_101660.tif
+  
+4_S01_CD8.svs__1_32890_101660.tif
+4_S01_CD8.svs__1_32890_101660.tif-(Colour_1):   max:   255  min: 0  mean: 70.649  area: 9000000  std:62.2675
+******* NUC area detected
+4_S01_CD8.svs__1_32890_101660.tif-(Colour_3):   max:   255  min: 0  mean: 23.7274  area: 9000000  std:46.607
+4_S01_CD8.svs__1_32890_104650.tif
+  
+4_S01_CD8.svs__1_32890_104650.tif
+4_S01_CD8.svs__1_32890_104650.tif-(Colour_1):   max:   255  min: 0  mean: 65.8479  area: 9000000  std:63.5712
+******* NUC area detected
+4_S01_CD8.svs__1_32890_104650.tif-(Colour_3):   max:   255  min: 0  mean: 31.2068  area: 9000000  std:56.203
+4_S01_CD8.svs__1_32890_107640.tif
+  
+4_S01_CD8.svs__1_32890_107640.tif
+4_S01_CD8.svs__1_32890_107640.tif-(Colour_1):   max:   255  min: 0  mean: 70.8544  area: 9000000  std:64.3093
+******* NUC area detected
+4_S01_CD8.svs__1_32890_107640.tif-(Colour_3):   max:   255  min: 0  mean: 34.7192  area: 9000000  std:62.574
+4_S01_CD8.svs__1_32890_110630.tif
+  
+4_S01_CD8.svs__1_32890_110630.tif
+4_S01_CD8.svs__1_32890_110630.tif-(Colour_1):   max:   255  min: 0  mean: 61.1797  area: 9000000  std:64.7872
+******* NUC area detected
+4_S01_CD8.svs__1_32890_110630.tif-(Colour_3):   max:   255  min: 0  mean: 45.576  area: 9000000  std:70.8652
+4_S01_CD8.svs__1_32890_113620.tif
+  
+4_S01_CD8.svs__1_32890_113620.tif
+4_S01_CD8.svs__1_32890_113620.tif-(Colour_1):   max:   255  min: 0  mean: 54.4688  area: 9000000  std:64.0184
+******* NUC area detected
+4_S01_CD8.svs__1_32890_113620.tif-(Colour_3):   max:   255  min: 0  mean: 52.081  area: 9000000  std:73.7787
+4_S01_CD8.svs__1_32890_116610.tif
+  
+4_S01_CD8.svs__1_32890_116610.tif
+4_S01_CD8.svs__1_32890_116610.tif-(Colour_1):   max:   255  min: 0  mean: 50.3102  area: 9000000  std:62.325
+******* NUC area detected
+4_S01_CD8.svs__1_32890_116610.tif-(Colour_3):   max:   255  min: 0  mean: 51.8056  area: 9000000  std:70.0677
+4_S01_CD8.svs__1_32890_11960.tif
+  
+4_S01_CD8.svs__1_32890_11960.tif
+4_S01_CD8.svs__1_32890_11960.tif-(Colour_1):   max:   255  min: 0  mean: 49.6382  area: 9000000  std:55.1469
+******* NUC area detected
+4_S01_CD8.svs__1_32890_11960.tif-(Colour_3):   max:   255  min: 0  mean: 21.1533  area: 9000000  std:32.8617
+4_S01_CD8.svs__1_32890_119600.tif
+  
+4_S01_CD8.svs__1_32890_119600.tif
+4_S01_CD8.svs__1_32890_119600.tif-(Colour_1):   max:   255  min: 0  mean: 51.7384  area: 9000000  std:63.1686
+******* NUC area detected
+4_S01_CD8.svs__1_32890_119600.tif-(Colour_3):   max:   255  min: 0  mean: 44.544  area: 9000000  std:55.0604
+4_S01_CD8.svs__1_32890_14950.tif
+  
+4_S01_CD8.svs__1_32890_14950.tif
+4_S01_CD8.svs__1_32890_14950.tif-(Colour_1):   max:   255  min: 0  mean: 51.6231  area: 9000000  std:55.3996
+******* NUC area detected
+4_S01_CD8.svs__1_32890_14950.tif-(Colour_3):   max:   255  min: 0  mean: 27.0283  area: 9000000  std:46.4396
+4_S01_CD8.svs__1_32890_17940.tif
+  
+4_S01_CD8.svs__1_32890_17940.tif
+4_S01_CD8.svs__1_32890_17940.tif-(Colour_1):   max:   255  min: 0  mean: 53.1428  area: 9000000  std:56.6151
+******* NUC area detected
+4_S01_CD8.svs__1_32890_17940.tif-(Colour_3):   max:   255  min: 0  mean: 24.4846  area: 9000000  std:42.416
+4_S01_CD8.svs__1_32890_20930.tif
+  
+4_S01_CD8.svs__1_32890_20930.tif
+4_S01_CD8.svs__1_32890_20930.tif-(Colour_1):   max:   255  min: 0  mean: 56.3081  area: 9000000  std:56.4579
+******* NUC area detected
+4_S01_CD8.svs__1_32890_20930.tif-(Colour_3):   max:   255  min: 0  mean: 22.0208  area: 9000000  std:36.7285
+4_S01_CD8.svs__1_32890_32890.tif
+  
+4_S01_CD8.svs__1_32890_32890.tif
+4_S01_CD8.svs__1_32890_32890.tif-(Colour_1):   max:   255  min: 0  mean: 58.0552  area: 9000000  std:59.6722
+******* NUC area detected
+4_S01_CD8.svs__1_32890_32890.tif-(Colour_3):   max:   255  min: 0  mean: 24.4532  area: 9000000  std:44.3019
+4_S01_CD8.svs__1_32890_35880.tif
+  
+4_S01_CD8.svs__1_32890_35880.tif
+4_S01_CD8.svs__1_32890_35880.tif-(Colour_1):   max:   255  min: 0  mean: 57.2078  area: 9000000  std:58.6238
+******* NUC area detected
+4_S01_CD8.svs__1_32890_35880.tif-(Colour_3):   max:   255  min: 0  mean: 22.1056  area: 9000000  std:38.9679
+4_S01_CD8.svs__1_32890_44850.tif
+  
+4_S01_CD8.svs__1_32890_44850.tif
+4_S01_CD8.svs__1_32890_44850.tif-(Colour_1):   max:   255  min: 0  mean: 58.57  area: 9000000  std:60.1859
+******* NUC area detected
+4_S01_CD8.svs__1_32890_44850.tif-(Colour_3):   max:   255  min: 0  mean: 20.6545  area: 9000000  std:34.9046
+4_S01_CD8.svs__1_32890_47840.tif
+  
+4_S01_CD8.svs__1_32890_47840.tif
+4_S01_CD8.svs__1_32890_47840.tif-(Colour_1):   max:   255  min: 0  mean: 62.2263  area: 9000000  std:60.5158
+******* NUC area detected
+4_S01_CD8.svs__1_32890_47840.tif-(Colour_3):   max:   255  min: 0  mean: 21.1445  area: 9000000  std:39.1262
+4_S01_CD8.svs__1_32890_50830.tif
+  
+4_S01_CD8.svs__1_32890_50830.tif
+4_S01_CD8.svs__1_32890_50830.tif-(Colour_1):   max:   255  min: 0  mean: 62.1627  area: 9000000  std:59.496
+******* NUC area detected
+4_S01_CD8.svs__1_32890_50830.tif-(Colour_3):   max:   255  min: 0  mean: 18.294  area: 9000000  std:32.4856
+4_S01_CD8.svs__1_32890_53820.tif
+  
+4_S01_CD8.svs__1_32890_53820.tif
+4_S01_CD8.svs__1_32890_53820.tif-(Colour_1):   max:   255  min: 0  mean: 56.8324  area: 9000000  std:60.9641
+******* NUC area detected
+4_S01_CD8.svs__1_32890_53820.tif-(Colour_3):   max:   255  min: 0  mean: 20.6219  area: 9000000  std:34.3
+4_S01_CD8.svs__1_32890_56810.tif
+  
+4_S01_CD8.svs__1_32890_56810.tif
+4_S01_CD8.svs__1_32890_56810.tif-(Colour_1):   max:   255  min: 0  mean: 54.0115  area: 9000000  std:58.7948
+******* NUC area detected
+4_S01_CD8.svs__1_32890_56810.tif-(Colour_3):   max:   255  min: 0  mean: 19.8138  area: 9000000  std:30.3407
+4_S01_CD8.svs__1_32890_5980.tif
+  
+4_S01_CD8.svs__1_32890_5980.tif
+4_S01_CD8.svs__1_32890_5980.tif-(Colour_1):   max:   255  min: 0  mean: 56.8467  area: 9000000  std:58.3335
+******* NUC area detected
+4_S01_CD8.svs__1_32890_5980.tif-(Colour_3):   max:   255  min: 0  mean: 24.1181  area: 9000000  std:43.8103
+4_S01_CD8.svs__1_32890_59800.tif
+  
+4_S01_CD8.svs__1_32890_59800.tif
+4_S01_CD8.svs__1_32890_59800.tif-(Colour_1):   max:   255  min: 0  mean: 67.1701  area: 9000000  std:61.1508
+******* NUC area detected
+4_S01_CD8.svs__1_32890_59800.tif-(Colour_3):   max:   255  min: 0  mean: 21.9118  area: 9000000  std:42.3063
+4_S01_CD8.svs__1_32890_62790.tif
+  
+4_S01_CD8.svs__1_32890_62790.tif
+4_S01_CD8.svs__1_32890_62790.tif-(Colour_1):   max:   255  min: 0  mean: 69.8406  area: 9000000  std:62.4204
+******* NUC area detected
+4_S01_CD8.svs__1_32890_62790.tif-(Colour_3):   max:   255  min: 0  mean: 26.4237  area: 9000000  std:51.8664
+4_S01_CD8.svs__1_32890_65780.tif
+  
+4_S01_CD8.svs__1_32890_65780.tif
+4_S01_CD8.svs__1_32890_65780.tif-(Colour_1):   max:   255  min: 0  mean: 60.4044  area: 9000000  std:59.4594
+******* NUC area detected
+4_S01_CD8.svs__1_32890_65780.tif-(Colour_3):   max:   255  min: 0  mean: 21.1048  area: 9000000  std:37.6357
+4_S01_CD8.svs__1_32890_68770.tif
+  
+4_S01_CD8.svs__1_32890_68770.tif
+4_S01_CD8.svs__1_32890_68770.tif-(Colour_1):   max:   255  min: 0  mean: 73.0376  area: 9000000  std:60.8101
+******* NUC area detected
+4_S01_CD8.svs__1_32890_68770.tif-(Colour_3):   max:   255  min: 0  mean: 17.8635  area: 9000000  std:36.9892
+4_S01_CD8.svs__1_32890_71760.tif
+  
+4_S01_CD8.svs__1_32890_71760.tif
+4_S01_CD8.svs__1_32890_71760.tif-(Colour_1):   max:   255  min: 0  mean: 64.3698  area: 9000000  std:60.9368
+******* NUC area detected
+4_S01_CD8.svs__1_32890_71760.tif-(Colour_3):   max:   255  min: 0  mean: 26.3447  area: 9000000  std:49.5271
+4_S01_CD8.svs__1_32890_74750.tif
+  
+4_S01_CD8.svs__1_32890_74750.tif
+4_S01_CD8.svs__1_32890_74750.tif-(Colour_1):   max:   255  min: 0  mean: 68.7737  area: 9000000  std:60.7829
+******* NUC area detected
+4_S01_CD8.svs__1_32890_74750.tif-(Colour_3):   max:   255  min: 0  mean: 24.6217  area: 9000000  std:44.6561
+4_S01_CD8.svs__1_32890_83720.tif
+  
+4_S01_CD8.svs__1_32890_83720.tif
+4_S01_CD8.svs__1_32890_83720.tif-(Colour_1):   max:   255  min: 0  mean: 77.1755  area: 9000000  std:60.2817
+******* NUC area detected
+4_S01_CD8.svs__1_32890_83720.tif-(Colour_3):   max:   255  min: 0  mean: 18.2273  area: 9000000  std:39.0764
+4_S01_CD8.svs__1_32890_8970.tif
+  
+4_S01_CD8.svs__1_32890_8970.tif
+4_S01_CD8.svs__1_32890_8970.tif-(Colour_1):   max:   255  min: 0  mean: 50.2605  area: 9000000  std:55.8979
+******* NUC area detected
+4_S01_CD8.svs__1_32890_8970.tif-(Colour_3):   max:   255  min: 0  mean: 23.7416  area: 9000000  std:40.2536
+4_S01_CD8.svs__1_32890_95680.tif
+  
+4_S01_CD8.svs__1_32890_95680.tif
+4_S01_CD8.svs__1_32890_95680.tif-(Colour_1):   max:   255  min: 0  mean: 81.0045  area: 9000000  std:62.8558
+******* NUC area detected
+4_S01_CD8.svs__1_32890_95680.tif-(Colour_3):   max:   255  min: 0  mean: 19.3702  area: 9000000  std:41.2759
+4_S01_CD8.svs__1_32890_98670.tif
+  
+4_S01_CD8.svs__1_32890_98670.tif
+4_S01_CD8.svs__1_32890_98670.tif-(Colour_1):   max:   255  min: 0  mean: 77.6376  area: 9000000  std:64.0241
+******* NUC area detected
+4_S01_CD8.svs__1_32890_98670.tif-(Colour_3):   max:   255  min: 0  mean: 24.6268  area: 9000000  std:50.8289
+4_S01_CD8.svs__1_35880_101660.tif
+  
+4_S01_CD8.svs__1_35880_101660.tif
+4_S01_CD8.svs__1_35880_101660.tif-(Colour_1):   max:   255  min: 0  mean: 70.8947  area: 9000000  std:62.2116
+******* NUC area detected
+4_S01_CD8.svs__1_35880_101660.tif-(Colour_3):   max:   255  min: 0  mean: 22.9226  area: 9000000  std:45.1753
+4_S01_CD8.svs__1_35880_104650.tif
+  
+4_S01_CD8.svs__1_35880_104650.tif
+4_S01_CD8.svs__1_35880_104650.tif-(Colour_1):   max:   255  min: 0  mean: 71.1245  area: 9000000  std:64.7361
+******* NUC area detected
+4_S01_CD8.svs__1_35880_104650.tif-(Colour_3):   max:   255  min: 0  mean: 33.8267  area: 9000000  std:61.9809
+4_S01_CD8.svs__1_35880_107640.tif
+  
+4_S01_CD8.svs__1_35880_107640.tif
+4_S01_CD8.svs__1_35880_107640.tif-(Colour_1):   max:   255  min: 0  mean: 71.6103  area: 9000000  std:61.4357
+******* NUC area detected
+4_S01_CD8.svs__1_35880_107640.tif-(Colour_3):   max:   255  min: 0  mean: 28.6789  area: 9000000  std:54.2918
+4_S01_CD8.svs__1_35880_110630.tif
+  
+4_S01_CD8.svs__1_35880_110630.tif
+4_S01_CD8.svs__1_35880_110630.tif-(Colour_1):   max:   255  min: 0  mean: 59.7813  area: 9000000  std:63.9457
+******* NUC area detected
+4_S01_CD8.svs__1_35880_110630.tif-(Colour_3):   max:   255  min: 0  mean: 36.0984  area: 9000000  std:58.3026
+4_S01_CD8.svs__1_35880_113620.tif
+  
+4_S01_CD8.svs__1_35880_113620.tif
+4_S01_CD8.svs__1_35880_113620.tif-(Colour_1):   max:   255  min: 0  mean: 58.3792  area: 9000000  std:64.2798
+******* NUC area detected
+4_S01_CD8.svs__1_35880_113620.tif-(Colour_3):   max:   255  min: 0  mean: 41.7799  area: 9000000  std:57.7082
+4_S01_CD8.svs__1_35880_11960.tif
+  
+4_S01_CD8.svs__1_35880_11960.tif
+4_S01_CD8.svs__1_35880_11960.tif-(Colour_1):   max:   255  min: 0  mean: 62.2548  area: 9000000  std:60.1512
+******* NUC area detected
+4_S01_CD8.svs__1_35880_11960.tif-(Colour_3):   max:   255  min: 0  mean: 26.4971  area: 9000000  std:50.6571
+4_S01_CD8.svs__1_35880_14950.tif
+  
+4_S01_CD8.svs__1_35880_14950.tif
+4_S01_CD8.svs__1_35880_14950.tif-(Colour_1):   max:   255  min: 0  mean: 57.8705  area: 9000000  std:57.4295
+******* NUC area detected
+4_S01_CD8.svs__1_35880_14950.tif-(Colour_3):   max:   255  min: 0  mean: 29.0429  area: 9000000  std:53.2223
+4_S01_CD8.svs__1_35880_17940.tif
+  
+4_S01_CD8.svs__1_35880_17940.tif
+4_S01_CD8.svs__1_35880_17940.tif-(Colour_1):   max:   255  min: 0  mean: 51.6033  area: 9000000  std:54.6519
+******* NUC area detected
+4_S01_CD8.svs__1_35880_17940.tif-(Colour_3):   max:   255  min: 0  mean: 22.7209  area: 9000000  std:37.743
+4_S01_CD8.svs__1_35880_20930.tif
+  
+4_S01_CD8.svs__1_35880_20930.tif
+4_S01_CD8.svs__1_35880_20930.tif-(Colour_1):   max:   255  min: 0  mean: 49.3082  area: 9000000  std:55.0434
+******* NUC area detected
+4_S01_CD8.svs__1_35880_20930.tif-(Colour_3):   max:   255  min: 0  mean: 23.5938  area: 9000000  std:36.6137
+4_S01_CD8.svs__1_35880_32890.tif
+  
+4_S01_CD8.svs__1_35880_32890.tif
+4_S01_CD8.svs__1_35880_32890.tif-(Colour_1):   max:   255  min: 0  mean: 52.2907  area: 9000000  std:58.6584
+******* NUC area detected
+4_S01_CD8.svs__1_35880_32890.tif-(Colour_3):   max:   255  min: 0  mean: 24.4609  area: 9000000  std:40.1833
+4_S01_CD8.svs__1_35880_35880.tif
+  
+4_S01_CD8.svs__1_35880_35880.tif
+4_S01_CD8.svs__1_35880_35880.tif-(Colour_1):   max:   255  min: 0  mean: 56.1953  area: 9000000  std:58.4331
+******* NUC area detected
+4_S01_CD8.svs__1_35880_35880.tif-(Colour_3):   max:   255  min: 0  mean: 23.9846  area: 9000000  std:42.171
+4_S01_CD8.svs__1_35880_38870.tif
+  
+4_S01_CD8.svs__1_35880_38870.tif
+4_S01_CD8.svs__1_35880_38870.tif-(Colour_1):   max:   255  min: 0  mean: 60.1668  area: 9000000  std:59.9322
+******* NUC area detected
+4_S01_CD8.svs__1_35880_38870.tif-(Colour_3):   max:   255  min: 0  mean: 24.6766  area: 9000000  std:45.3007
+4_S01_CD8.svs__1_35880_41860.tif
+  
+4_S01_CD8.svs__1_35880_41860.tif
+4_S01_CD8.svs__1_35880_41860.tif-(Colour_1):   max:   255  min: 0  mean: 62.8067  area: 9000000  std:60.9852
+******* NUC area detected
+4_S01_CD8.svs__1_35880_41860.tif-(Colour_3):   max:   255  min: 0  mean: 20.0288  area: 9000000  std:35.9587
+4_S01_CD8.svs__1_35880_44850.tif
+  
+4_S01_CD8.svs__1_35880_44850.tif
+4_S01_CD8.svs__1_35880_44850.tif-(Colour_1):   max:   255  min: 0  mean: 62.0653  area: 9000000  std:60.487
+******* NUC area detected
+4_S01_CD8.svs__1_35880_44850.tif-(Colour_3):   max:   255  min: 0  mean: 18.7166  area: 9000000  std:32.3618
+4_S01_CD8.svs__1_35880_47840.tif
+  
+4_S01_CD8.svs__1_35880_47840.tif
+4_S01_CD8.svs__1_35880_47840.tif-(Colour_1):   max:   255  min: 0  mean: 58.3149  area: 9000000  std:59.2413
+******* NUC area detected
+4_S01_CD8.svs__1_35880_47840.tif-(Colour_3):   max:   255  min: 0  mean: 22.2867  area: 9000000  std:39.5362
+4_S01_CD8.svs__1_35880_50830.tif
+  
+4_S01_CD8.svs__1_35880_50830.tif
+4_S01_CD8.svs__1_35880_50830.tif-(Colour_1):   max:   255  min: 0  mean: 61.1465  area: 9000000  std:58.857
+******* NUC area detected
+4_S01_CD8.svs__1_35880_50830.tif-(Colour_3):   max:   255  min: 0  mean: 18.8944  area: 9000000  std:33.4329
+4_S01_CD8.svs__1_35880_53820.tif
+  
+4_S01_CD8.svs__1_35880_53820.tif
+4_S01_CD8.svs__1_35880_53820.tif-(Colour_1):   max:   255  min: 0  mean: 51.7976  area: 9000000  std:59.2643
+******* NUC area detected
+4_S01_CD8.svs__1_35880_53820.tif-(Colour_3):   max:   255  min: 0  mean: 19.7662  area: 9000000  std:29.0499
+4_S01_CD8.svs__1_35880_56810.tif
+  
+4_S01_CD8.svs__1_35880_56810.tif
+4_S01_CD8.svs__1_35880_56810.tif-(Colour_1):   max:   255  min: 0  mean: 56.1175  area: 9000000  std:59.9151
+******* NUC area detected
+4_S01_CD8.svs__1_35880_56810.tif-(Colour_3):   max:   255  min: 0  mean: 20.1449  area: 9000000  std:31.2467
+4_S01_CD8.svs__1_35880_5980.tif
+  
+4_S01_CD8.svs__1_35880_5980.tif
+4_S01_CD8.svs__1_35880_5980.tif-(Colour_1):   max:   255  min: 0  mean: 67.6938  area: 9000000  std:60.9178
+******* NUC area detected
+4_S01_CD8.svs__1_35880_5980.tif-(Colour_3):   max:   255  min: 0  mean: 20.3241  area: 9000000  std:39.9639
+4_S01_CD8.svs__1_35880_65780.tif
+  
+4_S01_CD8.svs__1_35880_65780.tif
+4_S01_CD8.svs__1_35880_65780.tif-(Colour_1):   max:   255  min: 0  mean: 59.9901  area: 9000000  std:58.1419
+******* NUC area detected
+4_S01_CD8.svs__1_35880_65780.tif-(Colour_3):   max:   255  min: 0  mean: 21.5126  area: 9000000  std:37.4547
+4_S01_CD8.svs__1_35880_68770.tif
+  
+4_S01_CD8.svs__1_35880_68770.tif
+4_S01_CD8.svs__1_35880_68770.tif-(Colour_1):   max:   255  min: 0  mean: 66.396  area: 9000000  std:60.8079
+******* NUC area detected
+4_S01_CD8.svs__1_35880_68770.tif-(Colour_3):   max:   255  min: 0  mean: 19.1703  area: 9000000  std:35.6374
+4_S01_CD8.svs__1_35880_71760.tif
+  
+4_S01_CD8.svs__1_35880_71760.tif
+4_S01_CD8.svs__1_35880_71760.tif-(Colour_1):   max:   255  min: 0  mean: 65.1637  area: 9000000  std:61.5493
+******* NUC area detected
+4_S01_CD8.svs__1_35880_71760.tif-(Colour_3):   max:   255  min: 0  mean: 21.946  area: 9000000  std:41.6608
+4_S01_CD8.svs__1_35880_83720.tif
+  
+4_S01_CD8.svs__1_35880_83720.tif
+4_S01_CD8.svs__1_35880_83720.tif-(Colour_1):   max:   255  min: 0  mean: 74.9608  area: 9000000  std:61.8204
+******* NUC area detected
+4_S01_CD8.svs__1_35880_83720.tif-(Colour_3):   max:   255  min: 0  mean: 22.9449  area: 9000000  std:45.4517
+4_S01_CD8.svs__1_35880_8970.tif
+  
+4_S01_CD8.svs__1_35880_8970.tif
+4_S01_CD8.svs__1_35880_8970.tif-(Colour_1):   max:   255  min: 0  mean: 69.4429  area: 9000000  std:63.3086
+******* NUC area detected
+4_S01_CD8.svs__1_35880_8970.tif-(Colour_3):   max:   255  min: 0  mean: 21.9505  area: 9000000  std:43.6676
+4_S01_CD8.svs__1_35880_95680.tif
+  
+4_S01_CD8.svs__1_35880_95680.tif
+4_S01_CD8.svs__1_35880_95680.tif-(Colour_1):   max:   255  min: 0  mean: 73.1296  area: 9000000  std:62.2738
+******* NUC area detected
+4_S01_CD8.svs__1_35880_95680.tif-(Colour_3):   max:   255  min: 0  mean: 17.8691  area: 9000000  std:31.949
+4_S01_CD8.svs__1_35880_98670.tif
+  
+4_S01_CD8.svs__1_35880_98670.tif
+4_S01_CD8.svs__1_35880_98670.tif-(Colour_1):   max:   255  min: 0  mean: 73.4471  area: 9000000  std:63.6379
+******* NUC area detected
+4_S01_CD8.svs__1_35880_98670.tif-(Colour_3):   max:   255  min: 0  mean: 20.063  area: 9000000  std:39.0153
+4_S01_CD8.svs__1_38870_101660.tif
+  
+4_S01_CD8.svs__1_38870_101660.tif
+4_S01_CD8.svs__1_38870_101660.tif-(Colour_1):   max:   255  min: 0  mean: 68.6455  area: 9000000  std:63.8111
+******* NUC area detected
+4_S01_CD8.svs__1_38870_101660.tif-(Colour_3):   max:   255  min: 0  mean: 27.3148  area: 9000000  std:51.8219
+4_S01_CD8.svs__1_38870_104650.tif
+  
+4_S01_CD8.svs__1_38870_104650.tif
+4_S01_CD8.svs__1_38870_104650.tif-(Colour_1):   max:   255  min: 0  mean: 71.8836  area: 9000000  std:62.6032
+******* NUC area detected
+4_S01_CD8.svs__1_38870_104650.tif-(Colour_3):   max:   255  min: 0  mean: 27.0676  area: 9000000  std:52.1734
+4_S01_CD8.svs__1_38870_107640.tif
+  
+4_S01_CD8.svs__1_38870_107640.tif
+4_S01_CD8.svs__1_38870_107640.tif-(Colour_1):   max:   255  min: 0  mean: 71.0339  area: 9000000  std:60.1967
+******* NUC area detected
+4_S01_CD8.svs__1_38870_107640.tif-(Colour_3):   max:   255  min: 0  mean: 28.4224  area: 9000000  std:53.0576
+4_S01_CD8.svs__1_38870_11960.tif
+  
+4_S01_CD8.svs__1_38870_11960.tif
+4_S01_CD8.svs__1_38870_11960.tif-(Colour_1):   max:   255  min: 0  mean: 72.9571  area: 9000000  std:63.6675
+******* NUC area detected
+4_S01_CD8.svs__1_38870_11960.tif-(Colour_3):   max:   255  min: 0  mean: 25.0666  area: 9000000  std:50.3736
+4_S01_CD8.svs__1_38870_14950.tif
+  
+4_S01_CD8.svs__1_38870_14950.tif
+4_S01_CD8.svs__1_38870_14950.tif-(Colour_1):   max:   255  min: 0  mean: 61.1996  area: 9000000  std:59.0398
+******* NUC area detected
+4_S01_CD8.svs__1_38870_14950.tif-(Colour_3):   max:   255  min: 0  mean: 29.5025  area: 9000000  std:54.343
+4_S01_CD8.svs__1_38870_17940.tif
+  
+4_S01_CD8.svs__1_38870_17940.tif
+4_S01_CD8.svs__1_38870_17940.tif-(Colour_1):   max:   255  min: 0  mean: 61.4229  area: 9000000  std:59.1687
+******* NUC area detected
+4_S01_CD8.svs__1_38870_17940.tif-(Colour_3):   max:   255  min: 0  mean: 24.1921  area: 9000000  std:45.5546
+4_S01_CD8.svs__1_38870_20930.tif
+  
+4_S01_CD8.svs__1_38870_20930.tif
+4_S01_CD8.svs__1_38870_20930.tif-(Colour_1):   max:   255  min: 0  mean: 57.912  area: 9000000  std:57.1361
+******* NUC area detected
+4_S01_CD8.svs__1_38870_20930.tif-(Colour_3):   max:   255  min: 0  mean: 23.6338  area: 9000000  std:43.4023
+4_S01_CD8.svs__1_38870_23920.tif
+  
+4_S01_CD8.svs__1_38870_23920.tif
+4_S01_CD8.svs__1_38870_23920.tif-(Colour_1):   max:   255  min: 0  mean: 54.7733  area: 9000000  std:56.5377
+******* NUC area detected
+4_S01_CD8.svs__1_38870_23920.tif-(Colour_3):   max:   255  min: 0  mean: 23.2005  area: 9000000  std:40.2538
+4_S01_CD8.svs__1_38870_26910.tif
+  
+4_S01_CD8.svs__1_38870_26910.tif
+4_S01_CD8.svs__1_38870_26910.tif-(Colour_1):   max:   255  min: 0  mean: 52.0214  area: 9000000  std:56.1103
+******* NUC area detected
+4_S01_CD8.svs__1_38870_26910.tif-(Colour_3):   max:   255  min: 0  mean: 19.7319  area: 9000000  std:28.7766
+4_S01_CD8.svs__1_38870_29900.tif
+  
+4_S01_CD8.svs__1_38870_29900.tif
+4_S01_CD8.svs__1_38870_29900.tif-(Colour_1):   max:   255  min: 0  mean: 46.0319  area: 9000000  std:53.7799
+******* NUC area detected
+4_S01_CD8.svs__1_38870_29900.tif-(Colour_3):   max:   255  min: 0  mean: 23.5148  area: 9000000  std:34.8257
+4_S01_CD8.svs__1_38870_32890.tif
+  
+4_S01_CD8.svs__1_38870_32890.tif
+4_S01_CD8.svs__1_38870_32890.tif-(Colour_1):   max:   255  min: 0  mean: 45.9107  area: 9000000  std:54.3677
+******* NUC area detected
+4_S01_CD8.svs__1_38870_32890.tif-(Colour_3):   max:   255  min: 0  mean: 25.8898  area: 9000000  std:40.1714
+4_S01_CD8.svs__1_38870_35880.tif
+  
+4_S01_CD8.svs__1_38870_35880.tif
+4_S01_CD8.svs__1_38870_35880.tif-(Colour_1):   max:   255  min: 0  mean: 56.7315  area: 9000000  std:59.4319
+******* NUC area detected
+4_S01_CD8.svs__1_38870_35880.tif-(Colour_3):   max:   255  min: 0  mean: 21.5473  area: 9000000  std:36.0515
+4_S01_CD8.svs__1_38870_38870.tif
+  
+4_S01_CD8.svs__1_38870_38870.tif
+4_S01_CD8.svs__1_38870_38870.tif-(Colour_1):   max:   255  min: 0  mean: 59.8517  area: 9000000  std:59.3649
+******* NUC area detected
+4_S01_CD8.svs__1_38870_38870.tif-(Colour_3):   max:   255  min: 0  mean: 20.7465  area: 9000000  std:35.2239
+4_S01_CD8.svs__1_38870_41860.tif
+  
+4_S01_CD8.svs__1_38870_41860.tif
+4_S01_CD8.svs__1_38870_41860.tif-(Colour_1):   max:   255  min: 0  mean: 71.5181  area: 9000000  std:62.1053
+******* NUC area detected
+4_S01_CD8.svs__1_38870_41860.tif-(Colour_3):   max:   255  min: 0  mean: 18.3625  area: 9000000  std:33.5564
+4_S01_CD8.svs__1_38870_44850.tif
+  
+4_S01_CD8.svs__1_38870_44850.tif
+4_S01_CD8.svs__1_38870_44850.tif-(Colour_1):   max:   255  min: 0  mean: 69.0931  area: 9000000  std:61.6094
+******* NUC area detected
+4_S01_CD8.svs__1_38870_44850.tif-(Colour_3):   max:   255  min: 0  mean: 22.3631  area: 9000000  std:41.1382
+4_S01_CD8.svs__1_38870_47840.tif
+  
+4_S01_CD8.svs__1_38870_47840.tif
+4_S01_CD8.svs__1_38870_47840.tif-(Colour_1):   max:   255  min: 0  mean: 67.4903  area: 9000000  std:61.0271
+******* NUC area detected
+4_S01_CD8.svs__1_38870_47840.tif-(Colour_3):   max:   255  min: 0  mean: 17.9629  area: 9000000  std:31.9336
+4_S01_CD8.svs__1_38870_50830.tif
+  
+4_S01_CD8.svs__1_38870_50830.tif
+4_S01_CD8.svs__1_38870_50830.tif-(Colour_1):   max:   255  min: 0  mean: 66.415  area: 9000000  std:61.2568
+******* NUC area detected
+4_S01_CD8.svs__1_38870_50830.tif-(Colour_3):   max:   255  min: 0  mean: 19.7287  area: 9000000  std:37.6756
+4_S01_CD8.svs__1_38870_53820.tif
+  
+4_S01_CD8.svs__1_38870_53820.tif
+4_S01_CD8.svs__1_38870_53820.tif-(Colour_1):   max:   255  min: 0  mean: 65.7614  area: 9000000  std:60.1643
+******* NUC area detected
+4_S01_CD8.svs__1_38870_53820.tif-(Colour_3):   max:   255  min: 0  mean: 19.1866  area: 9000000  std:32.5943
+4_S01_CD8.svs__1_38870_56810.tif
+  
+4_S01_CD8.svs__1_38870_56810.tif
+4_S01_CD8.svs__1_38870_56810.tif-(Colour_1):   max:   255  min: 0  mean: 64.965  area: 9000000  std:61.182
+******* NUC area detected
+4_S01_CD8.svs__1_38870_56810.tif-(Colour_3):   max:   255  min: 0  mean: 22.2062  area: 9000000  std:36.1349
+4_S01_CD8.svs__1_38870_5980.tif
+  
+4_S01_CD8.svs__1_38870_5980.tif
+4_S01_CD8.svs__1_38870_5980.tif-(Colour_1):   max:   255  min: 0  mean: 68.427  area: 9000000  std:62.0682
+******* NUC area detected
+4_S01_CD8.svs__1_38870_5980.tif-(Colour_3):   max:   255  min: 0  mean: 20.1268  area: 9000000  std:37.0241
+4_S01_CD8.svs__1_38870_65780.tif
+  
+4_S01_CD8.svs__1_38870_65780.tif
+4_S01_CD8.svs__1_38870_65780.tif-(Colour_1):   max:   255  min: 0  mean: 71.1339  area: 9000000  std:60.4812
+******* NUC area detected
+4_S01_CD8.svs__1_38870_65780.tif-(Colour_3):   max:   255  min: 0  mean: 20.2725  area: 9000000  std:40.3589
+4_S01_CD8.svs__1_38870_68770.tif
+  
+4_S01_CD8.svs__1_38870_68770.tif
+4_S01_CD8.svs__1_38870_68770.tif-(Colour_1):   max:   255  min: 0  mean: 69.6953  area: 9000000  std:60.427
+******* NUC area detected
+4_S01_CD8.svs__1_38870_68770.tif-(Colour_3):   max:   255  min: 0  mean: 20.9227  area: 9000000  std:41.6127
+4_S01_CD8.svs__1_38870_71760.tif
+  
+4_S01_CD8.svs__1_38870_71760.tif
+4_S01_CD8.svs__1_38870_71760.tif-(Colour_1):   max:   255  min: 0  mean: 63.2913  area: 9000000  std:60.4781
+******* NUC area detected
+4_S01_CD8.svs__1_38870_71760.tif-(Colour_3):   max:   255  min: 0  mean: 20.5689  area: 9000000  std:37.4022
+4_S01_CD8.svs__1_38870_74750.tif
+  
+4_S01_CD8.svs__1_38870_74750.tif
+4_S01_CD8.svs__1_38870_74750.tif-(Colour_1):   max:   255  min: 0  mean: 56.4896  area: 9000000  std:58.1886
+******* NUC area detected
+4_S01_CD8.svs__1_38870_74750.tif-(Colour_3):   max:   255  min: 0  mean: 21.6524  area: 9000000  std:35.49
+4_S01_CD8.svs__1_38870_80730.tif
+  
+4_S01_CD8.svs__1_38870_80730.tif
+4_S01_CD8.svs__1_38870_80730.tif-(Colour_1):   max:   255  min: 0  mean: 67.0607  area: 9000000  std:61.1625
+******* NUC area detected
+4_S01_CD8.svs__1_38870_80730.tif-(Colour_3):   max:   255  min: 0  mean: 26.0177  area: 9000000  std:46.6568
+4_S01_CD8.svs__1_38870_83720.tif
+  
+4_S01_CD8.svs__1_38870_83720.tif
+4_S01_CD8.svs__1_38870_83720.tif-(Colour_1):   max:   255  min: 0  mean: 67.5646  area: 9000000  std:60.7834
+******* NUC area detected
+4_S01_CD8.svs__1_38870_83720.tif-(Colour_3):   max:   255  min: 0  mean: 19.9672  area: 9000000  std:32.7019
+4_S01_CD8.svs__1_38870_86710.tif
+  
+4_S01_CD8.svs__1_38870_86710.tif
+4_S01_CD8.svs__1_38870_86710.tif-(Colour_1):   max:   255  min: 0  mean: 72.6782  area: 9000000  std:60.8295
+******* NUC area detected
+4_S01_CD8.svs__1_38870_86710.tif-(Colour_3):   max:   255  min: 0  mean: 20.1312  area: 9000000  std:34.4033
+4_S01_CD8.svs__1_38870_8970.tif
+  
+4_S01_CD8.svs__1_38870_8970.tif
+4_S01_CD8.svs__1_38870_8970.tif-(Colour_1):   max:   255  min: 0  mean: 72.0614  area: 9000000  std:63.4078
+******* NUC area detected
+4_S01_CD8.svs__1_38870_8970.tif-(Colour_3):   max:   255  min: 0  mean: 19.6068  area: 9000000  std:36.4725
+4_S01_CD8.svs__1_38870_89700.tif
+  
+4_S01_CD8.svs__1_38870_89700.tif
+4_S01_CD8.svs__1_38870_89700.tif-(Colour_1):   max:   255  min: 0  mean: 75.0366  area: 9000000  std:63.3266
+******* NUC area detected
+4_S01_CD8.svs__1_38870_89700.tif-(Colour_3):   max:   255  min: 0  mean: 18.5432  area: 9000000  std:30.8967
+4_S01_CD8.svs__1_38870_92690.tif
+  
+4_S01_CD8.svs__1_38870_92690.tif
+4_S01_CD8.svs__1_38870_92690.tif-(Colour_1):   max:   255  min: 0  mean: 70.2433  area: 9000000  std:62.9731
+******* NUC area detected
+4_S01_CD8.svs__1_38870_92690.tif-(Colour_3):   max:   255  min: 0  mean: 17.4985  area: 9000000  std:27.4654
+4_S01_CD8.svs__1_38870_95680.tif
+  
+4_S01_CD8.svs__1_38870_95680.tif
+4_S01_CD8.svs__1_38870_95680.tif-(Colour_1):   max:   255  min: 0  mean: 65.7395  area: 9000000  std:61.0483
+******* NUC area detected
+4_S01_CD8.svs__1_38870_95680.tif-(Colour_3):   max:   255  min: 0  mean: 20.8409  area: 9000000  std:36.2657
+4_S01_CD8.svs__1_38870_98670.tif
+  
+4_S01_CD8.svs__1_38870_98670.tif
+4_S01_CD8.svs__1_38870_98670.tif-(Colour_1):   max:   255  min: 0  mean: 69.7594  area: 9000000  std:63.2675
+******* NUC area detected
+4_S01_CD8.svs__1_38870_98670.tif-(Colour_3):   max:   255  min: 0  mean: 18.9411  area: 9000000  std:34.941
+4_S01_CD8.svs__1_41860_101660.tif
+  
+4_S01_CD8.svs__1_41860_101660.tif
+4_S01_CD8.svs__1_41860_101660.tif-(Colour_1):   max:   255  min: 0  mean: 72.677  area: 9000000  std:63.7861
+******* NUC area detected
+4_S01_CD8.svs__1_41860_101660.tif-(Colour_3):   max:   255  min: 0  mean: 30.4892  area: 9000000  std:56.8372
+4_S01_CD8.svs__1_41860_104650.tif
+  
+4_S01_CD8.svs__1_41860_104650.tif
+4_S01_CD8.svs__1_41860_104650.tif-(Colour_1):   max:   255  min: 0  mean: 70.1421  area: 9000000  std:63.4483
+******* NUC area detected
+4_S01_CD8.svs__1_41860_104650.tif-(Colour_3):   max:   255  min: 0  mean: 40.8318  area: 9000000  std:67.7666
+4_S01_CD8.svs__1_41860_11960.tif
+  
+4_S01_CD8.svs__1_41860_11960.tif
+4_S01_CD8.svs__1_41860_11960.tif-(Colour_1):   max:   255  min: 0  mean: 64.6622  area: 9000000  std:60.9403
+******* NUC area detected
+4_S01_CD8.svs__1_41860_11960.tif-(Colour_3):   max:   255  min: 0  mean: 22.8448  area: 9000000  std:43.1845
+4_S01_CD8.svs__1_41860_14950.tif
+  
+4_S01_CD8.svs__1_41860_14950.tif
+4_S01_CD8.svs__1_41860_14950.tif-(Colour_1):   max:   255  min: 0  mean: 63.6051  area: 9000000  std:60.0449
+******* NUC area detected
+4_S01_CD8.svs__1_41860_14950.tif-(Colour_3):   max:   255  min: 0  mean: 22.146  area: 9000000  std:42.0535
+4_S01_CD8.svs__1_41860_17940.tif
+  
+4_S01_CD8.svs__1_41860_17940.tif
+4_S01_CD8.svs__1_41860_17940.tif-(Colour_1):   max:   255  min: 0  mean: 63.6008  area: 9000000  std:60.0401
+******* NUC area detected
+4_S01_CD8.svs__1_41860_17940.tif-(Colour_3):   max:   255  min: 0  mean: 23.7664  area: 9000000  std:44.9206
+4_S01_CD8.svs__1_41860_20930.tif
+  
+4_S01_CD8.svs__1_41860_20930.tif
+4_S01_CD8.svs__1_41860_20930.tif-(Colour_1):   max:   255  min: 0  mean: 66.8979  area: 9000000  std:61.0663
+******* NUC area detected
+4_S01_CD8.svs__1_41860_20930.tif-(Colour_3):   max:   255  min: 0  mean: 23.9824  area: 9000000  std:45.8181
+4_S01_CD8.svs__1_41860_23920.tif
+  
+4_S01_CD8.svs__1_41860_23920.tif
+4_S01_CD8.svs__1_41860_23920.tif-(Colour_1):   max:   255  min: 0  mean: 63.2853  area: 9000000  std:61.0328
+******* NUC area detected
+4_S01_CD8.svs__1_41860_23920.tif-(Colour_3):   max:   255  min: 0  mean: 28.1317  area: 9000000  std:51.7729
+4_S01_CD8.svs__1_41860_26910.tif
+  
+4_S01_CD8.svs__1_41860_26910.tif
+4_S01_CD8.svs__1_41860_26910.tif-(Colour_1):   max:   255  min: 0  mean: 59.4082  area: 9000000  std:59.1091
+******* NUC area detected
+4_S01_CD8.svs__1_41860_26910.tif-(Colour_3):   max:   255  min: 0  mean: 22.2402  area: 9000000  std:39.4705
+4_S01_CD8.svs__1_41860_29900.tif
+  
+4_S01_CD8.svs__1_41860_29900.tif
+4_S01_CD8.svs__1_41860_29900.tif-(Colour_1):   max:   255  min: 0  mean: 59.4164  area: 9000000  std:61.1919
+******* NUC area detected
+4_S01_CD8.svs__1_41860_29900.tif-(Colour_3):   max:   255  min: 0  mean: 27.5525  area: 9000000  std:49.2419
+4_S01_CD8.svs__1_41860_32890.tif
+  
+4_S01_CD8.svs__1_41860_32890.tif
+4_S01_CD8.svs__1_41860_32890.tif-(Colour_1):   max:   255  min: 0  mean: 51.3965  area: 9000000  std:56.9167
+******* NUC area detected
+4_S01_CD8.svs__1_41860_32890.tif-(Colour_3):   max:   255  min: 0  mean: 24.6941  area: 9000000  std:38.5771
+4_S01_CD8.svs__1_41860_35880.tif
+  
+4_S01_CD8.svs__1_41860_35880.tif
+4_S01_CD8.svs__1_41860_35880.tif-(Colour_1):   max:   255  min: 0  mean: 52.0605  area: 9000000  std:57.6375
+******* NUC area detected
+4_S01_CD8.svs__1_41860_35880.tif-(Colour_3):   max:   255  min: 0  mean: 26.0563  area: 9000000  std:39.7642
+4_S01_CD8.svs__1_41860_38870.tif
+  
+4_S01_CD8.svs__1_41860_38870.tif
+4_S01_CD8.svs__1_41860_38870.tif-(Colour_1):   max:   255  min: 0  mean: 61.1721  area: 9000000  std:59.1307
+******* NUC area detected
+4_S01_CD8.svs__1_41860_38870.tif-(Colour_3):   max:   255  min: 0  mean: 25.9645  area: 9000000  std:38.7974
+4_S01_CD8.svs__1_41860_41860.tif
+  
+4_S01_CD8.svs__1_41860_41860.tif
+4_S01_CD8.svs__1_41860_41860.tif-(Colour_1):   max:   255  min: 0  mean: 67.4815  area: 9000000  std:61.1809
+******* NUC area detected
+4_S01_CD8.svs__1_41860_41860.tif-(Colour_3):   max:   255  min: 0  mean: 23.1215  area: 9000000  std:38.1347
+4_S01_CD8.svs__1_41860_44850.tif
+  
+4_S01_CD8.svs__1_41860_44850.tif
+4_S01_CD8.svs__1_41860_44850.tif-(Colour_1):   max:   255  min: 0  mean: 66.3417  area: 9000000  std:59.2336
+******* NUC area detected
+4_S01_CD8.svs__1_41860_44850.tif-(Colour_3):   max:   255  min: 0  mean: 23.8291  area: 9000000  std:36.5298
+4_S01_CD8.svs__1_41860_47840.tif
+  
+4_S01_CD8.svs__1_41860_47840.tif
+4_S01_CD8.svs__1_41860_47840.tif-(Colour_1):   max:   255  min: 0  mean: 79.7968  area: 9000000  std:65.9915
+******* NUC area detected
+4_S01_CD8.svs__1_41860_47840.tif-(Colour_3):   max:   255  min: 0  mean: 22.2872  area: 9000000  std:38.0559
+4_S01_CD8.svs__1_41860_50830.tif
+  
+4_S01_CD8.svs__1_41860_50830.tif
+4_S01_CD8.svs__1_41860_50830.tif-(Colour_1):   max:   255  min: 0  mean: 77.5309  area: 9000000  std:65.7169
+******* NUC area detected
+4_S01_CD8.svs__1_41860_50830.tif-(Colour_3):   max:   255  min: 0  mean: 24.26  area: 9000000  std:42.0887
+4_S01_CD8.svs__1_41860_53820.tif
+  
+4_S01_CD8.svs__1_41860_53820.tif
+4_S01_CD8.svs__1_41860_53820.tif-(Colour_1):   max:   255  min: 0  mean: 70.7275  area: 9000000  std:61.3157
+******* NUC area detected
+4_S01_CD8.svs__1_41860_53820.tif-(Colour_3):   max:   255  min: 0  mean: 22.9732  area: 9000000  std:36.9156
+4_S01_CD8.svs__1_41860_56810.tif
+  
+4_S01_CD8.svs__1_41860_56810.tif
+4_S01_CD8.svs__1_41860_56810.tif-(Colour_1):   max:   255  min: 0  mean: 69.5173  area: 9000000  std:60.5145
+******* NUC area detected
+4_S01_CD8.svs__1_41860_56810.tif-(Colour_3):   max:   255  min: 0  mean: 25.0302  area: 9000000  std:41.8143
+4_S01_CD8.svs__1_41860_5980.tif
+  
+4_S01_CD8.svs__1_41860_5980.tif
+4_S01_CD8.svs__1_41860_5980.tif-(Colour_1):   max:   255  min: 0  mean: 54.8496  area: 9000000  std:60.7708
+******* NUC area detected
+4_S01_CD8.svs__1_41860_5980.tif-(Colour_3):   max:   255  min: 0  mean: 21.5586  area: 9000000  std:32.9294
+4_S01_CD8.svs__1_41860_65780.tif
+  
+4_S01_CD8.svs__1_41860_65780.tif
+4_S01_CD8.svs__1_41860_65780.tif-(Colour_1):   max:   255  min: 0  mean: 67.8956  area: 9000000  std:60.7834
+******* NUC area detected
+4_S01_CD8.svs__1_41860_65780.tif-(Colour_3):   max:   255  min: 0  mean: 26.0249  area: 9000000  std:49.4708
+4_S01_CD8.svs__1_41860_68770.tif
+  
+4_S01_CD8.svs__1_41860_68770.tif
+4_S01_CD8.svs__1_41860_68770.tif-(Colour_1):   max:   255  min: 0  mean: 72.0201  area: 9000000  std:60.6223
+******* NUC area detected
+4_S01_CD8.svs__1_41860_68770.tif-(Colour_3):   max:   255  min: 0  mean: 19.8723  area: 9000000  std:39.412
+4_S01_CD8.svs__1_41860_71760.tif
+  
+4_S01_CD8.svs__1_41860_71760.tif
+4_S01_CD8.svs__1_41860_71760.tif-(Colour_1):   max:   255  min: 0  mean: 64.1089  area: 9000000  std:61.0823
+******* NUC area detected
+4_S01_CD8.svs__1_41860_71760.tif-(Colour_3):   max:   255  min: 0  mean: 21.7658  area: 9000000  std:39.8205
+4_S01_CD8.svs__1_41860_74750.tif
+  
+4_S01_CD8.svs__1_41860_74750.tif
+4_S01_CD8.svs__1_41860_74750.tif-(Colour_1):   max:   255  min: 0  mean: 63.1169  area: 9000000  std:59.9142
+******* NUC area detected
+4_S01_CD8.svs__1_41860_74750.tif-(Colour_3):   max:   255  min: 0  mean: 20.7169  area: 9000000  std:36.7457
+4_S01_CD8.svs__1_41860_77740.tif
+  
+4_S01_CD8.svs__1_41860_77740.tif
+4_S01_CD8.svs__1_41860_77740.tif-(Colour_1):   max:   255  min: 0  mean: 66.8416  area: 9000000  std:61.672
+******* NUC area detected
+4_S01_CD8.svs__1_41860_77740.tif-(Colour_3):   max:   255  min: 0  mean: 19.5363  area: 9000000  std:33.3688
+4_S01_CD8.svs__1_41860_80730.tif
+  
+4_S01_CD8.svs__1_41860_80730.tif
+4_S01_CD8.svs__1_41860_80730.tif-(Colour_1):   max:   255  min: 0  mean: 78.4238  area: 9000000  std:62.4874
+******* NUC area detected
+4_S01_CD8.svs__1_41860_80730.tif-(Colour_3):   max:   255  min: 0  mean: 25.964  area: 9000000  std:46.4788
+4_S01_CD8.svs__1_41860_8970.tif
+  
+4_S01_CD8.svs__1_41860_8970.tif
+4_S01_CD8.svs__1_41860_8970.tif-(Colour_1):   max:   255  min: 0  mean: 61.3727  area: 9000000  std:64.4072
+******* NUC area detected
+4_S01_CD8.svs__1_41860_8970.tif-(Colour_3):   max:   255  min: 0  mean: 19.4003  area: 9000000  std:30.224
+4_S01_CD8.svs__1_41860_95680.tif
+  
+4_S01_CD8.svs__1_41860_95680.tif
+4_S01_CD8.svs__1_41860_95680.tif-(Colour_1):   max:   255  min: 0  mean: 68.185  area: 9000000  std:62.6896
+******* NUC area detected
+4_S01_CD8.svs__1_41860_95680.tif-(Colour_3):   max:   255  min: 0  mean: 25.0113  area: 9000000  std:43.3036
+4_S01_CD8.svs__1_41860_98670.tif
+  
+4_S01_CD8.svs__1_41860_98670.tif
+4_S01_CD8.svs__1_41860_98670.tif-(Colour_1):   max:   255  min: 0  mean: 73.7434  area: 9000000  std:63.4131
+******* NUC area detected
+4_S01_CD8.svs__1_41860_98670.tif-(Colour_3):   max:   255  min: 0  mean: 22.4058  area: 9000000  std:44.1349
+4_S01_CD8.svs__1_44850_101660.tif
+  
+4_S01_CD8.svs__1_44850_101660.tif
+4_S01_CD8.svs__1_44850_101660.tif-(Colour_1):   max:   255  min: 0  mean: 76.3764  area: 9000000  std:64.1825
+******* NUC area detected
+4_S01_CD8.svs__1_44850_101660.tif-(Colour_3):   max:   255  min: 0  mean: 36.4265  area: 9000000  std:64.0942
+4_S01_CD8.svs__1_44850_11960.tif
+  
+4_S01_CD8.svs__1_44850_11960.tif
+4_S01_CD8.svs__1_44850_11960.tif-(Colour_1):   max:   255  min: 0  mean: 55.2935  area: 9000000  std:58.3889
+******* NUC area detected
+4_S01_CD8.svs__1_44850_11960.tif-(Colour_3):   max:   255  min: 0  mean: 29.5593  area: 9000000  std:52.323
+4_S01_CD8.svs__1_44850_14950.tif
+  
+4_S01_CD8.svs__1_44850_14950.tif
+4_S01_CD8.svs__1_44850_14950.tif-(Colour_1):   max:   255  min: 0  mean: 50.7379  area: 9000000  std:58.4056
+******* NUC area detected
+4_S01_CD8.svs__1_44850_14950.tif-(Colour_3):   max:   255  min: 0  mean: 33.052  area: 9000000  std:55.765
+4_S01_CD8.svs__1_44850_17940.tif
+  
+4_S01_CD8.svs__1_44850_17940.tif
+4_S01_CD8.svs__1_44850_17940.tif-(Colour_1):   max:   255  min: 0  mean: 56.5577  area: 9000000  std:59.731
+******* NUC area detected
+4_S01_CD8.svs__1_44850_17940.tif-(Colour_3):   max:   255  min: 0  mean: 31.1757  area: 9000000  std:54.2373
+4_S01_CD8.svs__1_44850_20930.tif
+  
+4_S01_CD8.svs__1_44850_20930.tif
+4_S01_CD8.svs__1_44850_20930.tif-(Colour_1):   max:   255  min: 0  mean: 56.4121  area: 9000000  std:61.4228
+******* NUC area detected
+4_S01_CD8.svs__1_44850_20930.tif-(Colour_3):   max:   255  min: 0  mean: 34.3508  area: 9000000  std:56.9068
+4_S01_CD8.svs__1_44850_23920.tif
+  
+4_S01_CD8.svs__1_44850_23920.tif
+4_S01_CD8.svs__1_44850_23920.tif-(Colour_1):   max:   255  min: 0  mean: 65.9731  area: 9000000  std:65.1066
+******* NUC area detected
+4_S01_CD8.svs__1_44850_23920.tif-(Colour_3):   max:   255  min: 0  mean: 37.9136  area: 9000000  std:61.1045
+4_S01_CD8.svs__1_44850_29900.tif
+  
+4_S01_CD8.svs__1_44850_29900.tif
+4_S01_CD8.svs__1_44850_29900.tif-(Colour_1):   max:   255  min: 0  mean: 75.7689  area: 9000000  std:63.4292
+******* NUC area detected
+4_S01_CD8.svs__1_44850_29900.tif-(Colour_3):   max:   255  min: 0  mean: 19.0187  area: 9000000  std:36.7296
+4_S01_CD8.svs__1_44850_32890.tif
+  
+4_S01_CD8.svs__1_44850_32890.tif
+4_S01_CD8.svs__1_44850_32890.tif-(Colour_1):   max:   255  min: 0  mean: 65.4015  area: 9000000  std:61.199
+******* NUC area detected
+4_S01_CD8.svs__1_44850_32890.tif-(Colour_3):   max:   255  min: 0  mean: 28.056  area: 9000000  std:48.053
+4_S01_CD8.svs__1_44850_50830.tif
+  
+4_S01_CD8.svs__1_44850_50830.tif
+4_S01_CD8.svs__1_44850_50830.tif-(Colour_1):   max:   255  min: 0  mean: 80.8879  area: 9000000  std:62.753
+******* NUC area detected
+4_S01_CD8.svs__1_44850_50830.tif-(Colour_3):   max:   255  min: 0  mean: 29.0724  area: 9000000  std:46.2971
+4_S01_CD8.svs__1_44850_53820.tif
+  
+4_S01_CD8.svs__1_44850_53820.tif
+4_S01_CD8.svs__1_44850_53820.tif-(Colour_1):   max:   255  min: 0  mean: 75.7146  area: 9000000  std:62.3753
+******* NUC area detected
+4_S01_CD8.svs__1_44850_53820.tif-(Colour_3):   max:   255  min: 0  mean: 25.0607  area: 9000000  std:40.0456
+4_S01_CD8.svs__1_44850_56810.tif
+  
+4_S01_CD8.svs__1_44850_56810.tif
+4_S01_CD8.svs__1_44850_56810.tif-(Colour_1):   max:   255  min: 0  mean: 81.2397  area: 9000000  std:62.6167
+******* NUC area detected
+4_S01_CD8.svs__1_44850_56810.tif-(Colour_3):   max:   255  min: 0  mean: 27.9867  area: 9000000  std:42.5204
+4_S01_CD8.svs__1_44850_5980.tif
+  
+4_S01_CD8.svs__1_44850_5980.tif
+4_S01_CD8.svs__1_44850_5980.tif-(Colour_1):   max:   255  min: 0  mean: 51.344  area: 9000000  std:58.1429
+******* NUC area detected
+4_S01_CD8.svs__1_44850_5980.tif-(Colour_3):   max:   255  min: 0  mean: 29.7349  area: 9000000  std:47.6274
+4_S01_CD8.svs__1_44850_68770.tif
+  
+4_S01_CD8.svs__1_44850_68770.tif
+4_S01_CD8.svs__1_44850_68770.tif-(Colour_1):   max:   255  min: 0  mean: 68.512  area: 9000000  std:59.9895
+******* NUC area detected
+4_S01_CD8.svs__1_44850_68770.tif-(Colour_3):   max:   255  min: 0  mean: 25.827  area: 9000000  std:48.6239
+4_S01_CD8.svs__1_44850_71760.tif
+  
+4_S01_CD8.svs__1_44850_71760.tif
+4_S01_CD8.svs__1_44850_71760.tif-(Colour_1):   max:   255  min: 0  mean: 67.1301  area: 9000000  std:62.4349
+******* NUC area detected
+4_S01_CD8.svs__1_44850_71760.tif-(Colour_3):   max:   255  min: 0  mean: 24.1595  area: 9000000  std:44.9699
+4_S01_CD8.svs__1_44850_74750.tif
+  
+4_S01_CD8.svs__1_44850_74750.tif
+4_S01_CD8.svs__1_44850_74750.tif-(Colour_1):   max:   255  min: 0  mean: 69.6332  area: 9000000  std:59.8768
+******* NUC area detected
+4_S01_CD8.svs__1_44850_74750.tif-(Colour_3):   max:   255  min: 0  mean: 19.3723  area: 9000000  std:35.3346
+4_S01_CD8.svs__1_44850_77740.tif
+  
+4_S01_CD8.svs__1_44850_77740.tif
+4_S01_CD8.svs__1_44850_77740.tif-(Colour_1):   max:   255  min: 0  mean: 76.3653  area: 9000000  std:64.7287
+******* NUC area detected
+4_S01_CD8.svs__1_44850_77740.tif-(Colour_3):   max:   255  min: 0  mean: 25.6521  area: 9000000  std:44.8303
+4_S01_CD8.svs__1_44850_8970.tif
+  
+4_S01_CD8.svs__1_44850_8970.tif
+4_S01_CD8.svs__1_44850_8970.tif-(Colour_1):   max:   255  min: 0  mean: 49.9406  area: 9000000  std:58.195
+******* NUC area detected
+4_S01_CD8.svs__1_44850_8970.tif-(Colour_3):   max:   255  min: 0  mean: 24.1187  area: 9000000  std:37.4853
+4_S01_CD8.svs__1_44850_95680.tif
+  
+4_S01_CD8.svs__1_44850_95680.tif
+4_S01_CD8.svs__1_44850_95680.tif-(Colour_1):   max:   255  min: 0  mean: 76.4431  area: 9000000  std:63.8686
+******* NUC area detected
+4_S01_CD8.svs__1_44850_95680.tif-(Colour_3):   max:   255  min: 0  mean: 26.5163  area: 9000000  std:47.3431
+4_S01_CD8.svs__1_44850_98670.tif
+  
+4_S01_CD8.svs__1_44850_98670.tif
+4_S01_CD8.svs__1_44850_98670.tif-(Colour_1):   max:   255  min: 0  mean: 74.9284  area: 9000000  std:64.4893
+******* NUC area detected
+4_S01_CD8.svs__1_44850_98670.tif-(Colour_3):   max:   255  min: 0  mean: 26.0669  area: 9000000  std:49.2098
+4_S01_CD8.svs__1_47840_11960.tif
+  
+4_S01_CD8.svs__1_47840_11960.tif
+4_S01_CD8.svs__1_47840_11960.tif-(Colour_1):   max:   255  min: 0  mean: 44.2756  area: 9000000  std:53.6346
+******* NUC area detected
+4_S01_CD8.svs__1_47840_11960.tif-(Colour_3):   max:   255  min: 0  mean: 25.3966  area: 9000000  std:38.3459
+4_S01_CD8.svs__1_47840_14950.tif
+  
+4_S01_CD8.svs__1_47840_14950.tif
+4_S01_CD8.svs__1_47840_14950.tif-(Colour_1):   max:   255  min: 0  mean: 37.4723  area: 9000000  std:50.3136
+******* NUC area detected
+4_S01_CD8.svs__1_47840_14950.tif-(Colour_3):   max:   255  min: 0  mean: 25.0476  area: 9000000  std:34.1959
+4_S01_CD8.svs__1_47840_17940.tif
+  
+4_S01_CD8.svs__1_47840_17940.tif
+4_S01_CD8.svs__1_47840_17940.tif-(Colour_1):   max:   255  min: 0  mean: 48.8561  area: 9000000  std:57.3413
+******* NUC area detected
+4_S01_CD8.svs__1_47840_17940.tif-(Colour_3):   max:   255  min: 0  mean: 27.2233  area: 9000000  std:44.4772
+4_S01_CD8.svs__1_47840_20930.tif
+  
+4_S01_CD8.svs__1_47840_20930.tif
+4_S01_CD8.svs__1_47840_20930.tif-(Colour_1):   max:   255  min: 0  mean: 52.0498  area: 9000000  std:59.7695
+******* NUC area detected
+4_S01_CD8.svs__1_47840_20930.tif-(Colour_3):   max:   255  min: 0  mean: 32.6942  area: 9000000  std:52.3243
+4_S01_CD8.svs__1_47840_71760.tif
+  
+4_S01_CD8.svs__1_47840_71760.tif
+4_S01_CD8.svs__1_47840_71760.tif-(Colour_1):   max:   255  min: 0  mean: 64.5522  area: 9000000  std:60.0169
+******* NUC area detected
+4_S01_CD8.svs__1_47840_71760.tif-(Colour_3):   max:   255  min: 0  mean: 29.9417  area: 9000000  std:50.7925
+4_S01_CD8.svs__1_47840_74750.tif
+  
+4_S01_CD8.svs__1_47840_74750.tif
+4_S01_CD8.svs__1_47840_74750.tif-(Colour_1):   max:   255  min: 0  mean: 74.2301  area: 9000000  std:62.067
+******* NUC area detected
+4_S01_CD8.svs__1_47840_74750.tif-(Colour_3):   max:   255  min: 0  mean: 27.1163  area: 9000000  std:47.0213
+4_S01_CD8.svs__1_47840_8970.tif
+  
+4_S01_CD8.svs__1_47840_8970.tif
+4_S01_CD8.svs__1_47840_8970.tif-(Colour_1):   max:   255  min: 0  mean: 45.6003  area: 9000000  std:54.8382
+******* NUC area detected
+4_S01_CD8.svs__1_47840_8970.tif-(Colour_3):   max:   255  min: 0  mean: 24.5499  area: 9000000  std:37.0563
+4_S01_CD8.svs__1_47840_98670.tif
+  
+4_S01_CD8.svs__1_47840_98670.tif
+4_S01_CD8.svs__1_47840_98670.tif-(Colour_1):   max:   255  min: 0  mean: 85.2637  area: 9000000  std:60.2617
+******* NUC area detected
+4_S01_CD8.svs__1_47840_98670.tif-(Colour_3):   max:   255  min: 0  mean: 24.3955  area: 9000000  std:48.1977
+4_S01_CD8.svs__1_50830_11960.tif
+  
+4_S01_CD8.svs__1_50830_11960.tif
+4_S01_CD8.svs__1_50830_11960.tif-(Colour_1):   max:   255  min: 0  mean: 52.4367  area: 9000000  std:55.7273
+******* NUC area detected
+4_S01_CD8.svs__1_50830_11960.tif-(Colour_3):   max:   255  min: 0  mean: 32.1955  area: 9000000  std:51.7316
+4_S01_CD8.svs__1_50830_14950.tif
+  
+4_S01_CD8.svs__1_50830_14950.tif
+4_S01_CD8.svs__1_50830_14950.tif-(Colour_1):   max:   255  min: 0  mean: 50.354  area: 9000000  std:55.128
+******* NUC area detected
+4_S01_CD8.svs__1_50830_14950.tif-(Colour_3):   max:   255  min: 0  mean: 30.7378  area: 9000000  std:47.43
+4_S01_CD8.svs__1_8970_11960.tif
+  
+4_S01_CD8.svs__1_8970_11960.tif
+4_S01_CD8.svs__1_8970_11960.tif-(Colour_1):   max:   255  min: 0  mean: 86.2684  area: 9000000  std:70.0743
+******* NUC area detected
+4_S01_CD8.svs__1_8970_11960.tif-(Colour_3):   max:   255  min: 0  mean: 14.9344  area: 9000000  std:32.3229
+4_S01_CD8.svs__1_8970_14950.tif
+  
+4_S01_CD8.svs__1_8970_14950.tif
+4_S01_CD8.svs__1_8970_14950.tif-(Colour_1):   max:   255  min: 0  mean: 78.4546  area: 9000000  std:66.1827
+******* NUC area detected
+4_S01_CD8.svs__1_8970_14950.tif-(Colour_3):   max:   255  min: 0  mean: 13.5192  area: 9000000  std:24.7582
+4_S01_CD8.svs__1_8970_17940.tif
+  
+4_S01_CD8.svs__1_8970_17940.tif
+4_S01_CD8.svs__1_8970_17940.tif-(Colour_1):   max:   255  min: 0  mean: 83.2293  area: 9000000  std:68.6508
+******* NUC area detected
+4_S01_CD8.svs__1_8970_17940.tif-(Colour_3):   max:   255  min: 0  mean: 16.2761  area: 9000000  std:34.8943
+4_S01_CD8.svs__1_8970_20930.tif
+  
+4_S01_CD8.svs__1_8970_20930.tif
+4_S01_CD8.svs__1_8970_20930.tif-(Colour_1):   max:   255  min: 0  mean: 75.4133  area: 9000000  std:63.351
+******* NUC area detected
+4_S01_CD8.svs__1_8970_20930.tif-(Colour_3):   max:   255  min: 0  mean: 15.3865  area: 9000000  std:28.6197
+4_S01_CD8.svs__1_8970_23920.tif
+  
+4_S01_CD8.svs__1_8970_23920.tif
+4_S01_CD8.svs__1_8970_23920.tif-(Colour_1):   max:   255  min: 0  mean: 66.9247  area: 9000000  std:61.7982
+******* NUC area detected
+4_S01_CD8.svs__1_8970_23920.tif-(Colour_3):   max:   255  min: 0  mean: 14.8812  area: 9000000  std:22.3771
+4_S01_CD8.svs__1_8970_5980.tif
+  
+4_S01_CD8.svs__1_8970_5980.tif
+4_S01_CD8.svs__1_8970_5980.tif-(Colour_1):   max:   255  min: 0  mean: 82.228  area: 9000000  std:65.9133
+******* NUC area detected
+4_S01_CD8.svs__1_8970_5980.tif-(Colour_3):   max:   255  min: 0  mean: 17.7381  area: 9000000  std:39.4354
+4_S01_CD8.svs__1_8970_8970.tif
+  
+4_S01_CD8.svs__1_8970_8970.tif
+4_S01_CD8.svs__1_8970_8970.tif-(Colour_1):   max:   255  min: 0  mean: 80.7905  area: 9000000  std:64.944
+******* NUC area detected
+4_S01_CD8.svs__1_8970_8970.tif-(Colour_3):   max:   255  min: 0  mean: 18.5689  area: 9000000  std:41.5119
+Initializing...
+BK_NUC
+/Users/hoatran/Documents/images_HE/images/4_S01/CD8_tiles/BK_NUC/
+Hello
+4_S01_CD8.svs__1_11960_0.tif
+  
+4_S01_CD8.svs__1_11960_0.tif
+4_S01_CD8.svs__1_11960_0.tif-(Colour_1):   max:   255  min: 0  mean: 223.4997  area: 9000000  std:63.0616
+******* NUC area detected
+4_S01_CD8.svs__1_11960_0.tif-(Colour_3):   max:   255  min: 0  mean: 165.8087  area: 9000000  std:79.1768
+4_S01_CD8.svs__1_11960_32890.tif
+  
+4_S01_CD8.svs__1_11960_32890.tif
+4_S01_CD8.svs__1_11960_32890.tif-(Colour_1):   max:   255  min: 0  mean: 92.6305  area: 9000000  std:75.6781
+******* NUC area detected
+4_S01_CD8.svs__1_11960_32890.tif-(Colour_3):   max:   255  min: 0  mean: 38.8124  area: 9000000  std:60.4225
+4_S01_CD8.svs__1_11960_50830.tif
+  
+4_S01_CD8.svs__1_11960_50830.tif
+4_S01_CD8.svs__1_11960_50830.tif-(Colour_1):   max:   255  min: 0  mean: 139.5421  area: 9000000  std:95.9774
+******* NUC area detected
+4_S01_CD8.svs__1_11960_50830.tif-(Colour_3):   max:   255  min: 0  mean: 97.9526  area: 9000000  std:103.028
+4_S01_CD8.svs__1_11960_53820.tif
+  
+4_S01_CD8.svs__1_11960_53820.tif
+4_S01_CD8.svs__1_11960_53820.tif-(Colour_1):   max:   255  min: 0  mean: 237.6036  area: 9000000  std:47.8326
+******* NUC area detected
+4_S01_CD8.svs__1_11960_53820.tif-(Colour_3):   max:   255  min: 0  mean: 225.6969  area: 9000000  std:63.921
+4_S01_CD8.svs__1_11960_56810.tif
+  
+4_S01_CD8.svs__1_11960_56810.tif
+4_S01_CD8.svs__1_11960_56810.tif-(Colour_1):   max:   255  min: 0  mean: 216.4242  area: 9000000  std:80.0727
+******* NUC area detected
+4_S01_CD8.svs__1_11960_56810.tif-(Colour_3):   max:   255  min: 0  mean: 205.4787  area: 9000000  std:86.3952
+4_S01_CD8.svs__1_14950_0.tif
+  
+4_S01_CD8.svs__1_14950_0.tif
+4_S01_CD8.svs__1_14950_0.tif-(Colour_1):   max:   255  min: 0  mean: 228.0414  area: 9000000  std:54.0723
+******* NUC area detected
+4_S01_CD8.svs__1_14950_0.tif-(Colour_3):   max:   255  min: 0  mean: 161.0351  area: 9000000  std:78.0846
+4_S01_CD8.svs__1_14950_56810.tif
+  
+4_S01_CD8.svs__1_14950_56810.tif
+4_S01_CD8.svs__1_14950_56810.tif-(Colour_1):   max:   255  min: 0  mean: 74.7778  area: 9000000  std:65.4784
+******* NUC area detected
+4_S01_CD8.svs__1_14950_56810.tif-(Colour_3):   max:   255  min: 0  mean: 30.7378  area: 9000000  std:46.1024
+4_S01_CD8.svs__1_14950_59800.tif
+  
+4_S01_CD8.svs__1_14950_59800.tif
+4_S01_CD8.svs__1_14950_59800.tif-(Colour_1):   max:   255  min: 0  mean: 152.3609  area: 9000000  std:92.2015
+******* NUC area detected
+4_S01_CD8.svs__1_14950_59800.tif-(Colour_3):   max:   255  min: 0  mean: 114.3538  area: 9000000  std:103.0409
+4_S01_CD8.svs__1_14950_62790.tif
+  
+4_S01_CD8.svs__1_14950_62790.tif
+4_S01_CD8.svs__1_14950_62790.tif-(Colour_1):   max:   255  min: 0  mean: 225.1731  area: 9000000  std:61.2286
+******* NUC area detected
+4_S01_CD8.svs__1_14950_62790.tif-(Colour_3):   max:   255  min: 0  mean: 204.4452  area: 9000000  std:81.7168
+4_S01_CD8.svs__1_17940_2990.tif
+  
+4_S01_CD8.svs__1_17940_2990.tif
+4_S01_CD8.svs__1_17940_2990.tif-(Colour_1):   max:   255  min: 0  mean: 108.5288  area: 9000000  std:79.4251
+******* NUC area detected
+4_S01_CD8.svs__1_17940_2990.tif-(Colour_3):   max:   255  min: 0  mean: 38.0697  area: 9000000  std:56.5633
+4_S01_CD8.svs__1_17940_65780.tif
+  
+4_S01_CD8.svs__1_17940_65780.tif
+4_S01_CD8.svs__1_17940_65780.tif-(Colour_1):   max:   255  min: 0  mean: 125.1405  area: 9000000  std:94.118
+******* NUC area detected
+4_S01_CD8.svs__1_17940_65780.tif-(Colour_3):   max:   255  min: 0  mean: 90.8685  area: 9000000  std:98.8471
+4_S01_CD8.svs__1_17940_68770.tif
+  
+4_S01_CD8.svs__1_17940_68770.tif
+4_S01_CD8.svs__1_17940_68770.tif-(Colour_1):   max:   255  min: 0  mean: 233.3109  area: 9000000  std:51.4402
+******* NUC area detected
+4_S01_CD8.svs__1_17940_68770.tif-(Colour_3):   max:   255  min: 0  mean: 218.0857  area: 9000000  std:71.5545
+4_S01_CD8.svs__1_20930_101660.tif
+  
+4_S01_CD8.svs__1_20930_101660.tif
+4_S01_CD8.svs__1_20930_101660.tif-(Colour_1):   max:   255  min: 0  mean: 182.2734  area: 9000000  std:94.2615
+******* NUC area detected
+4_S01_CD8.svs__1_20930_101660.tif-(Colour_3):   max:   255  min: 0  mean: 154.8083  area: 9000000  std:95.2469
+4_S01_CD8.svs__1_20930_104650.tif
+  
+4_S01_CD8.svs__1_20930_104650.tif
+4_S01_CD8.svs__1_20930_104650.tif-(Colour_1):   max:   255  min: 0  mean: 230.2414  area: 9000000  std:58.5936
+******* NUC area detected
+4_S01_CD8.svs__1_20930_104650.tif-(Colour_3):   max:   255  min: 0  mean: 217.7521  area: 9000000  std:66.0738
+4_S01_CD8.svs__1_20930_2990.tif
+  
+4_S01_CD8.svs__1_20930_2990.tif
+4_S01_CD8.svs__1_20930_2990.tif-(Colour_1):   max:   255  min: 0  mean: 95.7234  area: 9000000  std:84.7934
+******* NUC area detected
+4_S01_CD8.svs__1_20930_2990.tif-(Colour_3):   max:   255  min: 0  mean: 53.6226  area: 9000000  std:73.4566
+4_S01_CD8.svs__1_20930_71760.tif
+  
+4_S01_CD8.svs__1_20930_71760.tif
+4_S01_CD8.svs__1_20930_71760.tif-(Colour_1):   max:   255  min: 0  mean: 90.594  area: 9000000  std:72.4605
+******* NUC area detected
+4_S01_CD8.svs__1_20930_71760.tif-(Colour_3):   max:   255  min: 0  mean: 31.9279  area: 9000000  std:46.5162
+4_S01_CD8.svs__1_20930_74750.tif
+  
+4_S01_CD8.svs__1_20930_74750.tif
+4_S01_CD8.svs__1_20930_74750.tif-(Colour_1):   max:   255  min: 0  mean: 84.0898  area: 9000000  std:70.1331
+******* NUC area detected
+4_S01_CD8.svs__1_20930_74750.tif-(Colour_3):   max:   255  min: 0  mean: 36.4352  area: 9000000  std:57.8333
+4_S01_CD8.svs__1_20930_80730.tif
+  
+4_S01_CD8.svs__1_20930_80730.tif
+4_S01_CD8.svs__1_20930_80730.tif-(Colour_1):   max:   255  min: 0  mean: 147.0292  area: 9000000  std:93.679
+******* NUC area detected
+4_S01_CD8.svs__1_20930_80730.tif-(Colour_3):   max:   255  min: 0  mean: 106.9625  area: 9000000  std:104.6022
+4_S01_CD8.svs__1_20930_83720.tif
+  
+4_S01_CD8.svs__1_20930_83720.tif
+4_S01_CD8.svs__1_20930_83720.tif-(Colour_1):   max:   255  min: 0  mean: 231.8534  area: 9000000  std:53.5355
+******* NUC area detected
+4_S01_CD8.svs__1_20930_83720.tif-(Colour_3):   max:   255  min: 0  mean: 204.852  area: 9000000  std:81.9582
+4_S01_CD8.svs__1_20930_86710.tif
+  
+4_S01_CD8.svs__1_20930_86710.tif
+4_S01_CD8.svs__1_20930_86710.tif-(Colour_1):   max:   255  min: 0  mean: 234.9898  area: 9000000  std:51.3671
+******* NUC area detected
+4_S01_CD8.svs__1_20930_86710.tif-(Colour_3):   max:   255  min: 0  mean: 208.1052  area: 9000000  std:73.946
+4_S01_CD8.svs__1_20930_89700.tif
+  
+4_S01_CD8.svs__1_20930_89700.tif
+4_S01_CD8.svs__1_20930_89700.tif-(Colour_1):   max:   255  min: 0  mean: 207.7235  area: 9000000  std:75.3614
+******* NUC area detected
+4_S01_CD8.svs__1_20930_89700.tif-(Colour_3):   max:   255  min: 0  mean: 171.222  area: 9000000  std:85.1665
+4_S01_CD8.svs__1_20930_92690.tif
+  
+4_S01_CD8.svs__1_20930_92690.tif
+4_S01_CD8.svs__1_20930_92690.tif-(Colour_1):   max:   255  min: 0  mean: 204.8087  area: 9000000  std:80.5679
+******* NUC area detected
+4_S01_CD8.svs__1_20930_92690.tif-(Colour_3):   max:   255  min: 0  mean: 176.2211  area: 9000000  std:90.2402
+4_S01_CD8.svs__1_20930_95680.tif
+  
+4_S01_CD8.svs__1_20930_95680.tif
+4_S01_CD8.svs__1_20930_95680.tif-(Colour_1):   max:   255  min: 0  mean: 172.1046  area: 9000000  std:93.8032
+******* NUC area detected
+4_S01_CD8.svs__1_20930_95680.tif-(Colour_3):   max:   255  min: 0  mean: 136.5048  area: 9000000  std:90.1344
+4_S01_CD8.svs__1_20930_98670.tif
+  
+4_S01_CD8.svs__1_20930_98670.tif
+4_S01_CD8.svs__1_20930_98670.tif-(Colour_1):   max:   255  min: 0  mean: 80.8372  area: 9000000  std:88.84
+******* NUC area detected
+4_S01_CD8.svs__1_20930_98670.tif-(Colour_3):   max:   255  min: 0  mean: 66.8664  area: 9000000  std:72.7968
+4_S01_CD8.svs__1_23920_104650.tif
+  
+4_S01_CD8.svs__1_23920_104650.tif
+4_S01_CD8.svs__1_23920_104650.tif-(Colour_1):   max:   255  min: 0  mean: 121.3917  area: 9000000  std:100.5393
+******* NUC area detected
+4_S01_CD8.svs__1_23920_104650.tif-(Colour_3):   max:   255  min: 0  mean: 98.225  area: 9000000  std:96.9294
+4_S01_CD8.svs__1_23920_107640.tif
+  
+4_S01_CD8.svs__1_23920_107640.tif
+4_S01_CD8.svs__1_23920_107640.tif-(Colour_1):   max:   255  min: 0  mean: 176.9579  area: 9000000  std:92.5453
+******* NUC area detected
+4_S01_CD8.svs__1_23920_107640.tif-(Colour_3):   max:   255  min: 0  mean: 149.7604  area: 9000000  std:97.0088
+4_S01_CD8.svs__1_23920_110630.tif
+  
+4_S01_CD8.svs__1_23920_110630.tif
+4_S01_CD8.svs__1_23920_110630.tif-(Colour_1):   max:   255  min: 0  mean: 206.1385  area: 9000000  std:79.3958
+******* NUC area detected
+4_S01_CD8.svs__1_23920_110630.tif-(Colour_3):   max:   255  min: 0  mean: 184.6855  area: 9000000  std:88.1946
+4_S01_CD8.svs__1_23920_20930.tif
+  
+4_S01_CD8.svs__1_23920_20930.tif
+4_S01_CD8.svs__1_23920_20930.tif-(Colour_1):   max:   255  min: 0  mean: 197.8996  area: 9000000  std:79.1531
+******* NUC area detected
+4_S01_CD8.svs__1_23920_20930.tif-(Colour_3):   max:   255  min: 0  mean: 172.3912  area: 9000000  std:95.4773
+4_S01_CD8.svs__1_23920_23920.tif
+  
+4_S01_CD8.svs__1_23920_23920.tif
+4_S01_CD8.svs__1_23920_23920.tif-(Colour_1):   max:   255  min: 0  mean: 147.8703  area: 9000000  std:94.3563
+******* NUC area detected
+4_S01_CD8.svs__1_23920_23920.tif-(Colour_3):   max:   255  min: 0  mean: 119.2541  area: 9000000  std:103.1721
+4_S01_CD8.svs__1_23920_2990.tif
+  
+4_S01_CD8.svs__1_23920_2990.tif
+4_S01_CD8.svs__1_23920_2990.tif-(Colour_1):   max:   255  min: 0  mean: 109.7819  area: 9000000  std:90.6505
+******* NUC area detected
+4_S01_CD8.svs__1_23920_2990.tif-(Colour_3):   max:   255  min: 0  mean: 68.9121  area: 9000000  std:87.0717
+4_S01_CD8.svs__1_26910_113620.tif
+  
+4_S01_CD8.svs__1_26910_113620.tif
+4_S01_CD8.svs__1_26910_113620.tif-(Colour_1):   max:   255  min: 0  mean: 106.486  area: 9000000  std:92.1566
+******* NUC area detected
+4_S01_CD8.svs__1_26910_113620.tif-(Colour_3):   max:   255  min: 0  mean: 88.6058  area: 9000000  std:91.1503
+4_S01_CD8.svs__1_26910_116610.tif
+  
+4_S01_CD8.svs__1_26910_116610.tif
+4_S01_CD8.svs__1_26910_116610.tif-(Colour_1):   max:   255  min: 0  mean: 147.0499  area: 9000000  std:99.54
+******* NUC area detected
+4_S01_CD8.svs__1_26910_116610.tif-(Colour_3):   max:   255  min: 0  mean: 120.5855  area: 9000000  std:101.2389
+4_S01_CD8.svs__1_26910_20930.tif
+  
+4_S01_CD8.svs__1_26910_20930.tif
+4_S01_CD8.svs__1_26910_20930.tif-(Colour_1):   max:   255  min: 0  mean: 98.909  area: 9000000  std:88.874
+******* NUC area detected
+4_S01_CD8.svs__1_26910_20930.tif-(Colour_3):   max:   255  min: 0  mean: 61.9673  area: 9000000  std:85.3326
+4_S01_CD8.svs__1_26910_23920.tif
+  
+4_S01_CD8.svs__1_26910_23920.tif
+4_S01_CD8.svs__1_26910_23920.tif-(Colour_1):   max:   255  min: 0  mean: 71.9209  area: 9000000  std:69.634
+******* NUC area detected
+4_S01_CD8.svs__1_26910_23920.tif-(Colour_3):   max:   255  min: 0  mean: 37.6118  area: 9000000  std:63.0588
+4_S01_CD8.svs__1_26910_2990.tif
+  
+4_S01_CD8.svs__1_26910_2990.tif
+4_S01_CD8.svs__1_26910_2990.tif-(Colour_1):   max:   255  min: 0  mean: 115.7975  area: 9000000  std:91.927
+******* NUC area detected
+4_S01_CD8.svs__1_26910_2990.tif-(Colour_3):   max:   255  min: 0  mean: 72.1399  area: 9000000  std:89.1309
+4_S01_CD8.svs__1_26910_38870.tif
+  
+4_S01_CD8.svs__1_26910_38870.tif
+4_S01_CD8.svs__1_26910_38870.tif-(Colour_1):   max:   255  min: 0  mean: 104.4941  area: 9000000  std:84.027
+******* NUC area detected
+4_S01_CD8.svs__1_26910_38870.tif-(Colour_3):   max:   255  min: 0  mean: 59.6415  area: 9000000  std:81.2186
+4_S01_CD8.svs__1_26910_41860.tif
+  
+4_S01_CD8.svs__1_26910_41860.tif
+4_S01_CD8.svs__1_26910_41860.tif-(Colour_1):   max:   255  min: 0  mean: 220.126  area: 9000000  std:65.9526
+******* NUC area detected
+4_S01_CD8.svs__1_26910_41860.tif-(Colour_3):   max:   255  min: 0  mean: 197.6403  area: 9000000  std:88.6804
+4_S01_CD8.svs__1_26910_44850.tif
+  
+4_S01_CD8.svs__1_26910_44850.tif
+4_S01_CD8.svs__1_26910_44850.tif-(Colour_1):   max:   255  min: 0  mean: 104.3146  area: 9000000  std:80.9066
+******* NUC area detected
+4_S01_CD8.svs__1_26910_44850.tif-(Colour_3):   max:   255  min: 0  mean: 55.0568  area: 9000000  std:79.9829
+4_S01_CD8.svs__1_26910_89700.tif
+  
+4_S01_CD8.svs__1_26910_89700.tif
+4_S01_CD8.svs__1_26910_89700.tif-(Colour_1):   max:   255  min: 0  mean: 153.3466  area: 9000000  std:92.6884
+******* NUC area detected
+4_S01_CD8.svs__1_26910_89700.tif-(Colour_3):   max:   255  min: 0  mean: 124.1757  area: 9000000  std:109.2891
+4_S01_CD8.svs__1_26910_92690.tif
+  
+4_S01_CD8.svs__1_26910_92690.tif
+4_S01_CD8.svs__1_26910_92690.tif-(Colour_1):   max:   255  min: 0  mean: 224.2596  area: 9000000  std:58.2897
+******* NUC area detected
+4_S01_CD8.svs__1_26910_92690.tif-(Colour_3):   max:   255  min: 0  mean: 203.372  area: 9000000  std:82.359
+4_S01_CD8.svs__1_29900_119600.tif
+  
+4_S01_CD8.svs__1_29900_119600.tif
+4_S01_CD8.svs__1_29900_119600.tif-(Colour_1):   max:   255  min: 0  mean: 112.727  area: 9000000  std:100.6234
+******* NUC area detected
+4_S01_CD8.svs__1_29900_119600.tif-(Colour_3):   max:   255  min: 0  mean: 98.1871  area: 9000000  std:90.443
+4_S01_CD8.svs__1_29900_23920.tif
+  
+4_S01_CD8.svs__1_29900_23920.tif
+4_S01_CD8.svs__1_29900_23920.tif-(Colour_1):   max:   255  min: 0  mean: 71.4611  area: 9000000  std:68.3286
+******* NUC area detected
+4_S01_CD8.svs__1_29900_23920.tif-(Colour_3):   max:   255  min: 0  mean: 31.1503  area: 9000000  std:50.1274
+4_S01_CD8.svs__1_29900_26910.tif
+  
+4_S01_CD8.svs__1_29900_26910.tif
+4_S01_CD8.svs__1_29900_26910.tif-(Colour_1):   max:   255  min: 0  mean: 83.6829  area: 9000000  std:72.3714
+******* NUC area detected
+4_S01_CD8.svs__1_29900_26910.tif-(Colour_3):   max:   255  min: 0  mean: 34.1187  area: 9000000  std:47.5518
+4_S01_CD8.svs__1_29900_2990.tif
+  
+4_S01_CD8.svs__1_29900_2990.tif
+4_S01_CD8.svs__1_29900_2990.tif-(Colour_1):   max:   255  min: 0  mean: 93.5918  area: 9000000  std:88.2716
+******* NUC area detected
+4_S01_CD8.svs__1_29900_2990.tif-(Colour_3):   max:   255  min: 0  mean: 60.9446  area: 9000000  std:75.4267
+4_S01_CD8.svs__1_29900_38870.tif
+  
+4_S01_CD8.svs__1_29900_38870.tif
+4_S01_CD8.svs__1_29900_38870.tif-(Colour_1):   max:   255  min: 0  mean: 180.1716  area: 9000000  std:82.2346
+******* NUC area detected
+4_S01_CD8.svs__1_29900_38870.tif-(Colour_3):   max:   255  min: 0  mean: 119.2839  area: 9000000  std:95.3455
+4_S01_CD8.svs__1_29900_44850.tif
+  
+4_S01_CD8.svs__1_29900_44850.tif
+4_S01_CD8.svs__1_29900_44850.tif-(Colour_1):   max:   255  min: 0  mean: 78.7878  area: 9000000  std:72.7588
+******* NUC area detected
+4_S01_CD8.svs__1_29900_44850.tif-(Colour_3):   max:   255  min: 0  mean: 42.1094  area: 9000000  std:62.7718
+4_S01_CD8.svs__1_29900_89700.tif
+  
+4_S01_CD8.svs__1_29900_89700.tif
+4_S01_CD8.svs__1_29900_89700.tif-(Colour_1):   max:   255  min: 0  mean: 170.1269  area: 9000000  std:88.7547
+******* NUC area detected
+4_S01_CD8.svs__1_29900_89700.tif-(Colour_3):   max:   255  min: 0  mean: 128.1537  area: 9000000  std:102.4267
+4_S01_CD8.svs__1_29900_92690.tif
+  
+4_S01_CD8.svs__1_29900_92690.tif
+4_S01_CD8.svs__1_29900_92690.tif-(Colour_1):   max:   255  min: 0  mean: 183.1835  area: 9000000  std:81.4781
+******* NUC area detected
+4_S01_CD8.svs__1_29900_92690.tif-(Colour_3):   max:   255  min: 0  mean: 150.6579  area: 9000000  std:102.7929
+4_S01_CD8.svs__1_32890_122590.tif
+  
+4_S01_CD8.svs__1_32890_122590.tif
+4_S01_CD8.svs__1_32890_122590.tif-(Colour_1):   max:   255  min: 0  mean: 229.9697  area: 9000000  std:53.2699
+******* NUC area detected
+4_S01_CD8.svs__1_32890_122590.tif-(Colour_3):   max:   255  min: 0  mean: 183.6556  area: 9000000  std:66.9964
+4_S01_CD8.svs__1_32890_23920.tif
+  
+4_S01_CD8.svs__1_32890_23920.tif
+4_S01_CD8.svs__1_32890_23920.tif-(Colour_1):   max:   255  min: 0  mean: 208.7609  area: 9000000  std:73.6328
+******* NUC area detected
+4_S01_CD8.svs__1_32890_23920.tif-(Colour_3):   max:   255  min: 0  mean: 176.3098  area: 9000000  std:96.6753
+4_S01_CD8.svs__1_32890_26910.tif
+  
+4_S01_CD8.svs__1_32890_26910.tif
+4_S01_CD8.svs__1_32890_26910.tif-(Colour_1):   max:   255  min: 0  mean: 234.5072  area: 9000000  std:44.5176
+******* NUC area detected
+4_S01_CD8.svs__1_32890_26910.tif-(Colour_3):   max:   255  min: 0  mean: 216.9103  area: 9000000  std:70.1482
+4_S01_CD8.svs__1_32890_2990.tif
+  
+4_S01_CD8.svs__1_32890_2990.tif
+4_S01_CD8.svs__1_32890_2990.tif-(Colour_1):   max:   255  min: 0  mean: 131.9556  area: 9000000  std:95.2067
+******* NUC area detected
+4_S01_CD8.svs__1_32890_2990.tif-(Colour_3):   max:   255  min: 0  mean: 79.8965  area: 9000000  std:83.2164
+4_S01_CD8.svs__1_32890_29900.tif
+  
+4_S01_CD8.svs__1_32890_29900.tif
+4_S01_CD8.svs__1_32890_29900.tif-(Colour_1):   max:   255  min: 0  mean: 72.4083  area: 9000000  std:67.1603
+******* NUC area detected
+4_S01_CD8.svs__1_32890_29900.tif-(Colour_3):   max:   255  min: 0  mean: 27.511  area: 9000000  std:45.2636
+4_S01_CD8.svs__1_32890_38870.tif
+  
+4_S01_CD8.svs__1_32890_38870.tif
+4_S01_CD8.svs__1_32890_38870.tif-(Colour_1):   max:   255  min: 0  mean: 66.1264  area: 9000000  std:62.9906
+******* NUC area detected
+4_S01_CD8.svs__1_32890_38870.tif-(Colour_3):   max:   255  min: 0  mean: 25.1744  area: 9000000  std:38.2274
+4_S01_CD8.svs__1_32890_41860.tif
+  
+4_S01_CD8.svs__1_32890_41860.tif
+4_S01_CD8.svs__1_32890_41860.tif-(Colour_1):   max:   255  min: 0  mean: 77.3112  area: 9000000  std:66.0244
+******* NUC area detected
+4_S01_CD8.svs__1_32890_41860.tif-(Colour_3):   max:   255  min: 0  mean: 31.2576  area: 9000000  std:47.7263
+4_S01_CD8.svs__1_32890_77740.tif
+  
+4_S01_CD8.svs__1_32890_77740.tif
+4_S01_CD8.svs__1_32890_77740.tif-(Colour_1):   max:   255  min: 0  mean: 174.0147  area: 9000000  std:91.852
+******* NUC area detected
+4_S01_CD8.svs__1_32890_77740.tif-(Colour_3):   max:   255  min: 0  mean: 149.0049  area: 9000000  std:101.0103
+4_S01_CD8.svs__1_32890_80730.tif
+  
+4_S01_CD8.svs__1_32890_80730.tif
+4_S01_CD8.svs__1_32890_80730.tif-(Colour_1):   max:   255  min: 0  mean: 128.7511  area: 9000000  std:88.4064
+******* NUC area detected
+4_S01_CD8.svs__1_32890_80730.tif-(Colour_3):   max:   255  min: 0  mean: 78.5503  area: 9000000  std:95.7858
+4_S01_CD8.svs__1_32890_86710.tif
+  
+4_S01_CD8.svs__1_32890_86710.tif
+4_S01_CD8.svs__1_32890_86710.tif-(Colour_1):   max:   255  min: 0  mean: 125.4137  area: 9000000  std:89.4688
+******* NUC area detected
+4_S01_CD8.svs__1_32890_86710.tif-(Colour_3):   max:   255  min: 0  mean: 80.5553  area: 9000000  std:95.0734
+4_S01_CD8.svs__1_32890_92690.tif
+  
+4_S01_CD8.svs__1_32890_92690.tif
+4_S01_CD8.svs__1_32890_92690.tif-(Colour_1):   max:   255  min: 0  mean: 124.128  area: 9000000  std:84.3584
+******* NUC area detected
+4_S01_CD8.svs__1_32890_92690.tif-(Colour_3):   max:   255  min: 0  mean: 64.2353  area: 9000000  std:85.7256
+4_S01_CD8.svs__1_35880_116610.tif
+  
+4_S01_CD8.svs__1_35880_116610.tif
+4_S01_CD8.svs__1_35880_116610.tif-(Colour_1):   max:   255  min: 0  mean: 106.6531  area: 9000000  std:93.4567
+******* NUC area detected
+4_S01_CD8.svs__1_35880_116610.tif-(Colour_3):   max:   255  min: 0  mean: 73.9948  area: 9000000  std:73.387
+4_S01_CD8.svs__1_35880_119600.tif
+  
+4_S01_CD8.svs__1_35880_119600.tif
+4_S01_CD8.svs__1_35880_119600.tif-(Colour_1):   max:   255  min: 0  mean: 181.139  area: 9000000  std:75.8131
+******* NUC area detected
+4_S01_CD8.svs__1_35880_119600.tif-(Colour_3):   max:   255  min: 0  mean: 121.1253  area: 9000000  std:68.3296
+4_S01_CD8.svs__1_35880_23920.tif
+  
+4_S01_CD8.svs__1_35880_23920.tif
+4_S01_CD8.svs__1_35880_23920.tif-(Colour_1):   max:   255  min: 0  mean: 133.9865  area: 9000000  std:95.413
+******* NUC area detected
+4_S01_CD8.svs__1_35880_23920.tif-(Colour_3):   max:   255  min: 0  mean: 92.2084  area: 9000000  std:95.9022
+4_S01_CD8.svs__1_35880_26910.tif
+  
+4_S01_CD8.svs__1_35880_26910.tif
+4_S01_CD8.svs__1_35880_26910.tif-(Colour_1):   max:   255  min: 0  mean: 176.5439  area: 9000000  std:96.7093
+******* NUC area detected
+4_S01_CD8.svs__1_35880_26910.tif-(Colour_3):   max:   255  min: 0  mean: 156.1169  area: 9000000  std:107.4806
+4_S01_CD8.svs__1_35880_2990.tif
+  
+4_S01_CD8.svs__1_35880_2990.tif
+4_S01_CD8.svs__1_35880_2990.tif-(Colour_1):   max:   255  min: 0  mean: 163.9844  area: 9000000  std:93.1998
+******* NUC area detected
+4_S01_CD8.svs__1_35880_2990.tif-(Colour_3):   max:   255  min: 0  mean: 115.909  area: 9000000  std:101.0756
+4_S01_CD8.svs__1_35880_29900.tif
+  
+4_S01_CD8.svs__1_35880_29900.tif
+4_S01_CD8.svs__1_35880_29900.tif-(Colour_1):   max:   255  min: 0  mean: 62.8162  area: 9000000  std:67.6154
+******* NUC area detected
+4_S01_CD8.svs__1_35880_29900.tif-(Colour_3):   max:   255  min: 0  mean: 32.0795  area: 9000000  std:49.7752
+4_S01_CD8.svs__1_35880_59800.tif
+  
+4_S01_CD8.svs__1_35880_59800.tif
+4_S01_CD8.svs__1_35880_59800.tif-(Colour_1):   max:   255  min: 0  mean: 144.7786  area: 9000000  std:97.3659
+******* NUC area detected
+4_S01_CD8.svs__1_35880_59800.tif-(Colour_3):   max:   255  min: 0  mean: 116.2535  area: 9000000  std:105.8441
+4_S01_CD8.svs__1_35880_62790.tif
+  
+4_S01_CD8.svs__1_35880_62790.tif
+4_S01_CD8.svs__1_35880_62790.tif-(Colour_1):   max:   255  min: 0  mean: 167.7345  area: 9000000  std:93.348
+******* NUC area detected
+4_S01_CD8.svs__1_35880_62790.tif-(Colour_3):   max:   255  min: 0  mean: 147.6044  area: 9000000  std:105.4193
+4_S01_CD8.svs__1_35880_74750.tif
+  
+4_S01_CD8.svs__1_35880_74750.tif
+4_S01_CD8.svs__1_35880_74750.tif-(Colour_1):   max:   255  min: 0  mean: 74.6234  area: 9000000  std:66.3376
+******* NUC area detected
+4_S01_CD8.svs__1_35880_74750.tif-(Colour_3):   max:   255  min: 0  mean: 29.4973  area: 9000000  std:43.6529
+4_S01_CD8.svs__1_35880_80730.tif
+  
+4_S01_CD8.svs__1_35880_80730.tif
+4_S01_CD8.svs__1_35880_80730.tif-(Colour_1):   max:   255  min: 0  mean: 151.8247  area: 9000000  std:93.9884
+******* NUC area detected
+4_S01_CD8.svs__1_35880_80730.tif-(Colour_3):   max:   255  min: 0  mean: 120.4677  area: 9000000  std:106.3923
+4_S01_CD8.svs__1_35880_86710.tif
+  
+4_S01_CD8.svs__1_35880_86710.tif
+4_S01_CD8.svs__1_35880_86710.tif-(Colour_1):   max:   255  min: 0  mean: 113.3789  area: 9000000  std:79.6539
+******* NUC area detected
+4_S01_CD8.svs__1_35880_86710.tif-(Colour_3):   max:   255  min: 0  mean: 55.0743  area: 9000000  std:73.8279
+4_S01_CD8.svs__1_35880_89700.tif
+  
+4_S01_CD8.svs__1_35880_89700.tif
+4_S01_CD8.svs__1_35880_89700.tif-(Colour_1):   max:   255  min: 0  mean: 199.0745  area: 9000000  std:73.168
+******* NUC area detected
+4_S01_CD8.svs__1_35880_89700.tif-(Colour_3):   max:   255  min: 0  mean: 152.4483  area: 9000000  std:99.7124
+4_S01_CD8.svs__1_35880_92690.tif
+  
+4_S01_CD8.svs__1_35880_92690.tif
+4_S01_CD8.svs__1_35880_92690.tif-(Colour_1):   max:   255  min: 0  mean: 104.6456  area: 9000000  std:76.9053
+******* NUC area detected
+4_S01_CD8.svs__1_35880_92690.tif-(Colour_3):   max:   255  min: 0  mean: 36.9929  area: 9000000  std:56.3367
+4_S01_CD8.svs__1_38870_110630.tif
+  
+4_S01_CD8.svs__1_38870_110630.tif
+4_S01_CD8.svs__1_38870_110630.tif-(Colour_1):   max:   255  min: 0  mean: 74.7452  area: 9000000  std:72.5383
+******* NUC area detected
+4_S01_CD8.svs__1_38870_110630.tif-(Colour_3):   max:   255  min: 0  mean: 49.1047  area: 9000000  std:63.0798
+4_S01_CD8.svs__1_38870_113620.tif
+  
+4_S01_CD8.svs__1_38870_113620.tif
+4_S01_CD8.svs__1_38870_113620.tif-(Colour_1):   max:   255  min: 0  mean: 200.1154  area: 9000000  std:69.9455
+******* NUC area detected
+4_S01_CD8.svs__1_38870_113620.tif-(Colour_3):   max:   255  min: 0  mean: 142.4261  area: 9000000  std:78.4013
+4_S01_CD8.svs__1_38870_2990.tif
+  
+4_S01_CD8.svs__1_38870_2990.tif
+4_S01_CD8.svs__1_38870_2990.tif-(Colour_1):   max:   255  min: 0  mean: 177.6527  area: 9000000  std:92.5379
+******* NUC area detected
+4_S01_CD8.svs__1_38870_2990.tif-(Colour_3):   max:   255  min: 0  mean: 151.1679  area: 9000000  std:106.8057
+4_S01_CD8.svs__1_38870_59800.tif
+  
+4_S01_CD8.svs__1_38870_59800.tif
+4_S01_CD8.svs__1_38870_59800.tif-(Colour_1):   max:   255  min: 0  mean: 209.5502  area: 9000000  std:64.3161
+******* NUC area detected
+4_S01_CD8.svs__1_38870_59800.tif-(Colour_3):   max:   255  min: 0  mean: 154.8861  area: 9000000  std:91.0006
+4_S01_CD8.svs__1_38870_62790.tif
+  
+4_S01_CD8.svs__1_38870_62790.tif
+4_S01_CD8.svs__1_38870_62790.tif-(Colour_1):   max:   255  min: 0  mean: 186.8216  area: 9000000  std:80.2645
+******* NUC area detected
+4_S01_CD8.svs__1_38870_62790.tif-(Colour_3):   max:   255  min: 0  mean: 157.8844  area: 9000000  std:97.3686
+4_S01_CD8.svs__1_38870_77740.tif
+  
+4_S01_CD8.svs__1_38870_77740.tif
+4_S01_CD8.svs__1_38870_77740.tif-(Colour_1):   max:   255  min: 0  mean: 74.716  area: 9000000  std:65.5524
+******* NUC area detected
+4_S01_CD8.svs__1_38870_77740.tif-(Colour_3):   max:   255  min: 0  mean: 30.3037  area: 9000000  std:46.7793
+4_S01_CD8.svs__1_41860_107640.tif
+  
+4_S01_CD8.svs__1_41860_107640.tif
+4_S01_CD8.svs__1_41860_107640.tif-(Colour_1):   max:   255  min: 0  mean: 85.6914  area: 9000000  std:78.8365
+******* NUC area detected
+4_S01_CD8.svs__1_41860_107640.tif-(Colour_3):   max:   255  min: 0  mean: 59.959  area: 9000000  std:76.8193
+4_S01_CD8.svs__1_41860_110630.tif
+  
+4_S01_CD8.svs__1_41860_110630.tif
+4_S01_CD8.svs__1_41860_110630.tif-(Colour_1):   max:   255  min: 0  mean: 219.4119  area: 9000000  std:70.0087
+******* NUC area detected
+4_S01_CD8.svs__1_41860_110630.tif-(Colour_3):   max:   255  min: 0  mean: 202.2968  area: 9000000  std:82.5361
+4_S01_CD8.svs__1_41860_2990.tif
+  
+4_S01_CD8.svs__1_41860_2990.tif
+4_S01_CD8.svs__1_41860_2990.tif-(Colour_1):   max:   255  min: 0  mean: 212.9689  area: 9000000  std:76.6585
+******* NUC area detected
+4_S01_CD8.svs__1_41860_2990.tif-(Colour_3):   max:   255  min: 0  mean: 199.361  area: 9000000  std:86.7664
+4_S01_CD8.svs__1_41860_59800.tif
+  
+4_S01_CD8.svs__1_41860_59800.tif
+4_S01_CD8.svs__1_41860_59800.tif-(Colour_1):   max:   255  min: 0  mean: 78.8951  area: 9000000  std:69.0685
+******* NUC area detected
+4_S01_CD8.svs__1_41860_59800.tif-(Colour_3):   max:   255  min: 0  mean: 37.3256  area: 9000000  std:53.6418
+4_S01_CD8.svs__1_41860_62790.tif
+  
+4_S01_CD8.svs__1_41860_62790.tif
+4_S01_CD8.svs__1_41860_62790.tif-(Colour_1):   max:   255  min: 0  mean: 73.6603  area: 9000000  std:64.5561
+******* NUC area detected
+4_S01_CD8.svs__1_41860_62790.tif-(Colour_3):   max:   255  min: 0  mean: 30.7446  area: 9000000  std:46.6343
+4_S01_CD8.svs__1_41860_83720.tif
+  
+4_S01_CD8.svs__1_41860_83720.tif
+4_S01_CD8.svs__1_41860_83720.tif-(Colour_1):   max:   255  min: 0  mean: 83.0257  area: 9000000  std:71.0129
+******* NUC area detected
+4_S01_CD8.svs__1_41860_83720.tif-(Colour_3):   max:   255  min: 0  mean: 33.823  area: 9000000  std:50.6483
+4_S01_CD8.svs__1_41860_86710.tif
+  
+4_S01_CD8.svs__1_41860_86710.tif
+4_S01_CD8.svs__1_41860_86710.tif-(Colour_1):   max:   255  min: 0  mean: 185.6621  area: 9000000  std:85.032
+******* NUC area detected
+4_S01_CD8.svs__1_41860_86710.tif-(Colour_3):   max:   255  min: 0  mean: 131.4752  area: 9000000  std:99.6753
+4_S01_CD8.svs__1_41860_89700.tif
+  
+4_S01_CD8.svs__1_41860_89700.tif
+4_S01_CD8.svs__1_41860_89700.tif-(Colour_1):   max:   255  min: 0  mean: 203.8585  area: 9000000  std:77.2236
+******* NUC area detected
+4_S01_CD8.svs__1_41860_89700.tif-(Colour_3):   max:   255  min: 0  mean: 153.8683  area: 9000000  std:94.7783
+4_S01_CD8.svs__1_41860_92690.tif
+  
+4_S01_CD8.svs__1_41860_92690.tif
+4_S01_CD8.svs__1_41860_92690.tif-(Colour_1):   max:   255  min: 0  mean: 85.8198  area: 9000000  std:74.9048
+******* NUC area detected
+4_S01_CD8.svs__1_41860_92690.tif-(Colour_3):   max:   255  min: 0  mean: 36.0269  area: 9000000  std:51.8836
+4_S01_CD8.svs__1_44850_104650.tif
+  
+4_S01_CD8.svs__1_44850_104650.tif
+4_S01_CD8.svs__1_44850_104650.tif-(Colour_1):   max:   255  min: 0  mean: 89.2043  area: 9000000  std:78.71
+******* NUC area detected
+4_S01_CD8.svs__1_44850_104650.tif-(Colour_3):   max:   255  min: 0  mean: 65.169  area: 9000000  std:79.5825
+4_S01_CD8.svs__1_44850_107640.tif
+  
+4_S01_CD8.svs__1_44850_107640.tif
+4_S01_CD8.svs__1_44850_107640.tif-(Colour_1):   max:   255  min: 0  mean: 213.3108  area: 9000000  std:74.746
+******* NUC area detected
+4_S01_CD8.svs__1_44850_107640.tif-(Colour_3):   max:   255  min: 0  mean: 191.7066  area: 9000000  std:84.8374
+4_S01_CD8.svs__1_44850_26910.tif
+  
+4_S01_CD8.svs__1_44850_26910.tif
+4_S01_CD8.svs__1_44850_26910.tif-(Colour_1):   max:   255  min: 0  mean: 78.4126  area: 9000000  std:72.5688
+******* NUC area detected
+4_S01_CD8.svs__1_44850_26910.tif-(Colour_3):   max:   255  min: 0  mean: 45.4021  area: 9000000  std:67.7976
+4_S01_CD8.svs__1_44850_2990.tif
+  
+4_S01_CD8.svs__1_44850_2990.tif
+4_S01_CD8.svs__1_44850_2990.tif-(Colour_1):   max:   255  min: 0  mean: 191.4238  area: 9000000  std:88.7664
+******* NUC area detected
+4_S01_CD8.svs__1_44850_2990.tif-(Colour_3):   max:   255  min: 0  mean: 171.3748  area: 9000000  std:99.4747
+4_S01_CD8.svs__1_44850_35880.tif
+  
+4_S01_CD8.svs__1_44850_35880.tif
+4_S01_CD8.svs__1_44850_35880.tif-(Colour_1):   max:   255  min: 0  mean: 167.1198  area: 9000000  std:95.7219
+******* NUC area detected
+4_S01_CD8.svs__1_44850_35880.tif-(Colour_3):   max:   255  min: 0  mean: 139.7676  area: 9000000  std:105.9866
+4_S01_CD8.svs__1_44850_38870.tif
+  
+4_S01_CD8.svs__1_44850_38870.tif
+4_S01_CD8.svs__1_44850_38870.tif-(Colour_1):   max:   255  min: 0  mean: 213.1252  area: 9000000  std:63.5751
+******* NUC area detected
+4_S01_CD8.svs__1_44850_38870.tif-(Colour_3):   max:   255  min: 0  mean: 177.1566  area: 9000000  std:93.4482
+4_S01_CD8.svs__1_44850_41860.tif
+  
+4_S01_CD8.svs__1_44850_41860.tif
+4_S01_CD8.svs__1_44850_41860.tif-(Colour_1):   max:   255  min: 0  mean: 111.6872  area: 9000000  std:83.6536
+******* NUC area detected
+4_S01_CD8.svs__1_44850_41860.tif-(Colour_3):   max:   255  min: 0  mean: 66.8108  area: 9000000  std:81.2469
+4_S01_CD8.svs__1_44850_44850.tif
+  
+4_S01_CD8.svs__1_44850_44850.tif
+4_S01_CD8.svs__1_44850_44850.tif-(Colour_1):   max:   255  min: 0  mean: 121.6038  area: 9000000  std:84.0906
+******* NUC area detected
+4_S01_CD8.svs__1_44850_44850.tif-(Colour_3):   max:   255  min: 0  mean: 63.347  area: 9000000  std:75.74
+4_S01_CD8.svs__1_44850_47840.tif
+  
+4_S01_CD8.svs__1_44850_47840.tif
+4_S01_CD8.svs__1_44850_47840.tif-(Colour_1):   max:   255  min: 0  mean: 102.9879  area: 9000000  std:77.3885
+******* NUC area detected
+4_S01_CD8.svs__1_44850_47840.tif-(Colour_3):   max:   255  min: 0  mean: 46.2709  area: 9000000  std:57.8272
+4_S01_CD8.svs__1_44850_59800.tif
+  
+4_S01_CD8.svs__1_44850_59800.tif
+4_S01_CD8.svs__1_44850_59800.tif-(Colour_1):   max:   255  min: 0  mean: 100.9787  area: 9000000  std:81.7876
+******* NUC area detected
+4_S01_CD8.svs__1_44850_59800.tif-(Colour_3):   max:   255  min: 0  mean: 54.8436  area: 9000000  std:67.4481
+4_S01_CD8.svs__1_44850_62790.tif
+  
+4_S01_CD8.svs__1_44850_62790.tif
+4_S01_CD8.svs__1_44850_62790.tif-(Colour_1):   max:   255  min: 0  mean: 109.0345  area: 9000000  std:91.0146
+******* NUC area detected
+4_S01_CD8.svs__1_44850_62790.tif-(Colour_3):   max:   255  min: 0  mean: 74.9179  area: 9000000  std:84.6761
+4_S01_CD8.svs__1_44850_65780.tif
+  
+4_S01_CD8.svs__1_44850_65780.tif
+4_S01_CD8.svs__1_44850_65780.tif-(Colour_1):   max:   255  min: 0  mean: 95.4089  area: 9000000  std:88.3023
+******* NUC area detected
+4_S01_CD8.svs__1_44850_65780.tif-(Colour_3):   max:   255  min: 0  mean: 67.2278  area: 9000000  std:85.15
+4_S01_CD8.svs__1_44850_80730.tif
+  
+4_S01_CD8.svs__1_44850_80730.tif
+4_S01_CD8.svs__1_44850_80730.tif-(Colour_1):   max:   255  min: 0  mean: 138.3828  area: 9000000  std:85.0855
+******* NUC area detected
+4_S01_CD8.svs__1_44850_80730.tif-(Colour_3):   max:   255  min: 0  mean: 78.2724  area: 9000000  std:96.3678
+4_S01_CD8.svs__1_44850_83720.tif
+  
+4_S01_CD8.svs__1_44850_83720.tif
+4_S01_CD8.svs__1_44850_83720.tif-(Colour_1):   max:   255  min: 0  mean: 228.9459  area: 9000000  std:60.6635
+******* NUC area detected
+4_S01_CD8.svs__1_44850_83720.tif-(Colour_3):   max:   255  min: 0  mean: 212.6866  area: 9000000  std:79.2229
+4_S01_CD8.svs__1_44850_92690.tif
+  
+4_S01_CD8.svs__1_44850_92690.tif
+4_S01_CD8.svs__1_44850_92690.tif-(Colour_1):   max:   255  min: 0  mean: 229.109  area: 9000000  std:54.5654
+******* NUC area detected
+4_S01_CD8.svs__1_44850_92690.tif-(Colour_3):   max:   255  min: 0  mean: 192.9403  area: 9000000  std:77.8954
+4_S01_CD8.svs__1_47840_101660.tif
+  
+4_S01_CD8.svs__1_47840_101660.tif
+4_S01_CD8.svs__1_47840_101660.tif-(Colour_1):   max:   255  min: 0  mean: 148.3175  area: 9000000  std:93.4408
+******* NUC area detected
+4_S01_CD8.svs__1_47840_101660.tif-(Colour_3):   max:   255  min: 0  mean: 115.5667  area: 9000000  std:106.4061
+4_S01_CD8.svs__1_47840_104650.tif
+  
+4_S01_CD8.svs__1_47840_104650.tif
+4_S01_CD8.svs__1_47840_104650.tif-(Colour_1):   max:   255  min: 0  mean: 238.1549  area: 9000000  std:44.2329
+******* NUC area detected
+4_S01_CD8.svs__1_47840_104650.tif-(Colour_3):   max:   255  min: 0  mean: 207.5161  area: 9000000  std:63.5318
+4_S01_CD8.svs__1_47840_23920.tif
+  
+4_S01_CD8.svs__1_47840_23920.tif
+4_S01_CD8.svs__1_47840_23920.tif-(Colour_1):   max:   255  min: 0  mean: 175.2756  area: 9000000  std:91.3424
+******* NUC area detected
+4_S01_CD8.svs__1_47840_23920.tif-(Colour_3):   max:   255  min: 0  mean: 154.2557  area: 9000000  std:99.4298
+4_S01_CD8.svs__1_47840_29900.tif
+  
+4_S01_CD8.svs__1_47840_29900.tif
+4_S01_CD8.svs__1_47840_29900.tif-(Colour_1):   max:   255  min: 0  mean: 160.1277  area: 9000000  std:82.6584
+******* NUC area detected
+4_S01_CD8.svs__1_47840_29900.tif-(Colour_3):   max:   255  min: 0  mean: 97.677  area: 9000000  std:72.045
+4_S01_CD8.svs__1_47840_32890.tif
+  
+4_S01_CD8.svs__1_47840_32890.tif
+4_S01_CD8.svs__1_47840_32890.tif-(Colour_1):   max:   255  min: 0  mean: 208.0772  area: 9000000  std:54.9744
+******* NUC area detected
+4_S01_CD8.svs__1_47840_32890.tif-(Colour_3):   max:   255  min: 0  mean: 139.5172  area: 9000000  std:70.2521
+4_S01_CD8.svs__1_47840_50830.tif
+  
+4_S01_CD8.svs__1_47840_50830.tif
+4_S01_CD8.svs__1_47840_50830.tif-(Colour_1):   max:   255  min: 0  mean: 225.8968  area: 9000000  std:57.3037
+******* NUC area detected
+4_S01_CD8.svs__1_47840_50830.tif-(Colour_3):   max:   255  min: 0  mean: 194.8663  area: 9000000  std:89.1018
+4_S01_CD8.svs__1_47840_53820.tif
+  
+4_S01_CD8.svs__1_47840_53820.tif
+4_S01_CD8.svs__1_47840_53820.tif-(Colour_1):   max:   255  min: 0  mean: 215.2288  area: 9000000  std:69.7707
+******* NUC area detected
+4_S01_CD8.svs__1_47840_53820.tif-(Colour_3):   max:   255  min: 0  mean: 181.6367  area: 9000000  std:97.6147
+4_S01_CD8.svs__1_47840_5980.tif
+  
+4_S01_CD8.svs__1_47840_5980.tif
+4_S01_CD8.svs__1_47840_5980.tif-(Colour_1):   max:   255  min: 0  mean: 105.3758  area: 9000000  std:83.8992
+******* NUC area detected
+4_S01_CD8.svs__1_47840_5980.tif-(Colour_3):   max:   255  min: 0  mean: 67.1952  area: 9000000  std:64.8224
+4_S01_CD8.svs__1_47840_65780.tif
+  
+4_S01_CD8.svs__1_47840_65780.tif
+4_S01_CD8.svs__1_47840_65780.tif-(Colour_1):   max:   255  min: 0  mean: 228.9328  area: 9000000  std:58.3884
+******* NUC area detected
+4_S01_CD8.svs__1_47840_65780.tif-(Colour_3):   max:   255  min: 0  mean: 201.8629  area: 9000000  std:79.4407
+4_S01_CD8.svs__1_47840_68770.tif
+  
+4_S01_CD8.svs__1_47840_68770.tif
+4_S01_CD8.svs__1_47840_68770.tif-(Colour_1):   max:   255  min: 0  mean: 74.7259  area: 9000000  std:63.4811
+******* NUC area detected
+4_S01_CD8.svs__1_47840_68770.tif-(Colour_3):   max:   255  min: 0  mean: 36.4524  area: 9000000  std:57.5615
+4_S01_CD8.svs__1_47840_77740.tif
+  
+4_S01_CD8.svs__1_47840_77740.tif
+4_S01_CD8.svs__1_47840_77740.tif-(Colour_1):   max:   255  min: 0  mean: 101.8831  area: 9000000  std:85.3135
+******* NUC area detected
+4_S01_CD8.svs__1_47840_77740.tif-(Colour_3):   max:   255  min: 0  mean: 66.2123  area: 9000000  std:83.214
+4_S01_CD8.svs__1_47840_80730.tif
+  
+4_S01_CD8.svs__1_47840_80730.tif
+4_S01_CD8.svs__1_47840_80730.tif-(Colour_1):   max:   255  min: 0  mean: 243.4465  area: 9000000  std:39.3659
+******* NUC area detected
+4_S01_CD8.svs__1_47840_80730.tif-(Colour_3):   max:   255  min: 0  mean: 234.4041  area: 9000000  std:54.4094
+4_S01_CD8.svs__1_47840_95680.tif
+  
+4_S01_CD8.svs__1_47840_95680.tif
+4_S01_CD8.svs__1_47840_95680.tif-(Colour_1):   max:   255  min: 0  mean: 107.2025  area: 9000000  std:74.9814
+******* NUC area detected
+4_S01_CD8.svs__1_47840_95680.tif-(Colour_3):   max:   255  min: 0  mean: 46.8031  area: 9000000  std:67.5682
+4_S01_CD8.svs__1_50830_17940.tif
+  
+4_S01_CD8.svs__1_50830_17940.tif
+4_S01_CD8.svs__1_50830_17940.tif-(Colour_1):   max:   255  min: 0  mean: 79.0279  area: 9000000  std:78.9924
+******* NUC area detected
+4_S01_CD8.svs__1_50830_17940.tif-(Colour_3):   max:   255  min: 0  mean: 48.3794  area: 9000000  std:57.0682
+4_S01_CD8.svs__1_50830_20930.tif
+  
+4_S01_CD8.svs__1_50830_20930.tif
+4_S01_CD8.svs__1_50830_20930.tif-(Colour_1):   max:   255  min: 0  mean: 180.6279  area: 9000000  std:88.5101
+******* NUC area detected
+4_S01_CD8.svs__1_50830_20930.tif-(Colour_3):   max:   255  min: 0  mean: 127.0957  area: 9000000  std:84.1233
+4_S01_CD8.svs__1_50830_5980.tif
+  
+4_S01_CD8.svs__1_50830_5980.tif
+4_S01_CD8.svs__1_50830_5980.tif-(Colour_1):   max:   255  min: 0  mean: 215.7649  area: 9000000  std:71.8501
+******* NUC area detected
+4_S01_CD8.svs__1_50830_5980.tif-(Colour_3):   max:   255  min: 0  mean: 195.0382  area: 9000000  std:84.1996
+4_S01_CD8.svs__1_50830_68770.tif
+  
+4_S01_CD8.svs__1_50830_68770.tif
+4_S01_CD8.svs__1_50830_68770.tif-(Colour_1):   max:   255  min: 0  mean: 142.238  area: 9000000  std:74.6341
+******* NUC area detected
+4_S01_CD8.svs__1_50830_68770.tif-(Colour_3):   max:   255  min: 0  mean: 89.9325  area: 9000000  std:64.9653
+4_S01_CD8.svs__1_50830_71760.tif
+  
+4_S01_CD8.svs__1_50830_71760.tif
+4_S01_CD8.svs__1_50830_71760.tif-(Colour_1):   max:   255  min: 0  mean: 113.4331  area: 9000000  std:85.737
+******* NUC area detected
+4_S01_CD8.svs__1_50830_71760.tif-(Colour_3):   max:   255  min: 0  mean: 83.3596  area: 9000000  std:81.3851
+4_S01_CD8.svs__1_50830_74750.tif
+  
+4_S01_CD8.svs__1_50830_74750.tif
+4_S01_CD8.svs__1_50830_74750.tif-(Colour_1):   max:   255  min: 0  mean: 101.2233  area: 9000000  std:71.8721
+******* NUC area detected
+4_S01_CD8.svs__1_50830_74750.tif-(Colour_3):   max:   255  min: 0  mean: 54.8346  area: 9000000  std:66.1636
+4_S01_CD8.svs__1_50830_77740.tif
+  
+4_S01_CD8.svs__1_50830_77740.tif
+4_S01_CD8.svs__1_50830_77740.tif-(Colour_1):   max:   255  min: 0  mean: 169.3326  area: 9000000  std:78.5324
+******* NUC area detected
+4_S01_CD8.svs__1_50830_77740.tif-(Colour_3):   max:   255  min: 0  mean: 124.2066  area: 9000000  std:91.1841
+4_S01_CD8.svs__1_50830_80730.tif
+  
+4_S01_CD8.svs__1_50830_80730.tif
+4_S01_CD8.svs__1_50830_80730.tif-(Colour_1):   max:   255  min: 0  mean: 251.5544  area: 9000000  std:12.2196
+******* NUC area detected
+4_S01_CD8.svs__1_50830_80730.tif-(Colour_3):   max:   255  min: 0  mean: 239.8737  area: 9000000  std:37.0112
+4_S01_CD8.svs__1_50830_8970.tif
+  
+4_S01_CD8.svs__1_50830_8970.tif
+4_S01_CD8.svs__1_50830_8970.tif-(Colour_1):   max:   255  min: 0  mean: 78.3696  area: 9000000  std:72.1965
+******* NUC area detected
+4_S01_CD8.svs__1_50830_8970.tif-(Colour_3):   max:   255  min: 0  mean: 51.399  area: 9000000  std:54.0383
+4_S01_CD8.svs__1_50830_95680.tif
+  
+4_S01_CD8.svs__1_50830_95680.tif
+4_S01_CD8.svs__1_50830_95680.tif-(Colour_1):   max:   255  min: 0  mean: 210.5825  area: 9000000  std:73.8546
+******* NUC area detected
+4_S01_CD8.svs__1_50830_95680.tif-(Colour_3):   max:   255  min: 0  mean: 176.7631  area: 9000000  std:94.6336
+4_S01_CD8.svs__1_50830_98670.tif
+  
+4_S01_CD8.svs__1_50830_98670.tif
+4_S01_CD8.svs__1_50830_98670.tif-(Colour_1):   max:   255  min: 0  mean: 193.6764  area: 9000000  std:72.747
+******* NUC area detected
+4_S01_CD8.svs__1_50830_98670.tif-(Colour_3):   max:   255  min: 0  mean: 135.52  area: 9000000  std:94.7562
+4_S01_CD8.svs__1_53820_101660.tif
+  
+4_S01_CD8.svs__1_53820_101660.tif
+4_S01_CD8.svs__1_53820_101660.tif-(Colour_1):   max:   255  min: 0  mean: 122.7925  area: 9000000  std:98.2629
+******* NUC area detected
+4_S01_CD8.svs__1_53820_101660.tif-(Colour_3):   max:   255  min: 0  mean: 112.6914  area: 9000000  std:83.7558
+4_S01_CD8.svs__1_53820_11960.tif
+  
+4_S01_CD8.svs__1_53820_11960.tif
+4_S01_CD8.svs__1_53820_11960.tif-(Colour_1):   max:   255  min: 0  mean: 208.4887  area: 9000000  std:68.855
+******* NUC area detected
+4_S01_CD8.svs__1_53820_11960.tif-(Colour_3):   max:   255  min: 0  mean: 158.3424  area: 9000000  std:83.5034
+4_S01_CD8.svs__1_53820_14950.tif
+  
+4_S01_CD8.svs__1_53820_14950.tif
+4_S01_CD8.svs__1_53820_14950.tif-(Colour_1):   max:   255  min: 0  mean: 216.4295  area: 9000000  std:64.592
+******* NUC area detected
+4_S01_CD8.svs__1_53820_14950.tif-(Colour_3):   max:   255  min: 0  mean: 182.7688  area: 9000000  std:78.1983
+4_S01_CD8.svs__1_5980_11960.tif
+  
+4_S01_CD8.svs__1_5980_11960.tif
+4_S01_CD8.svs__1_5980_11960.tif-(Colour_1):   max:   255  min: 0  mean: 187.7681  area: 9000000  std:84.0702
+******* NUC area detected
+4_S01_CD8.svs__1_5980_11960.tif-(Colour_3):   max:   255  min: 0  mean: 101.0714  area: 9000000  std:85.8075
+4_S01_CD8.svs__1_5980_14950.tif
+  
+4_S01_CD8.svs__1_5980_14950.tif
+4_S01_CD8.svs__1_5980_14950.tif-(Colour_1):   max:   255  min: 0  mean: 175.582  area: 9000000  std:89.2821
+******* NUC area detected
+4_S01_CD8.svs__1_5980_14950.tif-(Colour_3):   max:   255  min: 0  mean: 106.6515  area: 9000000  std:94.2033
+4_S01_CD8.svs__1_5980_17940.tif
+  
+4_S01_CD8.svs__1_5980_17940.tif
+4_S01_CD8.svs__1_5980_17940.tif-(Colour_1):   max:   255  min: 0  mean: 213.2219  area: 9000000  std:72.9343
+******* NUC area detected
+4_S01_CD8.svs__1_5980_17940.tif-(Colour_3):   max:   255  min: 0  mean: 155.1106  area: 9000000  std:96.9132
+4_S01_CD8.svs__1_5980_20930.tif
+  
+4_S01_CD8.svs__1_5980_20930.tif
+4_S01_CD8.svs__1_5980_20930.tif-(Colour_1):   max:   255  min: 0  mean: 235.9664  area: 9000000  std:46.7332
+******* NUC area detected
+4_S01_CD8.svs__1_5980_20930.tif-(Colour_3):   max:   255  min: 0  mean: 207.4388  area: 9000000  std:76.1865
+4_S01_CD8.svs__1_5980_23920.tif
+  
+4_S01_CD8.svs__1_5980_23920.tif
+4_S01_CD8.svs__1_5980_23920.tif-(Colour_1):   max:   255  min: 0  mean: 208.4738  area: 9000000  std:76.8398
+******* NUC area detected
+4_S01_CD8.svs__1_5980_23920.tif-(Colour_3):   max:   255  min: 0  mean: 174.6918  area: 9000000  std:102.0699
+4_S01_CD8.svs__1_5980_26910.tif
+  
+4_S01_CD8.svs__1_5980_26910.tif
+4_S01_CD8.svs__1_5980_26910.tif-(Colour_1):   max:   255  min: 0  mean: 242.8464  area: 9000000  std:38.1426
+******* NUC area detected
+4_S01_CD8.svs__1_5980_26910.tif-(Colour_3):   max:   255  min: 0  mean: 226.6552  area: 9000000  std:64.4008
+4_S01_CD8.svs__1_5980_2990.tif
+  
+4_S01_CD8.svs__1_5980_2990.tif
+4_S01_CD8.svs__1_5980_2990.tif-(Colour_1):   max:   255  min: 0  mean: 82.8855  area: 9000000  std:63.408
+******* NUC area detected
+4_S01_CD8.svs__1_5980_2990.tif-(Colour_3):   max:   255  min: 0  mean: 23.6414  area: 9000000  std:35.876
+4_S01_CD8.svs__1_5980_5980.tif
+  
+4_S01_CD8.svs__1_5980_5980.tif
+4_S01_CD8.svs__1_5980_5980.tif-(Colour_1):   max:   255  min: 0  mean: 103.0914  area: 9000000  std:77.2559
+******* NUC area detected
+4_S01_CD8.svs__1_5980_5980.tif-(Colour_3):   max:   255  min: 0  mean: 31.2743  area: 9000000  std:44.1425
+4_S01_CD8.svs__1_5980_8970.tif
+  
+4_S01_CD8.svs__1_5980_8970.tif
+4_S01_CD8.svs__1_5980_8970.tif-(Colour_1):   max:   255  min: 0  mean: 145.7196  area: 9000000  std:85.7848
+******* NUC area detected
+4_S01_CD8.svs__1_5980_8970.tif-(Colour_3):   max:   255  min: 0  mean: 51.5563  area: 9000000  std:60.8197
+4_S01_CD8.svs__1_8970_26910.tif
+  
+4_S01_CD8.svs__1_8970_26910.tif
+4_S01_CD8.svs__1_8970_26910.tif-(Colour_1):   max:   255  min: 0  mean: 87.9024  area: 9000000  std:76.403
+******* NUC area detected
+4_S01_CD8.svs__1_8970_26910.tif-(Colour_3):   max:   255  min: 0  mean: 36.7458  area: 9000000  std:54.2478
+4_S01_CD8.svs__1_8970_2990.tif
+  
+4_S01_CD8.svs__1_8970_2990.tif
+4_S01_CD8.svs__1_8970_2990.tif-(Colour_1):   max:   255  min: 0  mean: 84.389  area: 9000000  std:67.1691
+******* NUC area detected
+4_S01_CD8.svs__1_8970_2990.tif-(Colour_3):   max:   255  min: 0  mean: 29.4871  area: 9000000  std:47.385
+4_S01_CD8.svs__1_8970_29900.tif
+  
+4_S01_CD8.svs__1_8970_29900.tif
+4_S01_CD8.svs__1_8970_29900.tif-(Colour_1):   max:   255  min: 0  mean: 194.9995  area: 9000000  std:85.4347
+******* NUC area detected
+4_S01_CD8.svs__1_8970_29900.tif-(Colour_3):   max:   255  min: 0  mean: 159.612  area: 9000000  std:105.1535
+4_S01_CD8.svs__1_8970_35880.tif
+  
+4_S01_CD8.svs__1_8970_35880.tif
+4_S01_CD8.svs__1_8970_35880.tif-(Colour_1):   max:   255  min: 0  mean: 237.1683  area: 9000000  std:49.7488
+******* NUC area detected
+4_S01_CD8.svs__1_8970_35880.tif-(Colour_3):   max:   255  min: 0  mean: 225.2358  area: 9000000  std:65.8173
+4_S01_CD8.svs__1_8970_38870.tif
+  
+4_S01_CD8.svs__1_8970_38870.tif
+4_S01_CD8.svs__1_8970_38870.tif-(Colour_1):   max:   255  min: 0  mean: 130.1003  area: 9000000  std:96.6821
+******* NUC area detected
+4_S01_CD8.svs__1_8970_38870.tif-(Colour_3):   max:   255  min: 0  mean: 97.5187  area: 9000000  std:103.6777
+4_S01_CD8.svs__1_8970_41860.tif
+  
+4_S01_CD8.svs__1_8970_41860.tif
+4_S01_CD8.svs__1_8970_41860.tif-(Colour_1):   max:   255  min: 0  mean: 92.5849  area: 9000000  std:79.0462
+******* NUC area detected
+4_S01_CD8.svs__1_8970_41860.tif-(Colour_3):   max:   255  min: 0  mean: 41.9392  area: 9000000  std:57.6265
+4_S01_CD8.svs__1_8970_44850.tif
+  
+4_S01_CD8.svs__1_8970_44850.tif
+4_S01_CD8.svs__1_8970_44850.tif-(Colour_1):   max:   255  min: 0  mean: 203.2542  area: 9000000  std:82.3615
+******* NUC area detected
+4_S01_CD8.svs__1_8970_44850.tif-(Colour_3):   max:   255  min: 0  mean: 180.0174  area: 9000000  std:98.2507
+4_S01_CD8.svs__1_8970_47840.tif
+  
+4_S01_CD8.svs__1_8970_47840.tif
+4_S01_CD8.svs__1_8970_47840.tif-(Colour_1):   max:   255  min: 0  mean: 231.5312  area: 9000000  std:49.8205
+******* NUC area detected
+4_S01_CD8.svs__1_8970_47840.tif-(Colour_3):   max:   255  min: 0  mean: 195.6385  area: 9000000  std:82.3304
+4_S01_CD8.svs__1_8970_50830.tif
+  
+4_S01_CD8.svs__1_8970_50830.tif
+4_S01_CD8.svs__1_8970_50830.tif-(Colour_1):   max:   255  min: 0  mean: 231.7245  area: 9000000  std:56.4743
+******* NUC area detected
+4_S01_CD8.svs__1_8970_50830.tif-(Colour_3):   max:   255  min: 0  mean: 218.7247  area: 9000000  std:72.557
+Completed
+Completed
